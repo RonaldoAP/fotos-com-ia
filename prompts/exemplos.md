@@ -109,6 +109,7 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 - C16 — Selfie no barco / mar (close)
 - C17 — Mirante de praia / trilha (biquíni)
 - C18 — Ipanema / dia (camiseta Brasil + short jeans)
+- C19 — Praia / deitada na canga (close)
 
 **🦈 Aquário**
 - C3 — Aquário / luz azul (close)
@@ -753,6 +754,38 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > imperfections, a faint heat sheen, no smoothing or AI glow; subtle phone-photo grain and noise;
 > hands with natural finger proportions, correct anatomy. Real smartphone photograph, not studio, not
 > a 3D render, not an illustration.
+
+## C19 — Praia / deitada na canga (close)
+
+**PT**
+> Foto vertical casual de celular da Vic deitada de bruços sobre uma canga/toalha de praia estampada
+> (azul e branca, padrão arabesco) na areia, num dia ensolarado. Ela apoia o rosto de leve na mão,
+> cotovelo na canga, com um meio sorriso tranquilo, olhando para a câmera bem de perto. Ao fundo, a
+> faixa de areia com guarda-sóis coloridos (azul, laranja, verde), pessoas em cadeiras de praia,
+> prédios da orla à esquerda e o mar à direita. Luz dura de sol forte de dia, sombras marcadas. Usa
+> um biquíni preto de top triângulo. Cabelo solto, comprido, molhado e levemente bagunçado, alguns
+> fios no rosto. Sem tatuagens, sem piercings e sem nenhuma joia. Leve distorção de lente frontal,
+> enquadramento de rosto e ombros, leve grão de câmera de celular. _Booster:_ mantenha exatamente os
+> traços do rosto da Vic, sem embelezar nem padronizar; a luz forte do sol incide de forma realista
+> sobre a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros,
+> sardas e pequenas imperfeições, leve brilho de sol e suor na pele, sem suavização nem brilho de IA;
+> grão e ruído sutis de foto de celular; mãos com dedos de proporção natural, anatomia correta.
+> Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic lying on her stomach on a patterned beach towel (blue and
+> white arabesque pattern) on the sand, on a sunny day. She rests her face lightly on her hand, elbow
+> on the towel, with a calm half smile, looking at the camera up close. In the background, the stretch
+> of sand with colorful umbrellas (blue, orange, green), people on beach chairs, beachfront buildings
+> on the left and the sea on the right. Harsh strong daylight, hard shadows. She wears a black
+> triangle-top bikini. Long hair worn down, wet and slightly messy, a few strands on her face. No
+> tattoos, no piercings, no jewelry. Slight front-lens distortion, head-and-shoulders framing, subtle
+> phone-camera grain. _Booster:_ keep the exact facial features of Vic, no beautifying or
+> standardizing; the strong sunlight falls realistically on the skin with shadowed areas, no separate
+> flattering light; real skin texture with pores, freckles and small imperfections, a faint
+> sun-and-sweat sheen, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
+> finger proportions, correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an
+> illustration.
 
 ---
 
