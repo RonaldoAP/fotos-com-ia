@@ -115,6 +115,34 @@ grãozinho de celular."_
 > Pele real com sardas e textura, sem filtro nem cara de IA. Sem joia, tatuagem ou piercing. Foto
 > meio torta, com grãozinho de celular."_
 
+## Presets de ambiente/luz (reaproveitáveis)
+
+"Receitas" de **ambiente + luz + coloração**, separadas da pose e da roupa. Cole o preset e
+troque só `[POSE]` e `[ROUPA]`. Servem pra manter um clima/estética em vários posts.
+
+### Preset — Varanda ao anoitecer / skyline (hora azul)
+
+- **Ambiente:** varanda de apê alto, corrimão de metal, cidade em silhueta com janelas acesas.
+- **Luz:** hora azul (logo após o pôr do sol); céu azul profundo em cima, laranja no horizonte;
+  ambiente escuro, rosto na luz ambiente + brilho quente da cidade; foto levemente subexposta.
+- **Coloração:** moody e meio saturada (filtro de filme/VSCO): azul-petróleo + laranja quente,
+  sombras fechadas/"esmagadas", realces quentes; amarelo/laranja da roupa estoura.
+- **Câmera:** celular vertical, ângulo meio torto (dutch), grão de pouca luz, cabelo ao vento.
+
+> **Cole e troque [POSE]/[ROUPA] (PT):** Foto de celular da Vic [POSE] numa varanda de apartamento
+> alto ao anoitecer (hora azul), com a cidade em silhueta e janelas acesas lá embaixo, corrimão de
+> metal do lado. Céu em degradê do azul profundo pro laranja no horizonte, ambiente escuro, foto
+> levemente subexposta; clima moody meio saturado tipo filtro de filme (azul-petróleo + laranja
+> quente), sombras fechadas. [ROUPA]. Cabelo solto meio ao vento. Pele real com sardas e textura,
+> sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Ângulo meio torto, grão de pouca luz.
+
+> **(EN):** A phone photo of Vic [POSE] on a high apartment balcony at dusk (blue hour), with the
+> city in silhouette and lit windows below, a metal railing to the side. Sky gradient from deep blue
+> to orange at the horizon, dark setting, slightly underexposed; moody, fairly saturated film-filter
+> look (teal + warm orange), crushed shadows. [OUTFIT]. Hair down, a bit windblown. Real skin with
+> freckles and texture, no retouching or AI look. No jewelry, tattoos or piercings. Slightly tilted
+> angle, low-light grain.
+
 ## Como usar mãos com segurança
 
 Sempre que o template mostrar mãos, prefira uma destas: **no bolso**, **segurando um
