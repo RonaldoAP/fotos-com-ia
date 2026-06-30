@@ -449,6 +449,40 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > (one holding the phone). Real smartphone photograph, not studio, not a 3D render, not an
 > illustration.
 
+## C11 — Academia / mirror selfie (romper preto "GROWTH")
+
+**PT**
+> Selfie de espelho vertical da Vic numa academia, segurando o celular na altura do rosto apontado
+> para o espelho, olhando para o espelho com um meio sorriso. Ela está em pé ao lado de um rack de
+> agachamento com anilhas pretas empilhadas à direita; ao fundo refletido, o salão da academia com
+> equipamentos, parede de tijolinho e algumas pessoas pequenas e desfocadas treinando. Iluminação
+> interna de academia, luz mista e levemente quente com contraste. Postura relaxada, uma das mãos
+> apoiada de leve na coxa. Usa um macacão fitness curto sem mangas preto, com vivos e alças brancas
+> e uma pequena escrita "GROWTH" no peito; fones de ouvido sem fio brancos. Cabelo preso em um rabo
+> de cavalo alto, comprido e liso, com alguns fios soltos no rosto. Sem tatuagens, sem piercings e
+> sem nenhuma joia. Enquadramento de corpo quase inteiro no espelho, leve grão de câmera de celular.
+> _Booster:_ mantenha exatamente os traços do rosto e o biotipo atlético-curvilíneo da Vic, sem
+> embelezar nem padronizar; a luz da academia incide de forma realista sobre a pele, com áreas em
+> sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas imperfeições, sem
+> suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção
+> natural, anatomia correta (uma segurando o celular). Fotografia real de celular, não estúdio, não
+> render 3D, não ilustração.
+
+**EN**
+> Vertical mirror selfie of Vic in a gym, holding the phone at face height pointed at the mirror,
+> looking at the mirror with a half smile. She stands beside a squat rack with stacked black weight
+> plates on the right; reflected in the background, the gym floor with equipment, a brick wall and a
+> few small blurred people training. Indoor gym lighting, mixed slightly warm light with contrast.
+> Relaxed posture, one hand resting lightly on her thigh. She wears a short sleeveless black fitness
+> romper with white trim and straps and small "GROWTH" lettering on the chest; white wireless
+> earbuds. Hair tied in a high ponytail, long and straight, with a few loose strands on her face. No
+> tattoos, no piercings, no jewelry. Near full-body framing in the mirror, subtle phone-camera grain.
+> _Booster:_ keep the exact facial features and the athletic-curvy build of Vic, no beautifying or
+> standardizing; the gym light falls realistically on the skin with shadowed areas, no separate
+> flattering light; real skin texture with pores and small imperfections, no smoothing or AI glow;
+> subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy (one
+> holding the phone). Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
