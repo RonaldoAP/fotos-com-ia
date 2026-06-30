@@ -58,6 +58,7 @@ personagem/
   00-consistencia.md        3 pilares da consistência + exclusões fixas
   ficha-canonica.md         Ficha de identidade (template)
   mini-ficha.md             Bloco curto de identidade p/ colar junto das imagens
+  kit-referencia-prompts.md Prompts 3:4 estilo RG (turnaround 360) p/ gerar o kit de identidade
 ```
 
 ## Fluxo de trabalho sugerido
