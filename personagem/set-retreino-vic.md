@@ -80,6 +80,12 @@ clareza das feições).
 > (sports bra and leggings/shorts). No tattoos, no piercings, no jewelry. Real skin texture, no
 > smoothing or AI glow. Realistic photo, not a 3D render, not an illustration. [ANGLE]
 
+> ⚠️ **Corpo curvilíneo precisa de referência de forma.** Texto sozinho tende a gerar corpo
+> "médio". Para o biotipo curvilíneo (glúteo cheio), anexe também uma **imagem de referência de
+> corpo curvilíneo** (ex: a foto de corpo curvy do lote 1) como guia de forma, junto da âncora de
+> rosto. Alternativa: steerar o corpo só na hora da cena (mini-ficha + referência de corpo), sem
+> assar no treino.
+
 ### Body angles (EN)
 - **S6 — Body front:** Full-body front view, head to feet, upright posture, relaxed arms.
 - **S7 — Body 3/4 back:** Full-body turned ~3/4 to the back, standing, straight pose (shows hips/glutes).
