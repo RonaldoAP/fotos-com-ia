@@ -83,6 +83,10 @@ realismo), sem traços de identidade. A semelhança da pessoa vem da foto-refer�
 na ferramenta. Escritos no formato **à prova de filtro** (cena de praia comum, sem
 sexualização — ver `guia/04-roupas-e-filtros.md`).
 
+> **Regra fixa da personagem (em TODO prompt):** a pessoa **não tem tatuagens, não tem
+> piercings e não usa nenhuma joia ou bijuteria** (sem brincos, colares, anéis ou pulseiras).
+> EN: _no tattoos, no piercings, and no jewelry of any kind (no earrings, necklaces, rings or bracelets)._
+
 ## C1 — Praia de Ipanema / fim de tarde
 
 **PT**
@@ -94,8 +98,9 @@ sexualização — ver `guia/04-roupas-e-filtros.md`).
 > de coco verde gelada com um canudo azul em uma das mãos e a outra mão apoiada na cintura do
 > short, expressão tranquila e natural. Usa uma camiseta cropped verde da seleção do Brasil com
 > a escrita "BRASIL RIO DE JANEIRO" e detalhes amarelos, e um short curto amarelo com cordão
-> branco; unhas pintadas de vermelho, brincos pequenos dourados. Cabelo loiro comprido e liso,
-> um pouco solto pelo vento. Areia com pegadas e textura real ao redor. Pele com textura
+> branco; unhas pintadas de vermelho. Cabelo loiro comprido e liso, um pouco solto pelo vento.
+> Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Areia com pegadas e textura
+> real ao redor. Pele com textura
 > natural, poros visíveis, leve brilho de fim de tarde, sem suavização nem retoque, acabamento
 > fosco. Enquadramento de corpo quase inteiro, levemente descentralizado, leve grão de câmera
 > de celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio,
@@ -110,8 +115,9 @@ sexualização — ver `guia/04-roupas-e-filtros.md`).
 > with a blue straw in one hand and resting the other hand on the waistband of her shorts, calm
 > natural expression. She wears a green cropped Brazil national-team t-shirt reading "BRASIL RIO
 > DE JANEIRO" with yellow trim, and short yellow shorts with a white drawstring; red nail
-> polish, small gold earrings. Long straight blonde hair, slightly loose in the wind. Sand with
-> footprints and real texture around her. Skin with natural texture, visible pores, faint dusk
+> polish. Long straight blonde hair, slightly loose in the wind. No tattoos, no piercings, and
+> no jewelry of any kind. Sand with footprints and real texture around her. Skin with natural
+> texture, visible pores, faint dusk
 > sheen, no smoothing or retouching, matte finish. Near full-body framing, slightly off-center,
 > subtle phone-camera grain. Anatomically correct hands, five fingers. Real smartphone
 > photograph, not studio, not a 3D render, not an illustration.
@@ -128,7 +134,8 @@ sexualização — ver `guia/04-roupas-e-filtros.md`).
 > perto do rosto e a outra segurando uma água de coco verde gelada com um canudo vermelho. Usa
 > uma camiseta cropped amarela da seleção do Brasil com a escrita "BRASIL RIO DE JANEIRO" e
 > listras verdes, e uma parte de baixo de roupa de banho discreta. Cabelo loiro acobreado,
-> comprido e levemente ondulado, solto sobre o ombro. Pele bronzeada com textura natural, poros
+> comprido e levemente ondulado, solto sobre o ombro. Sem tatuagens, sem piercings e sem nenhuma
+> joia ou bijuteria. Pele bronzeada com textura natural, poros
 > visíveis, leve brilho de suor pelo calor, sem suavização nem retoque, acabamento fosco.
 > Enquadramento de meio corpo, levemente de cima, descontraído, leve grão de câmera de celular.
 > Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não render
@@ -143,10 +150,43 @@ sexualização — ver `guia/04-roupas-e-filtros.md`).
 > relaxed way, one hand resting lightly near her face and the other holding a cold green coconut
 > with a red straw. She wears a yellow cropped Brazil national-team t-shirt reading "BRASIL RIO
 > DE JANEIRO" with green stripes, and a modest swimwear bottom. Coppery-blonde long, slightly
-> wavy hair loose over one shoulder. Tanned skin with natural texture, visible pores, a faint
+> wavy hair loose over one shoulder. No tattoos, no piercings, and no jewelry of any kind.
+> Tanned skin with natural texture, visible pores, a faint
 > sweat sheen from the heat, no smoothing or retouching, matte finish. Half-body framing,
 > slightly from above, relaxed, subtle phone-camera grain. Anatomically correct hands, five
 > fingers. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
+## C3 — Aquário / luz azul
+
+**PT**
+> Foto vertical casual de celular de uma jovem mulher em pé na frente de um grande tanque de
+> aquário, num oceanário/aquário fechado. Atrás do vidro, água azul-esverdeada com um tubarão
+> grande nadando à esquerda e vários peixes prateados espalhados, pedras no fundo do tanque e
+> alguns pontos de luz refletindo no vidro. Toda a cena é banhada por uma luz azul fria e
+> difusa vinda do tanque, ambiente escuro ao redor. Ela está levemente de lado, com uma das
+> mãos apoiada num corrimão preto à sua frente e a outra mexendo no próprio cabelo, olhando
+> para o lado com expressão tranquila e contemplativa. Usa um top cropped branco de alças finas
+> e uma saia azul-royal curta com babados em camadas e cordão na cintura. Cabelo loiro comprido
+> e liso caindo sobre um dos ombros. Sem tatuagens, sem piercings e sem nenhuma joia ou
+> bijuteria. Pele com textura natural, poros visíveis, leve reflexo azulado da luz do aquário,
+> sem suavização nem retoque, acabamento fosco. Enquadramento de corpo quase inteiro, levemente
+> descentralizado, leve grão de câmera de celular em ambiente de pouca luz. Mãos com anatomia
+> correta, cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of a young woman standing in front of a large aquarium tank,
+> inside an indoor aquarium/oceanarium. Behind the glass, blue-green water with a large shark
+> swimming on the left and many silvery fish scattered around, rocks at the bottom of the tank
+> and a few light spots reflecting on the glass. The whole scene is bathed in cool, diffuse blue
+> light coming from the tank, with a dark surrounding environment. She stands slightly turned to
+> the side, one hand resting on a black railing in front of her and the other running through
+> her own hair, looking to the side with a calm, contemplative expression. She wears a white
+> spaghetti-strap crop top and a short royal-blue tiered ruffle skirt with a drawstring waist.
+> Long straight blonde hair falling over one shoulder. No tattoos, no piercings, and no jewelry
+> of any kind. Skin with natural texture, visible pores, a faint bluish reflection from the
+> aquarium light, no smoothing or retouching, matte finish. Near full-body framing, slightly
+> off-center, subtle phone-camera grain in low light. Anatomically correct hands, five fingers.
+> Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
 ---
 

@@ -11,6 +11,15 @@ comprimento, textura), biotipo, altura e idade. Está em [`ficha-canonica.md`](f
 
 > Regra: a ficha é **copiada inteira** em cada prompt. A cena muda; a ficha, nunca.
 
+### Exclusões fixas (em TODO prompt)
+
+A personagem **não tem tatuagens, não tem piercings e não usa nenhuma joia ou bijuteria**
+(sem brincos, colares, anéis ou pulseiras). O modelo às vezes adiciona esses itens sozinho,
+então a frase abaixo entra em todo prompt:
+
+> **PT:** Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria.
+> **EN:** No tattoos, no piercings, and no jewelry of any kind.
+
 ## Pilar 2 — Foto-âncora (referência visual)
 
 Assim que gerarmos a primeira foto perfeita dela (a "hero shot"), ela vira a **âncora**.
