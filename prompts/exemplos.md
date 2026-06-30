@@ -649,6 +649,37 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > noise; hands with natural finger proportions, correct anatomy. Real smartphone photograph, not
 > studio, not a 3D render, not an illustration.
 
+## C17 — Mirante de praia / trilha (biquíni)
+
+**PT**
+> Foto vertical casual de celular da Vic em pé no alto de uma trilha verde à beira-mar, num dia
+> ensolarado. Atrás dela, uma praia de areia dourada com ondas quebrando, morros cobertos de mata
+> verde, pedras grandes, mato alto em primeiro plano, o mar azul e o céu limpo. Luz dura de sol forte
+> do meio-dia. Ela está de pé, postura relaxada, com uma das mãos passando pelo cabelo e um meio
+> sorriso tranquilo, olhando para a câmera. Usa um biquíni de praia comum de estampa animal (oncinha)
+> em tons de laranja e marrom, top triângulo com tirinhas amarradas. Cabelo solto, comprido,
+> balançando levemente ao vento. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento
+> aberto de meio corpo com a paisagem em volta, levemente torto, leve grão de câmera de celular.
+> _Booster:_ mantenha exatamente os traços do rosto da Vic, sem embelezar nem padronizar; a luz forte
+> do sol incide de forma realista sobre a pele, com sombras marcadas, sem luz lisonjeira separada;
+> textura de pele real com poros e pequenas imperfeições, leve brilho de calor, sem suavização nem
+> brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção natural, anatomia
+> correta. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic standing at the top of a green coastal trail by the sea, on
+> a sunny day. Behind her, a golden-sand beach with breaking waves, green forested hills, large
+> rocks, tall grass in the foreground, the blue sea and a clear sky. Harsh strong midday sunlight. She
+> stands in a relaxed posture, one hand running through her hair and a calm half smile, looking at the
+> camera. She wears a plain beach bikini with an animal (leopard) print in orange and brown tones, a
+> triangle top with tied straps. Long hair worn down, swaying slightly in the wind. No tattoos, no
+> piercings, no jewelry. Wide half-body framing with the landscape around her, slightly tilted,
+> subtle phone-camera grain. _Booster:_ keep the exact facial features of Vic, no beautifying or
+> standardizing; the strong sunlight falls realistically on the skin with hard shadows, no separate
+> flattering light; real skin texture with pores and small imperfections, a faint heat sheen, no
+> smoothing or AI glow; subtle phone-photo grain and noise; hands with natural finger proportions,
+> correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
