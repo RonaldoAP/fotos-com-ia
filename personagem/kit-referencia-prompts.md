@@ -36,9 +36,9 @@ trava rosto e corpo nas fotos de cenário (ver `00-consistencia.md` e `05-consis
 - **R3 — Perfil esquerdo (90°):** Cabeça de perfil completo para a esquerda, rosto totalmente de lado.
 - **R4 — 3/4 direito:** Cabeça virada cerca de 45° para a direita (vista de três-quartos).
 - **R5 — Perfil direito (90°):** Cabeça de perfil completo para a direita.
-- **R6 — Corpo inteiro de frente:** Corpo inteiro de frente, em pé, postura neutra e ereta, braços relaxados ao lado do corpo, vestindo top justo e short ou legging neutros para mostrar a silhueta; enquadramento 3:4 da cabeça aos pés.
+- **R6 — Corpo inteiro de frente:** Corpo inteiro de frente, em pé, postura neutra e ereta, braços relaxados ao lado do corpo, **biotipo atlético e torneado (barriga sequinha, leve definição muscular, pernas torneadas)**, vestindo top justo e short ou legging neutros para mostrar a silhueta; enquadramento 3:4 da cabeça aos pés.
 - **R7 — Corpo inteiro de costas:** Corpo inteiro de costas, em pé, mesma roupa neutra, mostrando as costas e o contorno do corpo.
-- **R8 — Corpo inteiro mostrando as pernas:** Corpo inteiro de frente, em pé, da cabeça até os pés, com as pernas e os pés totalmente visíveis dentro do quadro; câmera mais afastada e na altura do quadril; vestindo top justo e short curto (ou shorts) neutros, pernas à mostra, descalça ou com tênis simples; postura neutra e ereta, braços relaxados ao lado do corpo. Deixe espaço acima da cabeça e abaixo dos pés (corpo inteiro enquadrado).
+- **R8 — Corpo inteiro mostrando as pernas:** Corpo inteiro de frente, em pé, da cabeça até os pés, com as pernas e os pés totalmente visíveis dentro do quadro; câmera mais afastada e na altura do quadril; **biotipo atlético e torneado (barriga sequinha, leve definição muscular, pernas torneadas)**, vestindo top justo e short curto (ou shorts) neutros, pernas à mostra, descalça ou com tênis simples; postura neutra e ereta, braços relaxados ao lado do corpo. Deixe espaço acima da cabeça e abaixo dos pés (corpo inteiro enquadrado).
 
 ---
 
@@ -61,6 +61,6 @@ trava rosto e corpo nas fotos de cenário (ver `00-consistencia.md` e `05-consis
 - **R3 — Left profile (90°):** Full left profile, face fully to the side.
 - **R4 — 3/4 right:** Head turned about 45° to the right (three-quarter view).
 - **R5 — Right profile (90°):** Full right profile.
-- **R6 — Full body, front:** Full-body front view, standing, neutral upright posture, arms relaxed at the sides, wearing a fitted top and neutral shorts or leggings to show the silhouette; 3:4 framing head to feet.
+- **R6 — Full body, front:** Full-body front view, standing, neutral upright posture, arms relaxed at the sides, **athletic toned build (flat toned stomach, light muscle definition, toned legs)**, wearing a fitted top and neutral shorts or leggings to show the silhouette; 3:4 framing head to feet.
 - **R7 — Full body, back:** Full-body back view, standing, same neutral outfit, showing the back and body outline.
-- **R8 — Full body showing the legs:** Full-body front view, standing, from head to feet, with the legs and feet fully visible inside the frame; camera further back and at hip height; wearing a fitted top and short shorts, legs exposed, barefoot or in plain sneakers; neutral upright posture, arms relaxed at the sides. Leave space above the head and below the feet (full body framed).
+- **R8 — Full body showing the legs:** Full-body front view, standing, from head to feet, with the legs and feet fully visible inside the frame; camera further back and at hip height; **athletic toned build (flat toned stomach, light muscle definition, toned legs)**, wearing a fitted top and short shorts, legs exposed, barefoot or in plain sneakers; neutral upright posture, arms relaxed at the sides. Leave space above the head and below the feet (full body framed).
