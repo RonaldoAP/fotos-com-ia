@@ -125,6 +125,7 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 - C8 — Quarto / foto na porta (regata Brasil)
 - C9 — Mirror selfie no quarto (suéter tricô)
 - C20 — Casa / foto na parede (camisa CBF)
+- C21 — Casa / foto de look (conjunto Brasil) · _modo natural_
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -820,6 +821,26 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > small imperfections, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
 > finger proportions, correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an
 > illustration.
+
+## C21 — Casa / foto de look (conjunto Brasil) — _modo natural_
+
+**PT**
+> Foto de celular da Vic encostada numa parede branca dentro de casa, tipo aquelas fotos de look. Ela
+> está meio de lado, quase de costas, olhando por cima do ombro pra câmera com uma cara séria e
+> tranquila, uma das mãos perto do cabelo. Usa um conjuntinho amarelo do Brasil — camiseta cropped
+> com vivo e listra verde e um short amarelo de moletom com "BRAZIL" escrito embaixo. Luz clara e
+> normal do ambiente, parede branca atrás e um pilar de azulejo claro do lado direito. Cabelo solto e
+> ondulado, caindo nos ombros. Pele real com textura e poros, sem retoque nem cara de IA. Sem joia,
+> tatuagem ou piercing. Foto de celular mesmo, com leve grão e enquadramento meio torto.
+
+**EN**
+> A phone photo of Vic leaning against a white wall indoors, the kind of outfit-check pic. She's
+> turned mostly to the side, almost with her back to the camera, looking back over her shoulder with a
+> calm, serious face, one hand near her hair. She's wearing a yellow Brazil set — a cropped tee with
+> green trim and stripe and yellow sweat shorts with "BRAZIL" written at the hem. Plain, normal indoor
+> light, a white wall behind her and a light tiled column on the right. Hair loose and wavy, falling
+> on her shoulders. Real skin with texture and pores, no retouching or AI look. No jewelry, tattoos or
+> piercings. Just a phone photo, with light grain and slightly crooked framing.
 
 ---
 
