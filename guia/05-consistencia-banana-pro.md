@@ -82,6 +82,39 @@ Então o set tem que **parecer com o que você quer gerar**, não só "mostrar o
 Regra: **mesma cara em todas + maioria no look-alvo (cabelo + corpo).** Melhor 10 fotos
 homogêneas e no alvo do que 15 variadas.
 
+## Cobertura de ângulos e expressões (por que a personagem "inventa")
+
+O personagem treinado só é fiel nos **ângulos/expressões que viu no treino**. Quando o prompt
+pede algo **fora do que foi treinado** (ângulo de baixo, foto de cima, cabeça muito inclinada,
+rindo de boca aberta), o modelo **não tem aquela informação e improvisa** — aí o rosto deriva.
+
+**Regra:** o treino precisa conter o ângulo/expressão que você vai querer gerar.
+
+### Checklist de cobertura do set de treino
+
+- **Ângulos do rosto:** frontal, 3/4 esquerda, 3/4 direita, perfil esquerdo, perfil direito,
+  leve de cima (plongée), leve de baixo (contra-plongée), cabeça inclinada.
+- **Direção do olhar:** pra câmera, pro lado, pra baixo, pra cima.
+- **Expressões:** neutra, sorriso leve, sorriso aberto (com dentes), rindo, séria, boca
+  entreaberta.
+- **Distância:** close de rosto, meio corpo, corpo inteiro.
+- **Cabelo:** solto, preso/rabo, molhado.
+
+Quanto mais dessas combinações o treino tiver (mesma pessoa, mesmo look), menos a Vic
+"inventa".
+
+### Kit auto-expansível
+
+Quando sair uma geração **boa num ângulo/expressão novo**, aprove e **adicione ela ao set de
+treino**; retreine. A Vic vai "aprendendo" ângulos novos e parando de derivar neles. É o jeito
+mais prático de cobrir o que faltou sem refazer tudo.
+
+### Enquanto não retreina
+
+- Prefira ângulos/expressões próximos do que já está no treino.
+- Em ângulo "exótico", gere várias e **escolha a mais fiel** (curadoria).
+- Se for essencial, anexe uma **imagem de referência naquele ângulo** junto da geração.
+
 ## Fluxo resumido
 
 1. **Kit de referência** (rosto multi-ângulo + corpo) → fixo.
