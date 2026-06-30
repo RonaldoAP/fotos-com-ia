@@ -1,7 +1,7 @@
 # Ficha canônica da personagem
 
-> **Status:** ✅ personagem definida ("Vic"). Identidade travada pelo kit de referência +
-> mini-ficha. Este bloco descreve traços que NÃO mudam de uma foto para outra.
+> **Status:** ✅ personagem definida ("Vic") — KIT COMPLETO: rosto/cabelo ombré consistente +
+> pele realista + corpo curvilíneo (via 2 referências). Pronta para retreino e cenários.
 >
 > **Descrição p/ ferramenta de criar personagem (campo "additional detail"):**
 > - **EN:** Vic — a woman around 26–30 years old. Long, straight blonde hair with ombré (darker roots), green-grey
