@@ -119,6 +119,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 
 **🏟️ Eventos**
 - C7 — Estádio à noite (torcida Brasil)
+- C27 — Bar / assistindo o jogo (chopp)
 
 **🏠 Casa / quarto**
 - C8 — Quarto / foto na porta (regata Brasil)
@@ -126,6 +127,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C20 — Casa / foto na parede (camisa CBF)
 - C21 — Casa / foto de look (conjunto Brasil)
 - C24 — Quarto / selfie à noite (conjunto Brasil)
+- C26 — Apê de luxo / noite de jogo
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -599,6 +601,48 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > Brazil tee ("BRASIL RIO DE JANEIRO") with green trim and a yellow-and-green bikini bottom. Hair in
 > two braids. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
 > Full-body phone photo, slightly crooked, light grain.
+
+## C26 — Apê de luxo / noite de jogo
+
+**PT**
+> Foto de celular da Vic numa sala de apartamento de luxo à noite, dessas com janelão do chão ao teto
+> e a cidade toda iluminada lá fora. Atrás dela, uma TV grande passando um jogo do Brasil, sofás
+> bege, uma mesa de centro de madeira rústica com um arranjo de flores e um tapete claro. Luz interna
+> quente e aconchegante. Ela está em pé sorrindo pra câmera, segurando um copo térmico estampado do
+> Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído. Usa uma regata amarela
+> com a bandeira do Brasil no peito, um short jeans curto e um chinelo havaianas verde e amarelo, com
+> uma bolsinha branca no ombro. Cabelo solto, comprido e liso. Pele real com textura, sem retoque nem
+> cara de IA. Sem joia, tatuagem ou piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+
+**EN**
+> A phone photo of Vic in a luxury apartment living room at night, the kind with floor-to-ceiling
+> windows and the whole city lit up outside. Behind her, a big TV showing a Brazil football match,
+> beige sofas, a rustic wood coffee table with a flower arrangement and a light carpet. Warm, cozy
+> indoor light. She's standing, smiling at the camera, holding a Brazil-printed tumbler in one hand,
+> one leg crossed in front of the other, relaxed vibe. She's wearing a yellow tank top with the
+> Brazilian flag on the chest, denim cutoff shorts and green-and-yellow Havaianas flip-flops, with a
+> small white shoulder bag. Hair down, long and straight. Real skin with texture, no retouching or AI
+> look. No jewelry, tattoos or piercings. Full-body phone photo, slightly crooked, light grain.
+
+## C27 — Bar / assistindo o jogo (chopp)
+
+**PT**
+> Foto de celular da Vic sentada numa mesa de um bar/boteco assistindo o jogo do Brasil à noite. Na
+> frente dela, um caneco de chopp gelado e uma bandeira verde e amarela na mesa. Atrás, a TV passando
+> o jogo meio desfocada, outras pessoas de amarelo e a luz quente do bar. Ela está com os braços
+> apoiados na mesa, as mãos perto do caneco, olhando pra câmera tranquila. Usa uma regata amarela do
+> Brasil com vivo verde e a bandeira no peito, e um boné amarelo da CBF. Cabelo solto, comprido e
+> liso. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de
+> celular meio escura por causa da luz de bar, leve grão, meio torta.
+
+**EN**
+> A phone photo of Vic sitting at a table in a bar/pub watching the Brazil game at night. In front of
+> her, a cold mug of draft beer and a green-and-yellow flag on the table. Behind, the TV showing the
+> game slightly blurred, other people in yellow and the warm bar light. Her arms are resting on the
+> table, hands near the mug, looking at the camera relaxed. She's wearing a yellow Brazil tank top
+> with green trim and the flag on the chest, and a yellow CBF cap. Hair down, long and straight. Real
+> skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. A slightly dim phone
+> photo because of the bar light, light grain, slightly crooked.
 
 ---
 
