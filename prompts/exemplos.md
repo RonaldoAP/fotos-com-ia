@@ -130,6 +130,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C24 — Quarto / selfie à noite (conjunto Brasil)
 - C26 — Apê de luxo / noite de jogo
 - C28 — Casa / selfie close (glam CBF)
+- C30 — Casa / mirror selfie (luz dourada)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -687,6 +688,26 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > face. Curly/wavy hair, a bit messy from the wind, a few strands on her face. Real skin with texture
 > and the flash sheen, no retouching or AI look. No jewelry, tattoos or piercings. Night flash phone
 > photo, grainy and slightly crooked.
+
+## C30 — Casa / mirror selfie (luz dourada)
+
+**PT**
+> Selfie de espelho da Vic dentro de casa no fim de tarde, com aquela luz quente do sol entrando pela
+> janela e batendo no rosto dela e na parede. Ela está segurando o celular (capinha transparente)
+> apontado pro espelho, olhando pra câmera com uma cara tranquila. Atrás, um pedaço do quarto com um
+> espelho na parede. Usa uma camiseta amarela do Brasil de gola V verde com listras verdes ("BRASIL"
+> e bandeira no peito). Cabelo solto, comprido e liso, repartido no meio. Pele real com textura e o
+> brilho quente do sol na pele, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de
+> espelho de celular, meio torta, leve grão.
+
+**EN**
+> A mirror selfie of Vic indoors in the late afternoon, with that warm sunlight coming through the
+> window and hitting her face and the wall. She's holding the phone (clear case) pointed at the
+> mirror, looking at the camera with a calm expression. Behind her, a bit of the room with a mirror
+> on the wall. She's wearing a yellow Brazil tee with a green V-neck and green stripes ("BRASIL" and
+> flag on the chest). Hair down, long and straight, parted in the middle. Real skin with texture and
+> the warm sun glow on her skin, no retouching or AI look. No jewelry, tattoos or piercings. Mirror
+> phone selfie, slightly crooked, light grain.
 
 ---
 
