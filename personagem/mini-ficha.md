@@ -33,6 +33,19 @@ só brigaria com a referência visual.
 
 ---
 
+## Penteado é por cena (exceção à regra de traços)
+
+O prompt de cenário **não** descreve a **cor** do cabelo (vem da referência), mas **deve**
+descrever o **penteado/estado** (solto, com volume, ao vento, molhado, preso, rabo). O cabelo
+preso do kit de RG é só para mostrar o rosto — não force isso nas fotos de cena.
+
+> **PT:** Cabelo solto, com volume e movimento naturais, bem cuidado, caindo sobre os ombros,
+> alguns fios soltos no rosto (mesma cor e tipo de fio da referência).
+> **EN:** Hair worn down, with natural volume and movement, well-groomed, falling over the
+> shoulders, a few loose strands on the face (same color and hair type as the reference).
+
+Dica: inclua a referência **R9 (cabelo solto)** no kit para o modelo ter a âncora do cabelo solto.
+
 ## Como usar
 
 1. Anexe o **kit de referência** (rosto multi-ângulo + corpo) — ou a **âncora mestre**.
