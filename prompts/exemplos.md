@@ -132,6 +132,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C26 — Apê de luxo / noite de jogo
 - C28 — Casa / selfie close (glam CBF)
 - C30 — Casa / mirror selfie (luz dourada)
+- C32 — Banheiro / mirror selfie (top tomara-que-caia)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -734,6 +735,23 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > Hair down and wavy, falling to one side, a bit windblown. Real skin with freckles and texture, only
 > the ambient light and warm city glow on her face, no retouching or AI look. No jewelry, tattoos or
 > piercings. Phone selfie (slight distortion), slightly tilted angle, low-light grain.
+
+## C32 — Banheiro / mirror selfie (top tomara-que-caia)
+
+**PT**
+> Selfie de espelho da Vic num banheiro de parede de azulejo branco, segurando o celular (capinha
+> preta) apontado pro espelho. Ela está encostada na parede, olhando pra câmera com uma cara
+> tranquila. Usa um top tomara-que-caia preto com um short jeans, num look casual de balada. Luz
+> interna normal do banheiro. Cabelo solto e ondulado, comprido. Pele real com textura, sem retoque
+> nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular, meio torta, leve grão (uma mão
+> segura o celular).
+
+**EN**
+> A bathroom mirror selfie of Vic against a white tiled wall, holding the phone (black case) pointed
+> at the mirror. She's leaning on the wall, looking at the camera relaxed. She's wearing a black tube
+> top with denim shorts, a casual night-out look. Normal indoor bathroom light. Hair down and wavy,
+> long. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone
+> photo, slightly crooked, light grain (one hand holds the phone).
 
 ---
 
