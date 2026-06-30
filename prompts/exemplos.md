@@ -5,7 +5,7 @@ o que funcionou (✅) e ajuste. Guarde aqui suas melhores variações.
 
 > **E1–E6** são exemplos didáticos de realismo (pessoas variadas, descrição completa).
 > A **Biblioteca de cenários (C1+)** é diferente: descreve **só a cena** e puxa a pessoa da
-> personagem principal — ver a regra no início daquela seção.
+> personagem principal — ver as regras no início daquela seção.
 
 ---
 
@@ -89,11 +89,14 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 
 > **Regra 1 — sem traços físicos:** estes prompts **NÃO descrevem cabelo, cor de pele, corpo
 > ou rosto**. Esses traços vêm **sempre da personagem** (imagens de referência + mini-ficha).
-> A pessoa é citada de forma neutra ("a mulher da imagem de referência"). Descrever traço aqui
-> só conflita com a referência.
+> A pessoa é citada de forma neutra ("a mulher da imagem de referência").
 >
 > **Regra 2 — exclusões fixas:** a personagem **não tem tatuagens, não tem piercings e não usa
-> joias/bijuterias**. EN: _no tattoos, no piercings, and no jewelry of any kind._
+> joias/bijuterias**.
+>
+> **Regra 3 — Booster de realismo:** todo prompt termina com o **bloco de booster** (rosto sem
+> embelezar + luz coerente + pele real + grão) — ver `guia/03-evitando-cara-de-ia.md`. Já está
+> embutido em cada prompt abaixo.
 
 ## C1 — Praia de Ipanema / fim de tarde
 
@@ -107,10 +110,12 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > cintura do short, expressão tranquila e natural. Usa uma camiseta cropped verde da seleção do
 > Brasil com a escrita "BRASIL RIO DE JANEIRO" e detalhes amarelos, e um short curto amarelo com
 > cordão branco; unhas pintadas de vermelho. Sem tatuagens, sem piercings e sem nenhuma joia ou
-> bijuteria. Areia com pegadas e textura real ao redor. Preserve a textura de pele real da
-> referência, com leve brilho de fim de tarde, sem suavização nem retoque, acabamento fosco.
-> Enquadramento de corpo quase inteiro, levemente descentralizado, leve grão de câmera de
-> celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
+> bijuteria. Areia com pegadas e textura real ao redor. Enquadramento de corpo quase inteiro,
+> levemente descentralizado. _Booster:_ mantenha exatamente os traços do rosto da referência,
+> sem embelezar nem padronizar; a luz do fim de tarde incide de forma realista sobre a pele, com
+> áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas
+> imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com
+> dedos de proporção natural, anatomia correta. Fotografia real de celular, não estúdio, não
 > render 3D, não ilustração.
 
 **EN**
@@ -123,10 +128,12 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > her shorts, calm natural expression. She wears a green cropped Brazil national-team t-shirt
 > reading "BRASIL RIO DE JANEIRO" with yellow trim, and short yellow shorts with a white
 > drawstring; red nail polish. No tattoos, no piercings, and no jewelry of any kind. Sand with
-> footprints and real texture around her. Preserve the real skin texture from the reference, with
-> a faint dusk sheen, no smoothing or retouching, matte finish. Near full-body framing, slightly
-> off-center, subtle phone-camera grain. Anatomically correct hands, five fingers. Real
-> smartphone photograph, not studio, not a 3D render, not an illustration.
+> footprints and real texture around her. Near full-body framing, slightly off-center. _Booster:_
+> keep the exact facial features from the reference, no beautifying or standardizing; the dusk
+> light falls realistically on the skin with shadowed areas, no separate flattering light; real
+> skin texture with pores and small imperfections, no smoothing or AI glow; subtle phone-photo
+> grain and noise; hands with natural finger proportions, correct anatomy. Real smartphone
+> photograph, not studio, not a 3D render, not an illustration.
 
 ## C2 — Copacabana / dia de sol
 
@@ -140,10 +147,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > perto do rosto e a outra segurando uma água de coco verde gelada com um canudo vermelho. Usa
 > uma camiseta cropped amarela da seleção do Brasil com a escrita "BRASIL RIO DE JANEIRO" e
 > listras verdes, e uma parte de baixo de roupa de banho discreta. Sem tatuagens, sem piercings e
-> sem nenhuma joia ou bijuteria. Preserve a textura de pele real da referência, com leve brilho
-> de suor pelo calor, sem suavização nem retoque, acabamento fosco. Enquadramento de meio corpo,
-> levemente de cima, descontraído, leve grão de câmera de celular. Mãos com anatomia correta,
-> cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+> sem nenhuma joia ou bijuteria. Enquadramento de meio corpo, levemente de cima. _Booster:_
+> mantenha exatamente os traços do rosto da referência, sem embelezar nem padronizar; a luz dura
+> de meio-dia incide de forma realista sobre a pele, com sombras marcadas, sem luz lisonjeira
+> separada; textura de pele real com poros, leve brilho de suor e pequenas imperfeições, sem
+> suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção
+> natural, anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não
+> ilustração.
 
 **EN**
 > Casual vertical smartphone photo of the woman from the reference image, sitting and reclining
@@ -154,10 +164,12 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > spontaneous, relaxed way, one hand resting lightly near her face and the other holding a cold
 > green coconut with a red straw. She wears a yellow cropped Brazil national-team t-shirt reading
 > "BRASIL RIO DE JANEIRO" with green stripes, and a modest swimwear bottom. No tattoos, no
-> piercings, and no jewelry of any kind. Preserve the real skin texture from the reference, with a
-> faint sweat sheen from the heat, no smoothing or retouching, matte finish. Half-body framing,
-> slightly from above, relaxed, subtle phone-camera grain. Anatomically correct hands, five
-> fingers. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+> piercings, and no jewelry of any kind. Half-body framing, slightly from above. _Booster:_ keep
+> the exact facial features from the reference, no beautifying or standardizing; the harsh midday
+> light falls realistically on the skin with hard shadows, no separate flattering light; real
+> skin texture with pores, a faint sweat sheen and small imperfections, no smoothing or AI glow;
+> subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy.
+> Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
 ## C3 — Aquário / luz azul (close)
 
@@ -170,11 +182,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > mãos apoiada num corrimão preto à sua frente e a outra mexendo no próprio cabelo, olhando para
 > o lado com expressão tranquila e contemplativa. Usa um top cropped branco de alças finas e uma
 > saia azul-royal curta com babados em camadas e cordão na cintura. Sem tatuagens, sem piercings
-> e sem nenhuma joia ou bijuteria. Preserve a textura de pele real da referência, com leve
-> reflexo azulado da luz do aquário, sem suavização nem retoque, acabamento fosco. Enquadramento
-> de corpo quase inteiro, levemente descentralizado, leve grão de câmera de celular em ambiente de
-> pouca luz. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
-> render 3D, não ilustração.
+> e sem nenhuma joia ou bijuteria. Enquadramento de corpo quase inteiro, levemente
+> descentralizado, ambiente de pouca luz. _Booster:_ mantenha exatamente os traços do rosto da
+> referência, sem embelezar nem padronizar; a luz azul fria do aquário incide de forma realista
+> sobre o rosto e a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real
+> com poros e pequenas imperfeições, sem suavização nem brilho de IA; grão e ruído visíveis de
+> foto de celular em pouca luz; mãos com dedos de proporção natural, anatomia correta. Fotografia
+> real de celular, não estúdio, não render 3D, não ilustração.
 
 **EN**
 > Casual vertical smartphone photo of the woman from the reference image, standing in front of a
@@ -185,11 +199,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > slightly turned to the side, one hand resting on a black railing in front of her and the other
 > running through her own hair, looking to the side with a calm, contemplative expression. She
 > wears a white spaghetti-strap crop top and a short royal-blue tiered ruffle skirt with a
-> drawstring waist. No tattoos, no piercings, and no jewelry of any kind. Preserve the real skin
-> texture from the reference, with a faint bluish reflection from the aquarium light, no smoothing
-> or retouching, matte finish. Near full-body framing, slightly off-center, subtle phone-camera
-> grain in low light. Anatomically correct hands, five fingers. Real smartphone photograph, not
-> studio, not a 3D render, not an illustration.
+> drawstring waist. No tattoos, no piercings, and no jewelry of any kind. Near full-body framing,
+> slightly off-center, low-light setting. _Booster:_ keep the exact facial features from the
+> reference, no beautifying or standardizing; the cool blue aquarium light falls realistically on
+> the face and skin, with shadowed areas, no separate flattering light; real skin texture with
+> pores and small imperfections, no smoothing or AI glow; visible grain and noise of a low-light
+> smartphone photo; hands with natural finger proportions, correct anatomy. Real smartphone
+> photograph, not studio, not a 3D render, not an illustration.
 
 ## C4 — Aquário túnel / tubarão (look fitness)
 
@@ -203,11 +219,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > estendidos para baixo e para os lados com as mãos apoiadas em um corrimão preto horizontal
 > atrás dela, expressão neutra e tranquila. Usa um conjunto fitness branco canelado: top cropped
 > de alças largas e um short de cintura alta. Sem tatuagens, sem piercings e sem nenhuma joia ou
-> bijuteria. Preserve a textura de pele real da referência, com leve reflexo azulado da luz do
-> aquário, sem suavização nem retoque, acabamento fosco. Enquadramento de corpo quase inteiro,
-> levemente de baixo para cima, leve grão de câmera de celular em ambiente de pouca luz. Mãos com
-> anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não
-> ilustração.
+> bijuteria. Enquadramento de corpo quase inteiro, levemente de baixo para cima, ambiente de
+> pouca luz. _Booster:_ mantenha exatamente os traços do rosto da referência, sem embelezar nem
+> padronizar; a luz azul fria do aquário incide de forma realista sobre o rosto e a pele, com
+> áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas
+> imperfeições, sem suavização nem brilho de IA; grão e ruído visíveis de foto de celular em
+> pouca luz; mãos com dedos de proporção natural, anatomia correta. Fotografia real de celular,
+> não estúdio, não render 3D, não ilustração.
 
 **EN**
 > Casual vertical smartphone photo of the woman from the reference image, standing, centered, in
@@ -218,11 +236,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > the tank, with a dark surrounding environment. She faces the camera in a relaxed posture, both
 > arms extended down and out to the sides with her hands resting on a black horizontal railing
 > behind her, calm neutral expression. She wears a white ribbed athleisure set: a wide-strap crop
-> top and high-waisted shorts. No tattoos, no piercings, and no jewelry of any kind. Preserve the
-> real skin texture from the reference, with a faint bluish reflection from the aquarium light, no
-> smoothing or retouching, matte finish. Near full-body framing, slightly from below, subtle
-> phone-camera grain in low light. Anatomically correct hands, five fingers. Real smartphone
-> photograph, not studio, not a 3D render, not an illustration.
+> top and high-waisted shorts. No tattoos, no piercings, and no jewelry of any kind. Near
+> full-body framing, slightly from below, low-light setting. _Booster:_ keep the exact facial
+> features from the reference, no beautifying or standardizing; the cool blue aquarium light falls
+> realistically on the face and skin, with shadowed areas, no separate flattering light; real skin
+> texture with pores and small imperfections, no smoothing or AI glow; visible grain and noise of
+> a low-light smartphone photo; hands with natural finger proportions, correct anatomy. Real
+> smartphone photograph, not studio, not a 3D render, not an illustration.
 
 ## C5 — Ipanema / pôr do sol (caipirinha)
 
@@ -236,11 +256,13 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > perto do horizonte ao azul mais acima, sol baixo criando luz quente e levemente em contraluz,
 > tons alaranjados naturais (não cinematográfico). Usa uma camiseta cropped verde da seleção do
 > Brasil com a escrita "BRASIL RIO DE JANEIRO" e listras amarelas, e uma parte de baixo de roupa
-> de banho amarela. Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Preserve a
-> textura de pele real da referência, sem suavização nem retoque, acabamento fosco. Enquadramento
-> aberto de corpo inteiro, areia com muitas pegadas em primeiro plano, leve grão de câmera de
-> celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
-> render 3D, não ilustração.
+> de banho amarela. Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Enquadramento
+> aberto de corpo inteiro, areia com muitas pegadas em primeiro plano. _Booster:_ mantenha
+> exatamente os traços do rosto da referência, sem embelezar nem padronizar; a luz quente do pôr
+> do sol incide de forma realista e em contraluz sobre a pele, com áreas em sombra, sem luz
+> lisonjeira separada; textura de pele real com poros e pequenas imperfeições, sem suavização nem
+> brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção natural,
+> anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
 
 **EN**
 > Casual vertical smartphone photo of the woman from the reference image, standing in profile,
@@ -252,10 +274,45 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > blue higher up, the low sun creating warm, slightly backlit light with natural orange tones (not
 > cinematic). She wears a green cropped Brazil national-team t-shirt reading "BRASIL RIO DE
 > JANEIRO" with yellow stripes, and a yellow swimwear bottom. No tattoos, no piercings, and no
-> jewelry of any kind. Preserve the real skin texture from the reference, no smoothing or
-> retouching, matte finish. Wide full-body framing, sand with many footprints in the foreground,
-> subtle phone-camera grain. Anatomically correct hands, five fingers. Real smartphone photograph,
-> not studio, not a 3D render, not an illustration.
+> jewelry of any kind. Wide full-body framing, sand with many footprints in the foreground.
+> _Booster:_ keep the exact facial features from the reference, no beautifying or standardizing;
+> the warm sunset light falls realistically and backlit on the skin, with shadowed areas, no
+> separate flattering light; real skin texture with pores and small imperfections, no smoothing or
+> AI glow; subtle phone-photo grain and noise; hands with natural finger proportions, correct
+> anatomy. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
+## C6 — Selfie no carro / luz de dia
+
+**PT**
+> Selfie vertical de câmera frontal, braço estendido visível no canto inferior do quadro, da
+> mulher da imagem de referência sentada no banco de trás de um carro durante o dia. Ela está com
+> o cinto de segurança colocado, levemente recostada no banco, olhando para a câmera com a cabeça
+> um pouco inclinada e expressão tranquila e natural, lábios levemente entreabertos. Ao fundo, o
+> interior do carro: bancos pretos, encostos de cabeça, uma mala de viagem rígida na parte de trás
+> e a janela mostrando luz do dia e a estrada lá fora. Luz natural quente entrando pelos vidros,
+> suave, com leve contraluz vindo da janela atrás. Usa uma blusa justa de manga curta cinza-escuro.
+> Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Leve distorção de lente frontal,
+> enquadramento casual de meio corpo. _Booster:_ mantenha exatamente os traços do rosto da
+> referência, sem embelezar nem padronizar; a luz de dia da janela incide de forma realista sobre
+> a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e
+> pequenas imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto de celular;
+> mãos com dedos de proporção natural, anatomia correta. Fotografia real de celular, não estúdio,
+> não render 3D, não ilustração.
+
+**EN**
+> Vertical front-camera selfie, extended arm visible in the lower corner of the frame, of the
+> woman from the reference image sitting in the back seat of a car during the day. She has her
+> seatbelt on, leaning back slightly against the seat, looking at the camera with her head tilted
+> a little and a calm, natural expression, lips slightly parted. In the background, the car
+> interior: black seats, headrests, a hard travel suitcase in the back, and the window showing
+> daylight and the road outside. Warm natural light coming through the windows, soft, with a faint
+> backlight from the window behind. She wears a fitted dark-grey short-sleeve top. No tattoos, no
+> piercings, and no jewelry of any kind. Slight front-lens distortion, casual half-body framing.
+> _Booster:_ keep the exact facial features from the reference, no beautifying or standardizing;
+> the daylight from the window falls realistically on the skin, with shadowed areas, no separate
+> flattering light; real skin texture with pores and small imperfections, no smoothing or AI glow;
+> subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy. Real
+> smartphone photograph, not studio, not a 3D render, not an illustration.
 
 ---
 

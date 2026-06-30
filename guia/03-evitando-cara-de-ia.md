@@ -52,3 +52,25 @@ dentro do prompt. Abaixo, cada spec que queremos evitar e a frase positiva que a
 > available ambient light, no studio lighting; balanced exposure; anatomically correct
 > hands; real smartphone photograph, not an illustration, not a 3D render; subtle natural
 > grain.
+
+---
+
+## Booster de realismo (PADRÃO — em todo prompt de cenário)
+
+Bloco fixo que vai no fim de **todo** prompt da Biblioteca de cenários. Ataca os 4 "tells"
+mais comuns no resultado gerado: rosto embelezado, luz lisonjeira incoerente, pele lisa e
+foto limpa demais.
+
+> **PT:** Mantenha exatamente os traços do rosto da referência, sem embelezar nem padronizar.
+> A luz do ambiente incide de forma realista sobre a pele, com áreas em sombra, sem luz
+> lisonjeira separada. Textura de pele real com poros e pequenas imperfeições, sem suavização
+> nem brilho de IA. Grão e ruído sutis de foto de celular. Mãos com dedos de proporção
+> natural, anatomia correta.
+
+> **EN:** Keep the exact facial features from the reference, no beautifying or standardizing.
+> Ambient light falls realistically on the skin with shadowed areas, no separate flattering
+> light. Real skin texture with pores and small imperfections, no smoothing or AI glow.
+> Subtle phone-photo grain and noise. Hands with natural finger proportions, correct anatomy.
+
+**Ordem de impacto:** rosto (não embelezar) e luz (coerência) resolvem ~80% da cara de IA;
+pele e grão dão o acabamento.
