@@ -76,6 +76,80 @@ o que funcionou (✅) e ajuste. Guarde aqui suas melhores variações.
 
 ---
 
+# Biblioteca de cenários (referências enviadas)
+
+Prompts extraídos de fotos de referência — **somente contexto** (cena, pose, luz, roupa,
+realismo), sem traços de identidade. A semelhança da pessoa vem da foto-referência anexada
+na ferramenta. Escritos no formato **à prova de filtro** (cena de praia comum, sem
+sexualização — ver `guia/04-roupas-e-filtros.md`).
+
+## C1 — Praia de Ipanema / fim de tarde
+
+**PT**
+> Foto vertical casual de celular de uma jovem mulher em pé na areia da praia de Ipanema, no
+> Rio de Janeiro, no fim de tarde. Ao fundo, o morro Dois Irmãos, o mar com ondas quebrando à
+> esquerda e os prédios da orla à direita, com algumas pessoas pequenas e distantes na areia.
+> Céu de pôr do sol nublado, em tons pastel de rosa, lilás e cinza, luz suave e difusa,
+> levemente subexposta. Ela está de frente para a câmera, postura relaxada, segurando uma água
+> de coco verde gelada com um canudo azul em uma das mãos e a outra mão apoiada na cintura do
+> short, expressão tranquila e natural. Usa uma camiseta cropped verde da seleção do Brasil com
+> a escrita "BRASIL RIO DE JANEIRO" e detalhes amarelos, e um short curto amarelo com cordão
+> branco; unhas pintadas de vermelho, brincos pequenos dourados. Cabelo loiro comprido e liso,
+> um pouco solto pelo vento. Areia com pegadas e textura real ao redor. Pele com textura
+> natural, poros visíveis, leve brilho de fim de tarde, sem suavização nem retoque, acabamento
+> fosco. Enquadramento de corpo quase inteiro, levemente descentralizado, leve grão de câmera
+> de celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio,
+> não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of a young woman standing on the sand at Ipanema beach, Rio
+> de Janeiro, at dusk. In the background, the Dois Irmãos mountain, the ocean with breaking
+> waves on the left and the beachfront buildings on the right, with a few small distant people
+> on the sand. Overcast sunset sky in pastel tones of pink, lilac and grey, soft diffuse light,
+> slightly underexposed. She faces the camera in a relaxed stance, holding a cold green coconut
+> with a blue straw in one hand and resting the other hand on the waistband of her shorts, calm
+> natural expression. She wears a green cropped Brazil national-team t-shirt reading "BRASIL RIO
+> DE JANEIRO" with yellow trim, and short yellow shorts with a white drawstring; red nail
+> polish, small gold earrings. Long straight blonde hair, slightly loose in the wind. Sand with
+> footprints and real texture around her. Skin with natural texture, visible pores, faint dusk
+> sheen, no smoothing or retouching, matte finish. Near full-body framing, slightly off-center,
+> subtle phone-camera grain. Anatomically correct hands, five fingers. Real smartphone
+> photograph, not studio, not a 3D render, not an illustration.
+
+## C2 — Copacabana / dia de sol
+
+**PT**
+> Foto vertical casual de celular de uma jovem mulher sentada e recostada em uma cadeira de
+> praia vermelha, embaixo de um guarda-sol verde, na praia de Copacabana, no Rio de Janeiro, em
+> um dia ensolarado. Ao fundo, os prédios altos da orla de Copacabana, areia branca clara,
+> outras pessoas na praia, um guarda-sol colorido amarelo e azul mais distante e um morro ao
+> longe. Céu azul forte com algumas nuvens, luz dura de meio-dia, sombras marcadas e contraste
+> alto. Ela está sorrindo de forma espontânea e descontraída, com uma das mãos apoiada de leve
+> perto do rosto e a outra segurando uma água de coco verde gelada com um canudo vermelho. Usa
+> uma camiseta cropped amarela da seleção do Brasil com a escrita "BRASIL RIO DE JANEIRO" e
+> listras verdes, e uma parte de baixo de roupa de banho discreta. Cabelo loiro acobreado,
+> comprido e levemente ondulado, solto sobre o ombro. Pele bronzeada com textura natural, poros
+> visíveis, leve brilho de suor pelo calor, sem suavização nem retoque, acabamento fosco.
+> Enquadramento de meio corpo, levemente de cima, descontraído, leve grão de câmera de celular.
+> Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não render
+> 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of a young woman sitting and reclining on a red beach chair
+> under a green beach umbrella on Copacabana beach, Rio de Janeiro, on a sunny day. In the
+> background, the tall beachfront buildings of Copacabana, bright white sand, other beachgoers,
+> a more distant colorful yellow-and-blue umbrella and a hill far away. Strong blue sky with a
+> few clouds, harsh midday light, hard shadows and high contrast. She smiles in a spontaneous,
+> relaxed way, one hand resting lightly near her face and the other holding a cold green coconut
+> with a red straw. She wears a yellow cropped Brazil national-team t-shirt reading "BRASIL RIO
+> DE JANEIRO" with green stripes, and a modest swimwear bottom. Coppery-blonde long, slightly
+> wavy hair loose over one shoulder. Tanned skin with natural texture, visible pores, a faint
+> sweat sheen from the heat, no smoothing or retouching, matte finish. Half-body framing,
+> slightly from above, relaxed, subtle phone-camera grain. Anatomically correct hands, five
+> fingers. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
+---
+
 ## Registro de testes
 
 Use esta tabela para anotar o que rendeu melhor:

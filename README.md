@@ -49,6 +49,7 @@ guia/
   01-principios.md          Como o Nano Banana 2 "pensa" e por que descrição natural ganha
   02-anatomia-do-prompt.md  A fórmula de 6 camadas com vocabulário pronto
   03-evitando-cara-de-ia.md Cada spec proibida e como combatê-la no prompt
+  04-roupas-e-filtros.md    Praia/biquíni sem disparar o filtro (cena comum, sem sexualização)
 prompts/
   templates.md              Modelos reutilizáveis (preencher os [colchetes])
   exemplos.md               Prompts prontos, completos, por cenário
