@@ -128,6 +128,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C21 — Casa / foto de look (conjunto Brasil)
 - C24 — Quarto / selfie à noite (conjunto Brasil)
 - C26 — Apê de luxo / noite de jogo
+- C28 — Casa / selfie close (glam CBF)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -643,6 +644,26 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > with green trim and the flag on the chest, and a yellow CBF cap. Hair down, long and straight. Real
 > skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. A slightly dim phone
 > photo because of the bar light, light grain, slightly crooked.
+
+## C28 — Casa / selfie close (glam CBF)
+
+**PT**
+> Selfie da Vic de braço esticado dentro de casa, num corredor claro, bem de pertinho do rosto. Ela
+> está com uma cara séria e confiante, olhando direto pra câmera. Cabelo preso num rabo de cavalo bem
+> alinhado e com volume, caindo de um lado. Maquiagem mais caprichada (sobrancelha marcada, cílios,
+> batom nude), mas a pele ainda com textura real, poros e tudo — nada de pele lisa de IA. Usa a
+> camisa amarela da seleção (CBF, gola V verde com o escudo). Luz interna normal e suave do corredor.
+> Pele real, sem retoque exagerado nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular
+> (leve distorção), só rosto e ombros, leve grão.
+
+**EN**
+> An arm's-length selfie of Vic indoors in a bright hallway, very close to her face. She has a
+> serious, confident look, staring right at the camera. Hair in a sleek, voluminous high ponytail
+> falling to one side. Fuller glam makeup (bold brows, lashes, nude lipstick), but the skin still has
+> real texture, pores and all — none of that smooth AI skin. She's wearing the yellow national-team
+> jersey (CBF, green V-neck with the crest). Normal soft indoor hallway light. Real skin, no heavy
+> retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion), head and
+> shoulders, light grain.
 
 ---
 
