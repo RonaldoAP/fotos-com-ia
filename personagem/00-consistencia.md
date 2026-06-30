@@ -35,9 +35,11 @@ identidade muito melhor do que só texto.
 
 Quando você me enviar uma foto de referência (uma pose, cena ou estética que quer copiar):
 
-1. Eu descrevo **somente o cenário, pose, enquadramento, luz e roupa** daquela foto.
-2. Eu **colo a ficha canônica** da personagem por cima (substituindo a pessoa da
-   referência pela nossa).
+1. Eu descrevo **somente o cenário, pose, enquadramento, luz e roupa** daquela foto —
+   **sem nenhum traço físico** (cabelo, cor de pele, corpo, rosto). A pessoa é citada de
+   forma neutra ("a mulher da imagem de referência").
+2. Eu **colo a mini-ficha + as imagens** da personagem por cima — é daí que vêm cabelo,
+   pele, corpo e rosto. Descrever traço no prompt de cenário só conflita com a referência.
 3. Você recebe o prompt final em **PT e EN**, pronto para o Nano Banana 2 (texto +
    foto-âncora dela).
 

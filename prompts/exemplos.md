@@ -3,6 +3,10 @@
 Prompts já preenchidos, prontos para colar no Nano Banana 2. Conforme você testar, marque
 o que funcionou (✅) e ajuste. Guarde aqui suas melhores variações.
 
+> **E1–E6** são exemplos didáticos de realismo (pessoas variadas, descrição completa).
+> A **Biblioteca de cenários (C1+)** é diferente: descreve **só a cena** e puxa a pessoa da
+> personagem principal — ver a regra no início daquela seção.
+
 ---
 
 ## E1 — Mulher na cozinha, fim de tarde
@@ -78,115 +82,180 @@ o que funcionou (✅) e ajuste. Guarde aqui suas melhores variações.
 
 # Biblioteca de cenários (referências enviadas)
 
-Prompts extraídos de fotos de referência — **somente contexto** (cena, pose, luz, roupa,
-realismo), sem traços de identidade. A semelhança da pessoa vem da foto-referência anexada
-na ferramenta. Escritos no formato **à prova de filtro** (cena de praia comum, sem
-sexualização — ver `guia/04-roupas-e-filtros.md`).
+Prompts extraídos de fotos de referência — descrevem **somente o contexto**: cena, pose,
+enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personagem principal**
++ a **mini-ficha** (`personagem/mini-ficha.md`). Escritos no formato **à prova de filtro**
+(cena comum, sem sexualização — ver `guia/04-roupas-e-filtros.md`).
 
-> **Regra fixa da personagem (em TODO prompt):** a pessoa **não tem tatuagens, não tem
-> piercings e não usa nenhuma joia ou bijuteria** (sem brincos, colares, anéis ou pulseiras).
-> EN: _no tattoos, no piercings, and no jewelry of any kind (no earrings, necklaces, rings or bracelets)._
+> **Regra 1 — sem traços físicos:** estes prompts **NÃO descrevem cabelo, cor de pele, corpo
+> ou rosto**. Esses traços vêm **sempre da personagem** (imagens de referência + mini-ficha).
+> A pessoa é citada de forma neutra ("a mulher da imagem de referência"). Descrever traço aqui
+> só conflita com a referência.
+>
+> **Regra 2 — exclusões fixas:** a personagem **não tem tatuagens, não tem piercings e não usa
+> joias/bijuterias**. EN: _no tattoos, no piercings, and no jewelry of any kind._
 
 ## C1 — Praia de Ipanema / fim de tarde
 
 **PT**
-> Foto vertical casual de celular de uma jovem mulher em pé na areia da praia de Ipanema, no
-> Rio de Janeiro, no fim de tarde. Ao fundo, o morro Dois Irmãos, o mar com ondas quebrando à
-> esquerda e os prédios da orla à direita, com algumas pessoas pequenas e distantes na areia.
-> Céu de pôr do sol nublado, em tons pastel de rosa, lilás e cinza, luz suave e difusa,
-> levemente subexposta. Ela está de frente para a câmera, postura relaxada, segurando uma água
-> de coco verde gelada com um canudo azul em uma das mãos e a outra mão apoiada na cintura do
-> short, expressão tranquila e natural. Usa uma camiseta cropped verde da seleção do Brasil com
-> a escrita "BRASIL RIO DE JANEIRO" e detalhes amarelos, e um short curto amarelo com cordão
-> branco; unhas pintadas de vermelho. Cabelo loiro comprido e liso, um pouco solto pelo vento.
-> Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Areia com pegadas e textura
-> real ao redor. Pele com textura
-> natural, poros visíveis, leve brilho de fim de tarde, sem suavização nem retoque, acabamento
-> fosco. Enquadramento de corpo quase inteiro, levemente descentralizado, leve grão de câmera
-> de celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio,
-> não render 3D, não ilustração.
+> Foto vertical casual de celular da mulher da imagem de referência, em pé na areia da praia de
+> Ipanema, no Rio de Janeiro, no fim de tarde. Ao fundo, o morro Dois Irmãos, o mar com ondas
+> quebrando à esquerda e os prédios da orla à direita, com algumas pessoas pequenas e distantes
+> na areia. Céu de pôr do sol nublado, em tons pastel de rosa, lilás e cinza, luz suave e
+> difusa, levemente subexposta. Ela está de frente para a câmera, postura relaxada, segurando
+> uma água de coco verde gelada com um canudo azul em uma das mãos e a outra mão apoiada na
+> cintura do short, expressão tranquila e natural. Usa uma camiseta cropped verde da seleção do
+> Brasil com a escrita "BRASIL RIO DE JANEIRO" e detalhes amarelos, e um short curto amarelo com
+> cordão branco; unhas pintadas de vermelho. Sem tatuagens, sem piercings e sem nenhuma joia ou
+> bijuteria. Areia com pegadas e textura real ao redor. Preserve a textura de pele real da
+> referência, com leve brilho de fim de tarde, sem suavização nem retoque, acabamento fosco.
+> Enquadramento de corpo quase inteiro, levemente descentralizado, leve grão de câmera de
+> celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
+> render 3D, não ilustração.
 
 **EN**
-> Casual vertical smartphone photo of a young woman standing on the sand at Ipanema beach, Rio
-> de Janeiro, at dusk. In the background, the Dois Irmãos mountain, the ocean with breaking
-> waves on the left and the beachfront buildings on the right, with a few small distant people
-> on the sand. Overcast sunset sky in pastel tones of pink, lilac and grey, soft diffuse light,
-> slightly underexposed. She faces the camera in a relaxed stance, holding a cold green coconut
-> with a blue straw in one hand and resting the other hand on the waistband of her shorts, calm
-> natural expression. She wears a green cropped Brazil national-team t-shirt reading "BRASIL RIO
-> DE JANEIRO" with yellow trim, and short yellow shorts with a white drawstring; red nail
-> polish. Long straight blonde hair, slightly loose in the wind. No tattoos, no piercings, and
-> no jewelry of any kind. Sand with footprints and real texture around her. Skin with natural
-> texture, visible pores, faint dusk
-> sheen, no smoothing or retouching, matte finish. Near full-body framing, slightly off-center,
-> subtle phone-camera grain. Anatomically correct hands, five fingers. Real smartphone
-> photograph, not studio, not a 3D render, not an illustration.
+> Casual vertical smartphone photo of the woman from the reference image, standing on the sand
+> at Ipanema beach, Rio de Janeiro, at dusk. In the background, the Dois Irmãos mountain, the
+> ocean with breaking waves on the left and the beachfront buildings on the right, with a few
+> small distant people on the sand. Overcast sunset sky in pastel tones of pink, lilac and grey,
+> soft diffuse light, slightly underexposed. She faces the camera in a relaxed stance, holding a
+> cold green coconut with a blue straw in one hand and resting the other hand on the waistband of
+> her shorts, calm natural expression. She wears a green cropped Brazil national-team t-shirt
+> reading "BRASIL RIO DE JANEIRO" with yellow trim, and short yellow shorts with a white
+> drawstring; red nail polish. No tattoos, no piercings, and no jewelry of any kind. Sand with
+> footprints and real texture around her. Preserve the real skin texture from the reference, with
+> a faint dusk sheen, no smoothing or retouching, matte finish. Near full-body framing, slightly
+> off-center, subtle phone-camera grain. Anatomically correct hands, five fingers. Real
+> smartphone photograph, not studio, not a 3D render, not an illustration.
 
 ## C2 — Copacabana / dia de sol
 
 **PT**
-> Foto vertical casual de celular de uma jovem mulher sentada e recostada em uma cadeira de
-> praia vermelha, embaixo de um guarda-sol verde, na praia de Copacabana, no Rio de Janeiro, em
-> um dia ensolarado. Ao fundo, os prédios altos da orla de Copacabana, areia branca clara,
-> outras pessoas na praia, um guarda-sol colorido amarelo e azul mais distante e um morro ao
-> longe. Céu azul forte com algumas nuvens, luz dura de meio-dia, sombras marcadas e contraste
+> Foto vertical casual de celular da mulher da imagem de referência, sentada e recostada em uma
+> cadeira de praia vermelha, embaixo de um guarda-sol verde, na praia de Copacabana, no Rio de
+> Janeiro, em um dia ensolarado. Ao fundo, os prédios altos da orla de Copacabana, areia branca
+> clara, outras pessoas na praia, um guarda-sol colorido amarelo e azul mais distante e um morro
+> ao longe. Céu azul forte com algumas nuvens, luz dura de meio-dia, sombras marcadas e contraste
 > alto. Ela está sorrindo de forma espontânea e descontraída, com uma das mãos apoiada de leve
 > perto do rosto e a outra segurando uma água de coco verde gelada com um canudo vermelho. Usa
 > uma camiseta cropped amarela da seleção do Brasil com a escrita "BRASIL RIO DE JANEIRO" e
-> listras verdes, e uma parte de baixo de roupa de banho discreta. Cabelo loiro acobreado,
-> comprido e levemente ondulado, solto sobre o ombro. Sem tatuagens, sem piercings e sem nenhuma
-> joia ou bijuteria. Pele bronzeada com textura natural, poros
-> visíveis, leve brilho de suor pelo calor, sem suavização nem retoque, acabamento fosco.
-> Enquadramento de meio corpo, levemente de cima, descontraído, leve grão de câmera de celular.
-> Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não render
-> 3D, não ilustração.
+> listras verdes, e uma parte de baixo de roupa de banho discreta. Sem tatuagens, sem piercings e
+> sem nenhuma joia ou bijuteria. Preserve a textura de pele real da referência, com leve brilho
+> de suor pelo calor, sem suavização nem retoque, acabamento fosco. Enquadramento de meio corpo,
+> levemente de cima, descontraído, leve grão de câmera de celular. Mãos com anatomia correta,
+> cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
 
 **EN**
-> Casual vertical smartphone photo of a young woman sitting and reclining on a red beach chair
-> under a green beach umbrella on Copacabana beach, Rio de Janeiro, on a sunny day. In the
-> background, the tall beachfront buildings of Copacabana, bright white sand, other beachgoers,
-> a more distant colorful yellow-and-blue umbrella and a hill far away. Strong blue sky with a
-> few clouds, harsh midday light, hard shadows and high contrast. She smiles in a spontaneous,
-> relaxed way, one hand resting lightly near her face and the other holding a cold green coconut
-> with a red straw. She wears a yellow cropped Brazil national-team t-shirt reading "BRASIL RIO
-> DE JANEIRO" with green stripes, and a modest swimwear bottom. Coppery-blonde long, slightly
-> wavy hair loose over one shoulder. No tattoos, no piercings, and no jewelry of any kind.
-> Tanned skin with natural texture, visible pores, a faint
-> sweat sheen from the heat, no smoothing or retouching, matte finish. Half-body framing,
+> Casual vertical smartphone photo of the woman from the reference image, sitting and reclining
+> on a red beach chair under a green beach umbrella on Copacabana beach, Rio de Janeiro, on a
+> sunny day. In the background, the tall beachfront buildings of Copacabana, bright white sand,
+> other beachgoers, a more distant colorful yellow-and-blue umbrella and a hill far away. Strong
+> blue sky with a few clouds, harsh midday light, hard shadows and high contrast. She smiles in a
+> spontaneous, relaxed way, one hand resting lightly near her face and the other holding a cold
+> green coconut with a red straw. She wears a yellow cropped Brazil national-team t-shirt reading
+> "BRASIL RIO DE JANEIRO" with green stripes, and a modest swimwear bottom. No tattoos, no
+> piercings, and no jewelry of any kind. Preserve the real skin texture from the reference, with a
+> faint sweat sheen from the heat, no smoothing or retouching, matte finish. Half-body framing,
 > slightly from above, relaxed, subtle phone-camera grain. Anatomically correct hands, five
 > fingers. Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
-## C3 — Aquário / luz azul
+## C3 — Aquário / luz azul (close)
 
 **PT**
-> Foto vertical casual de celular de uma jovem mulher em pé na frente de um grande tanque de
-> aquário, num oceanário/aquário fechado. Atrás do vidro, água azul-esverdeada com um tubarão
-> grande nadando à esquerda e vários peixes prateados espalhados, pedras no fundo do tanque e
-> alguns pontos de luz refletindo no vidro. Toda a cena é banhada por uma luz azul fria e
-> difusa vinda do tanque, ambiente escuro ao redor. Ela está levemente de lado, com uma das
-> mãos apoiada num corrimão preto à sua frente e a outra mexendo no próprio cabelo, olhando
-> para o lado com expressão tranquila e contemplativa. Usa um top cropped branco de alças finas
-> e uma saia azul-royal curta com babados em camadas e cordão na cintura. Cabelo loiro comprido
-> e liso caindo sobre um dos ombros. Sem tatuagens, sem piercings e sem nenhuma joia ou
-> bijuteria. Pele com textura natural, poros visíveis, leve reflexo azulado da luz do aquário,
-> sem suavização nem retoque, acabamento fosco. Enquadramento de corpo quase inteiro, levemente
-> descentralizado, leve grão de câmera de celular em ambiente de pouca luz. Mãos com anatomia
-> correta, cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+> Foto vertical casual de celular da mulher da imagem de referência, em pé na frente de um grande
+> tanque de aquário, num oceanário/aquário fechado. Atrás do vidro, água azul-esverdeada com um
+> tubarão grande nadando à esquerda e vários peixes prateados espalhados, pedras no fundo do
+> tanque e alguns pontos de luz refletindo no vidro. Toda a cena é banhada por uma luz azul fria
+> e difusa vinda do tanque, ambiente escuro ao redor. Ela está levemente de lado, com uma das
+> mãos apoiada num corrimão preto à sua frente e a outra mexendo no próprio cabelo, olhando para
+> o lado com expressão tranquila e contemplativa. Usa um top cropped branco de alças finas e uma
+> saia azul-royal curta com babados em camadas e cordão na cintura. Sem tatuagens, sem piercings
+> e sem nenhuma joia ou bijuteria. Preserve a textura de pele real da referência, com leve
+> reflexo azulado da luz do aquário, sem suavização nem retoque, acabamento fosco. Enquadramento
+> de corpo quase inteiro, levemente descentralizado, leve grão de câmera de celular em ambiente de
+> pouca luz. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
+> render 3D, não ilustração.
 
 **EN**
-> Casual vertical smartphone photo of a young woman standing in front of a large aquarium tank,
-> inside an indoor aquarium/oceanarium. Behind the glass, blue-green water with a large shark
-> swimming on the left and many silvery fish scattered around, rocks at the bottom of the tank
-> and a few light spots reflecting on the glass. The whole scene is bathed in cool, diffuse blue
-> light coming from the tank, with a dark surrounding environment. She stands slightly turned to
-> the side, one hand resting on a black railing in front of her and the other running through
-> her own hair, looking to the side with a calm, contemplative expression. She wears a white
-> spaghetti-strap crop top and a short royal-blue tiered ruffle skirt with a drawstring waist.
-> Long straight blonde hair falling over one shoulder. No tattoos, no piercings, and no jewelry
-> of any kind. Skin with natural texture, visible pores, a faint bluish reflection from the
-> aquarium light, no smoothing or retouching, matte finish. Near full-body framing, slightly
-> off-center, subtle phone-camera grain in low light. Anatomically correct hands, five fingers.
-> Real smartphone photograph, not studio, not a 3D render, not an illustration.
+> Casual vertical smartphone photo of the woman from the reference image, standing in front of a
+> large aquarium tank, inside an indoor aquarium/oceanarium. Behind the glass, blue-green water
+> with a large shark swimming on the left and many silvery fish scattered around, rocks at the
+> bottom of the tank and a few light spots reflecting on the glass. The whole scene is bathed in
+> cool, diffuse blue light coming from the tank, with a dark surrounding environment. She stands
+> slightly turned to the side, one hand resting on a black railing in front of her and the other
+> running through her own hair, looking to the side with a calm, contemplative expression. She
+> wears a white spaghetti-strap crop top and a short royal-blue tiered ruffle skirt with a
+> drawstring waist. No tattoos, no piercings, and no jewelry of any kind. Preserve the real skin
+> texture from the reference, with a faint bluish reflection from the aquarium light, no smoothing
+> or retouching, matte finish. Near full-body framing, slightly off-center, subtle phone-camera
+> grain in low light. Anatomically correct hands, five fingers. Real smartphone photograph, not
+> studio, not a 3D render, not an illustration.
+
+## C4 — Aquário túnel / tubarão (look fitness)
+
+**PT**
+> Foto vertical casual de celular da mulher da imagem de referência, em pé, centralizada, na
+> frente de um grande tanque curvo de aquário, num oceanário fechado. Atrás do vidro, água
+> azul-turquesa com um tubarão grande nadando na horizontal logo atrás dela e vários peixes
+> prateados espalhados, pedras e fundo de areia clara no tanque, e pontos de luz refletindo na
+> parte de cima do vidro. Toda a cena tem uma luz azul-esverdeada fria e difusa vinda do tanque,
+> ambiente escuro ao redor. Ela está de frente para a câmera, postura relaxada, os dois braços
+> estendidos para baixo e para os lados com as mãos apoiadas em um corrimão preto horizontal
+> atrás dela, expressão neutra e tranquila. Usa um conjunto fitness branco canelado: top cropped
+> de alças largas e um short de cintura alta. Sem tatuagens, sem piercings e sem nenhuma joia ou
+> bijuteria. Preserve a textura de pele real da referência, com leve reflexo azulado da luz do
+> aquário, sem suavização nem retoque, acabamento fosco. Enquadramento de corpo quase inteiro,
+> levemente de baixo para cima, leve grão de câmera de celular em ambiente de pouca luz. Mãos com
+> anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não render 3D, não
+> ilustração.
+
+**EN**
+> Casual vertical smartphone photo of the woman from the reference image, standing, centered, in
+> front of a large curved aquarium tank, inside an indoor oceanarium. Behind the glass,
+> blue-turquoise water with a large shark swimming horizontally right behind her and many silvery
+> fish scattered around, rocks and a pale sandy bottom in the tank, and light spots reflecting on
+> the upper part of the glass. The whole scene has a cool, diffuse blue-green light coming from
+> the tank, with a dark surrounding environment. She faces the camera in a relaxed posture, both
+> arms extended down and out to the sides with her hands resting on a black horizontal railing
+> behind her, calm neutral expression. She wears a white ribbed athleisure set: a wide-strap crop
+> top and high-waisted shorts. No tattoos, no piercings, and no jewelry of any kind. Preserve the
+> real skin texture from the reference, with a faint bluish reflection from the aquarium light, no
+> smoothing or retouching, matte finish. Near full-body framing, slightly from below, subtle
+> phone-camera grain in low light. Anatomically correct hands, five fingers. Real smartphone
+> photograph, not studio, not a 3D render, not an illustration.
+
+## C5 — Ipanema / pôr do sol (caipirinha)
+
+**PT**
+> Foto vertical casual de celular da mulher da imagem de referência, em pé de perfil, descalça na
+> areia da praia de Ipanema, no Rio de Janeiro, no fim de tarde. Ela está virada para o mar,
+> levando um copo de caipirinha à boca com uma das mãos e o outro braço relaxado ao lado do
+> corpo, olhando para o horizonte. Ao fundo, o morro Dois Irmãos em silhueta à direita, o mar com
+> ondas quebrando à esquerda, a faixa de areia se estendendo com várias pessoas pequenas e
+> distantes, e uma leve neblina sobre a orla. Céu de pôr do sol em degradê quente, do laranja
+> perto do horizonte ao azul mais acima, sol baixo criando luz quente e levemente em contraluz,
+> tons alaranjados naturais (não cinematográfico). Usa uma camiseta cropped verde da seleção do
+> Brasil com a escrita "BRASIL RIO DE JANEIRO" e listras amarelas, e uma parte de baixo de roupa
+> de banho amarela. Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria. Preserve a
+> textura de pele real da referência, sem suavização nem retoque, acabamento fosco. Enquadramento
+> aberto de corpo inteiro, areia com muitas pegadas em primeiro plano, leve grão de câmera de
+> celular. Mãos com anatomia correta, cinco dedos. Fotografia real de celular, não estúdio, não
+> render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of the woman from the reference image, standing in profile,
+> barefoot on the sand at Ipanema beach, Rio de Janeiro, at dusk. She faces the sea, lifting a cup
+> of caipirinha to her mouth with one hand, the other arm relaxed at her side, looking toward the
+> horizon. In the background, the Dois Irmãos mountain in silhouette on the right, the ocean with
+> breaking waves on the left, the stretch of sand extending with several small distant people, and
+> a faint mist over the shoreline. Sunset sky in a warm gradient, from orange near the horizon to
+> blue higher up, the low sun creating warm, slightly backlit light with natural orange tones (not
+> cinematic). She wears a green cropped Brazil national-team t-shirt reading "BRASIL RIO DE
+> JANEIRO" with yellow stripes, and a yellow swimwear bottom. No tattoos, no piercings, and no
+> jewelry of any kind. Preserve the real skin texture from the reference, no smoothing or
+> retouching, matte finish. Wide full-body framing, sand with many footprints in the foreground,
+> subtle phone-camera grain. Anatomically correct hands, five fingers. Real smartphone photograph,
+> not studio, not a 3D render, not an illustration.
 
 ---
 
@@ -196,6 +265,6 @@ Use esta tabela para anotar o que rendeu melhor:
 
 | # | Prompt base | Resultado | Ajuste que funcionou |
 |---|---|---|---|
-| 1 | E1 | | |
-| 2 | E2 | | |
+| 1 | C1 | | |
+| 2 | C2 | | |
 | 3 | | | |
