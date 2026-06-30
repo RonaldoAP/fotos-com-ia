@@ -586,6 +586,69 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural finger proportions,
 > correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
+## C15 — Quiosque de praia / Ipanema (dia)
+
+**PT**
+> Foto vertical casual de celular da Vic sentada à mesa de um quiosque na orla da praia de Ipanema,
+> no Rio de Janeiro, num dia ensolarado. Acima dela, um guarda-sol do quiosque; ao fundo, a faixa de
+> areia com guarda-sóis coloridos (azuis) e várias pessoas, o mar azul e o morro Dois Irmãos ao
+> longe, uma planta de agave num vaso no canto e o calçadão de pedra portuguesa. Céu azul forte com
+> poucas nuvens, luz dura de dia de verão. Ela está sentada de forma relaxada, segurando um drink
+> alto (tipo caipirinha/gin com rodela de laranja e canudo) em uma das mãos, olhando para a câmera
+> com expressão tranquila. Usa óculos de sol hexagonais, uma blusa cropped bege de ombro caído
+> (off-shoulder) e uma parte de baixo bege. Cabelo solto, comprido e liso, caindo sobre um dos
+> ombros. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento de meio corpo, levemente
+> torto, leve grão de câmera de celular. _Booster:_ mantenha exatamente os traços do rosto da Vic,
+> sem embelezar nem padronizar; a luz forte do dia incide de forma realista sobre a pele, com sombras
+> marcadas, sem luz lisonjeira separada; textura de pele real com poros e pequenas imperfeições, sem
+> suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção
+> natural, anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic sitting at a beach kiosk table on the Ipanema seafront in
+> Rio de Janeiro, on a sunny day. Above her, the kiosk umbrella; in the background, the stretch of
+> sand with colorful (blue) umbrellas and many people, the blue sea and the Dois Irmãos mountain far
+> away, an agave plant in a pot in the corner, and the Portuguese-stone promenade. Strong blue sky
+> with a few clouds, harsh summer daylight. She sits relaxed, holding a tall drink (caipirinha/gin
+> style with an orange slice and a straw) in one hand, looking at the camera with a calm expression.
+> She wears hexagonal sunglasses, a beige off-shoulder cropped top and a beige bottom. Long straight
+> hair worn down over one shoulder. No tattoos, no piercings, no jewelry. Half-body framing, slightly
+> tilted, subtle phone-camera grain. _Booster:_ keep the exact facial features of Vic, no beautifying
+> or standardizing; the harsh daylight falls realistically on the skin with hard shadows, no separate
+> flattering light; real skin texture with pores and small imperfections, no smoothing or AI glow;
+> subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy. Real
+> smartphone photograph, not studio, not a 3D render, not an illustration.
+
+## C16 — Selfie no barco / mar (close)
+
+**PT**
+> Selfie vertical de braço estendido da Vic num barco em mar aberto de águas verde-turquesa, num dia
+> ensolarado. Ao fundo, o mar calmo esverdeado, uma ilha de vegetação densa e verde, montanhas
+> distantes e céu azul com poucas nuvens. Rosto próximo da câmera, cabeça levemente inclinada, meio
+> sorriso espontâneo, olhando para a câmera. Luz natural forte e quente do sol refletindo na água.
+> Usa um top/biquíni bege de alças finas. Cabelo solto, molhado do mar, repartido de lado, alguns
+> fios grudados no rosto e no pescoço. Sem tatuagens, sem piercings e sem nenhuma joia. Leve
+> distorção de lente frontal, enquadramento de rosto e ombros, leve grão de câmera de celular.
+> _Booster:_ mantenha exatamente os traços do rosto da Vic, sem embelezar nem padronizar; a luz forte
+> do sol incide de forma realista sobre a pele, com áreas em sombra, sem luz lisonjeira separada;
+> textura de pele real com poros, sardas e pequenas imperfeições, leve brilho de sol e água na pele,
+> sem suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção
+> natural, anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Vertical arm's-length selfie of Vic on a boat on open turquoise-green water, on a sunny day. In the
+> background, the calm greenish sea, a lush green island, distant mountains and a blue sky with a few
+> clouds. Face close to the camera, head slightly tilted, spontaneous half smile, looking at the
+> camera. Strong, warm natural sunlight reflecting off the water. She wears a beige spaghetti-strap
+> top/bikini. Hair worn down, wet from the sea, parted to one side, a few strands stuck to her face
+> and neck. No tattoos, no piercings, no jewelry. Slight front-lens distortion, head-and-shoulders
+> framing, subtle phone-camera grain. _Booster:_ keep the exact facial features of Vic, no
+> beautifying or standardizing; the strong sunlight falls realistically on the skin with shadowed
+> areas, no separate flattering light; real skin texture with pores, freckles and small imperfections,
+> a faint sun-and-water sheen on the skin, no smoothing or AI glow; subtle phone-photo grain and
+> noise; hands with natural finger proportions, correct anatomy. Real smartphone photograph, not
+> studio, not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
