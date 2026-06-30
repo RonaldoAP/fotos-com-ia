@@ -110,6 +110,7 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 - C17 — Mirante de praia / trilha (biquíni)
 - C18 — Ipanema / dia (camiseta Brasil + short jeans)
 - C19 — Praia / deitada na canga (close)
+- C22 — Mirante de favela / Rio · _modo natural_
 
 **🦈 Aquário**
 - C3 — Aquário / luz azul (close)
@@ -841,6 +842,28 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > light, a white wall behind her and a light tiled column on the right. Hair loose and wavy, falling
 > on her shoulders. Real skin with texture and pores, no retouching or AI look. No jewelry, tattoos or
 > piercings. Just a phone photo, with light grain and slightly crooked framing.
+
+## C22 — Mirante de favela / Rio — _modo natural_
+
+**PT**
+> Foto de celular da Vic num mirante lá no alto de uma favela do Rio, dessas com vista aberta pra
+> cidade. Ela está em pé segurando o corrimão de metal, olhando pra câmera com uma cara tranquila.
+> Atrás dá pra ver o costão de pedra enorme do morro, o casario colorido da favela descendo a
+> encosta, um grafite numa parede do lado e umas pessoas sentadas num cantinho de café. Sol forte de
+> fim de tarde batendo de lado, sombra dura. Ela usa uma regata azul-marinho do Brasil com "BRASIL
+> RIO DE JANEIRO" e vivo amarelo, short jeans claro e uma bolsinha de palha a tiracolo. Cabelo solto
+> e meio bagunçado pelo vento. Pele real com sardas e textura, sem retoque nem cara de IA. Sem joia,
+> tatuagem ou piercing. Foto de celular mesmo, com leve grão e enquadramento meio torto.
+
+**EN**
+> A phone photo of Vic at a viewpoint high up in a Rio favela, the kind with an open view over the
+> city. She's standing holding the metal railing, looking at the camera all relaxed. Behind her you
+> can see the huge rock face of the hill, the colorful favela houses going down the slope, some
+> graffiti on a wall to the side and a few people sitting at a little café corner. Strong
+> late-afternoon sun hitting from the side, hard shadows. She's wearing a navy Brazil tank top with
+> "BRASIL RIO DE JANEIRO" and yellow trim, light denim shorts and a small straw crossbody bag. Hair
+> loose and a bit messy from the wind. Real skin with freckles and texture, no retouching or AI look.
+> No jewelry, tattoos or piercings. Just a phone photo, with light grain and slightly crooked framing.
 
 ---
 
