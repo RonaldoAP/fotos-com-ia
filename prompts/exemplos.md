@@ -518,6 +518,39 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > correct anatomy (one holding the phone). Real smartphone photograph, not studio, not a 3D render,
 > not an illustration.
 
+## C13 — Academia / mirror selfie (top + legging)
+
+**PT**
+> Selfie de espelho vertical da Vic numa academia, segurando o celular na altura do rosto apontado
+> para o espelho, fazendo sinal de paz com a outra mão perto do rosto, olhar tranquilo para o
+> espelho. Ao fundo: o salão da academia com equipamentos, luzes quentes e pessoas pequenas e
+> desfocadas; uma barra/estrutura preta de aparelho ao lado dela. Iluminação interna quente de
+> academia, luz mista com contraste. Postura relaxada, em pé. Usa um top esportivo preto e uma
+> legging preta de cintura alta com um vivo branco na lateral; luvas de treino pretas sem dedos nas
+> duas mãos. Cabelo comprido preso para trás (rabo de cavalo), liso, com alguns fios soltos no
+> rosto. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento de meio corpo/quase corpo
+> inteiro no espelho, leve grão de câmera de celular. _Booster:_ mantenha exatamente os traços do
+> rosto e o biotipo atlético-curvilíneo da Vic, sem embelezar nem padronizar; a luz da academia
+> incide de forma realista sobre a pele, com áreas em sombra, sem luz lisonjeira separada; textura
+> de pele real com poros, sardas e pequenas imperfeições, sem suavização nem brilho de IA; grão e
+> ruído sutis de foto de celular; mãos com dedos de proporção natural, anatomia correta (uma
+> segurando o celular). Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Vertical mirror selfie of Vic in a gym, holding the phone at face height pointed at the mirror,
+> making a peace sign with the other hand near her face, calm gaze at the mirror. Background: the gym
+> floor with equipment, warm lights and small blurred people; a black machine bar/frame beside her.
+> Warm indoor gym lighting, mixed light with contrast. Relaxed standing posture. She wears a black
+> sports bra and high-waisted black leggings with a white side piping; black fingerless workout
+> gloves on both hands. Long hair tied back in a ponytail, straight, with a few loose strands on her
+> face. No tattoos, no piercings, no jewelry. Half-body / near full-body framing in the mirror,
+> subtle phone-camera grain. _Booster:_ keep the exact facial features and the athletic-curvy build
+> of Vic, no beautifying or standardizing; the gym light falls realistically on the skin with
+> shadowed areas, no separate flattering light; real skin texture with pores, freckles and small
+> imperfections, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
+> finger proportions, correct anatomy (one holding the phone). Real smartphone photograph, not
+> studio, not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
