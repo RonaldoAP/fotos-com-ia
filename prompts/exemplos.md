@@ -133,6 +133,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C28 — Casa / selfie close (glam CBF)
 - C30 — Casa / mirror selfie (luz dourada)
 - C32 — Banheiro / mirror selfie (top tomara-que-caia)
+- C33 — Casa / retrato na cortina (camisa CBF)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -752,6 +753,24 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > top with denim shorts, a casual night-out look. Normal indoor bathroom light. Hair down and wavy,
 > long. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone
 > photo, slightly crooked, light grain (one hand holds the phone).
+
+## C33 — Casa / retrato na cortina (camisa CBF)
+
+**PT**
+> Foto de celular da Vic em pé na frente de uma cortina bege/verde-oliva dentro de casa, à noite. Luz
+> interna quente e suave do ambiente. Ela está com uma das mãos atrás da cabeça, no cabelo, olhando
+> pra câmera com uma cara tranquila e um biquinho de leve. Usa a camisa amarela da seleção do Brasil
+> (CBF, gola com detalhe verde e azul, escudo e "BRASIL" no peito) e um short claro. Cabelo solto,
+> comprido e liso, repartido no meio. Pele real com textura, sem retoque nem cara de IA. Sem joia,
+> tatuagem ou piercing. Foto de celular meio torta, leve grão.
+
+**EN**
+> A phone photo of Vic standing in front of a beige/olive curtain indoors, at night. Warm soft indoor
+> light. She has one hand behind her head, in her hair, looking at the camera with a calm face and a
+> slight pout. She's wearing the yellow Brazil national-team jersey (CBF, collar with green and blue
+> trim, crest and "BRASIL" on the chest) and light shorts. Hair down, long and straight, parted in
+> the middle. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
+> Phone photo, slightly crooked, light grain.
 
 ---
 
