@@ -134,6 +134,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C30 — Casa / mirror selfie (luz dourada)
 - C32 — Banheiro / mirror selfie (top tomara-que-caia)
 - C33 — Casa / retrato na cortina (camisa CBF)
+- C34 — Casa / selfie close (camisa CBF)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -771,6 +772,22 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > trim, crest and "BRASIL" on the chest) and light shorts. Hair down, long and straight, parted in
 > the middle. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
 > Phone photo, slightly crooked, light grain.
+
+## C34 — Casa / selfie close (camisa CBF)
+
+**PT**
+> Selfie de braço esticado da Vic dentro de casa, num cômodo de parede clara, à noite. Luz interna
+> suave e quente. Ela está com uma das mãos na cabeça, no cabelo, olhando pra câmera com uma cara
+> séria e tranquila. Usa a camisa amarela da seleção do Brasil (CBF, gola V verde, escudo e "BRASIL",
+> logo da Nike). Cabelo solto, comprido e liso. Pele real com textura, sem retoque nem cara de IA.
+> Sem joia, tatuagem ou piercing. Selfie de celular (leve distorção), meio torta, leve grão.
+
+**EN**
+> An arm's-length selfie of Vic indoors, in a light-walled room, at night. Soft warm indoor light.
+> She has one hand on her head, in her hair, looking at the camera with a calm, serious face. She's
+> wearing the yellow Brazil national-team jersey (CBF, green V-neck, crest and "BRASIL", Nike logo).
+> Hair down, long and straight. Real skin with texture, no retouching or AI look. No jewelry, tattoos
+> or piercings. Phone selfie (slight distortion), slightly crooked, light grain.
 
 ---
 
