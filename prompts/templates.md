@@ -91,6 +91,30 @@ bloco anti-IA embutidos. Há versão **PT** e **EN** (o EN costuma render um pou
 
 ---
 
+## Modo natural (estilo padrão a partir de agora)
+
+Prompts escritos como uma **descrição solta**, do jeito que você contaria pra um amigo — não como
+lista técnica. Deixa a foto com mais cara de snapshot real e menos de "modelo posando". Os
+cuidados (pele real, sem joia, identidade da Vic) continuam, só **diluídos no texto**.
+
+**Molde mental:** _"Foto de celular da Vic [fazendo algo] em [lugar], [hora/luz]. Ela está [pose/
+expressão casual], usando [roupa]. [O que dá pra ver no fundo]. [Clima da luz]. Pele real com
+textura, sem retoque nem cara de IA. Sem tatuagem, piercing ou joia. Foto meio torta, com
+grãozinho de celular."_
+
+**Princípios:**
+- Comece pelo **momento** ("dessas tiradas de qualquer jeito", "selfie rápida"), não por specs.
+- Frases corridas e casuais; nada de bloco "Booster:" etiquetado.
+- Mantenha o essencial **embutido**: foto de celular, pele real/sem retoque, "nada de cara de IA",
+  sem joia/tatuagem/piercing, enquadramento descuidado, leve grão.
+- Cor de cabelo/corpo continua vindo da personagem (não descrever traço).
+
+> Exemplo (Ipanema): _"Foto de celular da Vic na praia de Ipanema num dia de sol, dessas tiradas
+> meio de qualquer jeito. Ela está em pé na areia ajeitando o cabelo, de óculos escuros, camiseta
+> verde do Brasil e short jeans. Atrás, o Dois Irmãos, o mar e a galera. Sol forte, sombra dura.
+> Pele real com sardas e textura, sem filtro nem cara de IA. Sem joia, tatuagem ou piercing. Foto
+> meio torta, com grãozinho de celular."_
+
 ## Como usar mãos com segurança
 
 Sempre que o template mostrar mãos, prefira uma destas: **no bolso**, **segurando um
