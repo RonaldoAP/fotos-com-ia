@@ -122,6 +122,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C27 — Bar / assistindo o jogo (chopp)
 - C29 — Varanda à noite / flash (camisa retrô)
 - C31 — Varanda hora azul / selfie (camisa away CBF) · _preset varanda anoitecer_
+- C35 — Rua à noite / mirror selfie de lado (neon)
 
 **🏠 Casa / quarto**
 - C8 — Quarto / foto na porta (regata Brasil)
@@ -141,6 +142,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C11 — Academia / mirror selfie (romper preto)
 - C12 — Academia / mirror selfie (romper azul, dia)
 - C13 — Academia / mirror selfie (top + legging)
+- C36 — Academia / treino de verdade (agachando)
 
 > Prompts completos (PT + EN) abaixo, em ordem numérica. Cena nova entra também na categoria
 > certa deste índice.
@@ -788,6 +790,44 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > wearing the yellow Brazil national-team jersey (CBF, green V-neck, crest and "BRASIL", Nike logo).
 > Hair down, long and straight. Real skin with texture, no retouching or AI look. No jewelry, tattoos
 > or piercings. Phone selfie (slight distortion), slightly crooked, light grain.
+
+## C35 — Rua à noite / mirror selfie de lado (neon)
+
+**PT**
+> Selfie de espelho de lado da Vic, à noite, do lado de fora perto de uma parede de tijolinho, com
+> umas luzes de neon (verde e rosa) desfocadas atrás. Ela está de perfil, sorrindo pra tela,
+> segurando o celular (capinha transparente) na frente do rosto. Usa uma camiseta azul-marinho do
+> Brasil com "BRASIL" em amarelo e listras amarelas na manga, calça de linho branca de cintura alta e
+> um cinto marrom fininho. Cabelo solto e comprido. Pele real com textura, sem retoque nem cara de
+> IA. Sem joia, tatuagem ou piercing. Foto de celular meio torta, leve grão de noite.
+
+**EN**
+> A side mirror selfie of Vic at night, outdoors near a brick wall, with blurred neon lights (green
+> and pink) behind her. She's in profile, smiling at the screen, holding the phone (clear case) in
+> front of her face. She's wearing a navy Brazil tee with "BRASIL" in yellow and yellow sleeve
+> stripes, high-waisted white linen pants and a thin brown belt. Hair down and long. Real skin with
+> texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked,
+> night grain.
+
+## C36 — Academia / treino de verdade (agachando)
+
+**PT**
+> Foto de celular da Vic treinando de verdade na academia, alguém tirou de lado enquanto ela agacha.
+> Ela está fazendo um agachamento com a barra apoiada nas costas no rack, concentrada, olhando pra
+> frente, no meio do movimento (joelhos dobrados). Atrás, o salão da academia com equipamentos,
+> espelhos e algumas pessoas treinando ao fundo. Luz de academia normal. Usa um conjuntinho fitness
+> (top esportivo e legging) e tênis. Cabelo preso num rabo de cavalo, alguns fios soltos grudados de
+> suor. Pele real com brilho de suor e textura, sem retoque nem cara de IA. Sem joia, tatuagem ou
+> piercing. Foto de celular meio torta, leve grão e leve desfoque de movimento.
+
+**EN**
+> A phone photo of Vic actually working out at the gym, taken from the side by someone while she
+> squats. She's doing a barbell back squat at the rack, focused, looking forward, mid-movement (knees
+> bent). Behind her, the gym floor with equipment, mirrors and a few people training. Normal gym
+> light. She's wearing a fitness set (sports bra and leggings) and sneakers. Hair in a ponytail, a
+> few sweaty strands stuck to her face. Real skin with a sweat sheen and texture, no retouching or AI
+> look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain and a bit of
+> motion blur.
 
 ---
 
