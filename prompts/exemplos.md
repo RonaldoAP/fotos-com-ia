@@ -121,6 +121,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C7 — Estádio à noite (torcida Brasil)
 - C27 — Bar / assistindo o jogo (chopp)
 - C29 — Varanda à noite / flash (camisa retrô)
+- C31 — Varanda hora azul / selfie (camisa away CBF) · _preset varanda anoitecer_
 
 **🏠 Casa / quarto**
 - C8 — Quarto / foto na porta (regata Brasil)
@@ -708,6 +709,31 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > flag on the chest). Hair down, long and straight, parted in the middle. Real skin with texture and
 > the warm sun glow on her skin, no retouching or AI look. No jewelry, tattoos or piercings. Mirror
 > phone selfie, slightly crooked, light grain.
+
+## C31 — Varanda hora azul / selfie (camisa away CBF) — _usa preset "Varanda ao anoitecer"_
+
+**PT**
+> Selfie de braço esticado da Vic numa varanda de apartamento alto ao anoitecer (hora azul), com a
+> cidade em silhueta e janelas acesas lá embaixo, corrimão de metal do lado. Céu em degradê do azul
+> profundo pro laranja no horizonte, ambiente escuro, foto levemente subexposta; clima moody meio
+> saturado tipo filtro de filme (azul-petróleo + laranja quente), sombras fechadas e realces quentes.
+> Ela está bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo, cabeça
+> meio inclinada, um meio sorriso, olhando pra câmera. Usa a camisa preta e azul da seleção (CBF,
+> escudo e "BRASIL", com o símbolo da Jordan). Cabelo solto e ondulado, caindo de um lado, meio ao
+> vento. Pele real com sardas e textura, só com a luz ambiente e o brilho quente da cidade no rosto,
+> sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular (leve distorção),
+> ângulo meio torto, grão de pouca luz.
+
+**EN**
+> An arm's-length selfie of Vic on a high apartment balcony at dusk (blue hour), with the city in
+> silhouette and lit windows below, a metal railing to the side. Sky gradient from deep blue to
+> orange at the horizon, dark setting, slightly underexposed; moody, fairly saturated film-filter
+> look (teal + warm orange), crushed shadows and warm highlights. She's very close to the camera, one
+> hand raised resting on her head/hair, head tilted, a half smile, looking at the camera. She's
+> wearing the black-and-blue national-team jersey (CBF, crest and "BRASIL", with the Jordan logo).
+> Hair down and wavy, falling to one side, a bit windblown. Real skin with freckles and texture, only
+> the ambient light and warm city glow on her face, no retouching or AI look. No jewelry, tattoos or
+> piercings. Phone selfie (slight distortion), slightly tilted angle, low-light grain.
 
 ---
 
