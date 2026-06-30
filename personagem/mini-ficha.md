@@ -11,8 +11,8 @@ só brigaria com a referência visual.
 
 ## 🇧🇷 Bloco para colar (PT)
 
-> A mesma pessoa das imagens de referência: mulher de uns 26–30 anos, cabelo loiro
-> escuro/castanho-claro, comprido e liso, olhos verde-acinzentados, pele clara com sardas
+> A mesma pessoa das imagens de referência: mulher de uns 26–30 anos, cabelo loiro com ombré
+> (raiz mais escura e pontas mais claras), comprido e liso, olhos verde-acinzentados, pele clara com sardas
 > leves, pequenas imperfeições e olheiras suaves (textura natural, acabamento fosco), biotipo
 > atlético-curvilíneo em formato ampulheta (cintura fina, quadril largo, glúteos volumosos e
 > bem torneados, pernas torneadas e definidas, barriga sequinha com leve definição), altura
@@ -23,7 +23,7 @@ só brigaria com a referência visual.
 ## 🇺🇸 Bloco para colar (EN)
 
 > The same person as in the reference images: woman around 26–30 years old, long straight
-> dark-blonde/light-brown hair, green-grey eyes, fair skin with light freckles, small
+> blonde hair with ombré (darker roots, lighter ends), green-grey eyes, fair skin with light freckles, small
 > imperfections and faint under-eye circles (natural texture, matte finish), athletic-curvy
 > hourglass build (slim waist, wide hips, full well-toned glutes, toned defined legs, flat toned
 > stomach with light definition), average height (~1.70 m). No tattoos, no piercings, and no
@@ -39,10 +39,13 @@ O prompt de cenário **não** descreve a **cor** do cabelo (vem da referência),
 descrever o **penteado/estado** (solto, com volume, ao vento, molhado, preso, rabo). O cabelo
 preso do kit de RG é só para mostrar o rosto — não force isso nas fotos de cena.
 
-> **PT:** Cabelo solto, com volume e movimento naturais, bem cuidado, caindo sobre os ombros,
-> alguns fios soltos no rosto (mesma cor e tipo de fio da referência).
-> **EN:** Hair worn down, with natural volume and movement, well-groomed, falling over the
-> shoulders, a few loose strands on the face (same color and hair type as the reference).
+> **PT:** Cabelo loiro com ombré (raiz mais escura, pontas mais claras), comprido e liso, solto,
+> com volume e movimento naturais, bem cuidado, caindo sobre os ombros, alguns fios soltos no rosto.
+> **EN:** Long straight blonde hair with ombré (darker roots, lighter ends), worn down, with
+> natural volume and movement, well-groomed, falling over the shoulders, a few loose strands on the face.
+
+> ⚠️ Travamos a **cor** no texto (ombré) porque o personagem estava oscilando entre morena e
+> loira. Quando a identidade estiver bem treimada, dá pra voltar a deixar a cor só na referência.
 
 Dica: inclua a referência **R9 (cabelo solto)** no kit para o modelo ter a âncora do cabelo solto.
 

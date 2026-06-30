@@ -4,13 +4,13 @@
 > mini-ficha. Este bloco descreve traços que NÃO mudam de uma foto para outra.
 >
 > **Descrição p/ ferramenta de criar personagem (campo "additional detail"):**
-> - **EN:** Vic — a woman around 26–30 years old. Long, straight dark-blonde hair, green-grey
+> - **EN:** Vic — a woman around 26–30 years old. Long, straight blonde hair with ombré (darker roots), green-grey
 >   eyes, fair skin with light freckles, natural texture and small imperfections (no airbrushing).
 >   Athletic-curvy hourglass figure: slim waist, wide hips, full well-toned glutes, toned legs,
 >   flat toned stomach. Natural, photorealistic look — real skin pores and a matte finish, never
 >   plastic or over-smoothed. She has no tattoos, no piercings, and wears no jewelry. Real photo
 >   look, not an illustration or 3D render.
-> - **PT:** Vic — mulher de uns 26–30 anos. Cabelo loiro escuro, comprido e liso, olhos
+> - **PT:** Vic — mulher de uns 26–30 anos. Cabelo loiro com ombré (raiz escura), comprido e liso, olhos
 >   verde-acinzentados, pele clara com sardas leves, textura natural e pequenas imperfeições (sem
 >   retoque). Corpo atlético-curvilíneo em ampulheta: cintura fina, quadril largo, glúteos
 >   volumosos e bem torneados, pernas torneadas, barriga sequinha. Aparência natural e
