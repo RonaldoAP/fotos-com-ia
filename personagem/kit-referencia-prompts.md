@@ -38,6 +38,7 @@ trava rosto e corpo nas fotos de cenário (ver `00-consistencia.md` e `05-consis
 - **R5 — Perfil direito (90°):** Cabeça de perfil completo para a direita.
 - **R6 — Corpo inteiro de frente:** Corpo inteiro de frente, em pé, postura neutra e ereta, braços relaxados ao lado do corpo, vestindo top justo e short ou legging neutros para mostrar a silhueta; enquadramento 3:4 da cabeça aos pés.
 - **R7 — Corpo inteiro de costas:** Corpo inteiro de costas, em pé, mesma roupa neutra, mostrando as costas e o contorno do corpo.
+- **R8 — Corpo inteiro mostrando as pernas:** Corpo inteiro de frente, em pé, da cabeça até os pés, com as pernas e os pés totalmente visíveis dentro do quadro; câmera mais afastada e na altura do quadril; vestindo top justo e short curto (ou shorts) neutros, pernas à mostra, descalça ou com tênis simples; postura neutra e ereta, braços relaxados ao lado do corpo. Deixe espaço acima da cabeça e abaixo dos pés (corpo inteiro enquadrado).
 
 ---
 
@@ -62,3 +63,4 @@ trava rosto e corpo nas fotos de cenário (ver `00-consistencia.md` e `05-consis
 - **R5 — Right profile (90°):** Full right profile.
 - **R6 — Full body, front:** Full-body front view, standing, neutral upright posture, arms relaxed at the sides, wearing a fitted top and neutral shorts or leggings to show the silhouette; 3:4 framing head to feet.
 - **R7 — Full body, back:** Full-body back view, standing, same neutral outfit, showing the back and body outline.
+- **R8 — Full body showing the legs:** Full-body front view, standing, from head to feet, with the legs and feet fully visible inside the frame; camera further back and at hip height; wearing a fitted top and short shorts, legs exposed, barefoot or in plain sneakers; neutral upright posture, arms relaxed at the sides. Leave space above the head and below the feet (full body framed).

@@ -5,26 +5,27 @@ Ele trava o "tipo" e as regras fixas. **A fidelidade do rosto vem das imagens de
 anexadas** — por isso a ficha fica ampla (arquétipo), sem geometria detalhada do rosto, que
 só brigaria com a referência visual.
 
-> Ajuste os valores entre [colchetes] quando você fechar o kit de referência da personagem.
+> Alinhada ao kit de referência atual. Ajuste qualquer valor se mudar a personagem.
 
 ---
 
 ## 🇧🇷 Bloco para colar (PT)
 
-> A mesma pessoa das imagens de referência: mulher brasileira de uns [26–30] anos, cabelo
-> loiro comprido e levemente ondulado com luzes mais claras, pele bronzeada com textura
-> natural (poros visíveis, sardas leves, pequenas imperfeições, acabamento fosco), biotipo
-> atlético-curvilíneo, altura média (~[1,70 m]). Sem tatuagens, sem piercings e sem nenhuma
-> joia ou bijuteria. Mãos com anatomia correta, cinco dedos. Mantenha rosto, corpo e proporções
+> A mesma pessoa das imagens de referência: mulher de uns 26–30 anos, cabelo loiro
+> escuro/castanho-claro, comprido e liso, olhos verde-acinzentados, pele clara com sardas
+> leves, pequenas imperfeições e olheiras suaves (textura natural, acabamento fosco), biotipo
+> médio/esguio, altura média (~1,70 m). Sem tatuagens, sem piercings e sem nenhuma joia ou
+> bijuteria. Mãos com anatomia correta, cinco dedos. Mantenha rosto, corpo e proporções
 > idênticos aos das imagens de referência.
 
 ## 🇺🇸 Bloco para colar (EN)
 
-> The same person as in the reference images: Brazilian woman around [26–30] years old, long
-> slightly wavy blonde hair with lighter highlights, tanned skin with natural texture (visible
-> pores, light freckles, small imperfections, matte finish), athletic-curvy build, average
-> height (~[1.70 m]). No tattoos, no piercings, and no jewelry of any kind. Anatomically correct
-> hands, five fingers. Keep the face, body and proportions identical to the reference images.
+> The same person as in the reference images: woman around 26–30 years old, long straight
+> dark-blonde/light-brown hair, green-grey eyes, fair skin with light freckles, small
+> imperfections and faint under-eye circles (natural texture, matte finish), medium/slim build,
+> average height (~1.70 m). No tattoos, no piercings, and no jewelry of any kind. Anatomically
+> correct hands, five fingers. Keep the face, body and proportions identical to the reference
+> images.
 
 ---
 
