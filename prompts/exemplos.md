@@ -551,6 +551,41 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > finger proportions, correct anatomy (one holding the phone). Real smartphone photograph, not
 > studio, not a 3D render, not an illustration.
 
+## C14 — Cristo Redentor / pôr do sol (look Brasil)
+
+**PT**
+> Foto vertical casual de celular da Vic no mirante do Cristo Redentor, no Rio de Janeiro, no fim de
+> tarde. Atrás dela, a estátua do Cristo Redentor de braços abertos vista de baixo, o céu de pôr do
+> sol com nuvens alaranjadas e rosadas, e vários turistas pequenos e desfocados na escadaria e no
+> mirante. Ela está encostada num muro/parapeito de pedra, levemente de lado, com uma das mãos
+> ajeitando o boné e a outra apoiada na pedra, sorrindo e olhando para o lado. Luz quente e natural
+> do fim de tarde, levemente em contraluz (não cinematográfica). Usa uma camiseta azul-marinho da
+> seleção do Brasil estilo retrô com a escrita "BRASIL RIO DE JANEIRO", bandeira no peito e listras
+> amarelas nas mangas e laterais, combinada com uma calça jeans; boné verde-militar. Cabelo solto,
+> comprido e ondulado, com volume natural caindo de um lado, alguns fios ao vento. Sem tatuagens, sem
+> piercings e sem nenhuma joia. Enquadramento de meio corpo, levemente torto, leve grão de câmera de
+> celular. _Booster:_ mantenha exatamente os traços do rosto da Vic, sem embelezar nem padronizar; a
+> luz quente do fim de tarde incide de forma realista e em contraluz sobre a pele, com áreas em
+> sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas imperfeições, sem
+> suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de proporção
+> natural, anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic at the Christ the Redeemer viewpoint in Rio de Janeiro, at
+> dusk. Behind her, the Christ the Redeemer statue with open arms seen from below, the sunset sky
+> with orange and pink clouds, and several small blurred tourists on the steps and viewpoint. She
+> leans against a stone wall/parapet, slightly turned, one hand adjusting her cap and the other
+> resting on the stone, smiling and looking to the side. Warm, natural late-afternoon light, slightly
+> backlit (not cinematic). She wears a navy-blue retro-style Brazil national-team t-shirt reading
+> "BRASIL RIO DE JANEIRO", a flag on the chest and yellow stripes on the sleeves and sides, paired
+> with jeans; an olive-green cap. Long wavy hair worn down, with natural volume falling to one side,
+> a few strands in the wind. No tattoos, no piercings, no jewelry. Half-body framing, slightly
+> tilted, subtle phone-camera grain. _Booster:_ keep the exact facial features of Vic, no beautifying
+> or standardizing; the warm late-afternoon light falls realistically and backlit on the skin with
+> shadowed areas, no separate flattering light; real skin texture with pores and small imperfections,
+> no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural finger proportions,
+> correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
