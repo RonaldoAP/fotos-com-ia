@@ -483,6 +483,41 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy (one
 > holding the phone). Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
+## C12 — Academia / mirror selfie (romper azul, dia)
+
+**PT**
+> Selfie de espelho vertical da Vic numa academia ampla durante o dia, segurando o celular na altura
+> do rosto apontado para o espelho, olhando para o espelho. Ao fundo: o salão da academia com
+> janelões grandes mostrando vegetação e a cidade lá fora, esteiras e equipamentos, piso de madeira
+> clara na frente e piso emborrachado preto atrás, algumas pessoas treinando ao fundo desfocadas.
+> Luz natural de dia entrando pelas janelas, suave e uniforme. Ela está de pé, levemente de lado com
+> uma perna à frente, postura relaxada, a outra mão solta ao lado do corpo. Usa um macacão fitness
+> curto de alças finas azul-periwinkle com vivo branco e uma pequena escrita "BYP" no peito; tênis
+> branco robusto (chunky). Cabelo preso em um rabo de cavalo alto, comprido e liso. Sem tatuagens,
+> sem piercings e sem nenhuma joia. Enquadramento de corpo inteiro no espelho, leve grão de câmera de
+> celular. _Booster:_ mantenha exatamente os traços do rosto e o biotipo atlético-curvilíneo da Vic,
+> sem embelezar nem padronizar; a luz natural da academia incide de forma realista sobre a pele, com
+> áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas
+> imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com
+> dedos de proporção natural, anatomia correta (uma segurando o celular). Fotografia real de celular,
+> não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Vertical mirror selfie of Vic in a large gym during the day, holding the phone at face height
+> pointed at the mirror, looking at the mirror. Background: the gym floor with large windows showing
+> greenery and the town outside, treadmills and equipment, light wooden flooring in front and black
+> rubber flooring behind, a few blurred people training. Natural daylight coming through the windows,
+> soft and even. She stands slightly turned with one leg forward, relaxed posture, the other hand
+> loose at her side. She wears a short spaghetti-strap periwinkle-blue fitness romper with white trim
+> and small "BYP" lettering on the chest; chunky white sneakers. Hair tied in a high ponytail, long
+> and straight. No tattoos, no piercings, no jewelry. Full-body framing in the mirror, subtle
+> phone-camera grain. _Booster:_ keep the exact facial features and the athletic-curvy build of Vic,
+> no beautifying or standardizing; the natural gym light falls realistically on the skin with
+> shadowed areas, no separate flattering light; real skin texture with pores and small imperfections,
+> no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural finger proportions,
+> correct anatomy (one holding the phone). Real smartphone photograph, not studio, not a 3D render,
+> not an illustration.
+
 ---
 
 ## Registro de testes
