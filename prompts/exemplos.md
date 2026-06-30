@@ -98,6 +98,43 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > embelezar + luz coerente + pele real + grão) — ver `guia/03-evitando-cara-de-ia.md`. Já está
 > embutido em cada prompt abaixo.
 
+## Índice por categoria
+
+**🏖️ Praia & Rio (ar livre)**
+- C1 — Ipanema / fim de tarde
+- C2 — Copacabana / dia de sol
+- C5 — Ipanema / pôr do sol (caipirinha)
+- C14 — Cristo Redentor / pôr do sol
+- C15 — Quiosque de praia / Ipanema (dia)
+- C16 — Selfie no barco / mar (close)
+- C17 — Mirante de praia / trilha (biquíni)
+- C18 — Ipanema / dia (camiseta Brasil + short jeans)
+
+**🦈 Aquário**
+- C3 — Aquário / luz azul (close)
+- C4 — Aquário túnel / tubarão (look fitness)
+
+**🚗 Carro / dia a dia**
+- C6 — Selfie no carro / luz de dia
+
+**🏟️ Eventos**
+- C7 — Estádio à noite (torcida Brasil)
+
+**🏠 Casa / quarto**
+- C8 — Quarto / foto na porta (regata Brasil)
+- C9 — Mirror selfie no quarto (suéter tricô)
+
+**💪 Academia / fitness**
+- C10 — Academia / mirror selfie (look fitness)
+- C11 — Academia / mirror selfie (romper preto)
+- C12 — Academia / mirror selfie (romper azul, dia)
+- C13 — Academia / mirror selfie (top + legging)
+
+> Os prompts completos (PT + EN) ficam abaixo, em ordem numérica. Ao adicionar uma cena nova,
+> coloque-a também na categoria certa deste índice.
+
+---
+
 ## C1 — Praia de Ipanema / fim de tarde
 
 **PT**
