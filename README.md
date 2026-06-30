@@ -50,9 +50,14 @@ guia/
   02-anatomia-do-prompt.md  A fórmula de 6 camadas com vocabulário pronto
   03-evitando-cara-de-ia.md Cada spec proibida e como combatê-la no prompt
   04-roupas-e-filtros.md    Praia/biquíni sem disparar o filtro (cena comum, sem sexualização)
+  05-consistencia-banana-pro.md  Estratégia de consistência de rosto e corpo no Nano Banana Pro
 prompts/
   templates.md              Modelos reutilizáveis (preencher os [colchetes])
   exemplos.md               Prompts prontos, completos, por cenário
+personagem/
+  00-consistencia.md        3 pilares da consistência + exclusões fixas
+  ficha-canonica.md         Ficha de identidade (template)
+  mini-ficha.md             Bloco curto de identidade p/ colar junto das imagens
 ```
 
 ## Fluxo de trabalho sugerido
