@@ -107,6 +107,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C18 — Ipanema / dia (camiseta Brasil + short jeans)
 - C19 — Praia / deitada na canga (close)
 - C22 — Mirante de favela / Rio
+- C23 — Praia Vermelha / bandeira do Brasil
 
 **🦈 Aquário**
 - C3 — Aquário / luz azul (close)
@@ -535,6 +536,26 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > "BRASIL RIO DE JANEIRO" and yellow trim, light denim shorts and a small straw crossbody bag. Hair
 > loose and a bit messy from the wind. Real skin with freckles and texture, no retouching or AI look.
 > No jewelry, tattoos or piercings. Just a phone photo, with light grain and slightly crooked framing.
+
+## C23 — Praia Vermelha / bandeira do Brasil
+
+**PT**
+> Foto de celular da Vic numa praia do Rio com o Pão de Açúcar logo atrás, no fim de tarde. Ela está
+> em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados
+> pros lados, a cabeça meio baixa olhando pra baixo, jeito tranquilo. Atrás, o morro do Pão de
+> Açúcar, o mar calmo e os morros verdes, com um céu de fim de tarde clarinho. Luz suave de fim de
+> tarde. Usa um biquíni verde com vivo amarelo, uns óculos de grau e uma florzinha branca presa no
+> cabelo. Cabelo solto e liso. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem
+> ou piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+
+**EN**
+> A phone photo of Vic on a Rio beach with Sugarloaf Mountain right behind, at dusk. She's standing
+> on the sand holding a Brazil flag wide open behind her, both arms out to the sides, head tilted
+> down, relaxed vibe. Behind her, the Sugarloaf hill, the calm sea and green hills, with a soft pale
+> dusk sky. Soft late-afternoon light. She's wearing a green bikini with yellow trim, prescription
+> glasses and a little white flower in her hair. Hair down and straight. Real skin with texture, no
+> retouching or AI look. No jewelry, tattoos or piercings. Full-body phone photo, slightly crooked,
+> light grain.
 
 ---
 
