@@ -414,6 +414,41 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > finger proportions, correct anatomy (one holding the phone). Real smartphone photograph, not studio,
 > not a 3D render, not an illustration.
 
+## C10 — Academia / mirror selfie (look fitness)
+
+**PT**
+> Selfie de espelho vertical da Vic numa academia, segurando o celular na altura do rosto apontado
+> para o espelho (parte do rosto visível acima do aparelho), olhando para o espelho. Ao fundo
+> refletido: o salão da academia com rack de agachamento, fileira de halteres, um banco preto,
+> espelhos grandes nas paredes, uma planta no canto, piso emborrachado escuro e janelas amplas à
+> esquerda. Iluminação interna de academia com fitas de LED no teto, luz uniforme com leve
+> contraste. Ela está de pé, de frente para o espelho, uma perna levemente à frente, postura
+> relaxada. Usa um macacão fitness curto sem mangas, de gola alta com zíper frontal, azul-marinho;
+> boné branco estilo beisebol; tênis branco com meia branca cano médio. Cabelo solto, comprido e
+> liso, caindo sobre um dos ombros. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento
+> de corpo inteiro no espelho, leve grão de câmera de celular. _Booster:_ mantenha exatamente os
+> traços do rosto e o biotipo atlético-curvilíneo da Vic, sem embelezar nem padronizar; a luz da
+> academia incide de forma realista sobre a pele, com áreas em sombra, sem luz lisonjeira separada;
+> textura de pele real com poros e pequenas imperfeições, sem suavização nem brilho de IA; grão e
+> ruído sutis de foto de celular; mãos com dedos de proporção natural, anatomia correta (uma
+> segurando o celular). Fotografia real de celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Vertical mirror selfie of Vic in a gym, holding the phone at face height pointed at the mirror
+> (part of her face visible above the phone), looking at the mirror. Reflected in the background:
+> the gym floor with a squat rack, a row of dumbbells, a black bench, large wall mirrors, a plant in
+> the corner, dark rubber flooring and wide windows on the left. Indoor gym lighting with LED ceiling
+> strips, even light with slight contrast. She stands facing the mirror, one leg slightly forward,
+> relaxed posture. She wears a short sleeveless fitness romper with a high zip-front neckline, navy
+> blue; a white baseball cap; white sneakers with mid-crew white socks. Long straight hair worn down
+> over one shoulder. No tattoos, no piercings, no jewelry. Full-body framing in the mirror, subtle
+> phone-camera grain. _Booster:_ keep the exact facial features and the athletic-curvy build of Vic,
+> no beautifying or standardizing; the gym light falls realistically on the skin with shadowed areas,
+> no separate flattering light; real skin texture with pores and small imperfections, no smoothing or
+> AI glow; subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy
+> (one holding the phone). Real smartphone photograph, not studio, not a 3D render, not an
+> illustration.
+
 ---
 
 ## Registro de testes
