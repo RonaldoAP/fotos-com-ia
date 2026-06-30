@@ -62,6 +62,26 @@ você acumula um banco de âncoras aprovadas por cenário.
 
 ---
 
+## Composição do set de treino (representar o look-ALVO)
+
+O personagem treinado vira a **média** das fotos de treino. Se o set for enviesado, o
+resultado puxa pro viés:
+
+- Maioria de **cabelo preso** → ele gera cabelo preso.
+- Maioria **sem ombré / mais escuro** → ele gera mais escuro.
+- Maioria de **corpo magro** → ele gera magro.
+
+Então o set tem que **parecer com o que você quer gerar**, não só "mostrar o rosto":
+
+| Tipo | Qtd sugerida | Observação |
+|---|---|---|
+| Rosto **ombré solto** (frontal, 3/4 L/R, sorrindo) | 5–6 | É o look-alvo — tem que dominar |
+| Rosto **preso** (frontal, perfil) | 1–2 | Só pra clareza das feições |
+| Corpo **no biotipo certo** (curvilíneo), mesma pessoa | 3 | Front, 3/4 costas, pernas |
+
+Regra: **mesma cara em todas + maioria no look-alvo (cabelo + corpo).** Melhor 10 fotos
+homogêneas e no alvo do que 15 variadas.
+
 ## Fluxo resumido
 
 1. **Kit de referência** (rosto multi-ângulo + corpo) → fixo.
