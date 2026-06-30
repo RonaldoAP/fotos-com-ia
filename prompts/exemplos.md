@@ -680,6 +680,43 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > smoothing or AI glow; subtle phone-photo grain and noise; hands with natural finger proportions,
 > correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an illustration.
 
+## C18 — Ipanema / dia (camiseta Brasil + short jeans)
+
+**PT**
+> Foto vertical casual de celular da Vic em pé na areia da praia de Ipanema, no Rio de Janeiro, num
+> dia ensolarado. Atrás dela, o morro Dois Irmãos, o mar azul com ondas quebrando à esquerda, os
+> prédios da orla à direita e vários banhistas pequenos e desfocados caminhando pela areia. Céu azul
+> forte, luz dura de sol de verão com sombras marcadas. Ela está de pé, levemente de lado, com uma
+> das mãos passando pelo cabelo e a outra solta ao lado do corpo, olhando para a câmera com expressão
+> tranquila. Usa óculos de sol retangulares pretos, uma camiseta cropped verde da seleção do Brasil
+> com a escrita "BRASIL RIO DE JANEIRO", bandeira no peito e detalhes/listras amarelas, combinada com
+> um short jeans de lavagem clara desfiado e rasgado. Cabelo solto, comprido, com volume natural ao
+> vento. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento aberto de meio corpo/quase
+> corpo inteiro com a praia em volta, levemente torto, leve grão de câmera de celular. _Booster:_
+> mantenha exatamente os traços do rosto e o biotipo atlético-curvilíneo da Vic, sem embelezar nem
+> padronizar; a luz forte do sol incide de forma realista sobre a pele, com sombras marcadas, sem luz
+> lisonjeira separada; textura de pele real com poros, sardas e pequenas imperfeições, leve brilho de
+> calor, sem suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos com dedos de
+> proporção natural, anatomia correta. Fotografia real de celular, não estúdio, não render 3D, não
+> ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic standing on the sand at Ipanema beach, Rio de Janeiro, on a
+> sunny day. Behind her, the Dois Irmãos mountain, the blue sea with breaking waves on the left, the
+> beachfront buildings on the right and many small blurred beachgoers walking on the sand. Strong
+> blue sky, harsh summer sunlight with hard shadows. She stands slightly turned, one hand running
+> through her hair and the other loose at her side, looking at the camera with a calm expression. She
+> wears black rectangular sunglasses, a green cropped Brazil national-team t-shirt reading "BRASIL RIO
+> DE JANEIRO" with a chest flag and yellow trim/stripes, paired with light-wash frayed ripped denim
+> shorts. Long hair worn down, with natural volume in the wind. No tattoos, no piercings, no jewelry.
+> Wide half-body / near full-body framing with the beach around her, slightly tilted, subtle
+> phone-camera grain. _Booster:_ keep the exact facial features and the athletic-curvy build of Vic,
+> no beautifying or standardizing; the strong sunlight falls realistically on the skin with hard
+> shadows, no separate flattering light; real skin texture with pores, freckles and small
+> imperfections, a faint heat sheen, no smoothing or AI glow; subtle phone-photo grain and noise;
+> hands with natural finger proportions, correct anatomy. Real smartphone photograph, not studio, not
+> a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
