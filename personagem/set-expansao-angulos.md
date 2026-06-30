@@ -4,6 +4,18 @@ Imagens extras para **cobrir os ângulos/expressões que faltavam** no treino �
 de "inventar" em poses fora do frontal/3-4/perfil. Mesmo padrão limpo do `set-retreino-vic.md`
 (fundo neutro, luz uniforme, ombré solto), usando a **âncora ombré como referência**.
 
+## Limite de slots (ex: Freepik = 9 fotos)
+
+Quando a ferramenta limita o nº de fotos de treino, **priorize variedade de rosto** (é o que o
+personagem trava) e deixe o corpo pra steerar na geração. Seleção sugerida de **9**:
+
+1. Frontal neutro · 2. 3/4 (um lado) · 3. Perfil (um lado) · 4. Rindo · 5. Cabeça inclinada ·
+6. Olhando pra baixo · 7. Sobre o ombro (giro) · 8. Corpo 3/4 de costas (curvy) · 9. Corpo de frente.
+
+> 7 rostos variados + 2 corpos. O biotipo curvilíneo se reforça na geração anexando uma
+> referência de corpo curvy (dual-ref). Ângulos que sobraram: auto-expande depois (geração boa
+> nova → re-treina).
+
 ## Como usar
 1. Anexe a **âncora ombré** da Vic como referência.
 2. Proporção **3:4 vertical**.
