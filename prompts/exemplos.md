@@ -120,6 +120,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 **🏟️ Eventos**
 - C7 — Estádio à noite (torcida Brasil)
 - C27 — Bar / assistindo o jogo (chopp)
+- C29 — Varanda à noite / flash (camisa retrô)
 
 **🏠 Casa / quarto**
 - C8 — Quarto / foto na porta (regata Brasil)
@@ -664,6 +665,28 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > jersey (CBF, green V-neck with the crest). Normal soft indoor hallway light. Real skin, no heavy
 > retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion), head and
 > shoulders, light grain.
+
+## C29 — Varanda à noite / flash (camisa retrô)
+
+**PT**
+> Foto de celular da Vic com flash, à noite, numa varanda/terraço com a cidade no fundo e o céu ainda
+> meio alaranjado do pôr do sol. Atrás, a silhueta escura dos prédios e umas luzinhas da cidade lá
+> embaixo. Flash do celular batendo forte nela, fundo bem escuro. Ela está encostada num corrimão,
+> cabeça meio inclinada, com atitude, a boca levemente aberta. Usa uma camisa retrô do Brasil anos 90
+> (amarela com grafismo laranja e gola verde, CBF) e uns óculos de sol futuristas pretos bem colados
+> no rosto. Cabelo cacheado/ondulado e meio bagunçado pelo vento, alguns fios no rosto. Pele real com
+> textura e o brilho do flash, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de
+> celular noturna com flash, grão e meio torta.
+
+**EN**
+> A flash phone photo of Vic at night on a balcony/terrace with the city behind and the sky still a
+> bit orange from the sunset. Behind her, the dark silhouette of buildings and some city lights
+> below. The phone flash hitting her hard, very dark background. She's leaning on a railing, head
+> tilted, full of attitude, mouth slightly open. She's wearing a retro 90s Brazil jersey (yellow with
+> an orange graphic and a green collar, CBF) and futuristic black wraparound sunglasses tight to her
+> face. Curly/wavy hair, a bit messy from the wind, a few strands on her face. Real skin with texture
+> and the flash sheen, no retouching or AI look. No jewelry, tattoos or piercings. Night flash phone
+> photo, grainy and slightly crooked.
 
 ---
 
