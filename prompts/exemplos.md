@@ -124,6 +124,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C9 — Mirror selfie no quarto (suéter tricô)
 - C20 — Casa / foto na parede (camisa CBF)
 - C21 — Casa / foto de look (conjunto Brasil)
+- C24 — Quarto / selfie à noite (conjunto Brasil)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -556,6 +557,27 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > glasses and a little white flower in her hair. Hair down and straight. Real skin with texture, no
 > retouching or AI look. No jewelry, tattoos or piercings. Full-body phone photo, slightly crooked,
 > light grain.
+
+## C24 — Quarto / selfie à noite (conjunto Brasil)
+
+**PT**
+> Selfie da Vic no quarto, de braço esticado, sentada na beira da cama. Quarto aconchegante com luz
+> quentinha de abajur acesa, parede clara meio inclinada no teto, um guarda-roupa de madeira do lado
+> com umas coisas em cima e a cama com lençol branco meio amassado. Ela está olhando pra câmera
+> tranquila, uma mão no cabelo. Usa um conjuntinho amarelo do Brasil — regata de alça fina com vivo
+> verde e short de moletom amarelo com "BRAZIL" escrito embaixo. Cabelo solto e ondulado, bem
+> comprido. Pele real com textura e sardas, sem retoque nem cara de IA. Sem joia, tatuagem ou
+> piercing. Foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio
+> torto.
+
+**EN**
+> An arm's-length selfie of Vic in her bedroom, sitting on the edge of the bed. Cozy room with warm
+> light from a small lamp, a light wall with a sloped ceiling, a wooden wardrobe to the side with
+> some stuff on top, and the bed with slightly rumpled white sheets. She's looking at the camera
+> relaxed, one hand in her hair. She's wearing a yellow Brazil set — a thin-strap tank with green
+> trim and yellow sweat shorts with "BRAZIL" written at the hem. Hair loose and wavy, very long. Real
+> skin with texture and freckles, no retouching or AI look. No jewelry, tattoos or piercings. A
+> slightly dim phone photo because of the lamp light, light grain, slightly crooked framing.
 
 ---
 
