@@ -314,6 +314,106 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy. Real
 > smartphone photograph, not studio, not a 3D render, not an illustration.
 
+## C7 — Estádio à noite (torcida Brasil)
+
+**PT**
+> Foto vertical casual de celular da Vic, tirada de improviso por um amigo, em pé na arquibancada
+> de um estádio de futebol lotado à noite (tipo Maracanã), durante um jogo da seleção. Atrás dela,
+> a multidão de torcedores de amarelo desfocada, o gramado iluminado lá embaixo à esquerda e a
+> estrutura curva do estádio com os refletores fortes acesos criando um brilho ao fundo. Luz
+> artificial mista do estádio, com leve contraluz dos refletores. Ela está sorrindo de forma
+> espontânea e animada, olhando para a câmera, postura relaxada, uma das mãos apoiada de leve na
+> cintura. Usa uma camiseta cropped amarela da seleção do Brasil com detalhes e mangas verdes, a
+> escrita "BRASIL" e estrelinhas verdes no peito, combinada com um short jeans de lavagem clara.
+> Cabelo solto, comprido e liso, com volume natural caindo sobre um dos ombros, alguns fios soltos
+> no rosto. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento de meio corpo, levemente
+> torto, leve grão e ruído de foto noturna de celular. _Booster:_ mantenha exatamente os traços do
+> rosto da Vic, sem embelezar nem padronizar; a luz do estádio incide de forma realista sobre a
+> pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e pequenas
+> imperfeições, sem suavização nem brilho de IA; grão e ruído visíveis de foto noturna; mãos com
+> dedos de proporção natural, anatomia correta. Fotografia real de celular, não estúdio, não render
+> 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic, taken candidly by a friend, standing in the stands of a
+> packed football stadium at night (Maracanã-style), during a national-team match. Behind her, the
+> blurred crowd of fans in yellow, the lit pitch below on the left, and the curved stadium structure
+> with strong floodlights creating a glow in the background. Mixed artificial stadium light, with a
+> faint backlight from the floodlights. She smiles spontaneously and excitedly, looking at the
+> camera, relaxed posture, one hand resting lightly on her waist. She wears a yellow cropped Brazil
+> national-team t-shirt with green trim and sleeves, "BRASIL" lettering and small green stars on the
+> chest, paired with light-wash denim shorts. Long straight hair worn down, with natural volume
+> falling over one shoulder, a few loose strands on her face. No tattoos, no piercings, no jewelry.
+> Half-body framing, slightly tilted, subtle grain and noise of a night phone photo. _Booster:_ keep
+> the exact facial features of Vic, no beautifying or standardizing; the stadium light falls
+> realistically on the skin with shadowed areas, no separate flattering light; real skin texture
+> with pores and small imperfections, no smoothing or AI glow; visible grain and noise of a night
+> photo; hands with natural finger proportions, correct anatomy. Real smartphone photograph, not
+> studio, not a 3D render, not an illustration.
+
+## C8 — Quarto / foto na porta (regata Brasil + short creme)
+
+**PT**
+> Foto vertical casual de celular da Vic, tirada de improviso, em pé na frente de uma porta de
+> madeira dentro de casa (quarto/corredor), com uma parede de azulejos claros à esquerda. Luz
+> interna suave e quente do ambiente. Ela está de pé, levemente de lado, com uma das mãos perto do
+> bolso do short, olhando para o lado com um meio sorriso tranquilo. Usa uma regata cropped amarela
+> da seleção do Brasil de alças finas, com a escrita "BRASIL", a bandeira do Brasil no peito e
+> detalhes verdes nas laterais, combinada com um short jeans de cintura alta off-white (creme).
+> Cabelo solto, comprido e levemente ondulado, com volume natural caindo sobre os ombros, alguns
+> fios soltos no rosto. Sem tatuagens, sem piercings e sem nenhuma joia. Enquadramento quase de
+> corpo inteiro, levemente torto, leve grão de câmera de celular. _Booster:_ mantenha exatamente os
+> traços do rosto da Vic, sem embelezar nem padronizar; a luz interna do ambiente incide de forma
+> realista sobre a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com
+> poros e pequenas imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto de
+> celular; mãos com dedos de proporção natural, anatomia correta. Fotografia real de celular, não
+> estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic, taken candidly, standing in front of a wooden door indoors
+> (bedroom/hallway), with a light tiled wall on the left. Soft, warm indoor light. She stands
+> slightly turned to the side, one hand near her shorts pocket, looking to the side with a calm half
+> smile. She wears a yellow cropped Brazil national-team spaghetti-strap tank top reading "BRASIL",
+> with the Brazilian flag on the chest and green side trim, paired with off-white (cream) high-waisted
+> denim shorts. Long, slightly wavy hair worn down, with natural volume over the shoulders, a few
+> loose strands on her face. No tattoos, no piercings, no jewelry. Near full-body framing, slightly
+> tilted, subtle phone-camera grain. _Booster:_ keep the exact facial features of Vic, no beautifying
+> or standardizing; the indoor ambient light falls realistically on the skin with shadowed areas, no
+> separate flattering light; real skin texture with pores and small imperfections, no smoothing or AI
+> glow; subtle phone-photo grain and noise; hands with natural finger proportions, correct anatomy.
+> Real smartphone photograph, not studio, not a 3D render, not an illustration.
+
+## C9 — Mirror selfie no quarto (suéter tricô Brasil)
+
+**PT**
+> Selfie de espelho vertical da Vic em um quarto, segurando o celular na frente do peito apontado
+> para o espelho, olhando para a tela com um meio sorriso. Ao fundo refletido: uma cama arrumada com
+> roupa de cama clara, uma TV preta na parede e piso de madeira. Luz interna suave e natural do
+> quarto. Ela está de pé, uma das mãos no bolso do short. Usa um suéter cropped de tricô da seleção
+> do Brasil, amarelo, com a escrita "BRASIL" em verde no peito, detalhes verdes nas laterais, decote
+> em V e mangas compridas, combinado com um short jeans de lavagem clara, desfiado na barra. Cabelo
+> solto, comprido e liso, caindo sobre os ombros. Sem tatuagens, sem piercings e sem nenhuma joia.
+> Enquadramento de meio corpo, leve grão de câmera de celular. _Booster:_ mantenha exatamente os
+> traços do rosto da Vic, sem embelezar nem padronizar; a luz do quarto incide de forma realista
+> sobre a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com poros e
+> pequenas imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto de celular; mãos
+> com dedos de proporção natural, anatomia correta (uma segurando o celular). Fotografia real de
+> celular, não estúdio, não render 3D, não ilustração.
+
+**EN**
+> Vertical mirror selfie of Vic in a bedroom, holding the phone in front of her chest pointed at the
+> mirror, looking at the screen with a half smile. Reflected in the background: a made bed with light
+> bedding, a black TV on the wall and a wooden floor. Soft, natural indoor bedroom light. She stands
+> with one hand in her shorts pocket. She wears a cropped knit Brazil sweater, yellow, with green
+> "BRASIL" lettering on the chest, green side panels, a V-neck and long sleeves, paired with
+> light-wash frayed-hem denim shorts. Long straight hair worn down over the shoulders. No tattoos, no
+> piercings, no jewelry. Half-body framing, subtle phone-camera grain. _Booster:_ keep the exact
+> facial features of Vic, no beautifying or standardizing; the bedroom light falls realistically on
+> the skin with shadowed areas, no separate flattering light; real skin texture with pores and small
+> imperfections, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
+> finger proportions, correct anatomy (one holding the phone). Real smartphone photograph, not studio,
+> not a 3D render, not an illustration.
+
 ---
 
 ## Registro de testes
