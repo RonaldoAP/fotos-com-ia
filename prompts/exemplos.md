@@ -124,6 +124,7 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 **🏠 Casa / quarto**
 - C8 — Quarto / foto na porta (regata Brasil)
 - C9 — Mirror selfie no quarto (suéter tricô)
+- C20 — Casa / foto na parede (camisa CBF)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -784,6 +785,39 @@ enquadramento, luz, roupa e realismo. Usados junto com as **imagens da personage
 > standardizing; the strong sunlight falls realistically on the skin with shadowed areas, no separate
 > flattering light; real skin texture with pores, freckles and small imperfections, a faint
 > sun-and-sweat sheen, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
+> finger proportions, correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an
+> illustration.
+
+## C20 — Casa / foto na parede (camisa CBF)
+
+**PT**
+> Foto vertical casual de celular da Vic em pé na frente de uma parede lisa bege/creme dentro de
+> casa, à noite. Luz interna quente e suave do ambiente (lâmpada amarelada), com leve sombra dela na
+> parede. Ela está de pé, levemente de lado, com uma das mãos apoiada na cintura e a outra solta,
+> olhando para a câmera com expressão tranquila e séria. Usa a camisa oficial amarela da seleção do
+> Brasil (CBF), de gola V verde, com o escudo da CBF e a escrita "BRASIL" no peito e um vivo verde na
+> lateral, combinada com uma calça jeans baggy de lavagem clara, rasgada. Cabelo solto, comprido e
+> levemente ondulado, caindo de um lado sobre o ombro. Sem tatuagens, sem piercings e sem nenhuma
+> joia. Enquadramento de quase corpo inteiro, levemente torto, leve grão de câmera de celular em
+> ambiente de pouca luz. _Booster:_ mantenha exatamente os traços do rosto e o biotipo
+> atlético-curvilíneo da Vic, sem embelezar nem padronizar; a luz quente do ambiente incide de forma
+> realista sobre a pele, com áreas em sombra, sem luz lisonjeira separada; textura de pele real com
+> poros, sardas e pequenas imperfeições, sem suavização nem brilho de IA; grão e ruído sutis de foto
+> de celular; mãos com dedos de proporção natural, anatomia correta. Fotografia real de celular, não
+> estúdio, não render 3D, não ilustração.
+
+**EN**
+> Casual vertical smartphone photo of Vic standing in front of a plain beige/cream indoor wall, at
+> night. Warm, soft indoor light (yellowish lamp), with a faint shadow of her on the wall. She stands
+> slightly turned, one hand resting on her hip and the other loose, looking at the camera with a calm,
+> serious expression. She wears the official yellow Brazil national-team jersey (CBF), with a green
+> V-neck, the CBF crest and "BRASIL" lettering on the chest and a green side trim, paired with
+> light-wash ripped baggy jeans. Long, slightly wavy hair worn down, falling to one side over her
+> shoulder. No tattoos, no piercings, no jewelry. Near full-body framing, slightly tilted, subtle
+> phone-camera grain in low light. _Booster:_ keep the exact facial features and the athletic-curvy
+> build of Vic, no beautifying or standardizing; the warm ambient light falls realistically on the
+> skin with shadowed areas, no separate flattering light; real skin texture with pores, freckles and
+> small imperfections, no smoothing or AI glow; subtle phone-photo grain and noise; hands with natural
 > finger proportions, correct anatomy. Real smartphone photograph, not studio, not a 3D render, not an
 > illustration.
 
