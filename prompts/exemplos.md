@@ -108,6 +108,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C19 — Praia / deitada na canga (close)
 - C22 — Mirante de favela / Rio
 - C23 — Praia Vermelha / bandeira do Brasil
+- C25 — Praia / dia (look Brasil + chapéu de palha)
 
 **🦈 Aquário**
 - C3 — Aquário / luz azul (close)
@@ -578,6 +579,26 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > trim and yellow sweat shorts with "BRAZIL" written at the hem. Hair loose and wavy, very long. Real
 > skin with texture and freckles, no retouching or AI look. No jewelry, tattoos or piercings. A
 > slightly dim phone photo because of the lamp light, light grain, slightly crooked framing.
+
+## C25 — Praia / dia (look Brasil + chapéu de palha)
+
+**PT**
+> Foto de celular da Vic em pé na areia de uma praia do Rio num dia de sol forte. Atrás, o mar com
+> ondas, os prédios da orla, uns morros ao longe e a galera na praia. Céu azul com nuvens, sol forte
+> e sombra dura. Ela está de pé, uma mão segurando a aba do chapéu, olhando pra câmera tranquila. Usa
+> um chapéu de palha estilo country, óculos de sol escuros, uma camiseta cropped amarela do Brasil
+> ("BRASIL RIO DE JANEIRO") com vivo verde e uma parte de baixo de biquíni amarela e verde. Cabelo
+> preso em duas tranças. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou
+> piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+
+**EN**
+> A phone photo of Vic standing on the sand at a Rio beach on a bright sunny day. Behind her, the sea
+> with waves, the beachfront buildings, some hills far off and people on the beach. Blue sky with
+> clouds, strong sun and hard shadows. She's standing, one hand holding the brim of her hat, looking
+> at the camera relaxed. She's wearing a straw cowboy-style hat, dark sunglasses, a yellow cropped
+> Brazil tee ("BRASIL RIO DE JANEIRO") with green trim and a yellow-and-green bikini bottom. Hair in
+> two braids. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
+> Full-body phone photo, slightly crooked, light grain.
 
 ---
 
