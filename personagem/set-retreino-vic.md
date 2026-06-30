@@ -36,15 +36,19 @@ clareza das feições).
 
 ---
 
-## BLOCO BASE — corpo (PT)
+## BLOCO BASE — corpo (PT) — DUAS referências
 
-> Foto de referência fotorrealista, 3:4 vertical, da mesma mulher da imagem de referência anexada
-> — rosto idêntico ao da referência. Cabelo loiro com ombré (raiz escura), comprido e liso, solto.
-> Fundo neutro liso cinza-claro, luz suave e uniforme. Biotipo atlético-curvilíneo em ampulheta
-> (cintura fina, quadril largo, glúteos volumosos e bem torneados, pernas torneadas, barriga
-> sequinha). Vestindo conjunto fitness neutro (top esportivo e legging/short). Sem tatuagens, sem
-> piercings e sem joias. Textura de pele real, sem suavização nem brilho de IA. Foto realista, não
-> render 3D, não ilustração. [ÂNGULO]
+> **Método:** anexe **2 imagens** — (1) o **rosto da Vic** (âncora ombré) e (2) uma **foto de
+> corpo curvilíneo** como guia de forma (ex: a L1-2). O texto abaixo amarra as duas.
+
+> Foto de referência fotorrealista, 3:4 vertical. Rosto idêntico ao da imagem de referência de
+> ROSTO da Vic (mesmas feições, ombré raiz escura, sardas). Corpo no formato da imagem de
+> referência de CORPO anexada: biotipo atlético-curvilíneo bem marcante em ampulheta — cintura
+> bem fina, quadril largo, glúteos grandes, volumosos, redondos e torneados, coxas torneadas,
+> barriga sequinha. Cabelo loiro ombré (raiz escura), comprido e liso, solto. Fundo neutro liso
+> cinza-claro, luz suave e uniforme. Conjunto fitness neutro (top esportivo e legging/short). Sem
+> tatuagens, sem piercings e sem joias. Textura de pele real, sem suavização nem brilho de IA.
+> Foto realista, não render 3D, não ilustração. [ÂNGULO]
 
 ### Ângulos de corpo (PT)
 - **S6 — Corpo de frente:** Corpo inteiro de frente, da cabeça aos pés, postura reta, braços relaxados.
