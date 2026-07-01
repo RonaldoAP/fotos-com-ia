@@ -64,3 +64,29 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 > shorts) in stretch fabric, a white headband and white wireless earbuds. Hair in a high ponytail,
 > a few loose strands. Real skin with texture and a faint sweat sheen, no retouching or AI look. No
 > jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain, background in focus.
+
+---
+
+## EXT3 — Praia / selfie fitness (variação)
+
+_Variação da base fitness, movida pra praia (manhã)._
+
+**PT**
+> Foto de celular vertical da Vic na praia de manhã cedo, dessas tiradas de qualquer jeito. Ela
+> está de pé meio de lado, o corpo virado, olhando por cima do ombro pra câmera com um meio
+> sorriso, uma das mãos ajeitando o rabo de cavalo. Atrás, a faixa de areia, o mar com ondas
+> quebrando e o céu de manhã meio nublado, uns quiosques e pessoas pequenas ao longe. Luz natural
+> suave da manhã. Usa um conjuntinho fitness lilás (top esportivo e short de cintura alta) e uma
+> faixa branca na testa. Cabelo preso num rabo de cavalo alto, alguns fios ao vento. Pele real com
+> textura e leve brilho de sol e suor, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing.
+> Foto de celular meio torta, leve grão.
+
+**EN**
+> A vertical phone photo of Vic at the beach early in the morning, snapped casually. She's standing
+> sideways, body turned, looking back over her shoulder at the camera with a half smile, one hand
+> fixing her ponytail. Behind her, the stretch of sand, the sea with breaking waves and an overcast
+> morning sky, some beach kiosks and small distant people. Soft natural morning light. She's
+> wearing a lilac fitness set (sports bra and high-waisted shorts) and a white headband. Hair in a
+> high ponytail, a few strands in the wind. Real skin with texture and a faint sun-and-sweat sheen,
+> no retouching or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light
+> grain.
