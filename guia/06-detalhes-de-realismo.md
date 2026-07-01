@@ -48,3 +48,23 @@ olhando pra fora do quadro · interagindo com um objeto.
 
 > Regra de ouro: **2–4 âncoras por foto**, escolhidas pelo contexto. Menos é mais.
 > No Nano Banana, tudo isso vai **afirmado no texto** (não existe negative prompt).
+
+---
+
+## ⚠️ Cuidado: não exagere as imperfeições (senão vira "doença de pele")
+
+Empilhar muitas âncoras de pele (sardas + sinais + vermelhidão irregular + poros + manchas)
+faz o modelo interpretar como **acne/irritação** — aparece um aglomerado vermelho na bochecha,
+pele com aspecto de problema. Aconteceu num teste real.
+
+**Como evitar:**
+- Sempre com **"leve/sutil"** (leve vermelhidão, poucas sardas).
+- Adicione um **freio**: "pele **saudável**, sem acne, sem espinhas em excesso, sem irritação
+  nem manchas vermelhas".
+- Use **poucos** termos de imperfeição por vez, não a lista toda.
+
+> **Bloco de pele "seguro" (PT):** pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão suave e uniforme; sem acne, sem espinhas em excesso, sem irritação na pele.
+>
+> **(EN):** natural, healthy skin texture — pores and a few faint freckles, soft even redness; no
+> acne, no clustered blemishes, no skin irritation or red patches.
