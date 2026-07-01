@@ -90,3 +90,29 @@ _Variação da base fitness, movida pra praia (manhã)._
 > high ponytail, a few strands in the wind. Real skin with texture and a faint sun-and-sweat sheen,
 > no retouching or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light
 > grain.
+
+---
+
+## EXT4 — Praia / de frente, olhar firme
+
+_Variação: de frente pra câmera, olhar firme e confiante (expressão, não sexualização)._
+
+**PT**
+> Selfie vertical da Vic de frente pra câmera, na praia de manhã. Ela está de pé, encarando a
+> câmera com um olhar firme, confiante e meio sedutor, o queixo levemente baixo e a expressão
+> séria, lábios fechados. Uma das mãos ajeitando o cabelo, a outra relaxada. Atrás, a faixa de
+> areia, o mar com ondas e o céu de manhã meio nublado. Luz natural suave da manhã. Usa um
+> conjuntinho fitness lilás (top esportivo e short de cintura alta) e uma faixa branca na testa.
+> Cabelo preso num rabo de cavalo alto, alguns fios ao vento. Pele real com textura e leve brilho
+> de sol, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular (leve
+> distorção), meio torta, leve grão.
+
+**EN**
+> A vertical selfie of Vic facing the camera, at the beach in the morning. She's standing, staring
+> straight at the camera with a firm, confident, slightly seductive gaze, chin slightly down,
+> serious expression, lips closed. One hand fixing her hair, the other relaxed. Behind her, the
+> stretch of sand, the sea with waves and an overcast morning sky. Soft natural morning light.
+> She's wearing a lilac fitness set (sports bra and high-waisted shorts) and a white headband. Hair
+> in a high ponytail, a few strands in the wind. Real skin with texture and a faint sun sheen, no
+> retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion),
+> slightly crooked, light grain.
