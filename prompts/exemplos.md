@@ -136,6 +136,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C32 — Banheiro / mirror selfie (top tomara-que-caia)
 - C33 — Casa / retrato na cortina (camisa CBF)
 - C34 — Casa / selfie close (camisa CBF)
+- C37 — Quarto / cozy manhã na cama (óculos)
 
 **💪 Academia / fitness**
 - C10 — Academia / mirror selfie (look fitness)
@@ -828,6 +829,27 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > few sweaty strands stuck to her face. Real skin with a sweat sheen and texture, no retouching or AI
 > look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain and a bit of
 > motion blur.
+
+## C37 — Quarto / cozy manhã na cama (óculos)
+
+**PT**
+> Foto de celular vertical da Vic deitada de bruços numa cama de lençol branco, num quarto claro de
+> manhã, tirada bem de perto (leve distorção de lente de celular). Ela está com o rosto apoiado no
+> lençol, cabeça de lado, olhando pra câmera com uma cara tranquila e um meio sorriso, um braço
+> esticado à frente. Usa óculos de grau redondos de armação transparente e uma camiseta cinza escura
+> larga. Entra um sol forte pela esquerda, fazendo uns retângulos de luz na parede e sombras marcadas
+> no lençol e no rosto, com o cabelo brilhando na luz. Cabelo solto e ondulado, repartido no meio,
+> alguns fios no rosto. Pele real com textura e sardas, sem retoque nem cara de IA. Sem joia, tatuagem
+> ou piercing. Foto de celular meio torta, luz de dia, leve grão.
+
+**EN**
+> A vertical phone photo of Vic lying face-down on a white bed in a bright morning room, taken up
+> close (slight phone-lens distortion). Her face rests on the sheet, head to the side, looking at the
+> camera with a calm face and a half smile, one arm stretched forward. She wears round clear-framed
+> glasses and a loose dark-grey tee. Strong sunlight comes from the left, making rectangular light
+> patches on the wall and hard shadows on the sheet and her face, hair glowing in the light. Hair down
+> and wavy, middle part, a few strands on her face. Real skin with texture and freckles, no retouching
+> or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, daylight, light grain.
 
 ---
 
