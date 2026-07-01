@@ -35,3 +35,32 @@ _Origem: prompt JSON (retrato sentada, sofá creme, parede branca texturizada, l
 > a small center knot and tie-side bottoms, soft crinkled matte fabric. Hair down. Real skin with
 > texture and a natural light sheen, no retouching or AI look. No jewelry, tattoos or piercings.
 > Horizontal phone photo, daylight, light grain.
+
+---
+
+## EXT2 — Vestiário de academia / selfie (variação)
+
+_Origem: prompt estruturado (VISUAL_REFERENCE_OBJECT) de selfie fitness em banheiro/vestiário.
+Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com armários), mão
+(dedo na boca → ajeitando o rabo), + bolsa de treino no banco._
+
+**PT**
+> Selfie vertical da Vic num vestiário de academia, dessas tiradas de qualquer jeito. Ela está de
+> pé meio de lado, o corpo virado, olhando por cima do ombro pra câmera com um meio sorriso, uma
+> das mãos ajeitando o rabo de cavalo e a outra encostada na parede de azulejo bege. Atrás, os
+> armários do vestiário, um banco com uma bolsa de treino em cima e o teto com luminárias. Luz
+> artificial branca do teto, meio dura, com sombra suave. Usa um conjuntinho fitness lilás (top
+> esportivo e short de cintura alta) de tecido stretch, uma faixa branca na testa e fones de
+> ouvido sem fio brancos. Cabelo preso num rabo de cavalo alto, alguns fios soltos. Pele real com
+> textura e leve brilho de suor, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto
+> de celular meio torta, leve grão, fundo nítido.
+
+**EN**
+> A vertical selfie of Vic in a gym locker room, snapped casually. She's standing sideways, body
+> turned, looking back over her shoulder at the camera with a half smile, one hand fixing her
+> ponytail and the other resting on a beige tiled wall. Behind her, the locker-room lockers, a
+> bench with a gym bag on it, and ceiling light panels. Bright white artificial ceiling light, a
+> bit harsh, with soft shadows. She's wearing a lilac fitness set (sports bra and high-waisted
+> shorts) in stretch fabric, a white headband and white wireless earbuds. Hair in a high ponytail,
+> a few loose strands. Real skin with texture and a faint sweat sheen, no retouching or AI look. No
+> jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain, background in focus.
