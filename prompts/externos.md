@@ -116,3 +116,189 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > in a high ponytail, a few strands in the wind. Real skin with texture and a faint sun sheen, no
 > retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion),
 > slightly crooked, light grain.
+
+---
+
+## EXT5 — Cozy bed selfie / flash de noite
+
+**PT**
+> Selfie da Vic deitada na cama à noite, de braço esticado, com o flash do celular. Ela está
+> recostada nos travesseiros, cabeça meio de lado, um meio sorriso de boca fechada, olhando pra
+> câmera. O flash duro ilumina ela e o fundo fica escuro atrás — dá pra ver de leve um criado-mudo
+> desfocado com um abajur e uma plantinha. Usa uma regata de alcinha branca canelada com rendinha na
+> gola e um short branco de moletom com cordão. Lençol branco amassado. Cabelo solto e meio
+> bagunçado, caindo no ombro. Pele com textura natural e saudável — poros e uma sardinha ou outra,
+> leve vermelhidão suave, sem acne; brilho do flash na pele. Sem joia, tatuagem ou piercing. Foto de
+> celular com flash, meio torta, leve grão e ruído de noite.
+
+**EN**
+> A selfie of Vic lying on the bed at night, arm extended, with the phone flash. She's leaning back
+> on the pillows, head slightly to the side, a closed-mouth half smile, looking at the camera. The
+> hard flash lights her up while the background goes dark — you can faintly see a blurred nightstand
+> with a lamp and a small plant. She's wearing a white ribbed strappy camisole with lace trim and
+> white drawstring sweat shorts. Wrinkled white bedding. Hair loose and a bit messy, on her shoulder.
+> Natural, healthy skin texture — pores and a few faint freckles, soft even redness, no acne; flash
+> sheen on the skin. No jewelry, tattoos or piercings. Flash phone photo, slightly crooked, light
+> grain and night noise.
+
+---
+
+## EXT6 — Selfie noturna escura / pouca luz
+
+**PT**
+> Selfie da Vic deitada nos travesseiros brancos, num quarto bem escuro à noite, tirada de cima bem
+> de perto. Aparece do peito pra cima, cabeça inclinada pro lado, olhando direto pra câmera com um
+> biquinho e a sobrancelha meio franzida. Só a luz fraca e meio fria do celular ilumina o rosto, os
+> óculos e os travesseiros; o resto some no escuro, com bastante grão e ruído de pouca luz. Usa
+> óculos de grau de armação preta retangular e uma blusa preta. Cabelo solto e liso, repartido no
+> meio, alguns fios no rosto. Pele com textura natural e saudável — poros e leve vermelhidão suave,
+> sem acne; uns reflexinhos de luz nos óculos e nos lábios. Sem joia, tatuagem ou piercing. Selfie de
+> celular em pouca luz, meio torta, bastante grão.
+
+**EN**
+> A selfie of Vic lying on white pillows in a very dark room at night, taken from above up close.
+> Framed from the chest up, head tilted to the side, looking straight at the camera with a pout and
+> slightly furrowed brows. Only the dim, slightly cool phone light lights her face, glasses and the
+> pillows; everything else falls into deep shadow, heavy low-light grain and noise. She wears
+> rectangular black-framed glasses and a black top. Hair down and straight, middle part, a few
+> strands on her face. Natural, healthy skin texture — pores and soft even redness, no acne; small
+> light reflections on the glasses and lips. No jewelry, tattoos or piercings. Low-light phone selfie,
+> slightly crooked, heavy grain.
+
+---
+
+## EXT7 — Sofá / gamer preguiçosa
+
+**PT**
+> Selfie de cima da Vic largada num sofá de tecido cinza, tirada de qualquer jeito. Ela está deitada
+> meio na diagonal, cabeça pro lado perto da câmera, segurando um controle de videogame branco
+> encostado de leve no peito/ombro, com uma cara meio cansada e tranquila, olhando pra câmera. O sofá
+> cinza tem textura de tecido e botõezinhos (captonê), com almofadas grandes atrás da cabeça. Atrás,
+> cortinas brancas numa janela com uma luz de dia meio fria entrando. Espalhados pelo sofá, um
+> controle remoto escuro, um negocinho azul e um fone de ouvido com fio branco. Luz mista: azulada da
+> janela + uma luz interna mais quentinha no rosto. Usa uma blusa tomara-que-caia listrada
+> (listrinhas finas horizontais) e um short escuro. Cabelo solto caindo nos ombros. Pele com textura
+> natural e saudável — poros e leve vermelhidão, sem acne. Sem joia, tatuagem ou piercing. Selfie de
+> celular de cima, meio torta, leve grão.
+
+**EN**
+> A high-angle selfie of Vic sprawled on a gray fabric sofa, snapped casually. She's lying diagonally,
+> head to the side near the camera, loosely holding a white game controller against her chest/shoulder,
+> a slightly tired relaxed face, looking at the camera. The gray sofa has soft fabric texture and
+> tufted buttons, large cushions behind her head. Behind her, white curtains at a window with cool
+> daylight filtering in. Scattered on the sofa: a dark remote, a small blue item and white wired
+> earbuds. Mixed light: cool blue from the window plus warmer indoor light on her face. She's wearing
+> a strapless thin-striped top and dark shorts. Hair down over her shoulders. Natural, healthy skin
+> texture — pores and soft redness, no acne. No jewelry, tattoos or piercings. Overhead phone selfie,
+> slightly crooked, light grain.
+
+---
+
+## EXT8 — Barco / selfie de sol (língua de fora)
+
+**PT**
+> Selfie de cima da Vic bem de pertinho, num barco de dia com sol forte, a água verde-escura atrás. O
+> rosto ocupa quase todo o quadro (bem coladinho na câmera, com aquela distorção de lente de perto) e
+> o corpo vai indo pra baixo. Ela olha pra câmera rindo e botando a língua pra fora, de brincadeira.
+> Cabelo molhado puxado pra trás, colado na testa. Sol forte batendo, deixando um brilho de molhado
+> na testa, bochecha, nariz, lábio e ombro. Umas sardinhas e marquinhas leves no rosto e no ombro.
+> Usa um biquíni verde com vivo e alcinhas finas amarelas. O braço esticado em direção à câmera
+> aparece no canto de baixo, aumentado pela lente. Fundo: água verde-escura de um lado e a borda
+> clara de um barco do outro, sol duro e sombra forte. Pele com textura natural e saudável — poros e
+> leve vermelhidão, sem acne. Sem joia, tatuagem ou piercing. Selfie de celular, alto contraste, leve
+> compressão, meio torta.
+
+**EN**
+> A high-angle selfie of Vic up very close, on a boat on a sunny day, dark green water behind her. Her
+> face fills most of the frame (right up to the lens, with that close-lens distortion) and her body
+> recedes downward. She looks at the camera laughing and sticking her tongue out, playful. Wet hair
+> slicked back, stuck to her forehead. Strong sun creating a wet sheen on her forehead, cheek, nose,
+> lip and shoulder. A few faint freckles and small marks on her face and shoulder. She's wearing a
+> green bikini with yellow trim and thin yellow straps. Her arm extends toward the camera in the lower
+> corner, enlarged by the lens. Background: dark green water on one side and the pale edge of a boat on
+> the other, hard sun and deep shadow. Natural, healthy skin texture — pores and soft redness, no
+> acne. No jewelry, tattoos or piercings. Phone selfie, high contrast, light compression, slightly
+> crooked.
+
+---
+
+## EXT9 — Quarto / retrato em pé (blusa branca + jeans)
+
+**PT**
+> Foto de celular vertical da Vic em pé no quarto, do meio da coxa pra cima. Ela está de frente pra
+> câmera, com os dois braços pra trás das costas, expressão neutra com os lábios levemente
+> entreabertos, olhando direto pra câmera. Cabelo solto com bastante volume no topo e uns fios
+> rebeldes pros lados, caindo dos dois lados do peito. Usa uma blusa branca sem manga de gola V, meio
+> transpassada, com umas dobrinhas no tecido, e uma calça jeans azul de cintura baixa (com costura,
+> passantes, bolsos e desbotado natural). Atrás, o quarto: parede clara, uma TV na parede, uma cômoda
+> creme com puxadores redondos, um vaso de vidro com florzinhas rosa e amarelo claro, um roupão branco
+> pendurado à direita, uma porta de madeira à esquerda e carpete claro no chão. Luz natural suave de
+> dia, vindo mais da esquerda, com sombrinhas leves embaixo do queixo e do cabelo. Pele com textura
+> natural e saudável — poros e um leve blush nas bochechas, sem acne. Sem joia, tatuagem ou piercing.
+> Foto de celular meio torta, leve grão, fundo com leve desfoque de celular.
+
+**EN**
+> A vertical phone photo of Vic standing in a bedroom, framed from mid-thigh up. She faces the camera
+> with both arms behind her back, a neutral slightly parted-lip expression, looking straight at the
+> lens. Hair down with lifted volume at the crown and loose flyaway strands, falling on both sides of
+> her chest. She's wearing a white sleeveless V-neck wrap-style top with soft fabric folds, and
+> low-rise blue jeans (seams, belt loops, pockets, natural fading). Behind her: a pale wall, a
+> wall-mounted TV, a cream dresser with round knobs, a glass vase with pale pink and yellow flowers, a
+> white robe hanging on the right, a wooden door on the left, and light carpet. Soft natural daylight,
+> stronger from the left, gentle shadows under the chin and hair. Natural, healthy skin texture —
+> pores and soft cheek blush, no acne. No jewelry, tattoos or piercings. Phone photo, slightly
+> crooked, light grain, slight background blur.
+
+---
+
+## EXT10 — Treino em casa / alongamento no tapete
+
+**PT**
+> Foto de celular vertical da Vic treinando em casa, num cômodo claro com bastante sol entrando pela
+> janela. Ela está num tapete de yoga preto no chão de madeira, fazendo um alongamento/prancha
+> apoiada nos antebraços, olhando pra frente, concentrada, no meio do movimento. Foto tirada de lado,
+> num ângulo baixo, mostrando ela fazendo o exercício. Sol forte entrando pela direita, criando
+> faixas de luz e sombra no chão e no corpo. Atrás, um espelho grande, parede branca, uma janela de
+> moldura preta, uma estante branca com livros e uns aparelhos de treino cinza do lado. Usa um top
+> esportivo preto com alcinhas azul-claro cruzadas e um short preto com vivo branco. Cabelo preso num
+> coque baixo, uns fios soltos. Pele com textura natural e leve brilho de suor, saudável, sem acne.
+> Sem joia, tatuagem ou piercing. Foto de celular meio torta, luz de dia, leve grão.
+
+**EN**
+> A vertical phone photo of Vic working out at home, in a bright room with lots of sun through the
+> window. She's on a black yoga mat on the wood floor, doing a stretch/plank up on her forearms,
+> looking forward, focused, mid-movement. Taken from the side at a low angle, showing her doing the
+> exercise. Strong sun from the right, casting light-and-shadow bands on the floor and her body.
+> Behind her, a large mirror, a white wall, a black-framed window, white shelving with books, and gray
+> workout equipment to the side. She's wearing a black sports bra with pale blue crossing straps and
+> black shorts with white trim. Hair in a low bun, a few loose strands. Natural, healthy skin with a
+> faint sweat sheen, no acne. No jewelry, tattoos or piercings. Phone photo, slightly crooked,
+> daylight, light grain.
+
+---
+
+## EXT11 — Banheiro / mirror selfie na bancada (biquíni + jeans)
+
+**PT**
+> Selfie de espelho da Vic num banheiro, sentada de lado na bancada de granito preto, aparecendo do
+> meio da coxa pra cima. Ela segura o celular na mão na altura do rosto, apontado pro espelho, o corpo
+> meio de lado e a cabeça virada pro espelho, olhando pra câmera com um biquinho. Cabelo comprido e
+> liso, molhado, caindo pelas costas, uns fios soltos no rosto. Usa um top de biquíni verde de amarrar
+> no pescoço com estampinha de bolinha branca e um short jeans claro de cintura alta, barra desfiada e
+> desbotado natural. Banheiro com azulejo azul-claro à esquerda, uma porta de madeira escura atrás, um
+> box de vidro azulado à direita com marcas de água, e a pia branca com torneira cromada em primeiro
+> plano embaixo. Luz de banheiro branca e meio fria de cima, com reflexos no vidro, na torneira e no
+> azulejo. Unhas compridas claras. Pele com textura natural e saudável, sem acne. Sem joia, tatuagem
+> ou piercing. Selfie de celular de espelho, meio torta, leve grão.
+
+**EN**
+> A bathroom mirror selfie of Vic, sitting sideways on a black granite countertop, framed from
+> mid-thigh up. She holds the phone at face height pointed at the mirror, body turned sideways and
+> head turned back to the mirror, looking at the camera with a small pout. Long straight hair, damp,
+> falling down her back, a few loose strands on her face. She's wearing a green halter bikini top with
+> a small white dot pattern and light high-waisted denim shorts with a frayed hem and natural fading.
+> Bathroom with light blue tiles on the left, a dark wooden door behind, a bluish glass shower with
+> water marks on the right, and a white sink with a chrome faucet in the lower foreground. Cool white
+> bathroom light from above, reflections on the glass, faucet and tiles. Long pale nails. Natural,
+> healthy skin texture, no acne. No jewelry, tattoos or piercings. Mirror phone selfie, slightly
+> crooked, light grain.

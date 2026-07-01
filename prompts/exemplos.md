@@ -109,6 +109,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 - C22 — Mirante de favela / Rio
 - C23 — Praia Vermelha / bandeira do Brasil
 - C25 — Praia / dia (look Brasil + chapéu de palha)
+- C38 — Street style / Ipanema (golden hour)
 
 **🦈 Aquário**
 - C3 — Aquário / luz azul (close)
@@ -850,6 +851,29 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > patches on the wall and hard shadows on the sheet and her face, hair glowing in the light. Hair down
 > and wavy, middle part, a few strands on her face. Real skin with texture and freckles, no retouching
 > or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, daylight, light grain.
+
+## C38 — Street style / Ipanema (golden hour)
+
+**PT**
+> Foto de celular vertical da Vic andando no calçadão de pedra portuguesa da orla de Ipanema no fim
+> de tarde, tipo foto de street style que alguém tirou de longe. Ela caminha olhando pro lado,
+> tranquila, com uma bolsa de palha grande no ombro e óculos de sol na cabeça. Atrás, o calçadão com
+> o desenho de ondas preto e branco, o morro Dois Irmãos com o sol se pondo bem atrás (contraluz
+> dourada forte), palmeiras, os prédios da orla, carros na avenida e algumas pessoas caminhando. Luz
+> quente e dourada de fim de tarde, em contraluz. Usa uma camiseta cropped branca básica, um short
+> jeans de cintura alta e tênis branco. Cabelo solto, comprido, ao vento. Pele com textura natural e
+> saudável, sem acne. Sem joia, tatuagem ou piercing. Foto de celular meio torta, luz de fim de
+> tarde, leve grão.
+
+**EN**
+> A vertical phone photo of Vic walking on the Portuguese-stone promenade along Ipanema at dusk, a
+> street-style shot taken from a distance. She walks looking to the side, relaxed, a large straw tote
+> on her shoulder and sunglasses on her head. Behind her, the wave-patterned promenade, the Dois
+> Irmãos mountain with the sun setting right behind (strong golden backlight), palm trees, beachfront
+> buildings, cars on the avenue and a few people walking. Warm golden backlit dusk light. She's
+> wearing a plain white cropped tee, high-waisted denim shorts and white sneakers. Long hair down, in
+> the wind. Natural, healthy skin texture, no acne. No jewelry, tattoos or piercings. Phone photo,
+> slightly crooked, dusk light, light grain.
 
 ---
 
