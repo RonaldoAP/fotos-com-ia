@@ -302,3 +302,67 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > bathroom light from above, reflections on the glass, faucet and tiles. Long pale nails. Natural,
 > healthy skin texture, no acne. No jewelry, tattoos or piercings. Mirror phone selfie, slightly
 > crooked, light grain.
+
+---
+
+## EXT12 — Selfie de banheiro (poltrona, óculos, luz difusa)
+
+**PT**
+> Selfie de celular da Vic num banheiro claro, no fim do dia. Ela está sentada numa poltrona branca de
+> encosto capitonê, o braço esticado segurando o celular um pouco acima, câmera olhando levemente de
+> cima pra baixo. O tronco meio virado pro lado, uma das mãos brincando com uma mecha do cabelo. Bico
+> de biquíni preto simples e um short de moletom cinza, roupa de dia normal em casa. Ela está de óculos
+> de armação transparente grande, fazendo biquinho de brincadeira, olhando pra câmera. Ao fundo dá pra
+> ver a banheira branca no canto, parede de mármore claro e chão de porcelanato claro com reflexos
+> suaves. Luz de banheiro clara e difusa, sombra leve embaixo do queixo e dos óculos. Reflexinhos verdes
+> de luz na lente dos óculos, fios de cabelo soltos no ombro. Pele com textura natural e saudável —
+> poros e uma sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição.
+> Enquadramento meio torto de selfie, leve distorção de grande-angular por causa da câmera perto e de
+> cima, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de
+> beleza, sem cara de IA.
+
+**EN**
+> Phone selfie of Vic in a bright bathroom, end of the day. She's sitting on a white button-tufted
+> upholstered chair, arm extended holding the phone slightly above, camera looking gently down at her.
+> Torso turned a bit to the side, one hand playing with a strand of her hair. Simple black bikini top
+> and grey sweat shorts, normal at-home daywear. She's wearing large clear-frame glasses, doing a
+> playful pucker, looking at the camera. Behind her you can see a white freestanding bathtub in the
+> corner, light marble wall, and pale glossy floor tiles with soft reflections. Bright diffuse bathroom
+> light, gentle shadow under the chin and glasses. Little green reflected light dots on the glasses
+> lenses, loose hair strands over the shoulder. Natural, healthy skin texture — pores and a few faint
+> freckles, soft cheek redness; no acne, no over-imperfection. Slightly tilted selfie framing, mild
+> wide-angle distortion from the close high camera, soft phone grain. No jewelry, no piercings, no
+> tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT13 — Mirror selfie academia à noite (look Flamengo)
+
+**PT**
+> Mirror selfie de celular da Vic numa academia à noite, quase vazia. Ela está em pé perto do espelho
+> grande, o corpo meio de lado pro espelho, a cabeça virada pra tela do celular. Uma das mãos segura o
+> celular na frente de parte do rosto, a outra apoiada de leve na estrutura de um aparelho. Olhar na
+> tela do celular, boca fechada, expressão tranquila de quem tá só registrando o treino. Conjunto
+> fitness do Flamengo, rubro-negro: top vermelho com detalhe preto e short de academia combinando,
+> tecido esportivo justo. Ao fundo, no reflexo, dá pra ver os aparelhos de musculação, halteres no
+> rack, piso emborrachado escuro e as luzes do teto meio amareladas da academia à noite. Iluminação de
+> ambiente fechado, algumas sombras suaves no chão e na parede, um cantinho de luz mais estourado num
+> espelho ao lado. Fio de cabelo solto no rosto, leve brilho de suor na pele. Pele com textura natural
+> e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição.
+> Enquadramento meio torto de mirror selfie, marca de dedo no espelho, reflexo do flash na tela, grão
+> suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de beleza, sem
+> cara de IA.
+
+**EN**
+> Phone mirror selfie of Vic at a gym at night, almost empty. She's standing near the big mirror, body
+> turned a bit sideways to the mirror, head turned toward the phone screen. One hand holds the phone in
+> front of part of her face, the other resting lightly on a machine frame. Gaze on the phone screen,
+> lips closed, calm expression, just logging her workout. Flamengo fitness set, red and black: red
+> sports top with a black detail and matching gym shorts, tight athletic fabric. Behind her, in the
+> reflection, you can see weight machines, dumbbells on the rack, dark rubber flooring and the yellowish
+> ceiling lights of the gym at night. Indoor lighting, soft shadows on the floor and wall, a blown-out
+> corner of light in a side mirror. A loose strand of hair on her face, a light sheen of sweat on the
+> skin. Natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection. Slightly tilted mirror-selfie framing, a fingerprint smudge on the mirror, flash
+> reflection on the screen, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no
+> beauty retouching, no AI look.
