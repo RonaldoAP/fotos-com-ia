@@ -59,6 +59,8 @@ personagem/
   ficha-canonica.md         Ficha de identidade (template)
   mini-ficha.md             Bloco curto de identidade p/ colar junto das imagens
   kit-referencia-prompts.md Prompts 3:4 estilo RG (turnaround 360) p/ gerar o kit de identidade
+cenarios/
+  quarto-vic.md             Cenário fixo do quarto da Vic (3 paredes + espelho + LED no teto por cor)
 ```
 
 ## Fluxo de trabalho sugerido
