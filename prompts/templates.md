@@ -21,52 +21,70 @@ por peça (só a roupa, só a pose, só o ambiente).
 5. **Pose** — pose, enquadramento e a assinatura de celular (torto, grão, flash no espelho,
    iPhone 15 Pro Max titânio preto se o celular aparecer).
 
+> **Formatação:** cada categoria em **MAIÚSCULA** seguida de `:` e com uma **linha em branco**
+> entre elas (como nos exemplos abaixo).
+
 ### Molde (PT)
 
-> **Personagem:** a mesma pessoa das imagens de referência anexadas (Vic).
-> **Ambiente:** [local — ou [AQUI] pro quarto padrão]; [luz do ambiente].
-> **Roupa:** [peça de cima] + [peça de baixo] + [calçado].
-> **Detalhes da pessoa:** [penteado]; [expressão/olhar]; pele com textura natural e saudável —
-> poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
-> joias, sem piercing, sem tatuagem.
-> **Pose:** [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max
-> titânio preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem cara de IA.
+> PERSONAGEM: a mesma pessoa das imagens de referência anexadas (Vic).
+>
+> AMBIENTE: [local — ou [AQUI] pro quarto padrão]; [luz do ambiente].
+>
+> ROUPA: [peça de cima] + [peça de baixo] + [calçado].
+>
+> DETALHES DA PESSOA: [penteado]; [expressão/olhar]; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem
+> piercing, sem tatuagem.
+>
+> POSE: [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max titânio
+> preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem cara de IA.
 
 ### Molde (EN)
 
-> **Character:** the same person as in the attached reference images (Vic).
-> **Setting:** [place — or [HERE] for the standard bedroom]; [ambient light].
-> **Outfit:** [top] + [bottom] + [footwear].
-> **Person details:** [hairstyle]; [expression/gaze]; natural, healthy skin texture — pores and a
-> few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no
-> tattoos.
-> **Pose:** [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15
-> Pro Max, plain black case, if the phone shows]; realistic photo, no retouching, no AI look.
+> CHARACTER: the same person as in the attached reference images (Vic).
+>
+> SETTING: [place — or [HERE] for the standard bedroom]; [ambient light].
+>
+> OUTFIT: [top] + [bottom] + [footwear].
+>
+> PERSON DETAILS: [hairstyle]; [expression/gaze]; natural, healthy skin texture — pores and a few
+> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15 Pro
+> Max, plain black case, if the phone shows]; realistic photo, no retouching, no AI look.
 
 ### Exemplo preenchido (cena normal)
 
-> **Personagem:** a mesma pessoa das imagens de referência (Vic).
-> **Ambiente:** na areia de Ipanema no fim de tarde, mar e Dois Irmãos ao fundo; sol dourado de
-> lado, um cantinho estourado de luz.
-> **Roupa:** biquíni de amarrar simples e colorido, óculos de sol na cabeça.
-> **Detalhes da pessoa:** cabelo comprido solto ao vento; quase rindo, olhando pra câmera; pele
-> com textura natural e saudável — poros e uma sardinha ou outra, leve marca de bronzeado; sem
-> acne; sem joias, sem piercing, sem tatuagem.
-> **Pose:** em pé, meio de lado, uma mão ajeitando o cabelo; foto de celular aberta, meio torta,
-> grão suave no sol; foto realista, sem cara de IA.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na areia de Ipanema no fim de tarde, mar e Dois Irmãos ao fundo; sol dourado de lado,
+> um cantinho estourado de luz.
+>
+> ROUPA: biquíni de amarrar simples e colorido, óculos de sol na cabeça.
+>
+> DETALHES DA PESSOA: cabelo comprido solto ao vento; quase rindo, olhando pra câmera; pele com
+> textura natural e saudável — poros e uma sardinha ou outra, leve marca de bronzeado; sem acne;
+> sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé, meio de lado, uma mão ajeitando o cabelo; foto de celular aberta, meio torta, grão
+> suave no sol; foto realista, sem cara de IA.
 
 ### Exemplo preenchido (quarto padrão)
 
-> **Personagem:** a mesma pessoa das imagens de referência (Vic).
-> **Ambiente:** [AQUI] (referência do quarto da Vic); luz da LED do teto em roxo + abajur quente
-> no rosto.
-> **Roupa:** camiseta branca larguinha e short preto de treino.
-> **Detalhes da pessoa:** cabelo comprido solto caindo pro lado; biquinho de leve, olhar
-> tranquilo; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
-> vermelhidão; sem acne; sem joias, sem piercing, sem tatuagem.
-> **Pose:** deitada de bruços, apoiada nos cotovelos, selfie de braço esticado com o iPhone 15 Pro
-> Max titânio preto (capinha preta); enquadramento meio torto, reflexo do flash na tela, grão
-> suave; foto realista, sem cara de IA.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em roxo + abajur quente no
+> rosto.
+>
+> ROUPA: camiseta branca larguinha e short preto de treino.
+>
+> DETALHES DA PESSOA: cabelo comprido solto caindo pro lado; biquinho de leve, olhar tranquilo;
+> pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne;
+> sem joias, sem piercing, sem tatuagem.
+>
+> POSE: deitada de bruços, apoiada nos cotovelos, selfie de braço esticado com o iPhone 15 Pro Max
+> titânio preto (capinha preta); enquadramento meio torto, reflexo do flash na tela, grão suave;
+> foto realista, sem cara de IA.
 
 > Os templates T1–T… abaixo continuam válidos como variações; a **estrutura de 5 campos** é o
 > formato principal daqui pra frente.
