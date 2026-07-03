@@ -60,8 +60,9 @@ colorida indireta que bate no teto e tinge o quarto todo. **É elemento fixo do 
 1. **Gere o kit do quarto** (uma vez): use os prompts da seção "Kit de referência do quarto"
    abaixo pra criar o quarto em vários ângulos. Escolha as melhores e guarde como **âncoras do
    ambiente** (inclusive na biblioteca do Freepik como "location", se for usar lá).
-2. **Foto nova de quarto:** anexe **as referências da Vic** (rosto/corpo) **+ as referências do
-   quarto** + cole o prompt da cena. O modelo mantém a mesma pessoa **no mesmo quarto**.
+2. **Foto nova de quarto:** anexe **as referências da Vic** (rosto/corpo) **+ a referência do
+   quarto** + cole o prompt da cena. **O prompt NÃO descreve o quarto** — só marca `Ambiente:
+   [AQUI]` (ver a convenção abaixo). O modelo mantém a mesma pessoa **no mesmo quarto**.
 3. **Escolha a cor da LED** no prompt (troca o **[COR DA LED]**).
 4. **Mirror selfie:** aí sim a parede D (espelho) entra — use o bloco de mirror selfie.
 
@@ -118,36 +119,63 @@ Proporção **3:4 vertical**. Cole o **BLOCO BASE DO QUARTO** + uma linha **Q1�
 
 ---
 
-## Bloco reutilizável do quarto (colar nas cenas com a Vic)
+## ⭐ Convenção: NÃO descrever o quarto no prompt (só marcar o ambiente)
 
-Cole isto junto do prompt da pose/roupa quando a foto for **no quarto da Vic** (ela não em
-frente ao espelho):
+A partir de agora, nas fotos de quarto **o prompt não descreve o quarto** (paredes, cama, móveis).
+O quarto vem **da imagem de referência** que você seleciona na ferramenta — igual aos traços da
+Vic, que vêm da referência dela, não do texto. O prompt só **aponta onde** o ambiente entra, com
+um marcador **`Ambiente: [AQUI]`**.
 
-> **PT:** ...no quarto da Vic: cama de casal com cabeceira estofada preta e roupa de cama branca,
-> criados-mudos com abajur de luz quente, cortina branca leve na janela, escrivaninha clara com
-> cadeira preta e monitor, guarda-roupa de porta clara, piso de madeira clara. Uma fita de LED
-> contorna o teto acesa em **[COR DA LED]**, com luz colorida suave; abajur quente preenchendo o
-> rosto. Mesmo quarto das imagens de referência do ambiente.
+> Assim o quarto sai sempre idêntico (é a mesma referência) e o prompt fica curto: descreve só a
+> **Vic, a pose, a roupa, a luz da LED e o realismo**.
+
+### Formato do prompt (cole e preencha)
+
+> **PT:**
+> Foto de celular da Vic [POSE/AÇÃO], [enquadramento].
+> **Ambiente:** [AQUI] _(selecione a referência do quarto da Vic)_.
+> Luz da LED do teto em **[COR DA LED]** _(ex.: roxo, rosa, azul, ciano...)_ + abajur quente
+> preenchendo o rosto.
+> Ela usa [ROUPA]. [Detalhe de cabelo/expressão]. Pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição. Enquadramento meio
+> torto, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque
+> de beleza, sem cara de IA.
 >
-> **EN:** ...in Vic's bedroom: double bed with a black upholstered headboard and white bedding,
-> nightstands with warm little lamps, a light white curtain on the window, a light desk with a
-> black chair and a monitor, a light-door wardrobe, light wood floor. An LED strip runs along the
-> ceiling lit in **[LED COLOR]**, soft colored glow; warm lamp filling the face. Same bedroom as
-> in the room reference images.
+> **EN:**
+> Phone photo of Vic [POSE/ACTION], [framing].
+> **Setting:** [HERE] _(select Vic's bedroom reference)_.
+> Ceiling LED light in **[LED COLOR]** _(e.g. purple, pink, blue, cyan...)_ + warm lamp filling the
+> face. She's wearing [OUTFIT]. [Hair/expression detail]. Natural, healthy skin texture — pores and
+> a few faint freckles, soft redness; no acne, no over-imperfection. Slightly tilted framing, soft
+> phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no AI
+> look.
+
+### Exemplo preenchido
+
+> **PT:** Foto de celular da Vic sentada na beirada da cama, meio de lado, tirando uma selfie de
+> braço esticado, sorrindo tranquila. **Ambiente:** [AQUI]. Luz da LED do teto em **roxo** + abajur
+> quente no rosto. Ela usa uma camiseta branca larguinha e um short de pijama, cabelo comprido
+> solto. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem
+> acne. Enquadramento meio torto, grão suave de celular. Sem joias, sem piercing, sem tatuagem.
+> Foto realista, sem cara de IA.
+
+> Os elementos do quarto continuam documentados aqui em cima só pra **gerar o kit de referência**
+> (Q1–Q6). Depois que o kit existir, **as fotos de cena não repetem esses detalhes** — é só
+> `Ambiente: [AQUI]` + a cor da LED.
 
 ## Bloco de mirror selfie no quarto (parede D / espelho)
 
-> **PT:** Mirror selfie da Vic no espelho grande do quarto dela, segurando o celular (iPhone 15
-> Pro Max titânio preto, capinha preta lisa) apontado pro espelho. No reflexo aparece o quarto:
-> a cama de cabeceira preta com roupa de cama branca, os abajures de luz quente e a fita de LED
-> em **[COR DA LED]** contornando o teto. Marca de dedo no espelho, reflexo do flash na tela,
-> enquadramento meio torto, grão suave de celular.
+Mesma convenção: não descreve o quarto, só marca o ambiente (que aparece no reflexo).
+
+> **PT:** Mirror selfie da Vic no espelho grande do quarto, segurando o celular (iPhone 15 Pro Max
+> titânio preto, capinha preta lisa) apontado pro espelho. **Ambiente (no reflexo):** [AQUI]
+> _(referência do quarto da Vic)_. Luz da LED do teto em **[COR DA LED]** + abajur quente. Marca de
+> dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular.
 >
-> **EN:** Mirror selfie of Vic in the big mirror of her bedroom, holding the phone (black titanium
-> iPhone 15 Pro Max, plain black case) pointed at the mirror. The reflection shows the room: the
-> black-headboard bed with white bedding, the warm lamps and the LED strip in **[LED COLOR]**
-> around the ceiling. Fingerprint smudge on the mirror, flash reflection on the screen, slightly
-> tilted framing, soft phone grain.
+> **EN:** Mirror selfie of Vic in the big bedroom mirror, holding the phone (black titanium iPhone
+> 15 Pro Max, plain black case) pointed at the mirror. **Setting (in the reflection):** [HERE]
+> _(Vic's bedroom reference)_. Ceiling LED in **[LED COLOR]** + warm lamp. Fingerprint smudge on the
+> mirror, flash reflection on the screen, slightly tilted framing, soft phone grain.
 
 ---
 
