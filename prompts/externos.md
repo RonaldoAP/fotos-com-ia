@@ -370,3 +370,239 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > over-imperfection. Slightly tilted mirror-selfie framing, a fingerprint smudge on the mirror, flash
 > reflection on the screen, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no
 > beauty retouching, no AI look.
+
+---
+
+## EXT14 — Cadeira de praia, se bronzeando ao sol
+
+**PT**
+> Foto de celular da Vic sentada numa cadeira de praia dobrável, curtindo o sol da tarde. Ela está meio
+> recostada, relaxada, uma perna esticada e a outra dobrada, a cabeça apoiada pra trás pegando sol no
+> rosto, olhos fechados de leve num sorriso tranquilo. Biquíni de amarrar simples, colorido, e um óculos
+> de sol apoiado na cabeça. Ao redor, a areia clara com algumas pegadas, uma canga estampada jogada na
+> cadeira do lado e o mar azul ao fundo meio desfocado. Sol forte de fim de tarde batendo de lado, brilho
+> quente e natural na pele, um leve suor, fios de cabelo soltos voando com a brisa. Um cantinho do quadro
+> estourado pela luz do sol. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> marca de bronzeado, leve vermelhidão; sem acne, sem excesso de imperfeição. Enquadramento meio torto e
+> de improviso, grão suave de foto de celular no sol. Sem joias, sem piercing, sem tatuagem. Foto
+> realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic sitting in a folding beach chair, enjoying the afternoon sun. She's reclining a bit,
+> relaxed, one leg stretched out and the other bent, head tipped back catching sun on her face, eyes
+> softly closed in a calm smile. Simple colorful tie bikini, sunglasses resting on her head. Around her,
+> light sand with a few footprints, a printed sarong tossed on the chair beside her, and the blue sea
+> slightly out of focus in the background. Strong late-afternoon sun hitting from the side, a warm natural
+> glow on the skin, a light sweat sheen, loose strands of hair drifting in the breeze. One corner of the
+> frame blown out by the sunlight. Natural, healthy skin texture — pores and a few faint freckles, a soft
+> tan line, mild redness; no acne, no over-imperfection. Slightly tilted, candid framing, soft
+> phone-camera grain in the sun. No jewelry, no piercings, no tattoos. Realistic photo, no beauty
+> retouching, no AI look.
+
+---
+
+## EXT15 — Mirror selfie de corpo inteiro na academia (parede amarelada)
+
+**PT**
+> Mirror selfie de celular da Vic numa academia, foto de corpo inteiro. Ela está em pé no meio do salão,
+> de frente pro espelho grande, o corpo levemente de lado e o rosto virado olhando pro lado, expressão
+> séria e tranquila de quem tá focada no treino. Uma das mãos segura o celular (iPhone 15 Pro Max titânio
+> preto, capinha preta lisa) na altura do peito apontado pro espelho, a outra solta ao lado do corpo. Um
+> fone de ouvido grande apoiado no pescoço. Conjunto de academia: top esportivo preto e short de treino
+> verde-militar justo, tênis chunky claro. Ao fundo, a parede de porcelanato grande em tom bege-amarelado
+> quente, aparelhos de musculação pretos dos dois lados, anilhas e piso emborrachado escuro. Luz de teto
+> quente e uniforme da academia, sombra suave no chão, um leve brilho de suor na pele e nos braços. Fios
+> de cabelo soltos grudados de leve. Pele com textura natural e saudável — poros e uma sardinha ou outra,
+> leve vermelhidão; sem acne, sem excesso de imperfeição. Marca de dedo no espelho, reflexo do flash na
+> tela do celular, enquadramento meio torto, grão suave de foto de celular. Sem joias, sem piercing, sem
+> tatuagem. Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Full-body phone mirror selfie of Vic at a gym. She's standing in the middle of the floor, facing the
+> big mirror, body turned slightly to the side and her face turned looking off to the side, a serious calm
+> expression, focused on her workout. One hand holds the phone (black titanium iPhone 15 Pro Max, plain
+> black case) at chest height pointed at the mirror, the other loose at her side. Large over-ear
+> headphones resting around her neck. Gym set: black sports top and tight olive-green training shorts,
+> light chunky sneakers. Behind her, a big warm beige-yellow tiled wall, black weight machines on both
+> sides, plates and dark rubber flooring. Warm even ceiling lighting, soft shadow on the floor, a light
+> sweat sheen on her skin and arms. A few loose hair strands lightly stuck. Natural, healthy skin texture
+> — pores and a few faint freckles, soft redness; no acne, no over-imperfection. Fingerprint smudge on
+> the mirror, flash reflection on the phone screen, slightly tilted framing, soft phone-camera grain. No
+> jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT16 — Museu do Amanhã, sentada na borda (dia de sol)
+
+**PT**
+> Foto de celular da Vic sentada na beirada de pedra do espelho d'água do Museu do Amanhã, no Rio, num dia
+> de sol forte. Ela está sentada meio de lado, uma perna dobrada com o pé apoiado na pedra e a outra
+> pendurada, o cotovelo apoiado no joelho e a mão encostada de leve na lateral da cabeça, rindo espontânea
+> olhando pra câmera. Look casual dela: uma regata branca larguinha e um short jeans claro de cintura
+> alta, tênis branco. Atrás dela, a estrutura branca futurista do museu com as aletas, a água
+> azul-esverdeada do espelho d'água refletindo o céu, alguns coqueiros e os prédios da cidade ao fundo.
+> Céu azul limpo, sol batendo de frente com sombra dura, um cantinho da foto meio estourado de luz. Fios
+> de cabelo soltos ao vento, leve brilho de sol na pele. Pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Enquadramento
+> meio torto de improviso, grão suave de foto de celular no sol. Sem joias, sem piercing, sem tatuagem.
+> Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic sitting on the stone edge of the reflecting pool at the Museu do Amanhã in Rio, on a
+> bright sunny day. She's sitting slightly sideways, one leg bent with her foot on the stone and the other
+> hanging down, elbow resting on her knee and her hand lightly against the side of her head, laughing
+> spontaneously at the camera. Her casual look: a loose white tank top and light high-waisted denim
+> shorts, white sneakers. Behind her, the white futuristic structure of the museum with its fins, the
+> blue-green water of the reflecting pool mirroring the sky, some palm trees and the city buildings in the
+> background. Clear blue sky, sun hitting from the front with hard shadows, one corner of the frame
+> slightly blown out by light. Loose strands of hair in the wind, a light sunlit glow on her skin.
+> Natural, healthy skin texture — pores and a few faint freckles, soft cheek redness; no acne, no
+> over-imperfection. Slightly tilted candid framing, soft phone-camera grain in the sun. No jewelry, no
+> piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT17 — Mirante ao pôr do sol, Pão de Açúcar ao fundo (short branco)
+
+**PT**
+> Foto de celular da Vic num mirante no Rio, no fim da tarde, com o Pão de Açúcar e a Baía de Guanabara ao
+> fundo. Ela está em pé encostada num muro de pedra, o corpo meio de lado, as duas mãos apoiadas atrás no
+> muro, a cabeça virada olhando pro lado pro horizonte, expressão tranquila e serena. Look casual dela: um
+> short branco de cintura alta e uma regata bege clarinha soltinha, um óculos de sol pendurado na gola.
+> Atrás dela, o morro do Pão de Açúcar em contraluz, o mar dourado refletindo o sol com vários barquinhos,
+> a cidade e os morros esfumaçados na bruma alaranjada. Sol baixo bem forte batendo de trás, luz dourada e
+> quente, raios de sol atravessando a cena, contraluz deixando um brilho nas bordas do cabelo. Fios de
+> cabelo soltos ao vento. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição. Enquadramento meio torto de improviso, leve estouro
+> de luz do sol num canto, grão suave de foto de celular no contraluz. Sem joias, sem piercing, sem
+> tatuagem. Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic at a lookout in Rio, late afternoon, with Sugarloaf Mountain and Guanabara Bay in the
+> background. She's standing leaning against a stone wall, body turned slightly to the side, both hands
+> resting back on the wall, her head turned looking off toward the horizon, calm serene expression. Her
+> casual look: high-waisted white shorts and a loose light-beige tank top, with sunglasses hooked on the
+> neckline. Behind her, the Sugarloaf hill backlit, the golden sea reflecting the sun with lots of little
+> boats, the city and hills hazy in the orange mist. Strong low sun hitting from behind, warm golden
+> light, sun rays crossing the scene, backlight putting a glow on the edges of her hair. Loose strands of
+> hair in the wind. Natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne,
+> no over-imperfection. Slightly tilted candid framing, mild sun flare in one corner, soft phone-camera
+> grain in the backlight. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no
+> AI look.
+
+---
+
+## EXT18 — Mirror selfie de quarto (macacão jeans, óculos)
+
+**PT**
+> Mirror selfie de celular da Vic no quarto dela, de dia. Ela está em pé de frente pro espelho do
+> guarda-roupa, o corpo levemente de lado, o celular na mão (iPhone 15 Pro Max titânio preto, capinha
+> preta lisa) na altura do rosto apontado pro espelho, a outra mão relaxada segurando de leve a alça do
+> macacão. Cabeça um pouco inclinada, biquinho de brincadeira, olhando pra câmera por cima dos óculos de
+> armação transparente. Look casual: um macacão jeans claro (jardineira) por cima de uma regata branca.
+> Ambiente de quarto: guarda-roupa de porta clara atrás, uma cama com colcha rosa à esquerda, um piso de
+> madeira, uma penteadeira com espelho e uns potinhos coloridos à direita, uma porta de madeira escura ao
+> fundo — bagunça gostosa do dia a dia. Luz de quarto quente e uniforme, sombra suave. Cabelo comprido
+> caindo pelo ombro, uns fios soltos no rosto. Pele com textura natural e saudável — poros e uma sardinha
+> ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Marca de dedo no
+> espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular. Sem joias, sem
+> piercing, sem tatuagem. Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone mirror selfie of Vic in her bedroom, daytime. She's standing facing the wardrobe mirror, body
+> turned slightly to the side, phone in hand (black titanium iPhone 15 Pro Max, plain black case) at face
+> height pointed at the mirror, the other hand relaxed lightly holding the overall strap. Head tilted a
+> little, a playful pout, looking at the camera over her clear-frame glasses. Casual look: a light denim
+> overall (dungarees) over a white tank top. Bedroom setting: a light-door wardrobe behind her, a bed with
+> a pink cover on the left, wooden floor, a vanity with a mirror and little colorful pots on the right, a
+> dark wooden door in the background — nice everyday clutter. Warm even bedroom light, soft shadows. Long
+> hair falling over her shoulder, a few loose strands on her face. Natural, healthy skin texture — pores
+> and a few faint freckles, soft cheek redness; no acne, no over-imperfection. Fingerprint smudge on the
+> mirror, flash reflection on the screen, slightly tilted framing, soft phone grain. No jewelry, no
+> piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT19 — Deitada na cama, mirror selfie preguiçosa
+
+**PT**
+> Mirror selfie de celular da Vic recostada na cabeceira da cama, num fim de tarde preguiçoso. Ela está
+> meio deitada, encostada na cabeceira estofada marrom, uma perna dobrada com o joelho pra cima. Uma das
+> mãos apoiada na testa afastando o cabelo, a outra segurando o celular (iPhone 15 Pro Max titânio preto,
+> capinha preta lisa) na frente do corpo apontado pro espelho. Olhar meio de canto pra câmera, expressão
+> relaxada e tranquila, quase um biquinho. Look casual em casa: uma calça jeans clara larguinha e um top
+> branco simples tomara-que-caia. Cama com colcha clara amassada, um edredom verde-claro e uma manta
+> laranja de tricô jogada nos pés, uma cabeceira de tecido marrom atrás, um criado-mudo estampado do lado.
+> Luz de quarto quente e suave de fim de tarde, sombra macia. Cabelo comprido solto caindo pelo ombro e
+> pelo peito, uns fios bagunçados. Pele com textura natural e saudável — poros e uma sardinha ou outra,
+> leve vermelhidão; sem acne, sem excesso de imperfeição. Reflexo do flash na tela do celular,
+> enquadramento meio torto de deitada, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto
+> realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone mirror selfie of Vic reclining against the headboard of the bed, on a lazy late afternoon. She's
+> half lying down, leaning on the brown upholstered headboard, one leg bent with the knee up. One hand
+> rests on her forehead pushing her hair back, the other holds the phone (black titanium iPhone 15 Pro
+> Max, plain black case) in front of her body pointed at the mirror. A sideways glance at the camera,
+> relaxed calm expression, almost a small pout. Casual at-home look: light loose jeans and a simple white
+> strapless top. Bed with a rumpled light cover, a pale green duvet and a knit orange throw tossed at the
+> foot, a brown fabric headboard behind, a patterned nightstand to the side. Warm soft late-afternoon
+> bedroom light, soft shadows. Long hair down, falling over her shoulder and chest, a few messy strands.
+> Natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection. Flash reflection on the phone screen, slightly tilted lying-down framing, soft phone
+> grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT20 — Manhã na cama, escrevendo no caderno (café gelado)
+
+**PT**
+> Foto de celular da Vic numa manhã preguiçosa, deitada de bruços na cama escrevendo num caderninho. Ela
+> está apoiada nos cotovelos, os pés levantados e cruzados pra trás, o rosto virado pro caderno com uma
+> expressão concentrada e tranquila, a caneta na mão. Look de dormir confortável: uma camiseta larguinha
+> preta e um short de pijama. Na frente dela, uma bandeja de madeira com o caderno aberto e um copo de
+> café gelado com gelo e leite. Cama de lençol branco amassado, uma cabeceira de madeira rústica atrás com
+> almofadões brancos. Luz de manhã suave e quente entrando de lado, sombra macia. Cabelo comprido solto
+> caindo pro lado do rosto, uns fios bagunçados. Pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Enquadramento
+> meio de cima, meio torto, grão suave de foto de celular. Sem joias, sem piercing, sem tatuagem. Foto
+> realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic on a lazy morning, lying on her stomach on the bed writing in a small notebook. She's
+> propped on her elbows, feet up and crossed behind her, face turned to the notebook with a focused, calm
+> expression, pen in hand. Comfy sleepwear: a loose black tee and pajama shorts. In front of her, a wooden
+> tray with the open notebook and a glass of iced coffee with ice and milk. Bed with rumpled white sheets,
+> a rustic wooden headboard behind with big white pillows. Soft warm morning light coming from the side,
+> gentle shadows. Long hair down falling to the side of her face, a few messy strands. Natural, healthy
+> skin texture — pores and a few faint freckles, soft cheek redness; no acne, no over-imperfection.
+> Slightly high, slightly tilted framing, soft phone-camera grain. No jewelry, no piercings, no tattoos.
+> Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT21 — Selfie deitada na cama ao pôr do sol (camiseta + short)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama, no fim de tarde, tirando uma selfie. Ela está apoiada
+> nos cotovelos, os pés levantados e cruzados pra trás, segurando o celular (iPhone 15 Pro Max titânio
+> preto, capinha preta lisa) perto do rosto, com um biquinho de leve e um meio sorriso, olhando pra
+> câmera. Look de dormir confortável: uma camiseta branca larguinha e um short preto de treino. Cama de
+> lençol claro amassado. Atrás, uma janela com persiana branca meio aberta deixando entrar a luz
+> alaranjada do pôr do sol, cortina branca leve dos lados, parede azul-clara. Luz quente e suave de fim de
+> tarde no rosto, sombra macia. Cabelo comprido solto caindo pro lado, uns fios no rosto. Pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem
+> excesso de imperfeição. Enquadramento meio torto de deitada, reflexo do flash na tela, grão suave de
+> celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed at late afternoon, taking a selfie. She's propped on
+> her elbows, feet up and crossed behind her, holding the phone (black titanium iPhone 15 Pro Max, plain
+> black case) near her face, with a slight pout and a half smile, looking at the camera. Comfy sleepwear:
+> a loose white tee and black training shorts. Bed with rumpled light sheets. Behind her, a window with a
+> half-open white shutter letting in the orange sunset light, light white curtains on the sides, pale blue
+> wall. Warm soft late-afternoon light on her face, gentle shadows. Long hair down falling to the side, a
+> few strands on her face. Natural, healthy skin texture — pores and a few faint freckles, soft cheek
+> redness; no acne, no over-imperfection. Slightly tilted lying-down framing, flash reflection on the
+> screen, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching,
+> no AI look.
