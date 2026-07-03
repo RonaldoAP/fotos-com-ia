@@ -33,6 +33,24 @@ só brigaria com a referência visual.
 
 ---
 
+## Prop padrão: celular (quando aparecer em quadro)
+
+Sempre que um celular aparecer na foto (mirror selfie, celular na mão apontado pro espelho,
+etc.), padronize **sempre o mesmo aparelho**: um **iPhone 15 Pro Max titânio preto** (corpo em
+titânio escuro fosco, ilha de câmera com 3 lentes, capinha preta lisa). Isso mantém a Vic
+coerente entre as fotos, como se fosse o celular dela.
+
+> **PT (cole quando o celular aparecer):** o celular que aparece é um iPhone 15 Pro Max titânio
+> preto (titânio escuro fosco, três lentes traseiras, capinha preta lisa).
+>
+> **EN:** the phone shown is a black titanium iPhone 15 Pro Max (matte dark titanium, three rear
+> lenses, plain black case).
+
+> Só entra no prompt quando o celular **aparece** (mirror selfie / celular à vista). Em selfie de
+> braço esticado o celular fica atrás da câmera — não precisa citar.
+
+---
+
 ## Penteado é por cena (exceção à regra de traços)
 
 O prompt de cenário **não** descreve a **cor** do cabelo (vem da referência), mas **deve**

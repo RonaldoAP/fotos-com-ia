@@ -281,7 +281,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 
 **PT**
 > Selfie de espelho da Vic num banheiro, sentada de lado na bancada de granito preto, aparecendo do
-> meio da coxa pra cima. Ela segura o celular na mão na altura do rosto, apontado pro espelho, o corpo
+> meio da coxa pra cima. Ela segura o celular (um iPhone 15 Pro Max titânio preto, capinha preta lisa)
+> na altura do rosto, apontado pro espelho, o corpo
 > meio de lado e a cabeça virada pro espelho, olhando pra câmera com um biquinho. Cabelo comprido e
 > liso, molhado, caindo pelas costas, uns fios soltos no rosto. Usa um top de biquíni verde de amarrar
 > no pescoço com estampinha de bolinha branca e um short jeans claro de cintura alta, barra desfiada e
@@ -293,7 +294,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 
 **EN**
 > A bathroom mirror selfie of Vic, sitting sideways on a black granite countertop, framed from
-> mid-thigh up. She holds the phone at face height pointed at the mirror, body turned sideways and
+> mid-thigh up. She holds the phone (a black titanium iPhone 15 Pro Max, plain black case) at face
+> height pointed at the mirror, body turned sideways and
 > head turned back to the mirror, looking at the camera with a small pout. Long straight hair, damp,
 > falling down her back, a few loose strands on her face. She's wearing a green halter bikini top with
 > a small white dot pattern and light high-waisted denim shorts with a frayed hem and natural fading.
@@ -341,7 +343,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 **PT**
 > Mirror selfie de celular da Vic numa academia à noite, quase vazia. Ela está em pé perto do espelho
 > grande, o corpo meio de lado pro espelho, a cabeça virada pra tela do celular. Uma das mãos segura o
-> celular na frente de parte do rosto, a outra apoiada de leve na estrutura de um aparelho. Olhar na
+> celular (um iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente de parte do rosto, a
+> outra apoiada de leve na estrutura de um aparelho. Olhar na
 > tela do celular, boca fechada, expressão tranquila de quem tá só registrando o treino. Conjunto
 > fitness do Flamengo, rubro-negro: top vermelho com detalhe preto e short de academia combinando,
 > tecido esportivo justo. Ao fundo, no reflexo, dá pra ver os aparelhos de musculação, halteres no
@@ -356,7 +359,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 **EN**
 > Phone mirror selfie of Vic at a gym at night, almost empty. She's standing near the big mirror, body
 > turned a bit sideways to the mirror, head turned toward the phone screen. One hand holds the phone in
-> front of part of her face, the other resting lightly on a machine frame. Gaze on the phone screen,
+> (a black titanium iPhone 15 Pro Max, plain black case) in front of part of her face, the other
+> resting lightly on a machine frame. Gaze on the phone screen,
 > lips closed, calm expression, just logging her workout. Flamengo fitness set, red and black: red
 > sports top with a black detail and matching gym shorts, tight athletic fabric. Behind her, in the
 > reflection, you can see weight machines, dumbbells on the rack, dark rubber flooring and the yellowish

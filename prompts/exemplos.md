@@ -299,7 +299,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C9 — Mirror selfie no quarto (suéter tricô)
 
 **PT**
-> Selfie de espelho da Vic no quarto, segurando o celular na frente do peito. Atrás, dá pra ver a
+> Selfie de espelho da Vic no quarto, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
+> preta lisa) na frente do peito. Atrás, dá pra ver a
 > cama arrumada, uma TV preta na parede e o piso de madeira. Luz interna suave do quarto. Ela está
 > de pé, uma mão no bolso do short. Usa um suéter cropped de tricô amarelo do Brasil (gola V,
 > "BRASIL" verde) e short jeans claro rasgado. Cabelo solto. Pele real com textura, sem retoque
@@ -307,7 +308,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > segura o celular).
 
 **EN**
-> A mirror selfie of Vic in her bedroom, holding the phone in front of her chest. Behind her, the
+> A mirror selfie of Vic in her bedroom, holding the phone (black titanium iPhone 15 Pro Max, plain
+> black case) in front of her chest. Behind her, the
 > made bed, a black TV on the wall and the wooden floor. Soft indoor light. She's standing, one
 > hand in her shorts pocket. She's wearing a yellow knit cropped Brazil sweater (V-neck, green
 > "BRASIL") and light ripped denim shorts. Hair down. Real skin with texture, no retouching or AI
@@ -317,14 +319,16 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C10 — Academia / mirror selfie (look fitness)
 
 **PT**
-> Selfie de espelho da Vic na academia, segurando o celular na altura do rosto. Atrás, o salão com
+> Selfie de espelho da Vic na academia, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
+> preta lisa) na altura do rosto. Atrás, o salão com
 > rack, halteres, banco e janelões; algumas pessoas treinando ao fundo. Luz de academia com LED no
 > teto. Ela está de pé, uma perna à frente, relaxada. Usa um macacão fitness curto azul-marinho,
 > boné branco e tênis branco com meia. Cabelo solto. Pele real com textura, sem retoque nem cara
 > de IA. Sem joia, tatuagem ou piercing. Foto de celular de corpo inteiro no espelho, leve grão.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone at face height. Behind her, the floor with a rack,
+> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
+> face height. Behind her, the floor with a rack,
 > dumbbells, a bench and big windows; a few people training. Gym LED ceiling light. She's standing,
 > one leg forward, relaxed. She's wearing a short navy fitness romper, white cap and white sneakers
 > with socks. Hair down. Real skin with texture, no retouching or AI look. No jewelry, tattoos or
@@ -333,7 +337,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C11 — Academia / mirror selfie (romper preto "GROWTH")
 
 **PT**
-> Selfie de espelho da Vic na academia, segurando o celular na altura do rosto com meio sorriso.
+> Selfie de espelho da Vic na academia, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
+> preta lisa) na altura do rosto com meio sorriso.
 > Ela está do lado de um rack com anilhas pretas; atrás, equipamentos, parede de tijolinho e gente
 > treinando desfocada. Luz quente de academia. Uma mão de leve na coxa. Usa um macacão fitness
 > curto preto com vivo branco e "GROWTH" escrito, e fones brancos. Cabelo preso num rabo alto. Pele
@@ -341,7 +346,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > quase de corpo inteiro, leve grão.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone at face height with a half smile. She's beside a rack
+> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
+> face height with a half smile. She's beside a rack
 > with black plates; behind, equipment, a brick wall and blurred people training. Warm gym light.
 > One hand lightly on her thigh. She's wearing a short black fitness romper with white trim and
 > "GROWTH" lettering, and white earbuds. Hair in a high ponytail. Real skin with texture, no
@@ -351,7 +357,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C12 — Academia / mirror selfie (romper azul, dia)
 
 **PT**
-> Selfie de espelho da Vic numa academia ampla de dia, celular na altura do rosto. Atrás, janelões
+> Selfie de espelho da Vic numa academia ampla de dia, celular (iPhone 15 Pro Max titânio preto,
+> capinha preta lisa) na altura do rosto. Atrás, janelões
 > grandes com a cidade e o verde lá fora, esteiras, piso de madeira na frente e gente treinando.
 > Luz natural de dia entrando. Ela está de pé, uma perna à frente. Usa um macacão fitness curto
 > azul-periwinkle com "BYP" e tênis branco robusto. Cabelo preso num rabo alto. Pele real com
@@ -359,7 +366,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > inteiro no espelho, leve grão.
 
 **EN**
-> A mirror selfie of Vic in a big daytime gym, phone at face height. Behind, large windows with the
+> A mirror selfie of Vic in a big daytime gym, phone (black titanium iPhone 15 Pro Max, plain black
+> case) at face height. Behind, large windows with the
 > city and greenery outside, treadmills, wooden floor in front and people training. Natural
 > daylight coming in. She's standing, one leg forward. She's wearing a short periwinkle-blue fitness
 > romper with "BYP" and chunky white sneakers. Hair in a high ponytail. Real skin with texture, no
@@ -368,7 +376,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C13 — Academia / mirror selfie (top + legging)
 
 **PT**
-> Selfie de espelho da Vic na academia, celular na altura do rosto e a outra mão fazendo sinal de
+> Selfie de espelho da Vic na academia, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa)
+> na altura do rosto e a outra mão fazendo sinal de
 > paz perto do rosto. Atrás, o salão com equipamentos, luzes quentes e gente desfocada, uma barra
 > de aparelho preta do lado. Luz quente de academia, com contraste. Usa um top esportivo preto e
 > legging preta de cintura alta com vivo branco, e luvas de treino sem dedos. Cabelo preso num
@@ -376,7 +385,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > Foto de celular quase de corpo inteiro no espelho, leve grão.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone at face height and the other hand doing a peace sign
+> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
+> face height and the other hand doing a peace sign
 > near her face. Behind, the floor with equipment, warm lights and blurred people, a black machine
 > bar to the side. Warm gym light with contrast. She's wearing a black sports bra and high-waisted
 > black leggings with white piping, plus fingerless workout gloves. Hair in a ponytail. Real skin
@@ -701,7 +711,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 
 **PT**
 > Selfie de espelho da Vic dentro de casa no fim de tarde, com aquela luz quente do sol entrando pela
-> janela e batendo no rosto dela e na parede. Ela está segurando o celular (capinha transparente)
+> janela e batendo no rosto dela e na parede. Ela está segurando o celular (iPhone 15 Pro Max titânio
+> preto, capinha preta lisa)
 > apontado pro espelho, olhando pra câmera com uma cara tranquila. Atrás, um pedaço do quarto com um
 > espelho na parede. Usa uma camiseta amarela do Brasil de gola V verde com listras verdes ("BRASIL"
 > e bandeira no peito). Cabelo solto, comprido e liso, repartido no meio. Pele real com textura e o
@@ -710,7 +721,8 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 
 **EN**
 > A mirror selfie of Vic indoors in the late afternoon, with that warm sunlight coming through the
-> window and hitting her face and the wall. She's holding the phone (clear case) pointed at the
+> window and hitting her face and the wall. She's holding the phone (black titanium iPhone 15 Pro Max,
+> plain black case) pointed at the
 > mirror, looking at the camera with a calm expression. Behind her, a bit of the room with a mirror
 > on the wall. She's wearing a yellow Brazil tee with a green V-neck and green stripes ("BRASIL" and
 > flag on the chest). Hair down, long and straight, parted in the middle. Real skin with texture and
@@ -745,16 +757,16 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C32 — Banheiro / mirror selfie (top tomara-que-caia)
 
 **PT**
-> Selfie de espelho da Vic num banheiro de parede de azulejo branco, segurando o celular (capinha
-> preta) apontado pro espelho. Ela está encostada na parede, olhando pra câmera com uma cara
+> Selfie de espelho da Vic num banheiro de parede de azulejo branco, segurando o celular (iPhone 15
+> Pro Max titânio preto, capinha preta lisa) apontado pro espelho. Ela está encostada na parede, olhando pra câmera com uma cara
 > tranquila. Usa um top tomara-que-caia preto com um short jeans, num look casual de balada. Luz
 > interna normal do banheiro. Cabelo solto e ondulado, comprido. Pele real com textura, sem retoque
 > nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular, meio torta, leve grão (uma mão
 > segura o celular).
 
 **EN**
-> A bathroom mirror selfie of Vic against a white tiled wall, holding the phone (black case) pointed
-> at the mirror. She's leaning on the wall, looking at the camera relaxed. She's wearing a black tube
+> A bathroom mirror selfie of Vic against a white tiled wall, holding the phone (black titanium iPhone
+> 15 Pro Max, plain black case) pointed at the mirror. She's leaning on the wall, looking at the camera relaxed. She's wearing a black tube
 > top with denim shorts, a casual night-out look. Normal indoor bathroom light. Hair down and wavy,
 > long. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone
 > photo, slightly crooked, light grain (one hand holds the phone).
@@ -798,14 +810,16 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 **PT**
 > Selfie de espelho de lado da Vic, à noite, do lado de fora perto de uma parede de tijolinho, com
 > umas luzes de neon (verde e rosa) desfocadas atrás. Ela está de perfil, sorrindo pra tela,
-> segurando o celular (capinha transparente) na frente do rosto. Usa uma camiseta azul-marinho do
+> segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto. Usa
+> uma camiseta azul-marinho do
 > Brasil com "BRASIL" em amarelo e listras amarelas na manga, calça de linho branca de cintura alta e
 > um cinto marrom fininho. Cabelo solto e comprido. Pele real com textura, sem retoque nem cara de
 > IA. Sem joia, tatuagem ou piercing. Foto de celular meio torta, leve grão de noite.
 
 **EN**
 > A side mirror selfie of Vic at night, outdoors near a brick wall, with blurred neon lights (green
-> and pink) behind her. She's in profile, smiling at the screen, holding the phone (clear case) in
+> and pink) behind her. She's in profile, smiling at the screen, holding the phone (black titanium
+> iPhone 15 Pro Max, plain black case) in
 > front of her face. She's wearing a navy Brazil tee with "BRASIL" in yellow and yellow sleeve
 > stripes, high-waisted white linen pants and a thin brown belt. Hair down and long. Real skin with
 > texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked,
