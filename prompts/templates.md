@@ -5,6 +5,74 @@ bloco anti-IA embutidos. Há versão **PT** e **EN** (o EN costuma render um pou
 
 ---
 
+## ⭐ Estrutura padrão (5 campos) — usar em todos os prompts
+
+Todo prompt da Vic segue esta ordem de campos. Cada campo é uma **frase natural** (não é lista
+de tags) — o Nano Banana lê linguagem natural, mas a ordem por campos deixa fácil trocar peça
+por peça (só a roupa, só a pose, só o ambiente).
+
+1. **Personagem** — quem é. Sempre a Vic, vinda das **imagens de referência** anexadas. Não
+   descreve traços físicos (rosto, cor de cabelo, corpo) — isso a referência puxa.
+2. **Ambiente** — onde. Um local descrito, **ou** `[AQUI]` quando for o quarto padrão da Vic
+   (aí o ambiente vem da referência do quarto — ver `cenarios/quarto-vic.md`).
+3. **Roupa** — o que veste. Descreve só a roupa/calçado (filtro-safe, sem sexualização).
+4. **Detalhes da pessoa** — cabelo/penteado, expressão, luz no rosto e o **bloco de realismo**
+   (pele saudável, sem acne) + as **exclusões fixas** (sem joia/piercing/tatuagem).
+5. **Pose** — pose, enquadramento e a assinatura de celular (torto, grão, flash no espelho,
+   iPhone 15 Pro Max titânio preto se o celular aparecer).
+
+### Molde (PT)
+
+> **Personagem:** a mesma pessoa das imagens de referência anexadas (Vic).
+> **Ambiente:** [local — ou [AQUI] pro quarto padrão]; [luz do ambiente].
+> **Roupa:** [peça de cima] + [peça de baixo] + [calçado].
+> **Detalhes da pessoa:** [penteado]; [expressão/olhar]; pele com textura natural e saudável —
+> poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+> **Pose:** [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max
+> titânio preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem cara de IA.
+
+### Molde (EN)
+
+> **Character:** the same person as in the attached reference images (Vic).
+> **Setting:** [place — or [HERE] for the standard bedroom]; [ambient light].
+> **Outfit:** [top] + [bottom] + [footwear].
+> **Person details:** [hairstyle]; [expression/gaze]; natural, healthy skin texture — pores and a
+> few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no
+> tattoos.
+> **Pose:** [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15
+> Pro Max, plain black case, if the phone shows]; realistic photo, no retouching, no AI look.
+
+### Exemplo preenchido (cena normal)
+
+> **Personagem:** a mesma pessoa das imagens de referência (Vic).
+> **Ambiente:** na areia de Ipanema no fim de tarde, mar e Dois Irmãos ao fundo; sol dourado de
+> lado, um cantinho estourado de luz.
+> **Roupa:** biquíni de amarrar simples e colorido, óculos de sol na cabeça.
+> **Detalhes da pessoa:** cabelo comprido solto ao vento; quase rindo, olhando pra câmera; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve marca de bronzeado; sem
+> acne; sem joias, sem piercing, sem tatuagem.
+> **Pose:** em pé, meio de lado, uma mão ajeitando o cabelo; foto de celular aberta, meio torta,
+> grão suave no sol; foto realista, sem cara de IA.
+
+### Exemplo preenchido (quarto padrão)
+
+> **Personagem:** a mesma pessoa das imagens de referência (Vic).
+> **Ambiente:** [AQUI] (referência do quarto da Vic); luz da LED do teto em roxo + abajur quente
+> no rosto.
+> **Roupa:** camiseta branca larguinha e short preto de treino.
+> **Detalhes da pessoa:** cabelo comprido solto caindo pro lado; biquinho de leve, olhar
+> tranquilo; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne; sem joias, sem piercing, sem tatuagem.
+> **Pose:** deitada de bruços, apoiada nos cotovelos, selfie de braço esticado com o iPhone 15 Pro
+> Max titânio preto (capinha preta); enquadramento meio torto, reflexo do flash na tela, grão
+> suave; foto realista, sem cara de IA.
+
+> Os templates T1–T… abaixo continuam válidos como variações; a **estrutura de 5 campos** é o
+> formato principal daqui pra frente.
+
+---
+
 ## T1 — Selfie de câmera frontal
 
 **PT**
