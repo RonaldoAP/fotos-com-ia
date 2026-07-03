@@ -606,3 +606,242 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > redness; no acne, no over-imperfection. Slightly tilted lying-down framing, flash reflection on the
 > screen, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching,
 > no AI look.
+
+---
+
+## EXT22 — Camping, vista de dentro da barraca
+
+**PT**
+> Foto de celular da Vic num acampamento, tirada de dentro da barraca olhando pra fora pela abertura.
+> Ela está agachada/sentada na entrada da barraca, de frente ou meio de lado pra câmera, sorrindo
+> tranquila, mexendo numa mochila. Look casual: uma camiseta tie-dye laranja larguinha e um short
+> jeans, descalça. Pela abertura arredondada da barraca dá pra ver os pinheiros altos, o mar azul ao
+> longe entre os troncos e a luz do dia batendo forte lá fora; um cachorrinho peludo sentado do lado
+> de fora. Dentro da barraca, a luz é mais fechada e o tecido cinza claro faz sombra. Contraste entre
+> o escuro de dentro e o claro de fora, um cantinho estourado de luz na abertura. Cabelo comprido
+> solto caindo pro lado. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição. Enquadramento meio torto de improviso, grão suave
+> de foto de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de beleza, sem
+> cara de IA.
+
+**EN**
+> Phone photo of Vic at a campsite, taken from inside the tent looking out through the opening. She's
+> crouched/sitting at the tent entrance, facing or slightly angled to the camera, smiling calmly,
+> rummaging in a backpack. Casual look: a loose orange tie-dye tee and denim shorts, barefoot. Through
+> the round tent opening you can see tall pine trees, the blue sea in the distance between the trunks
+> and the bright daylight outside; a small fluffy dog sitting just outside. Inside the tent the light
+> is dimmer and the pale grey fabric casts shadow. Contrast between the dark interior and the bright
+> exterior, one corner of the opening blown out by light. Long hair down falling to the side. Natural,
+> healthy skin texture — pores and a few faint freckles, soft redness; no acne, no over-imperfection.
+> Slightly tilted candid framing, soft phone-camera grain. No jewelry, no piercings, no tattoos.
+> Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT23 — Selfie no quarto, corpo na camisa xadrez (manhã)
+
+**PT**
+> Selfie de celular da Vic no quarto de manhã, sentada na cama, aparecendo da cabeça até a coxa. Ela
+> está sentada meio de lado, uma perna dobrada, uma das mãos segurando o celular (iPhone 15 Pro Max
+> titânio preto, capinha preta lisa) apontado pro espelho ou pra frente, a outra apoiada no colchão.
+> Olhar firme e tranquilo pra câmera, um biquinho de leve. Usa uma camisa xadrez larguinha (tons de
+> bege, cinza e roxo) aberta por cima de um top branco simples, e um short jeans claro. Cama de lençol
+> claro amassado, um criado-mudo escuro atrás meio desfocado com uns potes, cabeceira de madeira. Luz
+> de manhã suave entrando de lado, sombra macia. Cabelo comprido solto, um pouco bagunçado, caindo pelo
+> rosto e pelos ombros. Pele com textura natural e saudável — poros e várias sardinhas no rosto, leve
+> vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Enquadramento meio torto de
+> improviso, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque
+> de beleza, sem cara de IA.
+
+**EN**
+> Phone selfie of Vic in the bedroom in the morning, sitting on the bed, framed from head to thigh.
+> She's sitting slightly sideways, one leg bent, one hand holding the phone (black titanium iPhone 15
+> Pro Max, plain black case) pointed at the mirror or toward the front, the other resting on the
+> mattress. A firm, calm gaze at the camera, a slight pout. She's wearing a loose plaid shirt (beige,
+> grey and purple tones) open over a simple white top, and light denim shorts. Bed with rumpled light
+> sheets, a dark nightstand blurred behind with some jars, a wooden headboard. Soft morning light
+> coming from the side, gentle shadows. Long hair down, a bit messy, falling across her face and
+> shoulders. Natural, healthy skin texture — pores and lots of little freckles on her face, soft cheek
+> redness; no acne, no over-imperfection. Slightly tilted candid framing, soft phone grain. No jewelry,
+> no piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT24 — Dentro do carro (banco de couro caramelo, fim de tarde)
+
+**PT**
+> Foto de celular da Vic sentada no banco do passageiro de um carro, num fim de tarde. Ela está
+> recostada no banco de couro caramelo, meio de lado, uma das mãos ajeitando o cabelo atrás da orelha,
+> olhando pra câmera com uma expressão tranquila e um meio sorriso. Look casual: uma camiseta cinza
+> mescla larguinha e um short jeans, tênis. Dentro do carro dá pra ver o painel de madeira e couro, o
+> volante e o cinto de segurança atravessado; pela janela, o estacionamento e umas árvores desfocadas
+> lá fora com a luz dourada do fim de tarde entrando. Luz quente e natural batendo de lado no rosto,
+> sombra macia, um cantinho estourado pela luz da janela. Cabelo comprido solto caindo pelos ombros,
+> uns fios no rosto. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Enquadramento meio torto de
+> improviso, grão suave de foto de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem
+> retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic sitting in the passenger seat of a car, late afternoon. She's leaning back in the
+> caramel leather seat, slightly turned, one hand tucking her hair behind her ear, looking at the
+> camera with a calm expression and a half smile. Casual look: a loose heather-grey tee and denim
+> shorts, sneakers. Inside the car you can see the wood-and-leather dashboard, the steering wheel and
+> the seatbelt across her; through the window, the parking lot and some blurred trees outside with the
+> golden late-afternoon light coming in. Warm natural light hitting the side of her face, gentle
+> shadows, one corner blown out by the window light. Long hair down over her shoulders, a few strands
+> on her face. Natural, healthy skin texture — pores and a few faint freckles, soft cheek redness; no
+> acne, no over-imperfection. Slightly tilted candid framing, soft phone-camera grain. No jewelry, no
+> piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT25 — Selfie deitada na cama (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama, apoiada nos cotovelos, os pés levantados e cruzados
+> pra trás, tirando uma selfie de braço esticado. Ela segura o celular (iPhone 15 Pro Max titânio
+> preto, capinha preta lisa) perto do rosto, com um biquinho de leve e um meio sorriso, olhando pra
+> câmera. **Ambiente:** [AQUI] (referência do quarto da Vic). Luz da LED do teto em **[COR DA LED]** +
+> abajur quente preenchendo o rosto (ou luz natural de fim de tarde, se preferir). Ela usa uma camiseta
+> branca larguinha e um short preto de treino, cabelo comprido solto caindo pro lado, uns fios no
+> rosto. Pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão nas
+> bochechas; sem acne, sem excesso de imperfeição. Enquadramento meio torto de deitada, reflexo do
+> flash na tela, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem
+> retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed, propped on her elbows, feet up and crossed behind
+> her, taking an arm's-length selfie. She holds the phone (black titanium iPhone 15 Pro Max, plain black
+> case) near her face, with a slight pout and a half smile, looking at the camera. **Setting:** [HERE]
+> (Vic's bedroom reference). Ceiling LED light in **[LED COLOR]** + warm lamp filling the face (or
+> natural late-afternoon light if you prefer). She's wearing a loose white tee and black training
+> shorts, long hair down falling to the side, a few strands on her face. Natural, healthy skin texture
+> — pores and a few faint freckles, soft cheek redness; no acne, no over-imperfection. Slightly tilted
+> lying-down framing, flash reflection on the screen, soft phone grain. No jewelry, no piercings, no
+> tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT26 — Lendo um livro na cama à noite (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama à noite, lendo um livro. Ela está apoiada nos
+> cotovelos, com o livro aberto na frente, o rosto virado pra página com uma expressão tranquila e
+> concentrada, os pés levantados e cruzados pra trás. Cabelo comprido preso num meio-coque com uma
+> presilha, uns fios soltos no rosto. **Ambiente:** [AQUI] (referência do quarto da Vic). Luz da LED do
+> teto em **[COR DA LED]** + abajur quente do criado-mudo iluminando as páginas. Ela usa um pijama
+> confortável: uma regata branca de tricô e um short de pijama xadrez rosa. Pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de
+> imperfeição. Enquadramento meio torto de improviso, luz baixa e aconchegante de noite, grão suave de
+> celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed at night, reading a book. She's propped on her
+> elbows, the open book in front of her, face turned to the page with a calm, focused expression, feet
+> up and crossed behind her. Long hair in a half-bun with a claw clip, a few loose strands on her face.
+> **Setting:** [HERE] (Vic's bedroom reference). Ceiling LED light in **[LED COLOR]** + the warm
+> nightstand lamp lighting the pages. She's wearing comfy pajamas: a white ribbed tank top and pink
+> gingham pajama shorts. Natural, healthy skin texture — pores and a few faint freckles, soft cheek
+> redness; no acne, no over-imperfection. Slightly tilted candid framing, low cozy night light, soft
+> phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT27 — Pijama de cetim rosa, deitada (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama, apoiada num cotovelo com a mão no queixo, os pés
+> levantados e cruzados pra trás, olhando pra câmera com uma expressão tranquila e um biquinho de leve.
+> Cabelo comprido solto, repartido no meio, caindo pelos ombros. **Ambiente:** [AQUI] (referência do
+> quarto da Vic). Luz da LED do teto em **[COR DA LED]** + abajur quente deixando um brilho rosado no
+> rosto. Ela usa um conjunto de pijama de cetim rosa (blusinha de alça e calça de cetim), confortável.
+> Pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão nas bochechas;
+> sem acne, sem excesso de imperfeição. Enquadramento meio torto de improviso, luz baixa e aconchegante
+> de noite, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de
+> beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed, propped on one elbow with her hand on her chin,
+> feet up and crossed behind her, looking at the camera with a calm expression and a slight pout. Long
+> hair down, center-parted, falling over her shoulders. **Setting:** [HERE] (Vic's bedroom reference).
+> Ceiling LED light in **[LED COLOR]** + warm lamp casting a rosy glow on her face. She's wearing a pink
+> satin pajama set (cami top and satin pants), comfy. Natural, healthy skin texture — pores and a few
+> faint freckles, soft cheek redness; no acne, no over-imperfection. Slightly tilted candid framing, low
+> cozy night light, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty
+> retouching, no AI look.
+
+---
+
+## EXT28 — Selfie rosa deitada (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama, apoiada num cotovelo com a mão no rosto, os pés
+> levantados e cruzados pra trás, tirando uma selfie de braço esticado. Ela segura o celular (iPhone 15
+> Pro Max titânio preto, capinha preta lisa) na frente do rosto, olhar meio de canto pra câmera,
+> expressão relaxada e tranquila. Cabelo comprido solto, repartido no meio, caindo pelo rosto.
+> **Ambiente:** [AQUI] (referência do quarto da Vic). Luz da LED do teto em **[COR DA LED]** + abajur
+> quente no rosto (ou luz suave de fim de tarde, se preferir). Ela usa uma regata rosa clarinha e um
+> short branco de treino, confortável. Pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição. Enquadramento meio torto
+> de deitada, reflexo do flash na tela, grão suave de celular. Sem joias, sem piercing, sem tatuagem.
+> Foto realista, sem retoque de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed, propped on one elbow with her hand on her face,
+> feet up and crossed behind her, taking an arm's-length selfie. She holds the phone (black titanium
+> iPhone 15 Pro Max, plain black case) in front of her face, a sideways glance at the camera, relaxed
+> calm expression. Long hair down, center-parted, falling across her face. **Setting:** [HERE] (Vic's
+> bedroom reference). Ceiling LED light in **[LED COLOR]** + warm lamp on her face (or soft
+> late-afternoon light if you prefer). She's wearing a light pink tank top and white training shorts,
+> comfy. Natural, healthy skin texture — pores and a few faint freckles, soft cheek redness; no acne,
+> no over-imperfection. Slightly tilted lying-down framing, flash reflection on the screen, soft phone
+> grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching, no AI look.
+
+---
+
+## EXT29 — Pijama Hello Kitty, deitada (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic deitada de bruços na cama, apoiada nos dois cotovelos com o rosto encostado na
+> mão, os pés levantados e cruzados pra trás, sorrindo tranquila pra câmera. Cabelo preso num coque alto
+> meio bagunçado, uns fios soltos no rosto. **Ambiente:** [AQUI] (referência do quarto da Vic). Luz da
+> LED do teto em **[COR DA LED]** + abajur quente no rosto. Ela usa um conjuntinho de pijama rosa
+> estampado da Hello Kitty (camiseta de gola redonda e short), confortável e fofo. Pele com textura
+> natural e saudável — poros e várias sardinhas, leve vermelhidão nas bochechas; sem acne, sem excesso
+> de imperfeição. Enquadramento fechado no rosto e parte de cima, meio torto de improviso, luz baixa e
+> aconchegante, grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque
+> de beleza, sem cara de IA.
+
+**EN**
+> Phone photo of Vic lying on her stomach on the bed, propped on both elbows with her face resting on
+> her hand, feet up and crossed behind her, smiling calmly at the camera. Hair in a messy high bun, a
+> few loose strands on her face. **Setting:** [HERE] (Vic's bedroom reference). Ceiling LED light in
+> **[LED COLOR]** + warm lamp on her face. She's wearing a cute pink Hello Kitty print pajama set
+> (crew-neck tee and shorts), comfy. Natural, healthy skin texture — pores and lots of little freckles,
+> soft cheek redness; no acne, no over-imperfection. Framed close on her face and upper body, slightly
+> tilted candid, low cozy light, soft phone grain. No jewelry, no piercings, no tattoos. Realistic
+> photo, no beauty retouching, no AI look.
+
+---
+
+## EXT30 — Pijama de cetim branco, sentada (quarto-padrão)
+
+**PT**
+> Foto de celular da Vic sentada na cama, meio de lado, sorrindo tranquila pra câmera, uma das mãos
+> apoiada no colchão. Cabelo comprido solto, repartido no meio, caindo pelos ombros. **Ambiente:**
+> [AQUI] (referência do quarto da Vic). Luz da LED do teto em **[COR DA LED]** + abajur quente no rosto.
+> Ela usa um conjunto de pijama de cetim branco (blusinha de alcinha e short de cetim), confortável.
+> Pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão nas bochechas;
+> sem acne, sem excesso de imperfeição. Enquadramento meio torto de improviso, luz baixa e aconchegante,
+> grão suave de celular. Sem joias, sem piercing, sem tatuagem. Foto realista, sem retoque de beleza,
+> sem cara de IA.
+
+**EN**
+> Phone photo of Vic sitting on the bed, slightly turned, smiling calmly at the camera, one hand resting
+> on the mattress. Long hair down, center-parted, over her shoulders. **Setting:** [HERE] (Vic's bedroom
+> reference). Ceiling LED light in **[LED COLOR]** + warm lamp on her face. She's wearing a white satin
+> pajama set (cami top and satin shorts), comfy. Natural, healthy skin texture — pores and a few faint
+> freckles, soft cheek redness; no acne, no over-imperfection. Slightly tilted candid framing, low cozy
+> light, soft phone grain. No jewelry, no piercings, no tattoos. Realistic photo, no beauty retouching,
+> no AI look.
