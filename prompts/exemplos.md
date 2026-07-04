@@ -154,740 +154,914 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C1 — Ipanema / fim de tarde
 
 **PT**
-> Foto de celular da Vic na praia de Ipanema no fim de tarde, dessas tiradas de qualquer jeito.
-> Ela está em pé na areia segurando uma água de coco gelada, a outra mão na cintura do short,
-> olhando pra câmera tranquila. Atrás, o morro Dois Irmãos, o mar com ondas e a galera na praia.
-> Céu de fim de tarde meio nublado, em tons pastel, luz suave e meio fraca. Usa uma camiseta
-> cropped verde do Brasil ("BRASIL RIO DE JANEIRO") e short amarelo. Cabelo solto ao vento. Pele
-> real com textura e sardas, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de
-> celular, leve grão, meio torta.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na praia de Ipanema no fim de tarde; atrás, o morro Dois Irmãos, o mar com ondas e a galera na praia; céu de fim de tarde meio nublado, em tons pastel, luz suave e meio fraca.
+>
+> ROUPA: camiseta cropped verde do Brasil ("BRASIL RIO DE JANEIRO") e short amarelo.
+>
+> DETALHES DA PESSOA: cabelo solto ao vento; olhando pra câmera tranquila; pele real com textura e sardas; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé na areia segurando uma água de coco gelada, a outra mão na cintura do short, dessas tiradas de qualquer jeito; foto de celular, leve grão, meio torta; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic at Ipanema beach at dusk, snapped casually. She's standing on the sand
-> holding a cold coconut drink, the other hand on her shorts, looking at the camera relaxed.
-> Behind her, the Dois Irmãos mountain, the sea with waves and people on the beach. Overcast
-> pastel dusk sky, soft dim light. She's wearing a green cropped Brazil tee ("BRASIL RIO DE
-> JANEIRO") and yellow shorts. Hair loose in the wind. Real skin with texture and freckles, no
-> retouching or AI look. No jewelry, tattoos or piercings. Phone photo, light grain, slightly
-> crooked.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at Ipanema beach at dusk; behind her, the Dois Irmãos mountain, the sea with waves and people on the beach; overcast pastel dusk sky, soft dim light.
+>
+> OUTFIT: green cropped Brazil tee ("BRASIL RIO DE JANEIRO") and yellow shorts.
+>
+> PERSON DETAILS: hair loose in the wind; looking at the camera relaxed; real skin with texture and freckles; no jewelry, tattoos or piercings.
+>
+> POSE: standing on the sand holding a cold coconut drink, the other hand on her shorts, snapped casually; phone photo, light grain, slightly crooked; no retouching or AI look.
 
 ## C2 — Copacabana / dia de sol
 
 **PT**
-> Foto de celular da Vic sentada numa cadeira de praia vermelha embaixo de um guarda-sol verde
-> em Copacabana, num dia de sol forte. Ela está sorrindo, uma mão perto do rosto e a outra
-> segurando uma água de coco. Atrás, os prédios da orla, a areia branca, outras pessoas e
-> guarda-sóis coloridos. Sol forte de meio-dia, sombra dura, bastante contraste. Usa uma camiseta
-> cropped amarela do Brasil e uma parte de baixo de praia. Cabelo solto. Pele real com poros e
-> brilho de suor, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular,
-> leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: em Copacabana, num dia de sol forte; atrás, os prédios da orla, a areia branca, outras pessoas e guarda-sóis coloridos; sol forte de meio-dia, sombra dura, bastante contraste.
+>
+> ROUPA: camiseta cropped amarela do Brasil e uma parte de baixo de praia.
+>
+> DETALHES DA PESSOA: cabelo solto; sorrindo; pele real com poros e brilho de suor; sem joia, tatuagem ou piercing.
+>
+> POSE: sentada numa cadeira de praia vermelha embaixo de um guarda-sol verde, uma mão perto do rosto e a outra segurando uma água de coco; foto de celular, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic sitting on a red beach chair under a green umbrella at Copacabana, on a
-> sunny day. She's smiling, one hand near her face, the other holding a coconut drink. Behind
-> her, the beachfront buildings, white sand, other people and colorful umbrellas. Harsh midday
-> sun, hard shadows, high contrast. She's wearing a yellow cropped Brazil tee and a beach bottom.
-> Hair down. Real skin with pores and a sweat sheen, no retouching or AI look. No jewelry,
-> tattoos or piercings. Phone photo, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at Copacabana, on a sunny day; behind her, the beachfront buildings, white sand, other people and colorful umbrellas; harsh midday sun, hard shadows, high contrast.
+>
+> OUTFIT: yellow cropped Brazil tee and a beach bottom.
+>
+> PERSON DETAILS: hair down; smiling; real skin with pores and a sweat sheen; no jewelry, tattoos or piercings.
+>
+> POSE: sitting on a red beach chair under a green umbrella, one hand near her face, the other holding a coconut drink; phone photo, light grain; no retouching or AI look.
 
 ## C3 — Aquário / luz azul (close)
 
 **PT**
-> Foto de celular da Vic em pé na frente de um tanque grande de aquário, num lugar fechado e
-> escuro. Atrás do vidro, água azul-esverdeada com um tubarão e vários peixes, pedras no fundo.
-> Tudo banhado por aquela luz azul fria do tanque. Ela está meio de lado, uma mão no corrimão e a
-> outra no cabelo, olhando pro lado tranquila. Usa um top cropped branco e uma saia azul curta.
-> Cabelo solto. Pele real com textura e reflexo azulado, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular em pouca luz, com grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na frente de um tanque grande de aquário, num lugar fechado e escuro; atrás do vidro, água azul-esverdeada com um tubarão e vários peixes, pedras no fundo; tudo banhado por aquela luz azul fria do tanque.
+>
+> ROUPA: top cropped branco e uma saia azul curta.
+>
+> DETALHES DA PESSOA: cabelo solto; olhando pro lado tranquila; pele real com textura e reflexo azulado; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, meio de lado, uma mão no corrimão e a outra no cabelo; foto de celular em pouca luz, com grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing in front of a big aquarium tank, in a dark indoor spot. Behind
-> the glass, blue-green water with a shark and lots of fish, rocks at the bottom. Everything
-> bathed in that cold blue tank light. She's turned to the side, one hand on the railing, the
-> other in her hair, looking aside relaxed. She's wearing a white crop top and a short blue
-> skirt. Hair down. Real skin with texture and a bluish reflection, no retouching or AI look. No
-> jewelry, tattoos or piercings. Low-light phone photo with grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a big aquarium tank, in a dark indoor spot; behind the glass, blue-green water with a shark and lots of fish, rocks at the bottom; everything bathed in that cold blue tank light.
+>
+> OUTFIT: white crop top and a short blue skirt.
+>
+> PERSON DETAILS: hair down; looking aside relaxed; real skin with texture and a bluish reflection; no jewelry, tattoos or piercings.
+>
+> POSE: standing, turned to the side, one hand on the railing, the other in her hair; low-light phone photo with grain; no retouching or AI look.
 
 ## C4 — Aquário túnel / tubarão (look fitness)
 
 **PT**
-> Foto de celular da Vic em pé, no meio, na frente de um tanque curvo gigante de aquário, com um
-> tubarão passando logo atrás dela e peixes em volta. Luz azul fria do tanque, ambiente escuro.
-> Ela está de frente, relaxada, os dois braços abertos pra baixo com as mãos num corrimão preto
-> atrás. Usa um conjuntinho fitness branco (top e short). Cabelo solto. Pele real com textura e
-> reflexo azul, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular em
-> pouca luz, com grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na frente de um tanque curvo gigante de aquário, com um tubarão passando logo atrás dela e peixes em volta; luz azul fria do tanque, ambiente escuro.
+>
+> ROUPA: conjuntinho fitness branco (top e short).
+>
+> DETALHES DA PESSOA: cabelo solto; pele real com textura e reflexo azul; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, no meio, de frente, relaxada, os dois braços abertos pra baixo com as mãos num corrimão preto atrás; foto de celular em pouca luz, com grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing centered in front of a huge curved aquarium tank, with a shark
-> passing right behind her and fish around. Cold blue tank light, dark room. She's facing
-> forward, relaxed, both arms down with hands on a black railing behind. She's wearing a white
-> fitness set (top and shorts). Hair down. Real skin with texture and a blue reflection, no
-> retouching or AI look. No jewelry, tattoos or piercings. Low-light phone photo with grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a huge curved aquarium tank, with a shark passing right behind her and fish around; cold blue tank light, dark room.
+>
+> OUTFIT: white fitness set (top and shorts).
+>
+> PERSON DETAILS: hair down; real skin with texture and a blue reflection; no jewelry, tattoos or piercings.
+>
+> POSE: standing centered, facing forward, relaxed, both arms down with hands on a black railing behind; low-light phone photo with grain; no retouching or AI look.
 
 ## C5 — Ipanema / pôr do sol (caipirinha)
 
 **PT**
-> Foto de celular da Vic de perfil, descalça na areia de Ipanema no fim de tarde, tomando uma
-> caipirinha e olhando pro mar. Atrás, o Dois Irmãos em silhueta, o mar e a galera na praia, com
-> uma nuvenzinha de neblina. Céu de pôr do sol em degradê laranja pro azul, sol baixo em
-> contraluz (nada de cinema, é o pôr do sol normal mesmo). Usa camiseta cropped verde do Brasil e
-> biquíni amarelo. Cabelo solto. Pele real com textura, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular aberta de corpo inteiro, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na areia de Ipanema no fim de tarde; atrás, o Dois Irmãos em silhueta, o mar e a galera na praia, com uma nuvenzinha de neblina; céu de pôr do sol em degradê laranja pro azul, sol baixo em contraluz (nada de cinema, é o pôr do sol normal mesmo).
+>
+> ROUPA: camiseta cropped verde do Brasil e biquíni amarelo.
+>
+> DETALHES DA PESSOA: cabelo solto; olhando pro mar; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: de perfil, descalça, tomando uma caipirinha; foto de celular aberta de corpo inteiro, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic in profile, barefoot on the Ipanema sand at dusk, sipping a caipirinha and
-> looking at the sea. Behind her, Dois Irmãos in silhouette, the sea and beach crowd, a bit of
-> haze. Sunset sky fading orange to blue, low backlit sun (nothing cinematic, just a normal
-> sunset). She's wearing a green cropped Brazil tee and a yellow bikini bottom. Hair down. Real
-> skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. Wide full-body
-> phone photo, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the Ipanema sand at dusk; behind her, Dois Irmãos in silhouette, the sea and beach crowd, a bit of haze; sunset sky fading orange to blue, low backlit sun (nothing cinematic, just a normal sunset).
+>
+> OUTFIT: green cropped Brazil tee and a yellow bikini bottom.
+>
+> PERSON DETAILS: hair down; looking at the sea; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: in profile, barefoot, sipping a caipirinha; wide full-body phone photo, light grain; no retouching or AI look.
 
 ## C6 — Selfie no carro / luz de dia
 
 **PT**
-> Selfie da Vic no banco de trás do carro, de dia, de braço esticado. Cinto colocado, meio
-> recostada, olhando pra câmera com cara tranquila. Dá pra ver o banco preto, uma mala atrás e a
-> estrada pela janela. Luz do dia entrando, normal, com leve contraluz da janela. Usa uma blusa
-> cinza de manga curta. Cabelo solto e meio bagunçado. Pele real com poros e textura, sem retoque
-> nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular mesmo (leve distorção de
-> selfie), enquadramento meio torto, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no banco de trás do carro, de dia; dá pra ver o banco preto, uma mala atrás e a estrada pela janela; luz do dia entrando, normal, com leve contraluz da janela.
+>
+> ROUPA: blusa cinza de manga curta.
+>
+> DETALHES DA PESSOA: cabelo solto e meio bagunçado; olhando pra câmera com cara tranquila; pele real com poros e textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, cinto colocado, meio recostada; foto de celular mesmo (leve distorção de selfie), enquadramento meio torto, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A selfie of Vic in the back seat of a car during the day, arm extended. Seatbelt on, leaning
-> back a bit, looking at the camera relaxed. You can see the black seat, a suitcase behind and the
-> road through the window. Daylight coming in, normal, with a faint backlight from the window.
-> She's wearing a grey short-sleeve top. Hair loose and a little messy. Real skin with pores and
-> texture, no retouching or AI look. No jewelry, tattoos or piercings. Just a phone selfie (slight
-> selfie distortion), slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the back seat of a car during the day; you can see the black seat, a suitcase behind and the road through the window; daylight coming in, normal, with a faint backlight from the window.
+>
+> OUTFIT: grey short-sleeve top.
+>
+> PERSON DETAILS: hair loose and a little messy; looking at the camera relaxed; real skin with pores and texture; no jewelry, tattoos or piercings.
+>
+> POSE: arm-extended selfie, seatbelt on, leaning back a bit; just a phone selfie (slight selfie distortion), slightly crooked, light grain; no retouching or AI look.
 
 ## C7 — Estádio à noite (torcida Brasil)
 
 **PT**
-> Foto de celular da Vic na arquibancada de um estádio de futebol lotado à noite, dessas que um
-> amigo tira de qualquer jeito. Ela está sorrindo animada, olhando pra câmera, uma mão na cintura.
-> Atrás, a galera de amarelo desfocada, o gramado iluminado lá embaixo e os refletores fortes do
-> estádio brilhando. Luz mista de estádio, meio em contraluz. Usa camiseta cropped amarela do
-> Brasil e short jeans. Cabelo solto. Pele real com textura, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular à noite, com grão e ruído, meio torta.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na arquibancada de um estádio de futebol lotado à noite; atrás, a galera de amarelo desfocada, o gramado iluminado lá embaixo e os refletores fortes do estádio brilhando; luz mista de estádio, meio em contraluz.
+>
+> ROUPA: camiseta cropped amarela do Brasil e short jeans.
+>
+> DETALHES DA PESSOA: cabelo solto; sorrindo animada, olhando pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, uma mão na cintura, dessas que um amigo tira de qualquer jeito; foto de celular à noite, com grão e ruído, meio torta; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic in the stands of a packed football stadium at night, the kind a friend
-> snaps casually. She's smiling, excited, looking at the camera, one hand on her waist. Behind
-> her, the blurred yellow crowd, the lit pitch below and the strong stadium floodlights glowing.
-> Mixed stadium light, slightly backlit. She's wearing a yellow cropped Brazil tee and denim
-> shorts. Hair down. Real skin with texture, no retouching or AI look. No jewelry, tattoos or
-> piercings. Night phone photo with grain and noise, slightly crooked.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the stands of a packed football stadium at night; behind her, the blurred yellow crowd, the lit pitch below and the strong stadium floodlights glowing; mixed stadium light, slightly backlit.
+>
+> OUTFIT: yellow cropped Brazil tee and denim shorts.
+>
+> PERSON DETAILS: hair down; smiling, excited, looking at the camera; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: one hand on her waist, the kind a friend snaps casually; night phone photo with grain and noise, slightly crooked; no retouching or AI look.
 
 ## C8 — Quarto / foto na porta (regata Brasil)
 
 **PT**
-> Foto de celular da Vic em pé na frente de uma porta de madeira dentro de casa, com uma parede de
-> azulejo claro do lado. Ela está meio de lado, mão perto do bolso do short, olhando pro lado com
-> um meio sorriso. Luz interna suave e quente. Usa uma regata cropped amarela do Brasil (com
-> "BRASIL" e bandeira) e um short jeans creme de cintura alta. Cabelo solto e ondulado. Pele real
-> com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular quase
-> de corpo inteiro, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na frente de uma porta de madeira dentro de casa, com uma parede de azulejo claro do lado; luz interna suave e quente.
+>
+> ROUPA: regata cropped amarela do Brasil (com "BRASIL" e bandeira) e um short jeans creme de cintura alta.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado; olhando pro lado com um meio sorriso; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, meio de lado, mão perto do bolso do short; foto de celular quase de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing in front of a wooden door indoors, a light tiled wall to the side.
-> She's turned a bit, hand near her shorts pocket, looking aside with a half smile. Soft warm
-> indoor light. She's wearing a yellow cropped Brazil tank ("BRASIL" + flag) and cream
-> high-waisted denim shorts. Loose wavy hair. Real skin with texture, no retouching or AI look. No
-> jewelry, tattoos or piercings. Near full-body phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a wooden door indoors, a light tiled wall to the side; soft warm indoor light.
+>
+> OUTFIT: yellow cropped Brazil tank ("BRASIL" + flag) and cream high-waisted denim shorts.
+>
+> PERSON DETAILS: loose wavy hair; looking aside with a half smile; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing, turned a bit, hand near her shorts pocket; near full-body phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C9 — Mirror selfie no quarto (suéter tricô)
 
 **PT**
-> Selfie de espelho da Vic no quarto, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
-> preta lisa) na frente do peito. Atrás, dá pra ver a
-> cama arrumada, uma TV preta na parede e o piso de madeira. Luz interna suave do quarto. Ela está
-> de pé, uma mão no bolso do short. Usa um suéter cropped de tricô amarelo do Brasil (gola V,
-> "BRASIL" verde) e short jeans claro rasgado. Cabelo solto. Pele real com textura, sem retoque
-> nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular, meio torta, leve grão (uma mão
-> segura o celular).
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no quarto; atrás, dá pra ver a cama arrumada, uma TV preta na parede e o piso de madeira; luz interna suave do quarto.
+>
+> ROUPA: suéter cropped de tricô amarelo do Brasil (gola V, "BRASIL" verde) e short jeans claro rasgado.
+>
+> DETALHES DA PESSOA: cabelo solto; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, de pé, uma mão no bolso do short, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do peito; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic in her bedroom, holding the phone (black titanium iPhone 15 Pro Max, plain
-> black case) in front of her chest. Behind her, the
-> made bed, a black TV on the wall and the wooden floor. Soft indoor light. She's standing, one
-> hand in her shorts pocket. She's wearing a yellow knit cropped Brazil sweater (V-neck, green
-> "BRASIL") and light ripped denim shorts. Hair down. Real skin with texture, no retouching or AI
-> look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain (one hand
-> holds the phone).
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in her bedroom; behind her, the made bed, a black TV on the wall and the wooden floor; soft indoor light.
+>
+> OUTFIT: yellow knit cropped Brazil sweater (V-neck, green "BRASIL") and light ripped denim shorts.
+>
+> PERSON DETAILS: hair down; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, standing, one hand in her shorts pocket, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her chest; phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C10 — Academia / mirror selfie (look fitness)
 
 **PT**
-> Selfie de espelho da Vic na academia, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
-> preta lisa) na altura do rosto. Atrás, o salão com
-> rack, halteres, banco e janelões; algumas pessoas treinando ao fundo. Luz de academia com LED no
-> teto. Ela está de pé, uma perna à frente, relaxada. Usa um macacão fitness curto azul-marinho,
-> boné branco e tênis branco com meia. Cabelo solto. Pele real com textura, sem retoque nem cara
-> de IA. Sem joia, tatuagem ou piercing. Foto de celular de corpo inteiro no espelho, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na academia; atrás, o salão com rack, halteres, banco e janelões; algumas pessoas treinando ao fundo; luz de academia com LED no teto.
+>
+> ROUPA: macacão fitness curto azul-marinho, boné branco e tênis branco com meia.
+>
+> DETALHES DA PESSOA: cabelo solto; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, de pé, uma perna à frente, relaxada, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
-> face height. Behind her, the floor with a rack,
-> dumbbells, a bench and big windows; a few people training. Gym LED ceiling light. She's standing,
-> one leg forward, relaxed. She's wearing a short navy fitness romper, white cap and white sneakers
-> with socks. Hair down. Real skin with texture, no retouching or AI look. No jewelry, tattoos or
-> piercings. Full-body mirror phone photo, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the gym; behind her, the floor with a rack, dumbbells, a bench and big windows; a few people training; gym LED ceiling light.
+>
+> OUTFIT: short navy fitness romper, white cap and white sneakers with socks.
+>
+> PERSON DETAILS: hair down; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, standing, one leg forward, relaxed, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; no retouching or AI look.
 
 ## C11 — Academia / mirror selfie (romper preto "GROWTH")
 
 **PT**
-> Selfie de espelho da Vic na academia, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
-> preta lisa) na altura do rosto com meio sorriso.
-> Ela está do lado de um rack com anilhas pretas; atrás, equipamentos, parede de tijolinho e gente
-> treinando desfocada. Luz quente de academia. Uma mão de leve na coxa. Usa um macacão fitness
-> curto preto com vivo branco e "GROWTH" escrito, e fones brancos. Cabelo preso num rabo alto. Pele
-> real com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular
-> quase de corpo inteiro, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na academia, do lado de um rack com anilhas pretas; atrás, equipamentos, parede de tijolinho e gente treinando desfocada; luz quente de academia.
+>
+> ROUPA: macacão fitness curto preto com vivo branco e "GROWTH" escrito, e fones brancos.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo alto; meio sorriso; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, uma mão de leve na coxa, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular quase de corpo inteiro, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
-> face height with a half smile. She's beside a rack
-> with black plates; behind, equipment, a brick wall and blurred people training. Warm gym light.
-> One hand lightly on her thigh. She's wearing a short black fitness romper with white trim and
-> "GROWTH" lettering, and white earbuds. Hair in a high ponytail. Real skin with texture, no
-> retouching or AI look. No jewelry, tattoos or piercings. Near full-body mirror phone photo, light
-> grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the gym, beside a rack with black plates; behind, equipment, a brick wall and blurred people training; warm gym light.
+>
+> OUTFIT: short black fitness romper with white trim and "GROWTH" lettering, and white earbuds.
+>
+> PERSON DETAILS: hair in a high ponytail; half smile; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, one hand lightly on her thigh, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; near full-body mirror phone photo, light grain; no retouching or AI look.
 
 ## C12 — Academia / mirror selfie (romper azul, dia)
 
 **PT**
-> Selfie de espelho da Vic numa academia ampla de dia, celular (iPhone 15 Pro Max titânio preto,
-> capinha preta lisa) na altura do rosto. Atrás, janelões
-> grandes com a cidade e o verde lá fora, esteiras, piso de madeira na frente e gente treinando.
-> Luz natural de dia entrando. Ela está de pé, uma perna à frente. Usa um macacão fitness curto
-> azul-periwinkle com "BYP" e tênis branco robusto. Cabelo preso num rabo alto. Pele real com
-> textura, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular de corpo
-> inteiro no espelho, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia ampla de dia; atrás, janelões grandes com a cidade e o verde lá fora, esteiras, piso de madeira na frente e gente treinando; luz natural de dia entrando.
+>
+> ROUPA: macacão fitness curto azul-periwinkle com "BYP" e tênis branco robusto.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo alto; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, de pé, uma perna à frente, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic in a big daytime gym, phone (black titanium iPhone 15 Pro Max, plain black
-> case) at face height. Behind, large windows with the
-> city and greenery outside, treadmills, wooden floor in front and people training. Natural
-> daylight coming in. She's standing, one leg forward. She's wearing a short periwinkle-blue fitness
-> romper with "BYP" and chunky white sneakers. Hair in a high ponytail. Real skin with texture, no
-> retouching or AI look. No jewelry, tattoos or piercings. Full-body mirror phone photo, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a big daytime gym; behind, large windows with the city and greenery outside, treadmills, wooden floor in front and people training; natural daylight coming in.
+>
+> OUTFIT: short periwinkle-blue fitness romper with "BYP" and chunky white sneakers.
+>
+> PERSON DETAILS: hair in a high ponytail; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, standing, one leg forward, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; no retouching or AI look.
 
 ## C13 — Academia / mirror selfie (top + legging)
 
 **PT**
-> Selfie de espelho da Vic na academia, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa)
-> na altura do rosto e a outra mão fazendo sinal de
-> paz perto do rosto. Atrás, o salão com equipamentos, luzes quentes e gente desfocada, uma barra
-> de aparelho preta do lado. Luz quente de academia, com contraste. Usa um top esportivo preto e
-> legging preta de cintura alta com vivo branco, e luvas de treino sem dedos. Cabelo preso num
-> rabo. Pele real com poros e sardas, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing.
-> Foto de celular quase de corpo inteiro no espelho, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na academia; atrás, o salão com equipamentos, luzes quentes e gente desfocada, uma barra de aparelho preta do lado; luz quente de academia, com contraste.
+>
+> ROUPA: top esportivo preto e legging preta de cintura alta com vivo branco, e luvas de treino sem dedos.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo; pele real com poros e sardas; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto e a outra mão fazendo sinal de paz perto do rosto; foto de celular quase de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic at the gym, phone (black titanium iPhone 15 Pro Max, plain black case) at
-> face height and the other hand doing a peace sign
-> near her face. Behind, the floor with equipment, warm lights and blurred people, a black machine
-> bar to the side. Warm gym light with contrast. She's wearing a black sports bra and high-waisted
-> black leggings with white piping, plus fingerless workout gloves. Hair in a ponytail. Real skin
-> with pores and freckles, no retouching or AI look. No jewelry, tattoos or piercings. Near
-> full-body mirror phone photo, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the gym; behind, the floor with equipment, warm lights and blurred people, a black machine bar to the side; warm gym light with contrast.
+>
+> OUTFIT: black sports bra and high-waisted black leggings with white piping, plus fingerless workout gloves.
+>
+> PERSON DETAILS: hair in a ponytail; real skin with pores and freckles; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, phone (black titanium iPhone 15 Pro Max, plain black case) at face height and the other hand doing a peace sign near her face; near full-body mirror phone photo, light grain; no retouching or AI look.
 
 ## C14 — Cristo Redentor / pôr do sol
 
 **PT**
-> Foto de celular da Vic no mirante do Cristo Redentor no fim de tarde. Atrás, o Cristo de braços
-> abertos visto de baixo, o céu de pôr do sol alaranjado e os turistas na escadaria. Ela está
-> encostada num muro de pedra, meio de lado, uma mão ajeitando o boné, sorrindo e olhando pro lado.
-> Luz quente de fim de tarde, meio em contraluz. Usa camiseta azul-marinho do Brasil retrô ("BRASIL
-> RIO DE JANEIRO"), calça jeans e boné verde-militar. Cabelo solto ao vento. Pele real com textura,
-> sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular, meio torta, leve
-> grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no mirante do Cristo Redentor no fim de tarde; atrás, o Cristo de braços abertos visto de baixo, o céu de pôr do sol alaranjado e os turistas na escadaria; luz quente de fim de tarde, meio em contraluz.
+>
+> ROUPA: camiseta azul-marinho do Brasil retrô ("BRASIL RIO DE JANEIRO"), calça jeans e boné verde-militar.
+>
+> DETALHES DA PESSOA: cabelo solto ao vento; sorrindo e olhando pro lado; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: encostada num muro de pedra, meio de lado, uma mão ajeitando o boné; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic at the Christ the Redeemer viewpoint at dusk. Behind, the Christ with open
-> arms seen from below, an orange sunset sky and tourists on the steps. She's leaning on a stone
-> wall, turned a bit, one hand adjusting her cap, smiling and looking aside. Warm late-afternoon
-> light, slightly backlit. She's wearing a retro navy Brazil tee ("BRASIL RIO DE JANEIRO"), jeans
-> and an olive cap. Hair loose in the wind. Real skin with texture, no retouching or AI look. No
-> jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the Christ the Redeemer viewpoint at dusk; behind, the Christ with open arms seen from below, an orange sunset sky and tourists on the steps; warm late-afternoon light, slightly backlit.
+>
+> OUTFIT: retro navy Brazil tee ("BRASIL RIO DE JANEIRO"), jeans and an olive cap.
+>
+> PERSON DETAILS: hair loose in the wind; smiling and looking aside; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: leaning on a stone wall, turned a bit, one hand adjusting her cap; phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C15 — Quiosque de praia / Ipanema (dia)
 
 **PT**
-> Foto de celular da Vic sentada na mesa de um quiosque na orla de Ipanema num dia de sol. Em cima,
-> o guarda-sol do quiosque; atrás, a areia com guarda-sóis coloridos, gente, o mar, o Dois Irmãos
-> ao longe e o calçadão. Sol forte de verão, sombra dura. Ela está relaxada, segurando um drink com
-> rodela de laranja, olhando pra câmera. Usa óculos de sol, blusa cropped bege de ombro caído e
-> parte de baixo bege. Cabelo solto. Pele real com textura, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na mesa de um quiosque na orla de Ipanema num dia de sol; em cima, o guarda-sol do quiosque; atrás, a areia com guarda-sóis coloridos, gente, o mar, o Dois Irmãos ao longe e o calçadão; sol forte de verão, sombra dura.
+>
+> ROUPA: óculos de sol, blusa cropped bege de ombro caído e parte de baixo bege.
+>
+> DETALHES DA PESSOA: cabelo solto; olhando pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: sentada, relaxada, segurando um drink com rodela de laranja; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic sitting at a beach kiosk table on the Ipanema seafront on a sunny day.
-> Above, the kiosk umbrella; behind, the sand with colorful umbrellas, people, the sea, Dois Irmãos
-> far off and the promenade. Strong summer sun, hard shadows. She's relaxed, holding a drink with an
-> orange slice, looking at the camera. She's wearing sunglasses, a beige off-shoulder crop top and a
-> beige bottom. Hair down. Real skin with texture, no retouching or AI look. No jewelry, tattoos or
-> piercings. Phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at a beach kiosk table on the Ipanema seafront on a sunny day; above, the kiosk umbrella; behind, the sand with colorful umbrellas, people, the sea, Dois Irmãos far off and the promenade; strong summer sun, hard shadows.
+>
+> OUTFIT: sunglasses, a beige off-shoulder crop top and a beige bottom.
+>
+> PERSON DETAILS: hair down; looking at the camera; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: sitting, relaxed, holding a drink with an orange slice; phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C16 — Selfie no barco / mar (close)
 
 **PT**
-> Selfie de braço esticado da Vic num barco em mar verde-turquesa, num dia de sol. Atrás, o mar
-> calmo, uma ilha bem verde e o céu azul. Rosto perto da câmera, cabeça meio inclinada, meio
-> sorriso. Sol forte refletindo na água. Usa um top/biquíni bege. Cabelo solto e molhado do mar,
-> alguns fios no rosto. Pele real com sardas, textura e leve brilho de sol e água, sem retoque nem
-> cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular (leve distorção), só rosto e
-> ombros, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: num barco em mar verde-turquesa, num dia de sol; atrás, o mar calmo, uma ilha bem verde e o céu azul; sol forte refletindo na água.
+>
+> ROUPA: top/biquíni bege.
+>
+> DETALHES DA PESSOA: cabelo solto e molhado do mar, alguns fios no rosto; meio sorriso; pele real com sardas, textura e leve brilho de sol e água; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, rosto perto da câmera, cabeça meio inclinada; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> An arm's-length selfie of Vic on a boat on turquoise-green water, on a sunny day. Behind, the calm
-> sea, a lush green island and blue sky. Face close to the camera, head tilted, half smile. Strong
-> sun reflecting off the water. She's wearing a beige top/bikini. Hair down and wet from the sea, a
-> few strands on her face. Real skin with freckles, texture and a faint sun-and-water sheen, no
-> retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion), head
-> and shoulders, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a boat on turquoise-green water, on a sunny day; behind, the calm sea, a lush green island and blue sky; strong sun reflecting off the water.
+>
+> OUTFIT: beige top/bikini.
+>
+> PERSON DETAILS: hair down and wet from the sea, a few strands on her face; half smile; real skin with freckles, texture and a faint sun-and-water sheen; no jewelry, tattoos or piercings.
+>
+> POSE: arm's-length selfie, face close to the camera, head tilted; phone selfie (slight distortion), head and shoulders, light grain; no retouching or AI look.
 
 ## C17 — Mirante de praia / trilha (biquíni)
 
 **PT**
-> Foto de celular da Vic no alto de uma trilha verde à beira-mar, num dia de sol. Atrás, uma praia
-> de areia dourada com ondas, morros de mata, pedras e mato alto na frente, mar azul. Sol forte de
-> meio-dia. Ela está de pé, relaxada, uma mão no cabelo, meio sorriso. Usa um biquíni comum de
-> praia de estampa de oncinha (laranja e marrom). Cabelo solto ao vento. Pele real com textura e
-> brilho de calor, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular
-> aberta com a paisagem, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no alto de uma trilha verde à beira-mar, num dia de sol; atrás, uma praia de areia dourada com ondas, morros de mata, pedras e mato alto na frente, mar azul; sol forte de meio-dia.
+>
+> ROUPA: biquíni comum de praia de estampa de oncinha (laranja e marrom).
+>
+> DETALHES DA PESSOA: cabelo solto ao vento; meio sorriso; pele real com textura e brilho de calor; sem joia, tatuagem ou piercing.
+>
+> POSE: de pé, relaxada, uma mão no cabelo; foto de celular aberta com a paisagem, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic at the top of a green coastal trail, on a sunny day. Behind, a golden-sand
-> beach with waves, forested hills, rocks and tall grass in front, blue sea. Strong midday sun.
-> She's standing, relaxed, one hand in her hair, half smile. She's wearing a plain leopard-print
-> beach bikini (orange and brown). Hair loose in the wind. Real skin with texture and a heat sheen,
-> no retouching or AI look. No jewelry, tattoos or piercings. Wide phone photo with the landscape,
-> slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the top of a green coastal trail, on a sunny day; behind, a golden-sand beach with waves, forested hills, rocks and tall grass in front, blue sea; strong midday sun.
+>
+> OUTFIT: plain leopard-print beach bikini (orange and brown).
+>
+> PERSON DETAILS: hair loose in the wind; half smile; real skin with texture and a heat sheen; no jewelry, tattoos or piercings.
+>
+> POSE: standing, relaxed, one hand in her hair; wide phone photo with the landscape, slightly crooked, light grain; no retouching or AI look.
 
 ## C18 — Ipanema / dia (camiseta Brasil + short jeans)
 
 **PT**
-> Foto de celular da Vic em pé na areia de Ipanema num dia de sol, dessas tiradas de qualquer
-> jeito. Atrás, o Dois Irmãos, o mar com ondas, os prédios da orla e a galera na praia. Sol forte,
-> sombra dura, clima de verão. Ela está meio de lado, uma mão no cabelo, de óculos escuros, olhando
-> pra câmera. Usa camiseta cropped verde do Brasil ("BRASIL RIO DE JANEIRO") e short jeans claro
-> rasgado. Cabelo solto ao vento. Pele real com sardas e textura, sem retoque nem cara de IA. Sem
-> joia, tatuagem ou piercing. Foto de celular aberta, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na areia de Ipanema num dia de sol; atrás, o Dois Irmãos, o mar com ondas, os prédios da orla e a galera na praia; sol forte, sombra dura, clima de verão.
+>
+> ROUPA: camiseta cropped verde do Brasil ("BRASIL RIO DE JANEIRO"), short jeans claro rasgado e óculos escuros.
+>
+> DETALHES DA PESSOA: cabelo solto ao vento; olhando pra câmera; pele real com sardas e textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, meio de lado, uma mão no cabelo, dessas tiradas de qualquer jeito; foto de celular aberta, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing on the Ipanema sand on a sunny day, snapped casually. Behind, Dois
-> Irmãos, the sea with waves, the beachfront buildings and the beach crowd. Strong sun, hard
-> shadows, summer vibe. She's turned a bit, one hand in her hair, wearing sunglasses, looking at the
-> camera. She's wearing a green cropped Brazil tee ("BRASIL RIO DE JANEIRO") and light ripped denim
-> shorts. Hair loose in the wind. Real skin with freckles and texture, no retouching or AI look. No
-> jewelry, tattoos or piercings. Wide phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the Ipanema sand on a sunny day; behind, Dois Irmãos, the sea with waves, the beachfront buildings and the beach crowd; strong sun, hard shadows, summer vibe.
+>
+> OUTFIT: green cropped Brazil tee ("BRASIL RIO DE JANEIRO"), light ripped denim shorts and sunglasses.
+>
+> PERSON DETAILS: hair loose in the wind; looking at the camera; real skin with freckles and texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing, turned a bit, one hand in her hair, snapped casually; wide phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C19 — Praia / deitada na canga (close)
 
 **PT**
-> Foto de celular da Vic deitada de bruços numa canga estampada (azul e branca) na areia, num dia
-> de sol. Ela apoia o rosto na mão, com um meio sorriso, olhando pra câmera de perto. Atrás, a areia
-> com guarda-sóis coloridos, gente em cadeiras, prédios da orla e o mar. Sol forte, sombra dura. Usa
-> um biquíni preto. Cabelo solto, molhado e meio bagunçado. Pele real com sardas, textura e leve
-> brilho de sol e suor, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de
-> celular (leve distorção), só rosto e ombros, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na areia numa canga estampada (azul e branca), num dia de sol; atrás, a areia com guarda-sóis coloridos, gente em cadeiras, prédios da orla e o mar; sol forte, sombra dura.
+>
+> ROUPA: biquíni preto.
+>
+> DETALHES DA PESSOA: cabelo solto, molhado e meio bagunçado; um meio sorriso, olhando pra câmera de perto; pele real com sardas, textura e leve brilho de sol e suor; sem joia, tatuagem ou piercing.
+>
+> POSE: deitada de bruços, apoia o rosto na mão; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic lying on her stomach on a patterned beach towel (blue and white) on the sand,
-> on a sunny day. She rests her face on her hand, half smile, looking at the camera up close.
-> Behind, the sand with colorful umbrellas, people on chairs, beachfront buildings and the sea.
-> Strong sun, hard shadows. She's wearing a black bikini. Hair down, wet and a bit messy. Real skin
-> with freckles, texture and a faint sun-and-sweat sheen, no retouching or AI look. No jewelry,
-> tattoos or piercings. Phone selfie (slight distortion), head and shoulders, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the sand on a patterned beach towel (blue and white), on a sunny day; behind, the sand with colorful umbrellas, people on chairs, beachfront buildings and the sea; strong sun, hard shadows.
+>
+> OUTFIT: black bikini.
+>
+> PERSON DETAILS: hair down, wet and a bit messy; half smile, looking at the camera up close; real skin with freckles, texture and a faint sun-and-sweat sheen; no jewelry, tattoos or piercings.
+>
+> POSE: lying on her stomach, resting her face on her hand; phone selfie (slight distortion), head and shoulders, light grain; no retouching or AI look.
 
 ## C20 — Casa / foto na parede (camisa CBF)
 
 **PT**
-> Foto de celular da Vic em pé na frente de uma parede lisa bege dentro de casa, à noite. Luz quente
-> e suave de lâmpada, com a sombra dela na parede. Ela está meio de lado, uma mão na cintura, olhando
-> pra câmera séria e tranquila. Usa a camisa oficial amarela da seleção (CBF, gola V verde, escudo e
-> "BRASIL") e uma calça jeans baggy clara rasgada. Cabelo solto e ondulado de um lado. Pele real com
-> poros e sardas, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular quase
-> de corpo inteiro, meio torta, leve grão de pouca luz.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na frente de uma parede lisa bege dentro de casa, à noite; luz quente e suave de lâmpada, com a sombra dela na parede.
+>
+> ROUPA: camisa oficial amarela da seleção (CBF, gola V verde, escudo e "BRASIL") e uma calça jeans baggy clara rasgada.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado de um lado; olhando pra câmera séria e tranquila; pele real com poros e sardas; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, meio de lado, uma mão na cintura; foto de celular quase de corpo inteiro, meio torta, leve grão de pouca luz; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing in front of a plain beige wall indoors, at night. Warm soft lamp
-> light, with her shadow on the wall. She's turned a bit, one hand on her hip, looking at the camera
-> calm and serious. She's wearing the official yellow national-team jersey (CBF, green V-neck, crest
-> and "BRASIL") and light ripped baggy jeans. Loose wavy hair to one side. Real skin with pores and
-> freckles, no retouching or AI look. No jewelry, tattoos or piercings. Near full-body phone photo,
-> slightly crooked, low-light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a plain beige wall indoors, at night; warm soft lamp light, with her shadow on the wall.
+>
+> OUTFIT: the official yellow national-team jersey (CBF, green V-neck, crest and "BRASIL") and light ripped baggy jeans.
+>
+> PERSON DETAILS: loose wavy hair to one side; looking at the camera calm and serious; real skin with pores and freckles; no jewelry, tattoos or piercings.
+>
+> POSE: standing, turned a bit, one hand on her hip; near full-body phone photo, slightly crooked, low-light grain; no retouching or AI look.
 
 ## C21 — Casa / foto de look (conjunto Brasil)
 
 **PT**
-> Foto de celular da Vic encostada numa parede branca dentro de casa, tipo aquelas fotos de look.
-> Ela está meio de lado, quase de costas, olhando por cima do ombro pra câmera com uma cara séria e
-> tranquila, uma das mãos perto do cabelo. Usa um conjuntinho amarelo do Brasil — camiseta cropped
-> com vivo e listra verde e um short amarelo de moletom com "BRAZIL" escrito embaixo. Luz clara e
-> normal do ambiente, parede branca atrás e um pilar de azulejo claro do lado direito. Cabelo solto
-> e ondulado, caindo nos ombros. Pele real com textura e poros, sem retoque nem cara de IA. Sem
-> joia, tatuagem ou piercing. Foto de celular mesmo, com leve grão e enquadramento meio torto.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: encostada numa parede branca dentro de casa; luz clara e normal do ambiente, parede branca atrás e um pilar de azulejo claro do lado direito.
+>
+> ROUPA: conjuntinho amarelo do Brasil — camiseta cropped com vivo e listra verde e um short amarelo de moletom com "BRAZIL" escrito embaixo.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado, caindo nos ombros; olhando por cima do ombro pra câmera com uma cara séria e tranquila; pele real com textura e poros; sem joia, tatuagem ou piercing.
+>
+> POSE: tipo aquelas fotos de look, meio de lado, quase de costas, uma das mãos perto do cabelo; foto de celular mesmo, com leve grão e enquadramento meio torto; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic leaning against a white wall indoors, the kind of outfit-check pic. She's
-> turned mostly to the side, almost with her back to the camera, looking back over her shoulder with
-> a calm, serious face, one hand near her hair. She's wearing a yellow Brazil set — a cropped tee
-> with green trim and stripe and yellow sweat shorts with "BRAZIL" written at the hem. Plain, normal
-> indoor light, a white wall behind her and a light tiled column on the right. Hair loose and wavy,
-> falling on her shoulders. Real skin with texture and pores, no retouching or AI look. No jewelry,
-> tattoos or piercings. Just a phone photo, with light grain and slightly crooked framing.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: leaning against a white wall indoors; plain, normal indoor light, a white wall behind her and a light tiled column on the right.
+>
+> OUTFIT: yellow Brazil set — a cropped tee with green trim and stripe and yellow sweat shorts with "BRAZIL" written at the hem.
+>
+> PERSON DETAILS: hair loose and wavy, falling on her shoulders; looking back over her shoulder with a calm, serious face; real skin with texture and pores; no jewelry, tattoos or piercings.
+>
+> POSE: the kind of outfit-check pic, turned mostly to the side, almost with her back to the camera, one hand near her hair; just a phone photo, with light grain and slightly crooked framing; no retouching or AI look.
 
 ## C22 — Mirante de favela / Rio
 
 **PT**
-> Foto de celular da Vic num mirante lá no alto de uma favela do Rio, dessas com vista aberta pra
-> cidade. Ela está em pé segurando o corrimão de metal, olhando pra câmera com uma cara tranquila.
-> Atrás dá pra ver o costão de pedra enorme do morro, o casario colorido da favela descendo a
-> encosta, um grafite numa parede do lado e umas pessoas sentadas num cantinho de café. Sol forte de
-> fim de tarde batendo de lado, sombra dura. Ela usa uma regata azul-marinho do Brasil com "BRASIL
-> RIO DE JANEIRO" e vivo amarelo, short jeans claro e uma bolsinha de palha a tiracolo. Cabelo solto
-> e meio bagunçado pelo vento. Pele real com sardas e textura, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular mesmo, com leve grão e enquadramento meio torto.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: num mirante lá no alto de uma favela do Rio, dessas com vista aberta pra cidade; atrás dá pra ver o costão de pedra enorme do morro, o casario colorido da favela descendo a encosta, um grafite numa parede do lado e umas pessoas sentadas num cantinho de café; sol forte de fim de tarde batendo de lado, sombra dura.
+>
+> ROUPA: regata azul-marinho do Brasil com "BRASIL RIO DE JANEIRO" e vivo amarelo, short jeans claro e uma bolsinha de palha a tiracolo.
+>
+> DETALHES DA PESSOA: cabelo solto e meio bagunçado pelo vento; olhando pra câmera com uma cara tranquila; pele real com sardas e textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé segurando o corrimão de metal; foto de celular mesmo, com leve grão e enquadramento meio torto; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic at a viewpoint high up in a Rio favela, the kind with an open view over the
-> city. She's standing holding the metal railing, looking at the camera all relaxed. Behind her you
-> can see the huge rock face of the hill, the colorful favela houses going down the slope, some
-> graffiti on a wall to the side and a few people sitting at a little café corner. Strong
-> late-afternoon sun hitting from the side, hard shadows. She's wearing a navy Brazil tank top with
-> "BRASIL RIO DE JANEIRO" and yellow trim, light denim shorts and a small straw crossbody bag. Hair
-> loose and a bit messy from the wind. Real skin with freckles and texture, no retouching or AI look.
-> No jewelry, tattoos or piercings. Just a phone photo, with light grain and slightly crooked framing.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at a viewpoint high up in a Rio favela, the kind with an open view over the city; behind her you can see the huge rock face of the hill, the colorful favela houses going down the slope, some graffiti on a wall to the side and a few people sitting at a little café corner; strong late-afternoon sun hitting from the side, hard shadows.
+>
+> OUTFIT: navy Brazil tank top with "BRASIL RIO DE JANEIRO" and yellow trim, light denim shorts and a small straw crossbody bag.
+>
+> PERSON DETAILS: hair loose and a bit messy from the wind; looking at the camera all relaxed; real skin with freckles and texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing holding the metal railing; just a phone photo, with light grain and slightly crooked framing; no retouching or AI look.
 
 ## C23 — Praia Vermelha / bandeira do Brasil
 
 **PT**
-> Foto de celular da Vic numa praia do Rio com o Pão de Açúcar logo atrás, no fim de tarde. Ela está
-> em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados
-> pros lados, a cabeça meio baixa olhando pra baixo, jeito tranquilo. Atrás, o morro do Pão de
-> Açúcar, o mar calmo e os morros verdes, com um céu de fim de tarde clarinho. Luz suave de fim de
-> tarde. Usa um biquíni verde com vivo amarelo, uns óculos de grau e uma florzinha branca presa no
-> cabelo. Cabelo solto e liso. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem
-> ou piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa praia do Rio com o Pão de Açúcar logo atrás, no fim de tarde; atrás, o morro do Pão de Açúcar, o mar calmo e os morros verdes, com um céu de fim de tarde clarinho; luz suave de fim de tarde.
+>
+> ROUPA: biquíni verde com vivo amarelo, uns óculos de grau e uma florzinha branca presa no cabelo.
+>
+> DETALHES DA PESSOA: cabelo solto e liso; a cabeça meio baixa olhando pra baixo, jeito tranquilo; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados pros lados; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic on a Rio beach with Sugarloaf Mountain right behind, at dusk. She's standing
-> on the sand holding a Brazil flag wide open behind her, both arms out to the sides, head tilted
-> down, relaxed vibe. Behind her, the Sugarloaf hill, the calm sea and green hills, with a soft pale
-> dusk sky. Soft late-afternoon light. She's wearing a green bikini with yellow trim, prescription
-> glasses and a little white flower in her hair. Hair down and straight. Real skin with texture, no
-> retouching or AI look. No jewelry, tattoos or piercings. Full-body phone photo, slightly crooked,
-> light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a Rio beach with Sugarloaf Mountain right behind, at dusk; behind her, the Sugarloaf hill, the calm sea and green hills, with a soft pale dusk sky; soft late-afternoon light.
+>
+> OUTFIT: green bikini with yellow trim, prescription glasses and a little white flower in her hair.
+>
+> PERSON DETAILS: hair down and straight; head tilted down, relaxed vibe; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing on the sand holding a Brazil flag wide open behind her, both arms out to the sides; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C24 — Quarto / selfie à noite (conjunto Brasil)
 
 **PT**
-> Selfie da Vic no quarto, de braço esticado, sentada na beira da cama. Quarto aconchegante com luz
-> quentinha de abajur acesa, parede clara meio inclinada no teto, um guarda-roupa de madeira do lado
-> com umas coisas em cima e a cama com lençol branco meio amassado. Ela está olhando pra câmera
-> tranquila, uma mão no cabelo. Usa um conjuntinho amarelo do Brasil — regata de alça fina com vivo
-> verde e short de moletom amarelo com "BRAZIL" escrito embaixo. Cabelo solto e ondulado, bem
-> comprido. Pele real com textura e sardas, sem retoque nem cara de IA. Sem joia, tatuagem ou
-> piercing. Foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio
-> torto.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no quarto, aconchegante, com luz quentinha de abajur acesa, parede clara meio inclinada no teto, um guarda-roupa de madeira do lado com umas coisas em cima e a cama com lençol branco meio amassado.
+>
+> ROUPA: conjuntinho amarelo do Brasil — regata de alça fina com vivo verde e short de moletom amarelo com "BRAZIL" escrito embaixo.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado, bem comprido; olhando pra câmera tranquila; pele real com textura e sardas; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, sentada na beira da cama, uma mão no cabelo; foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio torto; sem retoque nem cara de IA.
 
 **EN**
-> An arm's-length selfie of Vic in her bedroom, sitting on the edge of the bed. Cozy room with warm
-> light from a small lamp, a light wall with a sloped ceiling, a wooden wardrobe to the side with
-> some stuff on top, and the bed with slightly rumpled white sheets. She's looking at the camera
-> relaxed, one hand in her hair. She's wearing a yellow Brazil set — a thin-strap tank with green
-> trim and yellow sweat shorts with "BRAZIL" written at the hem. Hair loose and wavy, very long. Real
-> skin with texture and freckles, no retouching or AI look. No jewelry, tattoos or piercings. A
-> slightly dim phone photo because of the lamp light, light grain, slightly crooked framing.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in her bedroom, cozy, with warm light from a small lamp, a light wall with a sloped ceiling, a wooden wardrobe to the side with some stuff on top, and the bed with slightly rumpled white sheets.
+>
+> OUTFIT: yellow Brazil set — a thin-strap tank with green trim and yellow sweat shorts with "BRAZIL" written at the hem.
+>
+> PERSON DETAILS: hair loose and wavy, very long; looking at the camera relaxed; real skin with texture and freckles; no jewelry, tattoos or piercings.
+>
+> POSE: arm's-length selfie, sitting on the edge of the bed, one hand in her hair; a slightly dim phone photo because of the lamp light, light grain, slightly crooked framing; no retouching or AI look.
 
 ## C25 — Praia / dia (look Brasil + chapéu de palha)
 
 **PT**
-> Foto de celular da Vic em pé na areia de uma praia do Rio num dia de sol forte. Atrás, o mar com
-> ondas, os prédios da orla, uns morros ao longe e a galera na praia. Céu azul com nuvens, sol forte
-> e sombra dura. Ela está de pé, uma mão segurando a aba do chapéu, olhando pra câmera tranquila. Usa
-> um chapéu de palha estilo country, óculos de sol escuros, uma camiseta cropped amarela do Brasil
-> ("BRASIL RIO DE JANEIRO") com vivo verde e uma parte de baixo de biquíni amarela e verde. Cabelo
-> preso em duas tranças. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou
-> piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na areia de uma praia do Rio num dia de sol forte; atrás, o mar com ondas, os prédios da orla, uns morros ao longe e a galera na praia; céu azul com nuvens, sol forte e sombra dura.
+>
+> ROUPA: chapéu de palha estilo country, óculos de sol escuros, camiseta cropped amarela do Brasil ("BRASIL RIO DE JANEIRO") com vivo verde e uma parte de baixo de biquíni amarela e verde.
+>
+> DETALHES DA PESSOA: cabelo preso em duas tranças; olhando pra câmera tranquila; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: de pé, uma mão segurando a aba do chapéu; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing on the sand at a Rio beach on a bright sunny day. Behind her, the sea
-> with waves, the beachfront buildings, some hills far off and people on the beach. Blue sky with
-> clouds, strong sun and hard shadows. She's standing, one hand holding the brim of her hat, looking
-> at the camera relaxed. She's wearing a straw cowboy-style hat, dark sunglasses, a yellow cropped
-> Brazil tee ("BRASIL RIO DE JANEIRO") with green trim and a yellow-and-green bikini bottom. Hair in
-> two braids. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
-> Full-body phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the sand at a Rio beach on a bright sunny day; behind her, the sea with waves, the beachfront buildings, some hills far off and people on the beach; blue sky with clouds, strong sun and hard shadows.
+>
+> OUTFIT: straw cowboy-style hat, dark sunglasses, a yellow cropped Brazil tee ("BRASIL RIO DE JANEIRO") with green trim and a yellow-and-green bikini bottom.
+>
+> PERSON DETAILS: hair in two braids; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing, one hand holding the brim of her hat; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C26 — Apê de luxo / noite de jogo
 
 **PT**
-> Foto de celular da Vic numa sala de apartamento de luxo à noite, dessas com janelão do chão ao teto
-> e a cidade toda iluminada lá fora. Atrás dela, uma TV grande passando um jogo do Brasil, sofás
-> bege, uma mesa de centro de madeira rústica com um arranjo de flores e um tapete claro. Luz interna
-> quente e aconchegante. Ela está em pé sorrindo pra câmera, segurando um copo térmico estampado do
-> Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído. Usa uma regata amarela
-> com a bandeira do Brasil no peito, um short jeans curto e um chinelo havaianas verde e amarelo, com
-> uma bolsinha branca no ombro. Cabelo solto, comprido e liso. Pele real com textura, sem retoque nem
-> cara de IA. Sem joia, tatuagem ou piercing. Foto de celular de corpo inteiro, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa sala de apartamento de luxo à noite, dessas com janelão do chão ao teto e a cidade toda iluminada lá fora; atrás dela, uma TV grande passando um jogo do Brasil, sofás bege, uma mesa de centro de madeira rústica com um arranjo de flores e um tapete claro; luz interna quente e aconchegante.
+>
+> ROUPA: regata amarela com a bandeira do Brasil no peito, um short jeans curto e um chinelo havaianas verde e amarelo, com uma bolsinha branca no ombro.
+>
+> DETALHES DA PESSOA: cabelo solto, comprido e liso; sorrindo pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, segurando um copo térmico estampado do Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic in a luxury apartment living room at night, the kind with floor-to-ceiling
-> windows and the whole city lit up outside. Behind her, a big TV showing a Brazil football match,
-> beige sofas, a rustic wood coffee table with a flower arrangement and a light carpet. Warm, cozy
-> indoor light. She's standing, smiling at the camera, holding a Brazil-printed tumbler in one hand,
-> one leg crossed in front of the other, relaxed vibe. She's wearing a yellow tank top with the
-> Brazilian flag on the chest, denim cutoff shorts and green-and-yellow Havaianas flip-flops, with a
-> small white shoulder bag. Hair down, long and straight. Real skin with texture, no retouching or AI
-> look. No jewelry, tattoos or piercings. Full-body phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a luxury apartment living room at night, the kind with floor-to-ceiling windows and the whole city lit up outside; behind her, a big TV showing a Brazil football match, beige sofas, a rustic wood coffee table with a flower arrangement and a light carpet; warm, cozy indoor light.
+>
+> OUTFIT: yellow tank top with the Brazilian flag on the chest, denim cutoff shorts and green-and-yellow Havaianas flip-flops, with a small white shoulder bag.
+>
+> PERSON DETAILS: hair down, long and straight; smiling at the camera; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing, holding a Brazil-printed tumbler in one hand, one leg crossed in front of the other, relaxed vibe; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C27 — Bar / assistindo o jogo (chopp)
 
 **PT**
-> Foto de celular da Vic sentada numa mesa de um bar/boteco assistindo o jogo do Brasil à noite. Na
-> frente dela, um caneco de chopp gelado e uma bandeira verde e amarela na mesa. Atrás, a TV passando
-> o jogo meio desfocada, outras pessoas de amarelo e a luz quente do bar. Ela está com os braços
-> apoiados na mesa, as mãos perto do caneco, olhando pra câmera tranquila. Usa uma regata amarela do
-> Brasil com vivo verde e a bandeira no peito, e um boné amarelo da CBF. Cabelo solto, comprido e
-> liso. Pele real com textura, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de
-> celular meio escura por causa da luz de bar, leve grão, meio torta.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa mesa de um bar/boteco à noite; na frente dela, um caneco de chopp gelado e uma bandeira verde e amarela na mesa; atrás, a TV passando o jogo do Brasil meio desfocada, outras pessoas de amarelo e a luz quente do bar.
+>
+> ROUPA: regata amarela do Brasil com vivo verde e a bandeira no peito, e um boné amarelo da CBF.
+>
+> DETALHES DA PESSOA: cabelo solto, comprido e liso; olhando pra câmera tranquila; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: sentada, os braços apoiados na mesa, as mãos perto do caneco, assistindo o jogo; foto de celular meio escura por causa da luz de bar, leve grão, meio torta; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic sitting at a table in a bar/pub watching the Brazil game at night. In front of
-> her, a cold mug of draft beer and a green-and-yellow flag on the table. Behind, the TV showing the
-> game slightly blurred, other people in yellow and the warm bar light. Her arms are resting on the
-> table, hands near the mug, looking at the camera relaxed. She's wearing a yellow Brazil tank top
-> with green trim and the flag on the chest, and a yellow CBF cap. Hair down, long and straight. Real
-> skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. A slightly dim phone
-> photo because of the bar light, light grain, slightly crooked.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at a table in a bar/pub at night; in front of her, a cold mug of draft beer and a green-and-yellow flag on the table; behind, the TV showing the Brazil game slightly blurred, other people in yellow and the warm bar light.
+>
+> OUTFIT: yellow Brazil tank top with green trim and the flag on the chest, and a yellow CBF cap.
+>
+> PERSON DETAILS: hair down, long and straight; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: sitting, arms resting on the table, hands near the mug, watching the game; a slightly dim phone photo because of the bar light, light grain, slightly crooked; no retouching or AI look.
 
 ## C28 — Casa / selfie close (glam CBF)
 
 **PT**
-> Selfie da Vic de braço esticado dentro de casa, num corredor claro, bem de pertinho do rosto. Ela
-> está com uma cara séria e confiante, olhando direto pra câmera. Cabelo preso num rabo de cavalo bem
-> alinhado e com volume, caindo de um lado. Maquiagem mais caprichada (sobrancelha marcada, cílios,
-> batom nude), mas a pele ainda com textura real, poros e tudo — nada de pele lisa de IA. Usa a
-> camisa amarela da seleção (CBF, gola V verde com o escudo). Luz interna normal e suave do corredor.
-> Pele real, sem retoque exagerado nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular
-> (leve distorção), só rosto e ombros, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa, num corredor claro; luz interna normal e suave do corredor.
+>
+> ROUPA: camisa amarela da seleção (CBF, gola V verde com o escudo).
+>
+> DETALHES DA PESSOA: cabelo preso num rabo de cavalo bem alinhado e com volume, caindo de um lado; cara séria e confiante, olhando direto pra câmera; maquiagem mais caprichada (sobrancelha marcada, cílios, batom nude), mas a pele ainda com textura real, poros e tudo — nada de pele lisa de IA; pele real; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, bem de pertinho do rosto; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque exagerado nem cara de IA.
 
 **EN**
-> An arm's-length selfie of Vic indoors in a bright hallway, very close to her face. She has a
-> serious, confident look, staring right at the camera. Hair in a sleek, voluminous high ponytail
-> falling to one side. Fuller glam makeup (bold brows, lashes, nude lipstick), but the skin still has
-> real texture, pores and all — none of that smooth AI skin. She's wearing the yellow national-team
-> jersey (CBF, green V-neck with the crest). Normal soft indoor hallway light. Real skin, no heavy
-> retouching or AI look. No jewelry, tattoos or piercings. Phone selfie (slight distortion), head and
-> shoulders, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors in a bright hallway; normal soft indoor hallway light.
+>
+> OUTFIT: the yellow national-team jersey (CBF, green V-neck with the crest).
+>
+> PERSON DETAILS: hair in a sleek, voluminous high ponytail falling to one side; serious, confident look, staring right at the camera; fuller glam makeup (bold brows, lashes, nude lipstick), but the skin still has real texture, pores and all — none of that smooth AI skin; real skin; no jewelry, tattoos or piercings.
+>
+> POSE: arm's-length selfie, very close to her face; phone selfie (slight distortion), head and shoulders, light grain; no heavy retouching or AI look.
 
 ## C29 — Varanda à noite / flash (camisa retrô)
 
 **PT**
-> Foto de celular da Vic com flash, à noite, numa varanda/terraço com a cidade no fundo e o céu ainda
-> meio alaranjado do pôr do sol. Atrás, a silhueta escura dos prédios e umas luzinhas da cidade lá
-> embaixo. Flash do celular batendo forte nela, fundo bem escuro. Ela está encostada num corrimão,
-> cabeça meio inclinada, com atitude, a boca levemente aberta. Usa uma camisa retrô do Brasil anos 90
-> (amarela com grafismo laranja e gola verde, CBF) e uns óculos de sol futuristas pretos bem colados
-> no rosto. Cabelo cacheado/ondulado e meio bagunçado pelo vento, alguns fios no rosto. Pele real com
-> textura e o brilho do flash, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Foto de
-> celular noturna com flash, grão e meio torta.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa varanda/terraço à noite, com a cidade no fundo e o céu ainda meio alaranjado do pôr do sol; atrás, a silhueta escura dos prédios e umas luzinhas da cidade lá embaixo; flash do celular batendo forte nela, fundo bem escuro.
+>
+> ROUPA: camisa retrô do Brasil anos 90 (amarela com grafismo laranja e gola verde, CBF) e uns óculos de sol futuristas pretos bem colados no rosto.
+>
+> DETALHES DA PESSOA: cabelo cacheado/ondulado e meio bagunçado pelo vento, alguns fios no rosto; cabeça meio inclinada, com atitude, a boca levemente aberta; pele real com textura e o brilho do flash; sem joia, tatuagem ou piercing.
+>
+> POSE: encostada num corrimão; foto de celular noturna com flash, grão e meio torta; sem retoque nem cara de IA.
 
 **EN**
-> A flash phone photo of Vic at night on a balcony/terrace with the city behind and the sky still a
-> bit orange from the sunset. Behind her, the dark silhouette of buildings and some city lights
-> below. The phone flash hitting her hard, very dark background. She's leaning on a railing, head
-> tilted, full of attitude, mouth slightly open. She's wearing a retro 90s Brazil jersey (yellow with
-> an orange graphic and a green collar, CBF) and futuristic black wraparound sunglasses tight to her
-> face. Curly/wavy hair, a bit messy from the wind, a few strands on her face. Real skin with texture
-> and the flash sheen, no retouching or AI look. No jewelry, tattoos or piercings. Night flash phone
-> photo, grainy and slightly crooked.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at night on a balcony/terrace with the city behind and the sky still a bit orange from the sunset; behind her, the dark silhouette of buildings and some city lights below; the phone flash hitting her hard, very dark background.
+>
+> OUTFIT: retro 90s Brazil jersey (yellow with an orange graphic and a green collar, CBF) and futuristic black wraparound sunglasses tight to her face.
+>
+> PERSON DETAILS: curly/wavy hair, a bit messy from the wind, a few strands on her face; head tilted, full of attitude, mouth slightly open; real skin with texture and the flash sheen; no jewelry, tattoos or piercings.
+>
+> POSE: leaning on a railing; night flash phone photo, grainy and slightly crooked; no retouching or AI look.
 
 ## C30 — Casa / mirror selfie (luz dourada)
 
 **PT**
-> Selfie de espelho da Vic dentro de casa no fim de tarde, com aquela luz quente do sol entrando pela
-> janela e batendo no rosto dela e na parede. Ela está segurando o celular (iPhone 15 Pro Max titânio
-> preto, capinha preta lisa)
-> apontado pro espelho, olhando pra câmera com uma cara tranquila. Atrás, um pedaço do quarto com um
-> espelho na parede. Usa uma camiseta amarela do Brasil de gola V verde com listras verdes ("BRASIL"
-> e bandeira no peito). Cabelo solto, comprido e liso, repartido no meio. Pele real com textura e o
-> brilho quente do sol na pele, sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de
-> espelho de celular, meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa no fim de tarde, com aquela luz quente do sol entrando pela janela e batendo no rosto dela e na parede; atrás, um pedaço do quarto com um espelho na parede.
+>
+> ROUPA: camiseta amarela do Brasil de gola V verde com listras verdes ("BRASIL" e bandeira no peito).
+>
+> DETALHES DA PESSOA: cabelo solto, comprido e liso, repartido no meio; olhando pra câmera com uma cara tranquila; pele real com textura e o brilho quente do sol na pele; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; selfie de espelho de celular, meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A mirror selfie of Vic indoors in the late afternoon, with that warm sunlight coming through the
-> window and hitting her face and the wall. She's holding the phone (black titanium iPhone 15 Pro Max,
-> plain black case) pointed at the
-> mirror, looking at the camera with a calm expression. Behind her, a bit of the room with a mirror
-> on the wall. She's wearing a yellow Brazil tee with a green V-neck and green stripes ("BRASIL" and
-> flag on the chest). Hair down, long and straight, parted in the middle. Real skin with texture and
-> the warm sun glow on her skin, no retouching or AI look. No jewelry, tattoos or piercings. Mirror
-> phone selfie, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors in the late afternoon, with that warm sunlight coming through the window and hitting her face and the wall; behind her, a bit of the room with a mirror on the wall.
+>
+> OUTFIT: yellow Brazil tee with a green V-neck and green stripes ("BRASIL" and flag on the chest).
+>
+> PERSON DETAILS: hair down, long and straight, parted in the middle; looking at the camera with a calm expression; real skin with texture and the warm sun glow on her skin; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; mirror phone selfie, slightly crooked, light grain; no retouching or AI look.
 
 ## C31 — Varanda hora azul / selfie (camisa away CBF) — _usa preset "Varanda ao anoitecer"_
 
 **PT**
-> Selfie de braço esticado da Vic numa varanda de apartamento alto ao anoitecer (hora azul), com a
-> cidade em silhueta e janelas acesas lá embaixo, corrimão de metal do lado. Céu em degradê do azul
-> profundo pro laranja no horizonte, ambiente escuro, foto levemente subexposta; clima moody meio
-> saturado tipo filtro de filme (azul-petróleo + laranja quente), sombras fechadas e realces quentes.
-> Ela está bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo, cabeça
-> meio inclinada, um meio sorriso, olhando pra câmera. Usa a camisa preta e azul da seleção (CBF,
-> escudo e "BRASIL", com o símbolo da Jordan). Cabelo solto e ondulado, caindo de um lado, meio ao
-> vento. Pele real com sardas e textura, só com a luz ambiente e o brilho quente da cidade no rosto,
-> sem retoque nem cara de IA. Sem joia, tatuagem ou piercing. Selfie de celular (leve distorção),
-> ângulo meio torto, grão de pouca luz.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa varanda de apartamento alto ao anoitecer (hora azul), com a cidade em silhueta e janelas acesas lá embaixo, corrimão de metal do lado; céu em degradê do azul profundo pro laranja no horizonte, ambiente escuro, foto levemente subexposta; clima moody meio saturado tipo filtro de filme (azul-petróleo + laranja quente), sombras fechadas e realces quentes.
+>
+> ROUPA: camisa preta e azul da seleção (CBF, escudo e "BRASIL", com o símbolo da Jordan).
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado, caindo de um lado, meio ao vento; cabeça meio inclinada, um meio sorriso, olhando pra câmera; pele real com sardas e textura, só com a luz ambiente e o brilho quente da cidade no rosto; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo; selfie de celular (leve distorção), ângulo meio torto, grão de pouca luz; sem retoque nem cara de IA.
 
 **EN**
-> An arm's-length selfie of Vic on a high apartment balcony at dusk (blue hour), with the city in
-> silhouette and lit windows below, a metal railing to the side. Sky gradient from deep blue to
-> orange at the horizon, dark setting, slightly underexposed; moody, fairly saturated film-filter
-> look (teal + warm orange), crushed shadows and warm highlights. She's very close to the camera, one
-> hand raised resting on her head/hair, head tilted, a half smile, looking at the camera. She's
-> wearing the black-and-blue national-team jersey (CBF, crest and "BRASIL", with the Jordan logo).
-> Hair down and wavy, falling to one side, a bit windblown. Real skin with freckles and texture, only
-> the ambient light and warm city glow on her face, no retouching or AI look. No jewelry, tattoos or
-> piercings. Phone selfie (slight distortion), slightly tilted angle, low-light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a high apartment balcony at dusk (blue hour), with the city in silhouette and lit windows below, a metal railing to the side; sky gradient from deep blue to orange at the horizon, dark setting, slightly underexposed; moody, fairly saturated film-filter look (teal + warm orange), crushed shadows and warm highlights.
+>
+> OUTFIT: the black-and-blue national-team jersey (CBF, crest and "BRASIL", with the Jordan logo).
+>
+> PERSON DETAILS: hair down and wavy, falling to one side, a bit windblown; head tilted, a half smile, looking at the camera; real skin with freckles and texture, only the ambient light and warm city glow on her face; no jewelry, tattoos or piercings.
+>
+> POSE: arm's-length selfie, very close to the camera, one hand raised resting on her head/hair; phone selfie (slight distortion), slightly tilted angle, low-light grain; no retouching or AI look.
 
 ## C32 — Banheiro / mirror selfie (top tomara-que-caia)
 
 **PT**
-> Selfie de espelho da Vic num banheiro de parede de azulejo branco, segurando o celular (iPhone 15
-> Pro Max titânio preto, capinha preta lisa) apontado pro espelho. Ela está encostada na parede, olhando pra câmera com uma cara
-> tranquila. Usa um top tomara-que-caia preto com um short jeans, num look casual de balada. Luz
-> interna normal do banheiro. Cabelo solto e ondulado, comprido. Pele real com textura, sem retoque
-> nem cara de IA. Sem joia, tatuagem ou piercing. Foto de celular, meio torta, leve grão (uma mão
-> segura o celular).
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: num banheiro de parede de azulejo branco; luz interna normal do banheiro.
+>
+> ROUPA: top tomara-que-caia preto com um short jeans, num look casual de balada.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado, comprido; olhando pra câmera com uma cara tranquila; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho, encostada na parede, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; foto de celular, meio torta, leve grão (uma mão segura o celular); sem retoque nem cara de IA.
 
 **EN**
-> A bathroom mirror selfie of Vic against a white tiled wall, holding the phone (black titanium iPhone
-> 15 Pro Max, plain black case) pointed at the mirror. She's leaning on the wall, looking at the camera relaxed. She's wearing a black tube
-> top with denim shorts, a casual night-out look. Normal indoor bathroom light. Hair down and wavy,
-> long. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone
-> photo, slightly crooked, light grain (one hand holds the phone).
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a bathroom with a white tiled wall; normal indoor bathroom light.
+>
+> OUTFIT: black tube top with denim shorts, a casual night-out look.
+>
+> PERSON DETAILS: hair down and wavy, long; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: mirror selfie, leaning on the wall, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; phone photo, slightly crooked, light grain (one hand holds the phone); no retouching or AI look.
 
 ## C33 — Casa / retrato na cortina (camisa CBF)
 
 **PT**
-> Foto de celular da Vic em pé na frente de uma cortina bege/verde-oliva dentro de casa, à noite. Luz
-> interna quente e suave do ambiente. Ela está com uma das mãos atrás da cabeça, no cabelo, olhando
-> pra câmera com uma cara tranquila e um biquinho de leve. Usa a camisa amarela da seleção do Brasil
-> (CBF, gola com detalhe verde e azul, escudo e "BRASIL" no peito) e um short claro. Cabelo solto,
-> comprido e liso, repartido no meio. Pele real com textura, sem retoque nem cara de IA. Sem joia,
-> tatuagem ou piercing. Foto de celular meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na frente de uma cortina bege/verde-oliva dentro de casa, à noite; luz interna quente e suave do ambiente.
+>
+> ROUPA: camisa amarela da seleção do Brasil (CBF, gola com detalhe verde e azul, escudo e "BRASIL" no peito) e um short claro.
+>
+> DETALHES DA PESSOA: cabelo solto, comprido e liso, repartido no meio; olhando pra câmera com uma cara tranquila e um biquinho de leve; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: em pé, uma das mãos atrás da cabeça, no cabelo; foto de celular meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic standing in front of a beige/olive curtain indoors, at night. Warm soft indoor
-> light. She has one hand behind her head, in her hair, looking at the camera with a calm face and a
-> slight pout. She's wearing the yellow Brazil national-team jersey (CBF, collar with green and blue
-> trim, crest and "BRASIL" on the chest) and light shorts. Hair down, long and straight, parted in
-> the middle. Real skin with texture, no retouching or AI look. No jewelry, tattoos or piercings.
-> Phone photo, slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a beige/olive curtain indoors, at night; warm soft indoor light.
+>
+> OUTFIT: the yellow Brazil national-team jersey (CBF, collar with green and blue trim, crest and "BRASIL" on the chest) and light shorts.
+>
+> PERSON DETAILS: hair down, long and straight, parted in the middle; looking at the camera with a calm face and a slight pout; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: standing, one hand behind her head, in her hair; phone photo, slightly crooked, light grain; no retouching or AI look.
 
 ## C34 — Casa / selfie close (camisa CBF)
 
 **PT**
-> Selfie de braço esticado da Vic dentro de casa, num cômodo de parede clara, à noite. Luz interna
-> suave e quente. Ela está com uma das mãos na cabeça, no cabelo, olhando pra câmera com uma cara
-> séria e tranquila. Usa a camisa amarela da seleção do Brasil (CBF, gola V verde, escudo e "BRASIL",
-> logo da Nike). Cabelo solto, comprido e liso. Pele real com textura, sem retoque nem cara de IA.
-> Sem joia, tatuagem ou piercing. Selfie de celular (leve distorção), meio torta, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa, num cômodo de parede clara, à noite; luz interna suave e quente.
+>
+> ROUPA: camisa amarela da seleção do Brasil (CBF, gola V verde, escudo e "BRASIL", logo da Nike).
+>
+> DETALHES DA PESSOA: cabelo solto, comprido e liso; olhando pra câmera com uma cara séria e tranquila; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de braço esticado, uma das mãos na cabeça, no cabelo; selfie de celular (leve distorção), meio torta, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> An arm's-length selfie of Vic indoors, in a light-walled room, at night. Soft warm indoor light.
-> She has one hand on her head, in her hair, looking at the camera with a calm, serious face. She's
-> wearing the yellow Brazil national-team jersey (CBF, green V-neck, crest and "BRASIL", Nike logo).
-> Hair down, long and straight. Real skin with texture, no retouching or AI look. No jewelry, tattoos
-> or piercings. Phone selfie (slight distortion), slightly crooked, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors, in a light-walled room, at night; soft warm indoor light.
+>
+> OUTFIT: the yellow Brazil national-team jersey (CBF, green V-neck, crest and "BRASIL", Nike logo).
+>
+> PERSON DETAILS: hair down, long and straight; looking at the camera with a calm, serious face; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: arm's-length selfie, one hand on her head, in her hair; phone selfie (slight distortion), slightly crooked, light grain; no retouching or AI look.
 
 ## C35 — Rua à noite / mirror selfie de lado (neon)
 
 **PT**
-> Selfie de espelho de lado da Vic, à noite, do lado de fora perto de uma parede de tijolinho, com
-> umas luzes de neon (verde e rosa) desfocadas atrás. Ela está de perfil, sorrindo pra tela,
-> segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto. Usa
-> uma camiseta azul-marinho do
-> Brasil com "BRASIL" em amarelo e listras amarelas na manga, calça de linho branca de cintura alta e
-> um cinto marrom fininho. Cabelo solto e comprido. Pele real com textura, sem retoque nem cara de
-> IA. Sem joia, tatuagem ou piercing. Foto de celular meio torta, leve grão de noite.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: à noite, do lado de fora perto de uma parede de tijolinho, com umas luzes de neon (verde e rosa) desfocadas atrás.
+>
+> ROUPA: camiseta azul-marinho do Brasil com "BRASIL" em amarelo e listras amarelas na manga, calça de linho branca de cintura alta e um cinto marrom fininho.
+>
+> DETALHES DA PESSOA: cabelo solto e comprido; sorrindo pra tela; pele real com textura; sem joia, tatuagem ou piercing.
+>
+> POSE: selfie de espelho de lado, de perfil, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto; foto de celular meio torta, leve grão de noite; sem retoque nem cara de IA.
 
 **EN**
-> A side mirror selfie of Vic at night, outdoors near a brick wall, with blurred neon lights (green
-> and pink) behind her. She's in profile, smiling at the screen, holding the phone (black titanium
-> iPhone 15 Pro Max, plain black case) in
-> front of her face. She's wearing a navy Brazil tee with "BRASIL" in yellow and yellow sleeve
-> stripes, high-waisted white linen pants and a thin brown belt. Hair down and long. Real skin with
-> texture, no retouching or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked,
-> night grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at night, outdoors near a brick wall, with blurred neon lights (green and pink) behind her.
+>
+> OUTFIT: navy Brazil tee with "BRASIL" in yellow and yellow sleeve stripes, high-waisted white linen pants and a thin brown belt.
+>
+> PERSON DETAILS: hair down and long; smiling at the screen; real skin with texture; no jewelry, tattoos or piercings.
+>
+> POSE: side mirror selfie, in profile, holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; phone photo, slightly crooked, night grain; no retouching or AI look.
 
 ## C36 — Academia / treino de verdade (agachando)
 
 **PT**
-> Foto de celular da Vic treinando de verdade na academia, alguém tirou de lado enquanto ela agacha.
-> Ela está fazendo um agachamento com a barra apoiada nas costas no rack, concentrada, olhando pra
-> frente, no meio do movimento (joelhos dobrados). Atrás, o salão da academia com equipamentos,
-> espelhos e algumas pessoas treinando ao fundo. Luz de academia normal. Usa um conjuntinho fitness
-> (top esportivo e legging) e tênis. Cabelo preso num rabo de cavalo, alguns fios soltos grudados de
-> suor. Pele real com brilho de suor e textura, sem retoque nem cara de IA. Sem joia, tatuagem ou
-> piercing. Foto de celular meio torta, leve grão e leve desfoque de movimento.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na academia; atrás, o salão da academia com equipamentos, espelhos e algumas pessoas treinando ao fundo; luz de academia normal.
+>
+> ROUPA: conjuntinho fitness (top esportivo e legging) e tênis.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo de cavalo, alguns fios soltos grudados de suor; concentrada, olhando pra frente; pele real com brilho de suor e textura; sem joia, tatuagem ou piercing.
+>
+> POSE: treinando de verdade, alguém tirou de lado enquanto ela agacha — fazendo um agachamento com a barra apoiada nas costas no rack, no meio do movimento (joelhos dobrados); foto de celular meio torta, leve grão e leve desfoque de movimento; sem retoque nem cara de IA.
 
 **EN**
-> A phone photo of Vic actually working out at the gym, taken from the side by someone while she
-> squats. She's doing a barbell back squat at the rack, focused, looking forward, mid-movement (knees
-> bent). Behind her, the gym floor with equipment, mirrors and a few people training. Normal gym
-> light. She's wearing a fitness set (sports bra and leggings) and sneakers. Hair in a ponytail, a
-> few sweaty strands stuck to her face. Real skin with a sweat sheen and texture, no retouching or AI
-> look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, light grain and a bit of
-> motion blur.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at the gym; behind her, the gym floor with equipment, mirrors and a few people training; normal gym light.
+>
+> OUTFIT: fitness set (sports bra and leggings) and sneakers.
+>
+> PERSON DETAILS: hair in a ponytail, a few sweaty strands stuck to her face; focused, looking forward; real skin with a sweat sheen and texture; no jewelry, tattoos or piercings.
+>
+> POSE: actually working out, taken from the side by someone while she squats — doing a barbell back squat at the rack, mid-movement (knees bent); phone photo, slightly crooked, light grain and a bit of motion blur; no retouching or AI look.
 
 ## C37 — Quarto / cozy manhã na cama (óculos)
 
 **PT**
-> Foto de celular vertical da Vic deitada de bruços numa cama de lençol branco, num quarto claro de
-> manhã, tirada bem de perto (leve distorção de lente de celular). Ela está com o rosto apoiado no
-> lençol, cabeça de lado, olhando pra câmera com uma cara tranquila e um meio sorriso, um braço
-> esticado à frente. Usa óculos de grau redondos de armação transparente e uma camiseta cinza escura
-> larga. Entra um sol forte pela esquerda, fazendo uns retângulos de luz na parede e sombras marcadas
-> no lençol e no rosto, com o cabelo brilhando na luz. Cabelo solto e ondulado, repartido no meio,
-> alguns fios no rosto. Pele real com textura e sardas, sem retoque nem cara de IA. Sem joia, tatuagem
-> ou piercing. Foto de celular meio torta, luz de dia, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: num quarto claro de manhã, numa cama de lençol branco; entra um sol forte pela esquerda, fazendo uns retângulos de luz na parede e sombras marcadas no lençol e no rosto, com o cabelo brilhando na luz.
+>
+> ROUPA: óculos de grau redondos de armação transparente e uma camiseta cinza escura larga.
+>
+> DETALHES DA PESSOA: cabelo solto e ondulado, repartido no meio, alguns fios no rosto; olhando pra câmera com uma cara tranquila e um meio sorriso; pele real com textura e sardas; sem joia, tatuagem ou piercing.
+>
+> POSE: foto vertical tirada bem de perto (leve distorção de lente de celular), deitada de bruços, o rosto apoiado no lençol, cabeça de lado, um braço esticado à frente; foto de celular meio torta, luz de dia, leve grão; sem retoque nem cara de IA.
 
 **EN**
-> A vertical phone photo of Vic lying face-down on a white bed in a bright morning room, taken up
-> close (slight phone-lens distortion). Her face rests on the sheet, head to the side, looking at the
-> camera with a calm face and a half smile, one arm stretched forward. She wears round clear-framed
-> glasses and a loose dark-grey tee. Strong sunlight comes from the left, making rectangular light
-> patches on the wall and hard shadows on the sheet and her face, hair glowing in the light. Hair down
-> and wavy, middle part, a few strands on her face. Real skin with texture and freckles, no retouching
-> or AI look. No jewelry, tattoos or piercings. Phone photo, slightly crooked, daylight, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a bright morning room, on a white bed; strong sunlight comes from the left, making rectangular light patches on the wall and hard shadows on the sheet and her face, hair glowing in the light.
+>
+> OUTFIT: round clear-framed glasses and a loose dark-grey tee.
+>
+> PERSON DETAILS: hair down and wavy, middle part, a few strands on her face; looking at the camera with a calm face and a half smile; real skin with texture and freckles; no jewelry, tattoos or piercings.
+>
+> POSE: vertical photo taken up close (slight phone-lens distortion), lying face-down, face resting on the sheet, head to the side, one arm stretched forward; phone photo, slightly crooked, daylight, light grain; no retouching or AI look.
 
 ## C38 — Street style / Ipanema (golden hour)
 
 **PT**
-> Foto de celular vertical da Vic andando no calçadão de pedra portuguesa da orla de Ipanema no fim
-> de tarde, tipo foto de street style que alguém tirou de longe. Ela caminha olhando pro lado,
-> tranquila, com uma bolsa de palha grande no ombro e óculos de sol na cabeça. Atrás, o calçadão com
-> o desenho de ondas preto e branco, o morro Dois Irmãos com o sol se pondo bem atrás (contraluz
-> dourada forte), palmeiras, os prédios da orla, carros na avenida e algumas pessoas caminhando. Luz
-> quente e dourada de fim de tarde, em contraluz. Usa uma camiseta cropped branca básica, um short
-> jeans de cintura alta e tênis branco. Cabelo solto, comprido, ao vento. Pele com textura natural e
-> saudável, sem acne. Sem joia, tatuagem ou piercing. Foto de celular meio torta, luz de fim de
-> tarde, leve grão.
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no calçadão de pedra portuguesa da orla de Ipanema no fim de tarde; atrás, o calçadão com o desenho de ondas preto e branco, o morro Dois Irmãos com o sol se pondo bem atrás (contraluz dourada forte), palmeiras, os prédios da orla, carros na avenida e algumas pessoas caminhando; luz quente e dourada de fim de tarde, em contraluz.
+>
+> ROUPA: camiseta cropped branca básica, um short jeans de cintura alta e tênis branco, com uma bolsa de palha grande no ombro e óculos de sol na cabeça.
+>
+> DETALHES DA PESSOA: cabelo solto, comprido, ao vento; olhando pro lado, tranquila; pele com textura natural e saudável, sem acne; sem joia, tatuagem ou piercing.
+>
+> POSE: foto vertical tipo street style que alguém tirou de longe, ela caminha; foto de celular meio torta, luz de fim de tarde, leve grão.
 
 **EN**
-> A vertical phone photo of Vic walking on the Portuguese-stone promenade along Ipanema at dusk, a
-> street-style shot taken from a distance. She walks looking to the side, relaxed, a large straw tote
-> on her shoulder and sunglasses on her head. Behind her, the wave-patterned promenade, the Dois
-> Irmãos mountain with the sun setting right behind (strong golden backlight), palm trees, beachfront
-> buildings, cars on the avenue and a few people walking. Warm golden backlit dusk light. She's
-> wearing a plain white cropped tee, high-waisted denim shorts and white sneakers. Long hair down, in
-> the wind. Natural, healthy skin texture, no acne. No jewelry, tattoos or piercings. Phone photo,
-> slightly crooked, dusk light, light grain.
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the Portuguese-stone promenade along Ipanema at dusk; behind her, the wave-patterned promenade, the Dois Irmãos mountain with the sun setting right behind (strong golden backlight), palm trees, beachfront buildings, cars on the avenue and a few people walking; warm golden backlit dusk light.
+>
+> OUTFIT: plain white cropped tee, high-waisted denim shorts and white sneakers, with a large straw tote on her shoulder and sunglasses on her head.
+>
+> PERSON DETAILS: long hair down, in the wind; looking to the side, relaxed; natural, healthy skin texture, no acne; no jewelry, tattoos or piercings.
+>
+> POSE: vertical street-style shot taken from a distance, she walks; phone photo, slightly crooked, dusk light, light grain.
 
 ---
 
