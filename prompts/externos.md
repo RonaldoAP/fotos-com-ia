@@ -991,3 +991,154 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > **Pose:** standing facing the mirror, slightly turned, mirror selfie with the black titanium iPhone
 > 15 Pro Max (plain black case) at chest height; fingerprint smudge on the mirror, flash reflection on
 > the screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT36 — Mirror selfie na luz dourada (moletom + legging)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada num sofá/puff escuro de tecido macio numa sala, no fim de tarde; luz dourada do
+> pôr do sol entrando forte pela janela e batendo de lado no rosto; ao fundo, uma varanda e um
+> espelho/TV desfocados.
+>
+> ROUPA: moletom cinza claro oversized e uma legging azul-clara de cintura alta, descalça.
+>
+> DETALHES DA PESSOA: cabelo comprido solto e liso, meio bagunçado; biquinho de leve, olhando pra tela
+> do celular; a luz quente do sol deixando um brilho dourado no cabelo e na pele; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada meio de lado, uma perna dobrada, mirror selfie com o iPhone 15 Pro Max titânio preto
+> (capinha preta) na altura do rosto; reflexo do flash na tela, enquadramento meio torto, grão suave de
+> celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: sitting on a dark soft couch/pouf in a living room, late afternoon; golden sunset light
+> coming strong through the window and hitting the side of her face; a balcony and a blurred mirror/TV
+> in the background.
+>
+> OUTFIT: an oversized light-grey sweatshirt and high-waisted light-blue leggings, barefoot.
+>
+> PERSON DETAILS: long straight hair down, a bit messy; a slight pout, looking at the phone screen; the
+> warm sun putting a golden glow on her hair and skin; natural, healthy skin texture — pores and a few
+> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting slightly turned, one leg bent, mirror selfie with the black titanium iPhone 15 Pro Max
+> (plain black case) at face height; flash reflection on the screen, slightly tilted framing, soft phone
+> grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT37 — Mirror selfie no chão com fone (top preto + legging)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada no chão de carpete encostada numa parede bege lisa, dentro de casa; luz interna
+> quente e suave, sombra macia na parede.
+>
+> ROUPA: blusa preta de manga comprida justa e uma legging rosa-clarinha de cintura alta, descalça; um
+> fone de ouvido grande na cabeça.
+>
+> DETALHES DA PESSOA: cabelo comprido solto e ondulado caindo pro lado; expressão tranquila, lábios
+> levemente entreabertos, olhando pra tela; pele com textura natural e saudável — poros e uma sardinha
+> ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: sentada no chão com os joelhos dobrados pra cima, meio de lado, mirror selfie com o iPhone 15
+> Pro Max titânio preto (capinha preta) esticado pra cima; reflexo do flash na tela, enquadramento meio
+> torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: sitting on carpet against a plain beige wall, indoors; warm soft indoor light, gentle shadow
+> on the wall.
+>
+> OUTFIT: a fitted black long-sleeve top and high-waisted light-pink leggings, barefoot; large over-ear
+> headphones on.
+>
+> PERSON DETAILS: long wavy hair down falling to one side; calm expression, lips slightly parted,
+> looking at the screen; natural, healthy skin texture — pores and a few faint freckles, soft redness;
+> no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting on the floor with knees bent up, slightly turned, mirror selfie with the black titanium
+> iPhone 15 Pro Max (plain black case) reached up; flash reflection on the screen, slightly tilted
+> framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT38 — Mirror selfie no banheiro (moletom vermelho + short)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: num banheiro claro, em frente ao espelho; uma toalha bege pendurada do lado, um armário de
+> porta clara atrás, bancada branca embaixo; luz interna quente e suave.
+>
+> ROUPA: moletom vermelho oversized com capuz e um short preto de treino, descalça.
+>
+> DETALHES DA PESSOA: cabelo curto/médio ondulado solto, meio bagunçado; um sorriso tranquilo, olhando
+> pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão;
+> sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio preto
+> (capinha preta) na altura do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento
+> meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a bright bathroom, in front of the mirror; a beige towel hanging to the side, a
+> light-door cabinet behind, a white countertop below; warm soft indoor light.
+>
+> OUTFIT: an oversized red hoodie and black training shorts, barefoot.
+>
+> PERSON DETAILS: short/medium wavy hair down, a bit messy; a calm smile, looking at the camera;
+> natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, slightly turned, mirror selfie with the black titanium iPhone 15
+> Pro Max (plain black case) at face height; fingerprint smudge on the mirror, flash reflection on the
+> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT39 — Conjunto cinza loungewear, retrato de frente
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa, em frente a uma parede clara com moldura de boiserie, uma cortina branca
+> leve de um lado; luz de dia suave e difusa entrando pela janela.
+>
+> ROUPA: conjuntinho cinza mescla de tecido canelado — camiseta de manga curta e uma legging de cintura
+> alta combinando; descalça ou de meia.
+>
+> DETALHES DA PESSOA: cabelo comprido solto e liso, repartido no meio, caindo pelos ombros; expressão
+> tranquila, um leve sorriso, olhando pra câmera; pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing,
+> sem tatuagem.
+>
+> POSE: em pé de frente, meio de lado, peso num pé só, uma das mãos relaxada na cintura, postura
+> natural; foto de celular meio torta, grão suave; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors, in front of a light wall with boiserie molding, a light white curtain to one side;
+> soft diffuse daylight from the window.
+>
+> OUTFIT: a heather-grey ribbed loungewear set — a short-sleeve tee and matching high-waisted leggings;
+> barefoot or in socks.
+>
+> PERSON DETAILS: long straight hair down, center-parted, over her shoulders; calm expression, a slight
+> smile, looking at the camera; natural, healthy skin texture — pores and a few faint freckles, soft
+> redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the camera, slightly turned, weight on one leg, one hand relaxed on her waist,
+> natural posture; slightly tilted phone photo, soft grain; realistic photo, no retouching, no AI look.
