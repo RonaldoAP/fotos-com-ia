@@ -2069,3 +2069,76 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; hard
 > phone flash, flash reflection in the mirror, night grain and noise, slightly tilted framing; realistic
 > photo, no retouching, no AI look.
+
+---
+
+## EXT54 — Mirror selfie no quarto (top branco + short)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI] (referência do quarto da Vic), em frente ao espelho; luz da LED do teto em [COR DA LED]
+> + abajur quente, ambiente meio fechado.
+>
+> ROUPA: um top branco tomara-que-caia justinho e um short branco, look casual/de dormir.
+>
+> DETALHES DA PESSOA: cabelo comprido bem liso e escorrido, solto, caindo bem comprido pela frente dos
+> dois lados; expressão tranquila, olhando pra câmera; pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: em pé de frente pro espelho, meio corpo, segurando o celular (iPhone 15 Pro Max titânio preto,
+> capinha preta) na frente do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento
+> meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: [HERE] (Vic's bedroom reference), in front of the mirror; ceiling LED in [LED COLOR] + warm
+> lamp, a dim room.
+>
+> OUTFIT: a fitted white strapless (tube) top and white shorts, casual/sleepwear look.
+>
+> PERSON DETAILS: long very sleek straight hair down, hanging long over the front on both sides; calm
+> expression, looking at the camera; natural, healthy skin texture — pores and a few faint freckles, soft
+> redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, half-body, holding the phone (black titanium iPhone 15 Pro Max, plain
+> black case) in front of her face; fingerprint smudge on the mirror, flash reflection on the screen,
+> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT55 — Banheira de hidromassagem com espuma (maiô preto)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de uma banheira de hidromassagem cheia de espuma, num banheiro/spa de hotel com painéis
+> de madeira, ripado no teto, uma TV ligada na parede e luz indireta quente; clima aconchegante.
+>
+> ROUPA: um maiô preto inteiro simples de alcinha, molhado.
+>
+> DETALHES DA PESSOA: cabelo comprido molhado, escorrido pra trás e caindo por um lado; expressão
+> tranquila e serena, olhando pra baixo/pro lado; pele com textura natural e saudável — poros e uma
+> sardinha ou outra, gotas d'água na pele, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+>
+> POSE: ajoelhada/sentada dentro da banheira, com a espuma na altura da cintura, uma das mãos na água,
+> postura relaxada; foto de celular meio torta, luz quente de ambiente, grão suave; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a jacuzzi tub full of foam bubbles, in a hotel bathroom/spa with wood panels, a slatted
+> ceiling, a TV on the wall and warm indirect light; cozy mood.
+>
+> OUTFIT: a simple black one-piece swimsuit with thin straps, wet.
+>
+> PERSON DETAILS: long wet hair slicked back and falling over one side; calm serene expression, looking
+> down/to the side; natural, healthy skin texture — pores and a few faint freckles, water droplets on the
+> skin, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: kneeling/sitting in the tub, foam up to her waist, one hand in the water, relaxed posture;
+> slightly tilted phone photo, warm ambient light, soft grain; realistic photo, no retouching, no AI look.
