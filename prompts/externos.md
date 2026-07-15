@@ -1524,3 +1524,120 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the camera, slightly turned, weight on one leg, one hand relaxed on her waist,
 > natural posture; slightly tilted phone photo, soft grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT40 — Mirror selfie (top tomara-que-caia, parede damasco)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: em frente a um espelho, ao lado de uma parede de papel de parede damasco cinza (estampa
+> floral) e uma porta de madeira; luz interna quente e suave.
+>
+> ROUPA: um top tomara-que-caia branco/creme justinho, look casual de sair.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, com a parte da frente meio presa (meio-preso),
+> caindo pelos ombros; olhar tranquilo e um leve sorriso; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio preto (capinha preta)
+> esticado na altura do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento meio
+> torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a mirror, next to a grey damask floral wallpaper wall and a wooden door; warm
+> soft indoor light.
+>
+> OUTFIT: a fitted white/cream strapless (tube) top, casual going-out look.
+>
+> PERSON DETAILS: long wavy hair down with the front half pinned back (half-up), falling over her
+> shoulders; calm gaze and a slight smile; natural, healthy skin texture — pores and a few faint
+> freckles, soft cheek redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing, slightly turned, mirror selfie with the black titanium iPhone 15 Pro Max (plain black
+> case) reached up at face height; fingerprint smudge on the mirror, flash reflection on the screen,
+> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT41 — Mirror selfie fitness em casa (sinal de paz)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: em frente a um espelho grande em casa, num cômodo com uma cômoda branca cheia de itens de
+> maquiagem do lado, um tapetinho rosa e piso de azulejo estampado; luz interna, com uma luzinha de LED
+> colorida refletindo no espelho ao fundo.
+>
+> ROUPA: top esportivo cinza e short de treino cinza-grafite de cintura alta, meia cano médio branca com
+> listras e tênis preto de lona.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto caindo pela frente; expressão tranquila, um leve
+> biquinho; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, leve
+> brilho de treino; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos fazendo sinal de paz na altura do rosto
+> e a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto;
+> marca de dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in front of a big mirror at home, in a room with a white dresser full of makeup items to the
+> side, a small pink rug and patterned tile floor; indoor light, with a little colored LED reflecting in
+> the mirror in the background.
+>
+> OUTFIT: a grey sports bra and high-waisted charcoal training shorts, mid-crew white striped socks and
+> black canvas sneakers.
+>
+> PERSON DETAILS: long straight hair down falling over the front; calm expression, a slight pout;
+> natural, healthy skin texture — pores and a few faint freckles, soft redness, a light workout sheen;
+> no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, full body, one hand making a peace sign near her face and the other
+> holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face;
+> fingerprint smudge on the mirror, flash reflection on the screen, slightly tilted framing, soft phone
+> grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT42 — Mirror selfie fitness no elevador (garrafa d'água)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de um elevador de parede de aço escovado, refletindo de leve; luz de teto branca e
+> uniforme, com sombra suave.
+>
+> ROUPA: top esportivo branco de um ombro só (assimétrico) e um short de treino preto de cintura alta com
+> elástico escrito, meia branca cano alto.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto caindo pra frente; expressão tranquila e confiante,
+> um leve biquinho; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão,
+> leve brilho de treino; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo inteiro, segurando o celular (iPhone 15 Pro Max titânio preto,
+> capinha preta) na altura do rosto com uma mão e uma garrafa de água preta na outra; reflexo do flash na
+> tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside an elevator with brushed-steel walls, softly reflective; even white ceiling light,
+> gentle shadows.
+>
+> OUTFIT: a white one-shoulder (asymmetric) sports bra and high-waisted black training shorts with a
+> lettered waistband, white crew socks.
+>
+> PERSON DETAILS: long wavy hair down falling to the front; calm confident expression, a slight pout;
+> natural, healthy skin texture — pores and a few faint freckles, soft redness, a light workout sheen; no
+> acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, full body, holding the phone (black titanium iPhone 15 Pro Max, plain
+> black case) at face height in one hand and a black water bottle in the other; flash reflection on the
+> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
