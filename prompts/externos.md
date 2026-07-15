@@ -1721,3 +1721,82 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: standing facing the mirror, full body, weight on one leg, holding the phone (black titanium iPhone
 > 15 Pro Max, plain black case) in front of her face; flash reflection on the screen, slightly tilted
 > framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT45 — Mirror selfie fitness na academia (conjunto azul, gym escura)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia moderna de parede escura, em frente a um espelho grande; atrás, um rack de
+> anilhas, kettlebells coloridos, aparelhos e uma porta de vidro; piso emborrachado escuro, luz de teto
+> direcionada dando um clima mais fechado.
+>
+> ROUPA: conjunto de treino azul-acinzentado (dusty blue) — top esportivo de alcinha e legging de cintura
+> alta canelada combinando; tênis branco robusto.
+>
+> DETALHES DA PESSOA: cabelo preso num coque/rabo baixo; expressão tranquila e confiante; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, leve brilho de treino; sem acne,
+> sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos relaxada ao lado do corpo e a outra
+> segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto; reflexo do
+> flash na tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque, sem cara de
+> IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a modern dark-walled gym, in front of a large mirror; behind her, a weight-plate rack,
+> colorful kettlebells, machines and a glass door; dark rubber flooring, directional ceiling light giving
+> a moodier feel.
+>
+> OUTFIT: a dusty-blue training set — a thin-strap sports bra and matching high-waisted ribbed leggings;
+> chunky white sneakers.
+>
+> PERSON DETAILS: hair in a low bun/ponytail; calm confident expression; natural, healthy skin texture —
+> pores and a few faint freckles, soft redness, a light workout sheen; no acne, no over-imperfection; no
+> jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, full body, one hand relaxed at her side and the other holding the
+> phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; flash reflection on the
+> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT46 — Selfie fitness na academia (língua de fora, descontraída)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia, sentada num aparelho de musculação; atrás, piso de madeira clara, uma barra
+> com anilhas pretas e outros equipamentos, algumas pessoas treinando desfocadas ao fundo; luz de teto
+> branca e uniforme.
+>
+> ROUPA: top esportivo azul-marinho e short de treino cinza mescla de cintura alta.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, meio bagunçado; expressão descontraída e brincalhona,
+> língua de fora de leve, olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha
+> ou outra, leve vermelhidão, leve brilho de treino; sem acne, sem excesso de imperfeição; sem joias, sem
+> piercing, sem tatuagem.
+>
+> POSE: sentada no aparelho, uma das mãos na barra do equipamento, selfie de braço esticado de cima pra
+> baixo (leve distorção de lente frontal); enquadramento meio torto, grão suave de celular; foto realista,
+> sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at a gym, sitting on a weight machine; behind her, a light wood floor, a barbell with black
+> plates and other equipment, a few blurred people training in the background; even white ceiling light.
+>
+> OUTFIT: a navy sports bra and high-waisted heather-grey training shorts.
+>
+> PERSON DETAILS: long straight hair down, a bit messy; a playful, goofy expression, tongue slightly out,
+> looking at the camera; natural, healthy skin texture — pores and a few faint freckles, soft redness, a
+> light workout sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting on the machine, one hand on the equipment bar, arm's-length selfie from slightly above
+> (mild front-lens distortion); slightly tilted framing, soft phone grain; realistic photo, no retouching,
+> no AI look.
