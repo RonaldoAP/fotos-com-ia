@@ -1641,3 +1641,83 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: standing facing the mirror, full body, holding the phone (black titanium iPhone 15 Pro Max, plain
 > black case) at face height in one hand and a black water bottle in the other; flash reflection on the
 > screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT43 — Mirror selfie fitness na academia (tranças + preto)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia, em frente a um espelho grande com moldura vermelha; piso de porcelanato cinza
+> claro, luz de teto branca e uniforme, aparelhos desfocados ao fundo.
+>
+> ROUPA: conjunto de treino preto — top cropped de manga comprida e short de cintura alta; meia branca
+> cano alto e tênis branco.
+>
+> DETALHES DA PESSOA: cabelo comprido preso em duas tranças; expressão tranquila, um leve biquinho; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, leve brilho de treino;
+> sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos segurando de leve uma das tranças e a
+> outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do rosto; marca de
+> dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular; foto
+> realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: at a gym, in front of a big mirror with a red frame; light-grey tile floor, even white ceiling
+> light, blurred machines in the background.
+>
+> OUTFIT: a black training set — a long-sleeve cropped top and high-waisted shorts; white crew socks and
+> white sneakers.
+>
+> PERSON DETAILS: long hair in two braids; calm expression, a slight pout; natural, healthy skin texture
+> — pores and a few faint freckles, soft redness, a light workout sheen; no acne, no over-imperfection; no
+> jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, full body, one hand lightly holding one of her braids and the other
+> holding the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; fingerprint
+> smudge on the mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; realistic
+> photo, no retouching, no AI look.
+
+---
+
+## EXT44 — Mirror selfie fitness na academia (macaquinho azul)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia ampla e clara, em frente a um espelho grande; atrás, janelões com vista pra
+> cidade e o verde lá fora, aparelhos de musculação e esteiras, piso de madeira na frente e algumas
+> pessoas treinando desfocadas; luz natural de dia entrando.
+>
+> ROUPA: macaquinho fitness curto azul-periwinkle de alcinha, justo, com um detalhe branco na gola; tênis
+> branco robusto.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo de cavalo baixo e liso; expressão tranquila e confiante; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, leve brilho de treino;
+> sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo inteiro, peso num pé só, segurando o celular (iPhone 15 Pro Max
+> titânio preto, capinha preta) na frente do rosto; reflexo do flash na tela, enquadramento meio torto,
+> grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a big bright gym, in front of a large mirror; behind her, floor-to-ceiling windows with a
+> city-and-greenery view, weight machines and treadmills, a wood floor in front and a few blurred people
+> training; natural daylight coming in.
+>
+> OUTFIT: a fitted short periwinkle-blue fitness romper with thin straps and a white trim at the neckline;
+> chunky white sneakers.
+>
+> PERSON DETAILS: hair in a sleek low ponytail; calm confident expression; natural, healthy skin texture —
+> pores and a few faint freckles, soft redness, a light workout sheen; no acne, no over-imperfection; no
+> jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, full body, weight on one leg, holding the phone (black titanium iPhone
+> 15 Pro Max, plain black case) in front of her face; flash reflection on the screen, slightly tilted
+> framing, soft phone grain; realistic photo, no retouching, no AI look.
