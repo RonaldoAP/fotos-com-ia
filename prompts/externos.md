@@ -1800,3 +1800,122 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sitting on the machine, one hand on the equipment bar, arm's-length selfie from slightly above
 > (mild front-lens distortion); slightly tilted framing, soft phone grain; realistic photo, no retouching,
 > no AI look.
+
+---
+
+## EXT47 — Selfie close de rosto (verão, top branco de tricô)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa, encostada numa cabeceira/parede de madeira clara; luz natural suave e quente
+> batendo no rosto, clima de verão.
+>
+> ROUPA: um top branco de tricô/crochê de alcinha trançada (beachy) e um casaco cinza de moletom caído no
+> ombro.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, repartido no meio, caindo pelos ombros; expressão
+> tranquila e serena, um leve sorriso de boca fechada, olhando pra câmera; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, bochechas coradas do sol, leve vermelhidão; sem acne, sem
+> excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: selfie de braço esticado bem de pertinho, enquadramento fechado só no rosto e ombros, cabeça
+> levemente virada (leve distorção de lente frontal); enquadramento meio torto, grão suave de celular;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors, leaning against a light wooden headboard/wall; soft warm natural light on her face,
+> summery mood.
+>
+> OUTFIT: a white knit/crochet top with braided straps (beachy) and a grey sweatshirt/cardigan slipping
+> off one shoulder.
+>
+> PERSON DETAILS: long straight hair down, center-parted, over her shoulders; calm serene expression, a
+> slight closed-mouth smile, looking at the camera; natural, healthy skin texture — pores and a few faint
+> freckles, sun-flushed cheeks, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no
+> tattoos.
+>
+> POSE: arm's-length selfie up close, tight framing on face and shoulders only, head slightly turned
+> (mild front-lens distortion); slightly tilted framing, soft phone grain; realistic photo, no retouching,
+> no AI look.
+
+---
+
+## EXT48 — Jet ski no mar (dia de sol)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada num jet ski parado no mar, num dia de sol; água azul-esverdeada ao redor, morros e
+> uma faixa de praia ao longe, céu azul com nuvens; luz forte de sol batendo de cima, um cantinho
+> estourado de luz.
+>
+> ROUPA: biquíni de amarrar simples estampado (oncinha rosa), molhado do mar.
+>
+> DETALHES DA PESSOA: cabelo comprido molhado, escorrido pra trás, alguns fios grudados no rosto;
+> expressão tranquila e relaxada, um leve sorriso, olhando pra câmera; pele com textura natural e saudável
+> — poros e uma sardinha ou outra, gotas d'água e leve brilho de sol na pele, leve vermelhidão; sem acne,
+> sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada no banco do jet ski de frente/meio de lado, as duas mãos apoiadas no guidão, postura
+> relaxada; foto de celular aberta, meio torta, grão suave no sol; foto realista, sem retoque, sem cara de
+> IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: sitting on a jet ski stopped out on the sea, on a sunny day; blue-green water around, hills and
+> a strip of beach in the distance, blue sky with clouds; strong overhead sun, one corner blown out by
+> light.
+>
+> OUTFIT: a simple printed tie bikini (pink leopard), wet from the sea.
+>
+> PERSON DETAILS: long wet hair slicked back, a few strands stuck to her face; calm relaxed expression, a
+> slight smile, looking at the camera; natural, healthy skin texture — pores and a few faint freckles,
+> water droplets and a light sun sheen on the skin, soft redness; no acne, no over-imperfection; no
+> jewelry, no piercings, no tattoos.
+>
+> POSE: sitting on the jet ski seat facing/slightly turned to the camera, both hands on the handlebar,
+> relaxed posture; wide phone photo, slightly tilted, soft grain in the sun; realistic photo, no
+> retouching, no AI look.
+
+---
+
+## EXT49 — Espreguiçadeira na praia (guarda-sol de palha)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa espreguiçadeira de praia embaixo de um guarda-sol de palha, num dia de sol; atrás,
+> coqueiros, outras espreguiçadeiras, uns prédios e a faixa de areia com o mar ao longe; céu azul com
+> nuvens, luz forte de sol.
+>
+> ROUPA: biquíni de amarrar simples azul-marinho com detalhe branco, e um óculos de sol retangular.
+>
+> DETALHES DA PESSOA: cabelo comprido solto e liso caindo pelos ombros; expressão tranquila e serena,
+> olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve marca de
+> bronzeado, leve brilho de sol; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: recostada na espreguiçadeira de leve, relaxada, uma das mãos apoiada na barriga/colo, postura
+> tranquila de quem tá curtindo o sol; foto de celular aberta, meio torta, grão suave no sol; foto
+> realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a beach lounger under a straw parasol, on a sunny day; behind her, palm trees, other
+> loungers, some buildings and the strip of sand with the sea in the distance; blue sky with clouds,
+> strong sunlight.
+>
+> OUTFIT: a simple navy tie bikini with a white detail, and rectangular sunglasses.
+>
+> PERSON DETAILS: long straight hair down over her shoulders; calm serene expression, looking at the
+> camera; natural, healthy skin texture — pores and a few faint freckles, a soft tan line, a light sun
+> sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: leaning back on the lounger a little, relaxed, one hand resting on her stomach/lap, a calm
+> sunbathing posture; wide phone photo, slightly tilted, soft grain in the sun; realistic photo, no
+> retouching, no AI look.
