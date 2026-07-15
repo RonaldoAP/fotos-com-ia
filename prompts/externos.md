@@ -1958,3 +1958,114 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sitting facing forward in the egg chair, leaning back on the cushions, relaxed, one leg crossed
 > over the other; wide phone photo, slightly tilted, soft sun backlight, soft grain; realistic photo, no
 > retouching, no AI look.
+
+---
+
+## EXT51 — Retrato de biquíni no barco (óculos aviador)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no deck de um barco, com o mar calmo e uns morros esfumaçados ao fundo, um corrimão de madeira
+> atrás; céu claro meio nublado, luz de dia difusa e suave.
+>
+> ROUPA: biquíni de amarrar simples azul-petróleo e um óculos de sol estilo aviador quadrado.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, bem escorrido, caindo pela frente dos ombros; expressão
+> tranquila e séria, lábios fechados, olhando pra câmera; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve marca de bronzeado, leve brilho de sol; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente, retrato de meio corpo (da cintura pra cima), postura relaxada; foto de celular
+> meio torta, grão suave, luz natural; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a boat deck, with calm sea and hazy hills in the background, a wooden railing behind; bright
+> overcast sky, soft diffuse daylight.
+>
+> OUTFIT: a simple petrol-blue tie bikini and square aviator-style sunglasses.
+>
+> PERSON DETAILS: long straight hair down, very sleek, falling over the front of her shoulders; calm
+> serious expression, lips closed, looking at the camera; natural, healthy skin texture — pores and a few
+> faint freckles, a soft tan line, a light sun sheen; no acne, no over-imperfection; no jewelry, no
+> piercings, no tattoos.
+>
+> POSE: standing facing the camera, half-body portrait (waist up), relaxed posture; slightly tilted phone
+> photo, soft grain, natural light; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT52 — Close noturno no quarto (regata branca)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI] (referência do quarto da Vic), deitada na cama à noite; luz da LED do teto em [COR DA
+> LED] + abajur quente bem baixinho, ambiente escuro e aconchegante.
+>
+> ROUPA: uma regata branca de gola normal, confortável de dormir.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, caindo pelo rosto; expressão tranquila, olhar suave
+> pra câmera, um leve biquinho; maquiagem natural e leve; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão nas bochechas; sem acne, sem excesso de imperfeição; sem joias,
+> sem piercing, sem tatuagem.
+>
+> POSE: selfie de braço esticado deitada, enquadramento fechado só no rosto e ombros (leve distorção de
+> lente frontal); enquadramento meio torto, grão e ruído suave de foto noturna, reflexo do flash nos
+> olhos; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: [HERE] (Vic's bedroom reference), lying on the bed at night; ceiling LED in [LED COLOR] + a
+> very low warm lamp, dark cozy room.
+>
+> OUTFIT: a plain crew-neck white tank top, comfy sleepwear.
+>
+> PERSON DETAILS: long wavy hair down, falling across her face; calm expression, soft gaze at the camera,
+> a slight pout; natural, light makeup; natural, healthy skin texture — pores and a few faint freckles,
+> soft cheek redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: arm's-length selfie lying down, tight framing on face and shoulders only (mild front-lens
+> distortion); slightly tilted framing, soft night grain and noise, flash catchlight in the eyes;
+> realistic photo, no retouching, no AI look.
+
+---
+
+## EXT53 — Mirror selfie noturna no quarto (top + short)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI] (referência do quarto da Vic), em frente ao espelho à noite; luz da LED do teto em
+> [COR DA LED] + abajur quente, ambiente escuro.
+>
+> ROUPA: um top preto tomara-que-caia simples e um short preto de treino, look de dormir/casual.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, repartido no meio, caindo pela frente; expressão
+> tranquila, olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada/ajoelhada na cama de frente pro espelho, meio corpo, uma das mãos fazendo sinal de paz e a
+> outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto; flash
+> duro do celular, reflexo do flash no espelho, grão e ruído de foto noturna, enquadramento meio torto;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: [HERE] (Vic's bedroom reference), in front of the mirror at night; ceiling LED in [LED COLOR] +
+> warm lamp, dark room.
+>
+> OUTFIT: a simple black strapless (tube) top and black training shorts, sleepwear/casual look.
+>
+> PERSON DETAILS: long straight hair down, center-parted, falling to the front; calm expression, looking
+> at the camera; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting/kneeling on the bed facing the mirror, half-body, one hand making a peace sign and the
+> other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; hard
+> phone flash, flash reflection in the mirror, night grain and noise, slightly tilted framing; realistic
+> photo, no retouching, no AI look.
