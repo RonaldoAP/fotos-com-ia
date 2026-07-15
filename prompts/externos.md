@@ -2142,3 +2142,88 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: kneeling/sitting in the tub, foam up to her waist, one hand in the water, relaxed posture;
 > slightly tilted phone photo, warm ambient light, soft grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT56 — Mirror selfie sala à noite (look preto de sair, sem flash)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa sala de apartamento à noite, em frente a um espelho; atrás, janelões do chão ao teto com
+> as luzes da cidade lá embaixo, um sofá bege, cortinas e piso claro; luz interna quente e baixa (sem
+> flash, só a luz ambiente do apartamento).
+>
+> ROUPA: um conjunto preto de sair — blusa de manga longa ombro a ombro (off-shoulder) de gola comportada
+> e um short combinando de amarrar na lateral.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pela frente; expressão
+> tranquila, olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, meio de lado, segurando o celular (iPhone 15 Pro Max titânio preto,
+> capinha preta) na altura do rosto; sem flash — só a luz ambiente quente, marca de dedo no espelho,
+> enquadramento meio torto, grão e leve ruído de foto noturna com pouca luz; foto realista, sem retoque,
+> sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in an apartment living room at night, in front of a mirror; behind her, floor-to-ceiling
+> windows with city lights below, a beige couch, curtains and light floor; warm low indoor light (no
+> flash, just the apartment's ambient light).
+>
+> OUTFIT: a black going-out set — a long-sleeve off-shoulder top with a modest neckline and matching
+> side-tie shorts.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, falling to the front; calm expression,
+> looking at the camera; natural, healthy skin texture — pores and a few faint freckles, soft redness; no
+> acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, slightly turned, holding the phone (black titanium iPhone 15 Pro Max,
+> plain black case) at face height; no flash — just the warm ambient light, a fingerprint smudge on the
+> mirror, slightly tilted framing, low-light night grain and slight noise; realistic photo, no retouching,
+> no AI look.
+
+---
+
+## EXT57 — Mirror selfie no vestiário (verde neon, cabelo cacheado)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no vestiário de uma academia, em frente ao espelho; armários verde-limão de um lado, um
+> banco/bancada verde neon na frente, parede escura ripada e piso de porcelanato cinza; luz de teto com um
+> clima esverdeado dos armários refletindo.
+>
+> ROUPA: top esportivo preto e uma parte de baixo estampada camuflada verde, com uma canga/amarração
+> escura de estampa camuflada amarrada na cintura.
+>
+> DETALHES DA PESSOA: cabelo comprido bem cacheado e volumoso, solto, loiro com ombré; expressão
+> tranquila, olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão, leve brilho de treino, abdômen definido; sem acne, sem excesso de imperfeição; sem joias,
+> sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, meio de lado, uma das mãos apoiada na bancada e a outra segurando o
+> celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do rosto; marca de dedo no espelho,
+> reflexo do flash na tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque,
+> sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a gym locker room, in front of the mirror; lime-green lockers to one side, a neon-green
+> bench/counter in front, a dark slatted wall and grey tile floor; ceiling light with a greenish cast
+> reflecting off the lockers.
+>
+> OUTFIT: a black sports bra and green camo-print bottoms, with a dark camo-print wrap/sarong tied at the
+> waist.
+>
+> PERSON DETAILS: long very curly voluminous hair down, blonde with ombré; calm expression, looking at the
+> camera; natural, healthy skin texture — pores and a few faint freckles, soft redness, a light workout
+> sheen, defined abs; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, slightly turned, one hand resting on the counter and the other holding
+> the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; fingerprint smudge on the
+> mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; realistic photo, no
+> retouching, no AI look.
