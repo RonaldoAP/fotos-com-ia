@@ -1919,3 +1919,42 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: leaning back on the lounger a little, relaxed, one hand resting on her stomach/lap, a calm
 > sunbathing posture; wide phone photo, slightly tilted, soft grain in the sun; realistic photo, no
 > retouching, no AI look.
+
+---
+
+## EXT50 — Cadeira-ovo no jardim (dia de sol)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada numa cadeira-ovo suspensa (de vime preto com almofadões bege) numa área
+> externa/quintal, num dia de sol; atrás, gramado verde, coqueiros e árvores, um muro e o céu bem azul
+> com uma nuvem; luz forte de sol de cima.
+>
+> ROUPA: biquíni de amarrar simples preto e um óculos de sol com lente amarelada.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto caindo pela frente; expressão tranquila e confiante, uma
+> das mãos perto do rosto; pele com textura natural e saudável — poros e uma sardinha ou outra, leve marca
+> de bronzeado, leve brilho de sol; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: sentada de frente na cadeira-ovo, recostada nas almofadas, relaxada, uma perna cruzada por cima da
+> outra; foto de celular aberta, meio torta, contraluz suave do sol, grão suave; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: sitting in a hanging egg chair (black wicker with beige cushions) in an outdoor backyard, on a
+> sunny day; behind her, green lawn, palm trees and trees, a wall and a bright blue sky with one cloud;
+> strong overhead sun.
+>
+> OUTFIT: a simple black tie bikini and yellow-tinted sunglasses.
+>
+> PERSON DETAILS: long straight hair down falling to the front; calm confident expression, one hand near
+> her face; natural, healthy skin texture — pores and a few faint freckles, a soft tan line, a light sun
+> sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting facing forward in the egg chair, leaning back on the cushions, relaxed, one leg crossed
+> over the other; wide phone photo, slightly tilted, soft sun backlight, soft grain; realistic photo, no
+> retouching, no AI look.
