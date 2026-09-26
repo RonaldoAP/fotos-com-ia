@@ -2227,3 +2227,39 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; fingerprint smudge on the
 > mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; realistic photo, no
 > retouching, no AI look.
+
+---
+
+## EXT58 — Terraço à noite com taça (vestido branco, olhar sobre o ombro)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: em um terraço/varanda à noite, com guarda-corpo de vidro; céu totalmente escuro atrás e, lá
+> embaixo, a água esverdeada de uma piscina iluminada; luz baixa e quente da noite, sem flash.
+>
+> ROUPA: um vestido branco elegante de gola frente-única com as costas abertas.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré, caindo por um dos ombros; expressão
+> serena, olhos baixos olhando pra taça; pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé no terraço, de costas pra câmera mas virando o tronco e olhando por cima do ombro, segurando
+> perto do rosto uma taça de espumante com morangos dentro; enquadramento normal na parte de cima, meio
+> torto, grão e leve ruído de foto noturna com pouca luz; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on a terrace/balcony at night, with a glass railing; a fully dark sky behind and, down below,
+> the greenish water of a lit swimming pool; low warm night light, no flash.
+>
+> OUTFIT: an elegant white halter dress with an open back.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré, falling over one shoulder; serene expression,
+> eyes lowered looking at the glass; natural, healthy skin texture — pores and a few faint freckles, soft
+> redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing on the terrace, back to the camera but twisting the torso and looking back over the
+> shoulder, holding a strawberry-filled champagne flute up near the face; normal upper-body framing,
+> slightly tilted, low-light night grain and slight noise; realistic photo, no retouching, no AI look.
