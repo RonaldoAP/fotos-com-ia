@@ -2245,8 +2245,11 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
 > POSE: em pé no terraço, de costas pra câmera mas virando o tronco e olhando por cima do ombro, segurando
-> perto do rosto uma taça de espumante com morangos dentro; enquadramento normal na parte de cima, meio
-> torto, grão e leve ruído de foto noturna com pouca luz; foto realista, sem retoque, sem cara de IA.
+> perto do rosto uma taça de espumante com morangos dentro; foto noturna claramente TREMIDA — a mão de
+> quem fotografou mexeu no clique, então tem um rastro de movimento nítido (motion blur) nas bordas do
+> corpo, no cabelo e nas luzes do fundo, com um leve arrasto/fantasma duplicado; enquadramento normal na
+> parte de cima, meio torto, grão e ruído forte de foto noturna com pouca luz; foto realista de celular,
+> sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2261,5 +2264,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: standing on the terrace, back to the camera but twisting the torso and looking back over the
-> shoulder, holding a strawberry-filled champagne flute up near the face; normal upper-body framing,
-> slightly tilted, low-light night grain and slight noise; realistic photo, no retouching, no AI look.
+> shoulder, holding a strawberry-filled champagne flute up near the face; clearly SHAKY night photo — the
+> photographer's hand moved during the shot, so there is a visible motion-blur streak along the body edges,
+> the hair and the background lights, with a faint double/ghost drag; normal upper-body framing, slightly
+> tilted, heavy low-light night grain and noise; realistic phone photo, no retouching, no AI look.
