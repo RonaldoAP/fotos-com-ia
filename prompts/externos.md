@@ -2470,3 +2470,40 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: back turned, twisting the torso and smiling back over the shoulder at the camera, one arm raised up
 > enjoying the music; night concert photo, slightly tilted framing, grain and slight motion blur from the
 > lights and haze; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT64 — Roupão em casa com o dálmata (coque, quarto)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no quarto de casa, em pé sobre o piso de porcelanato claro em frente a um espelho grande de
+> parede; ao fundo, a cama com roupa de cama branca e amassadinha; luz interna suave e quente.
+>
+> ROUPA: um roupão de banho branco felpudo amarrado na cintura e pantufas felpudas claras nos pés.
+>
+> DETALHES DA PESSOA: cabelo preso num coque, loiro com ombré, alguns fios soltos; expressão carinhosa,
+> olhando pra baixo pro cachorro; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé, curvada pra frente em direção a um cachorro dálmata sentado no chão à frente dela (coleira
+> vermelha), rosto quase encostando no focinho do cachorro num carinho, uma das mãos perto da cabeça dele;
+> cena candid de casa, enquadramento normal e meio torto, grão suave de celular; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the home bedroom, standing on the light tile floor in front of a large wall mirror; behind
+> her, the bed with rumpled white linens; soft warm indoor light.
+>
+> OUTFIT: a fluffy white bathrobe tied at the waist and light fluffy slippers on the feet.
+>
+> PERSON DETAILS: hair up in a bun, blonde with ombré, a few loose strands; affectionate expression,
+> looking down at the dog; natural, healthy skin texture — pores and a few faint freckles, soft redness; no
+> acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing, leaning forward toward a dalmatian dog sitting on the floor in front of her (red collar),
+> face almost touching the dog's snout in a nuzzle, one hand near its head; candid home scene, normal
+> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
