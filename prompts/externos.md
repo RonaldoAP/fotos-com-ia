@@ -2353,3 +2353,120 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: seated in a relaxed way, body slightly turned to the camera, one hand resting on the lap; candid
 > waist-up portrait, normal slightly tilted framing, low-light night grain and slight noise; realistic
 > photo, no retouching, no AI look.
+
+---
+
+## EXT61 — Balão ao pôr do sol, retrato próximo (óculos aviador, top terroso)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro do cesto de um balão de ar quente em voo, no fim da tarde (golden hour); céu azul com
+> nuvens bem finas, um outro balão colorido ao longe e campos verdes lá embaixo; luz dourada, quente e
+> lateral do sol baixo.
+>
+> ROUPA: um top/regata marrom-amanteigado de tom terroso, com óculos de sol estilo aviador.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré, um pouco ao vento; expressão
+> tranquila, lábios levemente franzidos, a cabeça apoiada numa das mãos; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão do sol; sem acne, sem excesso de imperfeição;
+> sem joias, sem piercing, sem tatuagem.
+>
+> POSE: retrato próximo, corpo meio de lado dentro do cesto, uma das mãos mexendo no cabelo perto da
+> cabeça; enquadramento fechado e meio torto, contraluz dourado com leve flare do sol, grão suave de
+> celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside the basket of a hot-air balloon in flight, late afternoon (golden hour); blue sky with
+> very thin clouds, another colorful balloon far away and green fields far below; warm golden side light
+> from the low sun.
+>
+> OUTFIT: a buttery earth-toned brown tank top, with aviator-style sunglasses.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré, a little windblown; calm expression, lips
+> slightly pursed, head resting on one hand; natural, healthy skin texture — pores and a few faint
+> freckles, soft sun redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: close portrait, body slightly turned inside the basket, one hand up near the head playing with the
+> hair; tight slightly tilted framing, golden backlight with a soft sun flare, soft phone grain; realistic
+> photo, no retouching, no AI look.
+
+---
+
+## EXT62 — Em pé no cesto do balão (top terroso + jeans, bolsa transversal)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: em pé dentro do cesto de couro de um balão de ar quente em voo; céu azul limpo com rastros
+> finos de avião, campos e plantações formando um mosaico verde e marrom bem lá embaixo, a borda de couro
+> preto do cesto em volta; luz dourada do fim de tarde.
+>
+> ROUPA: um top marrom-amanteigado justo e uma calça jeans escura, com uma bolsinha transversal de alça de
+> corrente; óculos de sol estilo aviador.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré, caindo pela frente; expressão
+> serena, olhando pra paisagem; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão do sol; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de lado, uma das mãos apoiada na borda do cesto, olhando o horizonte; enquadramento normal
+> da cintura pra cima, meio torto, contraluz dourado, grão suave de celular; foto realista, sem retoque,
+> sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: standing inside the leather basket of a hot-air balloon in flight; clear blue sky with thin
+> plane contrails, fields and crops forming a green-and-brown mosaic far below, the black leather rim of
+> the basket all around; golden late-afternoon light.
+>
+> OUTFIT: a fitted buttery-brown top and dark jeans, with a small chain-strap crossbody bag; aviator-style
+> sunglasses.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré, falling to the front; serene expression, looking
+> out at the landscape; natural, healthy skin texture — pores and a few faint freckles, soft sun redness;
+> no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing side-on, one hand resting on the rim of the basket, gazing at the horizon; normal
+> waist-up framing, slightly tilted, golden backlight, soft phone grain; realistic photo, no retouching,
+> no AI look.
+
+---
+
+## EXT63 — Festival de música à noite (top preto com brilho, lasers)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no meio da multidão de um festival de música à noite, feixes de laser vermelhos e verdes
+> cortando a fumaça, o palco iluminado ao fundo e gente em volta desfocada; luz colorida de show, baixa.
+>
+> ROUPA: um top preto sem manga bordado com pedrarias brilhantes (tipo malha com strass) e uma calça jeans
+> clara de cintura alta; óculos de sol.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré; sorriso aberto e espontâneo; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso
+> de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: de costas, virando o tronco e sorrindo por cima do ombro pra câmera, um braço erguido pro alto
+> curtindo a música; foto noturna de show, enquadramento meio torto, grão e leve motion blur das luzes e
+> da fumaça; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the middle of the crowd at a music festival at night, red and green laser beams cutting
+> through the haze, a lit stage in the background and blurred people around; low colorful concert light.
+>
+> OUTFIT: a sleeveless black top embellished with sparkly rhinestones (rhinestone-mesh style) and light
+> high-waisted jeans; sunglasses.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré; open, spontaneous smile; natural, healthy skin
+> texture — pores and a few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no
+> piercings, no tattoos.
+>
+> POSE: back turned, twisting the torso and smiling back over the shoulder at the camera, one arm raised up
+> enjoying the music; night concert photo, slightly tilted framing, grain and slight motion blur from the
+> lights and haze; realistic photo, no retouching, no AI look.
