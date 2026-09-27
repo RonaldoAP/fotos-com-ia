@@ -2313,3 +2313,43 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > Max, plain black case) at face height, the other hand relaxed at the side; normal full-body framing,
 > slightly tilted, a fingerprint smudge on the mirror, soft phone grain; realistic photo, no retouching,
 > no AI look.
+
+---
+
+## EXT60 — Sentada na frente do restaurante à noite (jaqueta de couro marrom)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada na área externa de um restaurante/bar à noite, numa cadeira com uma manta de pelego
+> claro; atrás dela, a vidraça escura da fachada com luz quente do salão por dentro, reflexos e outras
+> pessoas jantando ao fundo desfocadas; luz noturna quente e baixa da rua.
+>
+> ROUPA: uma jaqueta de couro (biker) marrom-escuro com zíper, por cima de uma saia curta cinza
+> pregueada.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré, caindo pelos ombros; expressão
+> tranquila com um leve sorriso, olhando pra câmera; pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: sentada de forma relaxada, corpo levemente de lado pra câmera, uma das mãos apoiada no colo;
+> retrato candid da cintura pra cima, enquadramento normal e meio torto, grão e leve ruído de foto noturna
+> com pouca luz; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: seated at the outdoor area of a restaurant/bar at night, on a chair with a light sheepskin
+> throw; behind her, the dark glass façade with warm interior light from the dining room, reflections and
+> other blurred diners in the background; warm low night street light.
+>
+> OUTFIT: a dark-brown zip-up leather biker jacket over a short grey pleated skirt.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré, falling over the shoulders; calm expression with
+> a slight smile, looking at the camera; natural, healthy skin texture — pores and a few faint freckles,
+> soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: seated in a relaxed way, body slightly turned to the camera, one hand resting on the lap; candid
+> waist-up portrait, normal slightly tilted framing, low-light night grain and slight noise; realistic
+> photo, no retouching, no AI look.
