@@ -2268,3 +2268,48 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > photographer's hand moved during the shot, so there is a visible motion-blur streak along the body edges,
 > the hair and the background lights, with a faint double/ghost drag; normal upper-body framing, slightly
 > tilted, heavy low-light night grain and noise; realistic phone photo, no retouching, no AI look.
+
+---
+
+## EXT59 — Mirror selfie boho (conjunto verde-sálvia, macramé)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no corredor de uma casa/hotel rústico-boho, em frente a um espelho grande de moldura de
+> madeira; parede cor de terracota e uma porta metálica avermelhada de um lado, parede creme com um grande
+> painel de macramé pendurado do outro, piso de tábua de madeira, uma cadeira-ovo de vime e uma murinha de
+> pedra ao fundo; luz ambiente quente e baixa (sem flash).
+>
+> ROUPA: um conjunto verde-sálvia de duas peças — top curto de um ombro só e uma saia longa justa de
+> cintura alta, com um recorte discreto na cintura.
+>
+> DETALHES DA PESSOA: cabelo comprido liso e sedoso, solto, loiro com ombré, caindo pela frente; expressão
+> tranquila, olhando pra câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão, abdômen definido; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem
+> tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo levemente de lado, segurando o celular (iPhone 15 Pro Max
+> titânio preto, capinha preta) na altura do rosto, a outra mão relaxada ao lado do corpo; enquadramento
+> normal de corpo inteiro, meio torto, marca de dedo no espelho, grão suave de celular; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the hallway of a rustic-boho house/hotel, in front of a large wood-framed mirror; a
+> terracotta wall and a reddish metal door on one side, a cream wall with a large macramé wall hanging on
+> the other, a wooden plank floor, a woven egg chair and a low stone wall in the background; warm low
+> ambient light (no flash).
+>
+> OUTFIT: a sage-green two-piece set — a one-shoulder crop top and a long fitted high-waisted skirt, with a
+> subtle cutout at the waist.
+>
+> PERSON DETAILS: long straight silky hair down, blonde with ombré, falling to the front; calm expression,
+> looking at the camera; natural, healthy skin texture — pores and a few faint freckles, soft redness,
+> defined abs; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, body slightly turned, holding the phone (black titanium iPhone 15 Pro
+> Max, plain black case) at face height, the other hand relaxed at the side; normal full-body framing,
+> slightly tilted, a fingerprint smudge on the mirror, soft phone grain; realistic photo, no retouching,
+> no AI look.
