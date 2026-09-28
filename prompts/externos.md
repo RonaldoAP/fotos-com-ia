@@ -2548,3 +2548,44 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
   }
 }
 ```
+
+---
+
+## EXT66 — Mirror selfie em banheiro estiloso (ambiente + roupa por referência)
+
+> **Convenção de referência dupla:** o AMBIENTE vem da imagem do banheiro anexada (não se descreve no
+> texto) e a ROUPA vem da imagem de roupa anexada. Anexar: **referência(s) da Vic + foto do banheiro
+> + foto da roupa**.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI — usar a imagem de referência deste banheiro]; manter a luz quente do próprio ambiente.
+>
+> ROUPA: [conforme a peça da referência de roupa anexada]; tênis com meia curta.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo baixo, loiro com ombré, alguns fios soltos na frente;
+> expressão brincalhona, boca em biquinho; pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo levemente de lado, uma das mãos segurando o celular (iPhone 15
+> Pro Max titânio preto, capinha preta) na altura do rosto e a outra segurando um copo de bebida gelada
+> com canudo; marca de dedo no espelho, enquadramento de corpo inteiro meio torto, grão suave de celular;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: [HERE — use the attached reference image of this bathroom]; keep the warm ambient light of the
+> room itself.
+>
+> OUTFIT: [as per the attached outfit reference]; sneakers with short socks.
+>
+> PERSON DETAILS: hair in a low ponytail, blonde with ombré, a few loose strands in front; playful
+> expression, lips in a pout; natural, healthy skin texture — pores and a few faint freckles, soft
+> redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, body slightly turned, one hand holding the phone (black titanium
+> iPhone 15 Pro Max, plain black case) at face height and the other holding an iced drink with a straw; a
+> fingerprint smudge on the mirror, full-body slightly tilted framing, soft phone grain; realistic photo,
+> no retouching, no AI look.
