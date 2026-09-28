@@ -235,3 +235,58 @@ Sempre que o template mostrar mãos, prefira uma destas: **no bolso**, **seguran
 objeto** (xícara, celular, sacola), **apoiando o rosto**, ou **fora do quadro**. Se
 precisarem aparecer abertas, acrescente: "mãos com exatamente cinco dedos, anatomia
 correta".
+
+---
+
+## Formato alternativo — JSON estruturado ("mother reference")
+
+Formato mais detalhado, em JSON, que separa `visual_prompt`, `negative_prompt`, câmera, luz e um
+`identity_lock` (trava de identidade). Útil em ferramentas que aceitam prompt estruturado. **Molde
+genérico já adaptado à Vic** — troque só os campos em `[COLCHETES]` por cena. As regras fixas da
+Vic já vêm embutidas (rosto/cabelo/pele **vêm da referência**; sem joia/piercing/tatuagem;
+filtro-safe, sem transparência/lingerie).
+
+> ⚠️ **Traços que NÃO se descrevem aqui** (vêm das imagens de referência, não do texto): cor/formato
+> do cabelo, cor de pele, formato de rosto/olhos/nariz/boca, sobrancelha, corpo. O texto só trava
+> "manter idêntico à referência". A **única** coisa de aparência dita por cena é o **penteado**
+> (`[PENTEADO]`: solto, coque, rabo, molhado, ao vento…).
+>
+> Nano Banana **ignora negative prompt** — por isso as exclusões também estão **afirmadas** no
+> `visual_prompt`. O bloco `negative_prompt` serve só pra ferramentas que o respeitam.
+
+```json
+{
+  "reference_type": "mother_reference_image",
+  "visual_prompt": "A vertical smartphone [selfie/photo] of the same young adult woman as in the attached reference images (Vic), framed [ENQUADRAMENTO: ex. from the upper torso to the top of the head], photographed [ÂNGULO/PERSPECTIVA: ex. at close range, slightly high front-facing angle]. She has [EXPRESSÃO/OLHAR: ex. a calm expression looking at the camera]. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face. Her hair is worn [PENTEADO: ex. down / in a bun / windblown] (hair color, length and texture come from the reference images). She wears [ROUPA — filtro-safe, sem transparência/lingerie/peça íntima]. [MÃO/GESTO opcional: ex. one hand resting on the face; hand with exactly five fingers, correct anatomy]. No jewelry, no piercings, no tattoos. The background shows [AMBIENTE/CENÁRIO + [AQUI] se for o quarto padrão]. Lighting: [LUZ: fonte, direção, temperatura]. Casual smartphone qualities: close/informal framing, mild grain, warm-neutral color cast, slightly tilted; realistic photo, not a 3D render, no AI look.",
+  "negative_prompt": "changed identity, altered facial bone structure, different age or skin tone, hair recolored or restyled away from the reference; jewelry, earrings, septum or nose ring, rings, bracelets, necklaces; piercings; tattoos; sheer/see-through fabric, lingerie, visible undergarments, body-focused or sexualized framing; glamour or studio lighting, beauty retouching, porcelain skin, excessive symmetry, altered body proportions, artificial sharpness, CGI/3D/render texture, cartoon, brand logos, fantasy elements, extra fingers, deformed hands.",
+  "camera_and_optics": {
+    "format": "vertical smartphone [selfie/photo]",
+    "framing": "[ENQUADRAMENTO]",
+    "angle": "[ÂNGULO]",
+    "perspective": "[PERSPECTIVA — ex. close-range selfie]",
+    "focus": "face and upper torso in clear focus; background slightly softer"
+  },
+  "lighting": {
+    "source": "[FONTE DE LUZ]",
+    "shadow_behavior": "soft natural shadows under hair, chin, nose and neckline",
+    "color_temperature": "[TEMPERATURA — ex. warm-neutral indoor daylight]",
+    "highlight_behavior": "[COMPORTAMENTO DAS ALTAS-LUZES]"
+  },
+  "identity_lock": {
+    "preserve": [
+      "exact facial structure from the reference",
+      "natural facial asymmetry",
+      "skin tone and visible skin texture",
+      "hair color, length and texture from the reference",
+      "[PENTEADO da cena]",
+      "[EXPRESSÃO/GESTO da cena]",
+      "casual smartphone composition"
+    ]
+  }
+}
+```
+
+**O que foi removido do exemplo original (porque não é da Vic):** cabelo escuro fixo, piercing de
+septo, brinco de argola, pulseira com berloques, sobrancelha "escura marcante", e a blusa preta
+**transparente/mesh sobre peça estruturada** (transparência → não é filtro-safe). No lugar,
+placeholders neutros + as travas da Vic.
