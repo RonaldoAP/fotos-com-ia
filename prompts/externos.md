@@ -2589,3 +2589,47 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > iPhone 15 Pro Max, plain black case) at face height and the other holding an iced drink with a straw; a
 > fingerprint smudge on the mirror, full-body slightly tilted framing, soft phone grain; realistic photo,
 > no retouching, no AI look.
+
+---
+
+## EXT67 — Café da manhã no restaurante com câmera de ação (conjunto azul-bebê)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada à mesa de um restaurante claro e arejado de manhã, toalha de mesa branca; em primeiro
+> plano, uma xícara de cappuccino com espuma e um prato com crepe caramelizado e amendoim picado; ao
+> fundo, outras mesas postas com taças, ventiladores de teto pretos, paredes brancas, vasos de palmeira e
+> uma janela grande aberta pra um jardim tropical bem verde; luz natural do dia, suave e clara.
+>
+> ROUPA: um conjunto azul-bebê de tecido franzido — top cropped de alcinha com cobertura normal e uma saia
+> longa do mesmo tom, opaca.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, repartido no meio; sorriso leve atrás
+> da câmera; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem
+> acne, sem excesso de imperfeição; sem joias, sem relógio, sem piercing, sem tatuagem.
+>
+> POSE: sentada na cadeira, segurando com as duas mãos uma câmera de ação pequena preta (sem marca) na
+> frente do rosto, como se estivesse filmando quem tira a foto; mãos com cinco dedos e anatomia correta;
+> enquadramento normal da cintura pra cima com a mesa em primeiro plano, meio torto, grão suave de
+> celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: seated at a table in a bright, airy restaurant in the morning, white tablecloth; in the
+> foreground, a cappuccino cup with foam and a plate with a caramelized crepe and chopped peanuts; in the
+> background, other set tables with glasses, black ceiling fans, white walls, potted palms and a large
+> open window onto a lush tropical garden; soft, clear natural daylight.
+>
+> OUTFIT: a baby-blue ruched set — a strappy cropped top with normal coverage and a matching opaque long
+> skirt.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, center part; slight smile behind the camera;
+> natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no watch, no piercings, no tattoos.
+>
+> POSE: seated on the chair, holding a small black action camera (no branding) with both hands in front of
+> her face, as if filming the person taking the photo; hands with five fingers and correct anatomy; normal
+> waist-up framing with the table in the foreground, slightly tilted, soft phone grain; realistic photo,
+> no retouching, no AI look.
