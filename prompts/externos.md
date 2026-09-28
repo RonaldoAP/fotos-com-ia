@@ -2507,3 +2507,44 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: standing, leaning forward toward a dalmatian dog sitting on the floor in front of her (red collar),
 > face almost touching the dog's snout in a nuzzle, one hand near its head; candid home scene, normal
 > slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT65 — Selfie brincalhona no quarto (língua/sinal de paz) — formato JSON
+
+> Cena adaptada à Vic no **formato JSON estruturado** (ver `templates.md`). Mantida a vibe (selfie
+> casual, expressão brincalhona, luz de dia) e removidos os traços que não são da Vic (cabelo
+> escuro, septum, brinco, pulseira, blusa transparente).
+
+```json
+{
+  "reference_type": "mother_reference_image",
+  "visual_prompt": "A vertical smartphone selfie of the same young adult woman as in the attached reference images (Vic), framed from the upper torso to the top of the head, photographed at close range with a slightly high front-facing angle. She faces the camera with a playful expression, both eyes mostly closed, mouth open, tongue extended to one side, teeth visible. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face (hair color, length and texture also come from the reference). Her long hair is worn down, falling over one side of the face and past the chest, with visible individual strands. Her raised hand forms a peace sign near the upper left of the frame, with short glossy nails; hand with exactly five fingers, correct anatomy. She wears a solid (not sheer) black high-neck top. No jewelry, no piercings, no tattoos. The background shows an indoor room with a pale wooden door or cabinet panel on the right, a light grooved ceiling, beige walls, and bright daylight entering from the left, slightly overexposing the left edge. Lighting is mixed: strong soft daylight from the left with weaker indoor ambient fill, mild shadows along the hair, face, hand and neck. Casual smartphone selfie qualities: close perspective, warm-neutral color cast, minor grain, informal framing; realistic photo, not a 3D render, no AI look.",
+  "negative_prompt": "changed identity, altered facial bone structure, different age or skin tone, hair recolored or restyled away from the reference; jewelry, earrings, septum or nose ring, rings, bracelets, necklaces; piercings; tattoos; sheer/see-through fabric, lingerie, visible undergarments, body-focused or sexualized framing; glamour lighting, studio backdrop, beauty retouching, porcelain skin, excessive symmetry, altered body proportions, artificial sharpness, CGI/3D/render texture, cartoon, brand logos, fantasy elements, extra fingers, deformed hands.",
+  "camera_and_optics": {
+    "format": "vertical smartphone selfie",
+    "framing": "tight upper-torso portrait",
+    "angle": "slightly high front-facing angle",
+    "perspective": "close-range selfie perspective with mild facial and hand proximity distortion",
+    "focus": "face, raised hand, hair and upper torso in clear focus; background slightly softer"
+  },
+  "lighting": {
+    "source": "bright daylight from the left side with weak indoor ambient fill",
+    "shadow_behavior": "soft shadows under the hair, chin, hand, nose and neckline",
+    "color_temperature": "warm-neutral indoor daylight mix",
+    "highlight_behavior": "left side slightly overexposed, especially near the window edge and raised hand"
+  },
+  "identity_lock": {
+    "preserve": [
+      "exact facial structure from the reference",
+      "natural facial asymmetry",
+      "skin tone and visible skin texture",
+      "hair color, length and texture from the reference",
+      "hair worn down over one side",
+      "playful closed-eye, tongue-out expression",
+      "peace-sign hand gesture (five fingers)",
+      "casual smartphone selfie composition"
+    ]
+  }
+}
+```
