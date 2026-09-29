@@ -3906,3 +3906,72 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh),
 > automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
 > compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT88 — Mirror selfie na academia sentada no caixote (regata branca + short oliva) — modo réplica
+
+> **Exceções aplicadas:** a referência é de um homem → mesma cena com a Vic, regata e short no mesmo
+> modelo/cor adaptados pra ela; boné e tênis sem logo; sem relógio e tatuagens; celular = iPhone padrão
+> (no print, capinha marrom). Fone no pescoço mantido (peça funcional). Academia, luz, pose e composição
+> idênticas ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: academia à noite, área de musculação, vista pelo espelho; parede de fundo revestida em placas
+> cor terracota/cobre fosco; máquinas de musculação pretas de anilha (plate-loaded) à direita, com
+> estrutura grossa e bancos pretos; à esquerda, outro espelho com moldura de alumínio refletindo uma
+> torre de anilhas pretas e coloridas, detalhes de parede amarela e uma pessoa treinando lá no fundo;
+> uma placa roxa escura com texto ilegível numa coluna no alto à esquerda; teto preto; piso de borracha
+> preto em placas; luz quente amarelada de lâmpadas do teto, contraste médio, sombras suaves; cores:
+> terracota, preto, amarelo e branco.
+>
+> ROUPA: boné preto (sem logo), regata branca canelada de cavas largas, short de corrida verde-oliva de
+> tecido leve, tênis de corrida creme/bege com solado grosso (sem logo) e um fone de ouvido over-ear
+> prata/branco pendurado no pescoço; uma garrafa térmica verde-oliva fosca no chão ao lado.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré preso num rabo baixo saindo por baixo do boné; olhando pra
+> baixo, pra tela do celular, expressão concentrada e séria; pele com textura natural e saudável — poros
+> e uma sardinha ou outra, leve vermelhidão, brilho leve de suor de treino nos braços e pernas; sem
+> acne, sem excesso de imperfeição; sem joias, sem relógio, sem piercing, sem tatuagem.
+>
+> POSE: sentada na beirada de um caixote de pliometria preto de espuma, de frente pro espelho, pernas
+> abertas naturalmente com os pés no chão e um pé mais à frente; uma mão apoiada na coxa; a outra
+> segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do peito, perto do
+> rosto; mirror selfie vertical de corpo inteiro, câmera na altura do peito; ela fica no centro do
+> quadro, da cabeça aos pés, com o caixote e o chão na parte de baixo e as máquinas preenchendo a direita;
+> foto interna com leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve
+> distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
+> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um
+> pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
+> cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a gym at night, weight-training area, seen through the mirror; the back wall clad in matte
+> terracotta/copper panels; black plate-loaded strength machines on the right, with heavy frames and black
+> pads; on the left, another aluminum-framed mirror reflecting a tree of black and colored weight plates,
+> yellow wall accents and someone training far in the back; a dark purple sign with illegible text on a
+> pillar at the upper left; black ceiling; black rubber tile flooring; warm yellowish overhead lights,
+> medium contrast, soft shadows; colors: terracotta, black, yellow and white.
+>
+> OUTFIT: a black cap (no logo), a white ribbed tank top with wide armholes, light olive-green running
+> shorts, cream/beige running sneakers with a chunky sole (no logo) and silver/white over-ear headphones
+> hanging around the neck; a matte olive-green insulated bottle on the floor beside her.
+>
+> PERSON DETAILS: blonde ombré hair in a low ponytail coming out under the cap; looking down at the phone
+> screen, focused, serious expression; natural, healthy skin texture — pores and a few faint freckles,
+> soft redness, a light workout sheen on the arms and legs; no acne, no over-imperfection; no jewelry, no
+> watch, no piercings, no tattoos.
+>
+> POSE: sitting on the edge of a black foam plyo box, facing the mirror, legs naturally apart with feet on
+> the floor and one foot further forward; one hand resting on the thigh; the other holding the phone (black
+> titanium iPhone 15 Pro Max, plain black case) at chest height, near the face; vertical full-body mirror
+> selfie, camera at chest height; she sits in the center of the frame, head to feet, with the box and floor
+> at the bottom and the machines filling the right; indoor photo with slight grain; smartphone-camera look
+> — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most
+> slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
+> shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
+> realistic photo, no retouching, no AI look.
