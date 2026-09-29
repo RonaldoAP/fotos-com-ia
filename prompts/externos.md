@@ -4455,7 +4455,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 
 ---
 
-## EXT96 — Selfie de baixo com sol em faixas no rosto, dedo no lábio (sem texto) — modo réplica
+## EXT96 — Selfie meiga de baixo com sol em faixas no rosto, dedo no canto da boca (sem texto) — modo réplica
 
 > **Exceções aplicadas:** cabelo/rosto da Vic; sem colar e brincos; sem o texto/legenda do print;
 > "top de alcinha" escrito pra ombros nus não serem lidos como sem roupa. Resto idêntico ao print.
@@ -4472,14 +4472,12 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ROUPA: top de alcinha fina (as alças quase não aparecem), ombros de fora.
 >
 > DETALHES DA PESSOA: cabelo comprido liso, loiro com ombré, repartido no meio, caindo pelos lados do
-> rosto e por trás dos ombros; sorriso aberto e brincalhão mostrando os dentes de cima, olhando direto pra
-> câmera; cílios definidos, sobrancelhas penteadas, blush pêssego, gloss rosado-pêssego bem brilhante;
+> rosto e por trás dos ombros; expressão bem meiga e doce: sorriso tímido e carinhoso mostrando levemente os dentes, olhos apertadinhos e brilhando de sorrir, olhar doce e inocente direto pra câmera, bochechas coradas; cílios definidos, sobrancelhas penteadas, blush rosado-pêssego bem marcado nas bochechas e no nariz, gloss rosado-pêssego bem brilhante;
 > unhas longas nude; pele com textura natural e saudável — poros e sardinhas no nariz e nas bochechas,
 > leve vermelhidão, brilho do sol na pele; sem acne, sem excesso de imperfeição; sem joias, sem colar,
 > sem brincos, sem piercing, sem tatuagem.
 >
-> POSE: selfie vertical com a câmera frontal de baixo pra cima, bem perto; cabeça levemente inclinada; a
-> mão que não segura o celular levantada com a ponta do dedo indicador encostada no lábio de baixo; o
+> POSE: selfie vertical com a câmera frontal de baixo pra cima, bem perto; cabeça levemente inclinada; a mão que não segura o celular levantada com a ponta do dedo indicador encostada de leve no canto da boca, num gesto tímido e fofo; o
 > braço atravessando o canto inferior direito em primeiro plano; o rosto ocupa o centro do quadro, do
 > topo da cabeça até o pescoço; imagem limpa, sem nenhum texto, legenda ou elemento gráfico; cara de foto
 > de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco
@@ -4499,13 +4497,12 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > OUTFIT: a thin-strap top (the straps barely show), shoulders bare.
 >
 > PERSON DETAILS: long straight hair, blonde with ombré, center part, falling at the sides of the face and
-> behind the shoulders; wide, playful smile showing the upper teeth, looking straight at the camera;
-> defined lashes, groomed brows, peach blush, very glossy peachy-pink gloss; long nude nails; natural,
+> behind the shoulders; very sweet, gentle expression: a shy, affectionate smile slightly showing the teeth, eyes squinting and sparkling from smiling, a soft, innocent gaze straight at the camera, flushed cheeks;
+> defined lashes, groomed brows, strong rosy-peach blush on the cheeks and nose, very glossy peachy-pink gloss; long nude nails; natural,
 > healthy skin texture — pores and freckles on the nose and cheeks, soft redness, sun sheen on the skin;
 > no acne, no over-imperfection; no jewelry, no necklace, no earrings, no piercings, no tattoos.
 >
-> POSE: vertical front-camera selfie from below, very close; head slightly tilted; the hand not holding
-> the phone raised with the tip of the index finger touching the lower lip; the arm crossing the
+> POSE: vertical front-camera selfie from below, very close; head slightly tilted; the hand not holding the phone raised with the tip of the index finger lightly touching the corner of the mouth, in a shy, cute gesture; the arm crossing the
 > lower-right corner in the foreground; the face fills the center of the frame, from the top of the head
 > to the neck; clean image, with no text, caption or graphic element; smartphone-camera look — phone
 > wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly
