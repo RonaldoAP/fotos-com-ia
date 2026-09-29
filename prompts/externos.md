@@ -2633,3 +2633,48 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > her face, as if filming the person taking the photo; hands with five fingers and correct anatomy; normal
 > waist-up framing with the table in the foreground, slightly tilted, soft phone grain; realistic photo,
 > no retouching, no AI look.
+
+---
+
+## EXT68 — Andando na praia da cidade com chapéu de palha (biquíni rosa)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: na faixa de areia de uma praia urbana tipo Balneário Camboriú, de manhã; areia clara com
+> marcas de rastelo e pegadas, arranha-céus altos de vidro ao fundo (sem logos), uma roda-gigante branca
+> na frente de um morro verde e o mar com ondas pequenas à direita; céu azul limpo, sol forte e sombra
+> marcada na areia.
+>
+> ROUPA: um biquíni rosa-claro de cobertura normal (top de cortininha e calcinha de corte tradicional) e
+> um chapéu de palha de aba larga, bege com a copa caramelo.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pelas costas; expressão
+> divertida, sorriso leve olhando pra câmera por cima da aba; pele com textura natural e saudável — poros
+> e uma sardinha ou outra, leve vermelhidão do sol; sem acne, sem excesso de imperfeição; sem joias, sem
+> piercing, sem tatuagem.
+>
+> POSE: caminhando descalça pela areia em direção à câmera, segurando o chapéu com as duas mãos na frente
+> e abaixando a aba pra espiar por cima dela, com o rosto visível; mãos com cinco dedos e anatomia
+> correta; foto de corpo inteiro tirada por outra pessoa, enquadramento normal e meio torto, luz dura de
+> sol; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: on the sand of an urban beach like Balneário Camboriú, in the morning; light sand with rake
+> marks and footprints, tall glass skyscrapers in the background (no logos), a white Ferris wheel in front
+> of a green hill and the sea with small waves to the right; clear blue sky, strong sun and sharp shadows
+> on the sand.
+>
+> OUTFIT: a light-pink bikini with normal coverage (triangle top and classic-cut bottoms) and a wide-brim
+> straw hat, beige with a caramel crown.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, falling down the back; playful expression,
+> slight smile looking at the camera over the brim; natural, healthy skin texture — pores and a few faint
+> freckles, soft sun redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: walking barefoot across the sand toward the camera, holding the hat with both hands in front and
+> lowering the brim to peek over it, face visible; hands with five fingers and correct anatomy; full-body
+> photo taken by someone else, normal slightly tilted framing, harsh sunlight; realistic photo, no
+> retouching, no AI look.
