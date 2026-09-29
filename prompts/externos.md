@@ -4512,7 +4512,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 
 ---
 
-## EXT97 — Selfie brincalhona no box de toalha, língua pra fora e gilete rosa — modo réplica
+## EXT97 — Selfie meiga no box de toalha, dedo no lábio e gilete rosa — modo réplica
 
 > **Exceções aplicadas:** cabelo/rosto da Vic; a referência era no chuveiro com o corpo à mostra →
 > **enrolada numa toalha branca presa acima do peito** (cabelo molhado e gotinhas mantidos); sem
@@ -4532,14 +4532,12 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > DETALHES DA PESSOA: cabelo loiro com ombré molhado, mais escuro por estar molhado, penteado pra trás com
 > mechas grudadas caindo pelos lados do rosto e no pescoço; rosto sem maquiagem, molhado, com gotinhas
-> d'água; língua pra fora numa careta brincalhona, olhos bem abertos olhando direto pra câmera; pele com
+> d'água; expressão bem meiga e doce: sorriso tímido de boca fechada, olhar doce e carinhoso direto pra câmera, cabeça levemente inclinada, bochechas coradas; pele com
 > textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão do banho quente, gotas
 > d'água nos ombros e na clavícula; sem acne, sem excesso de imperfeição; sem joias, sem brincos, sem
 > pulseira, sem piercing, sem tatuagem.
 >
-> POSE: selfie vertical com a câmera frontal, levemente de cima; a mão livre em primeiro plano no canto
-> inferior esquerdo, grande e perto da lente, fazendo sinal de paz com dois dedos e segurando entre os
-> dedos uma gilete descartável rosa com detalhe azul, dedos molhados; ela fica no terço de baixo à
+> POSE: selfie vertical com a câmera frontal, levemente de cima; a mão livre levantada perto do rosto, com a ponta do dedo indicador encostada de leve no lábio de baixo num gesto tímido e fofo, segurando frouxa entre os outros dedos uma gilete descartável rosa com detalhe azul, dedos molhados; ela fica no terço de baixo à
 > direita, do topo da cabeça até o peito; a metade de cima do quadro é parede de porcelanato, chuveiro e
 > cortina; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
 > bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional,
@@ -4561,14 +4559,11 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > shoulders bare.
 >
 > PERSON DETAILS: wet blonde ombré hair, darker because it is wet, slicked back with strands stuck to the
-> sides of the face and the neck; bare, wet face with water droplets; tongue out in a playful face, eyes
-> wide open looking straight at the camera; natural, healthy skin texture — pores and a few faint
+> sides of the face and the neck; bare, wet face with water droplets; very sweet, gentle expression: a shy closed-mouth smile, a soft, affectionate gaze straight at the camera, head slightly tilted, flushed cheeks; natural, healthy skin texture — pores and a few faint
 > freckles, soft redness from the hot shower, water droplets on the shoulders and collarbone; no acne, no
 > over-imperfection; no jewelry, no earrings, no bracelet, no piercings, no tattoos.
 >
-> POSE: vertical front-camera selfie, slightly from above; the free hand in the foreground in the
-> lower-left corner, large and close to the lens, making a peace sign with two fingers and holding a pink
-> disposable razor with a blue detail between the fingers, wet fingers; she sits in the lower-right third,
+> POSE: vertical front-camera selfie, slightly from above; the free hand raised near the face, with the tip of the index finger lightly touching the lower lip in a shy, cute gesture, loosely holding a pink disposable razor with a blue detail between the other fingers, wet fingers; she sits in the lower-right third,
 > from the top of the head to the chest; the top half of the frame is tile wall, shower head and curtain;
 > smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
