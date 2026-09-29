@@ -2767,3 +2767,51 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > pistol with both hands aimed at the target, a steady sport-shooting stance; hands with five fingers and
 > correct anatomy; photo taken by someone behind her, normal waist-up framing, slightly tilted, soft phone
 > grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT71 — Selfie no quarto com luz de janela (regata branca, gato na cama)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no quarto de casa, de tarde; ao fundo, a cama com manta cinza-clara e um gato siamês dormindo
+> enrolado em cima dela, cabeceira escura, parede clara e a porta aberta de um closet na penumbra; luz
+> natural suave entrando de lado por uma janela fora do quadro, iluminando só metade do rosto, resto do
+> quarto mais escuro.
+>
+> ROUPA: uma regata branca canelada de alça larga, com decote normal.
+>
+> DETALHES DA PESSOA: cabelo comprido solto, loiro com ombré, meio bagunçado caindo por um dos ombros;
+> expressão tranquila e preguiçosa, olhos semicerrados, sorriso leve de canto; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+>
+> POSE: selfie com a câmera frontal de braço esticado, levemente de baixo pra cima, cabeça inclinada pro
+> lado e encostada no ombro; enquadramento do rosto e ombros (do topo da cabeça até a altura das
+> clavículas), meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve
+> distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
+> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
+> um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
+> cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in the home bedroom, in the afternoon; in the background, the bed with a light-grey blanket and
+> a Siamese cat sleeping curled up on it, a dark headboard, a light wall and the open door of a dim
+> walk-in closet; soft natural light coming in from the side through a window out of frame, lighting only
+> half of the face, the rest of the room darker.
+>
+> OUTFIT: a white ribbed wide-strap tank top with a normal neckline.
+>
+> PERSON DETAILS: long hair down, blonde with ombré, a bit messy, falling over one shoulder; calm, lazy
+> expression, half-closed eyes, slight half smile; natural, healthy skin texture — pores and a few faint
+> freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: arm's-length front-camera selfie, slightly from below, head tilted to the side resting against
+> the shoulder; face-and-shoulders framing (from the top of the head down to the collarbones), slightly
+> tilted; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything
+> in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic
+> phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
+> compression and auto white balance; realistic photo, no retouching, no AI look.
