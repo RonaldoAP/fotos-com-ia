@@ -2821,3 +2821,59 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
 > with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
 > white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT72 — Jantar no restaurante pé na areia à noite (spritz, vestido de florzinhas)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada à mesa de madeira de um restaurante pé na areia à noite, num deck coberto com teto
+> de ripas de madeira, luminárias de fibra com luz amarela quente e pilares brancos; na mesa, uma taça de
+> Aperol spritz com rodela de laranja e canudo, uma cestinha de vime com flores vermelhas e rosadas, um
+> porta-guardanapo de madeira com o número 34, pratos brancos, um caneco de chope vazio e uma bolsa preta
+> no canto; à esquerda, a praia iluminada à noite com uma rede de vôlei azul, gente jogando e as luzes da
+> cidade no morro; ao fundo à direita, outras mesas e clientes desfocados; luz noturna quente do
+> restaurante.
+>
+> ROUPA: um vestido branco com estampa de florzinhas vermelhas, de alcinha e decote normal.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, repartido no meio e caindo pela frente
+> dos ombros; sorriso leve e simpático, olhando pra câmera; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem relógio,
+> sem piercing, sem tatuagem.
+>
+> POSE: sentada inclinada pra frente com os antebraços apoiados na mesa, uma das mãos segurando o canudo
+> do drink perto do rosto, cabeça levemente inclinada; foto tirada por quem está do outro lado da mesa,
+> com a mesa e a cestinha de flores em primeiro plano, enquadramento normal da cintura pra cima, meio
+> torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
+> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
+> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
+> um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
+> cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: seated at a wooden table in a beachfront restaurant at night, on a covered deck with a slatted
+> wooden ceiling, woven pendant lamps with warm yellow light and white columns; on the table, an Aperol
+> spritz glass with an orange slice and a straw, a small wicker basket of red and pink flowers, a wooden
+> napkin holder with the number 34, white plates, an empty beer mug and a black handbag in the corner; to
+> the left, the lit beach at night with a blue volleyball net, people playing and the city lights on the
+> hill; in the background to the right, other tables and blurred diners; warm night restaurant light.
+>
+> OUTFIT: a white dress with a small red floral print, thin straps and a normal neckline.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, center part, falling over the front of the
+> shoulders; soft, friendly smile, looking at the camera; natural, healthy skin texture — pores and a few
+> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no watch, no piercings, no
+> tattoos.
+>
+> POSE: seated leaning forward with forearms resting on the table, one hand holding the drink's straw near
+> her face, head slightly tilted; photo taken by the person across the table, with the table and the
+> flower basket in the foreground, normal waist-up framing, slightly tilted; smartphone-camera look —
+> phone wide-angle lens with slight edge distortion, almost everything in focus (background at most
+> slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
+> shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
+> realistic photo, no retouching, no AI look.
