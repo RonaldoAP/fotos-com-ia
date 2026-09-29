@@ -3089,3 +3089,71 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
 > shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
 > realistic photo, no retouching, no AI look.
+
+---
+
+## EXT75 — Deitada na cama de cabeça pra baixo com flash (top creme drapeado) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem anéis, pulseiras, colar e brinco; o top original
+> era aberto deixando os seios à mostra e a mão de cima puxava o tecido → **mesmo top creme drapeado
+> com nó, com cobertura normal**, e a mão de cima **só apoiada na alça**. Composição, flash, cama,
+> cortina, cabelo e mão no rosto idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: quarto de hotel/apartamento à noite; no terço de cima do quadro, uma cortina blackout
+> cinza-taupe com pregas verticais, escura, e o canto superior direito preto; embaixo, a cama com lençol e
+> travesseiros brancos levemente amassados, bem claros por causa do flash; luz de flash direto do celular
+> de frente, dura, estourando levemente o branco do lençol, deixando brilho na pele e o fundo caindo pro
+> escuro; cores quentes cremosas na pele e no tecido contra o cinza da cortina.
+>
+> ROUPA: top creme/amarelo-manteiga de malha drapeada, com um nó torcido no centro da frente, cobertura
+> normal; um tecido do mesmo tom (saia) aparecendo no canto superior direito.
+>
+> DETALHES DA PESSOA: cabelo comprido solto, loiro com ombré, todo espalhado e bagunçado sobre o
+> travesseiro no canto inferior esquerdo, fios soltos; olhos fechados, parcialmente cobertos pela mão;
+> boca fechada com batom vermelho, bochechas coradas com blush, pele com viço/brilho do flash; pele com
+> textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de
+> imperfeição; sem joias, sem anéis, sem pulseiras, sem piercing, sem tatuagem.
+>
+> POSE: deitada de costas na cama, com o corpo em diagonal no quadro — a cabeça no canto inferior
+> esquerdo (de cabeça pra baixo em relação à foto) e o corpo subindo em direção ao canto superior direito,
+> quadril e pernas cortados pela borda de cima; uma mão na testa, com os dedos enfiados no cabelo,
+> cobrindo os olhos; o outro braço dobrado pra cima, com a mão apoiada de leve na alça do top, perto do
+> ombro, sem puxar o tecido; foto tirada de cima por outra pessoa em pé ao lado da cama, câmera inclinada;
+> enquadramento fechado da cabeça até a cintura; foto de flash direto de celular com contraste alto, pele
+> brilhante e leve granulação no fundo escuro; cara de foto de câmera de celular — lente grande-angular
+> de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem
+> desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente
+> levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a hotel/apartment bedroom at night; in the top third of the frame, a dark grey-taupe blackout
+> curtain with vertical pleats, and the upper-right corner black; below, the bed with slightly rumpled
+> white sheets and pillows, very bright from the flash; direct front phone flash, harsh, slightly blowing
+> out the white sheets, putting a sheen on the skin and letting the background fall off to dark; warm
+> creamy tones on skin and fabric against the grey of the curtain.
+>
+> OUTFIT: a cream/butter-yellow draped jersey top with a twisted knot at the center front, normal
+> coverage; fabric of the same tone (a skirt) showing in the upper-right corner.
+>
+> PERSON DETAILS: long hair down, blonde with ombré, spread out and messy over the pillow in the
+> lower-left corner, loose strands; eyes closed, partly covered by her hand; closed mouth with red
+> lipstick, flushed cheeks with blush, dewy skin glowing from the flash; natural, healthy skin texture —
+> pores and a few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no rings, no
+> bracelets, no piercings, no tattoos.
+>
+> POSE: lying on her back on the bed, body diagonal across the frame — head in the lower-left corner
+> (upside down relative to the photo) and body rising toward the upper-right corner, hips and legs cut off
+> by the top edge; one hand on her forehead with fingers in her hair, covering her eyes; the other arm
+> bent upward, hand resting lightly on the top's strap near the shoulder, not pulling the fabric; photo
+> taken from above by someone standing beside the bed, camera tilted; tight framing from head to waist;
+> direct phone-flash photo with high contrast, shiny skin and slight grain in the dark background;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
