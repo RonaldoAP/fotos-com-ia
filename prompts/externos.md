@@ -3847,3 +3847,62 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > taken by someone standing outside through the open door, from above; she fills the center of the frame
 > from head to shins, cut by the bottom edge; the open door frames both sides; phone-flash photo with
 > slight grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT87 — Selfie por cima do ombro com sorrisinho, quarto com luz de LED verde — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem piercing no nariz. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: quarto à noite com pouca luz; parede bege-acinzentada lisa atrás, um vão de porta escuro à
+> esquerda e o teto com um brilho verde fraco de fita de LED no canto superior esquerdo; luz suave e
+> quente vindo de frente (luz do quarto/tela), iluminando o rosto e o ombro, com o fundo mais escuro e
+> esverdeado; cores apagadas: bege, oliva, verde e pele quente.
+>
+> ROUPA: top preto tomara-que-caia (só a borda preta aparece no canto inferior esquerdo), ombros nus.
+>
+> DETALHES DA PESSOA: cabelo comprido bem liso, loiro com ombré, repartido no meio, com mechas da frente
+> caindo pelo rosto e o resto descendo pelas costas e por cima do ombro; sobrancelhas grossas e
+> penteadas, cílios definidos, iluminador no nariz e nas maçãs, blush rosado, boca com gloss nude
+> brilhante; sorrisinho de canto, confiante e brincalhão, olhando direto pra câmera; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, algumas pintinhas no ombro; sem
+> acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: de costas pra câmera, virando a cabeça por cima do ombro; o ombro nu em primeiro plano ocupa toda
+> a parte de baixo do quadro, grande e perto da lente; selfie vertical com a câmera traseira segurada um
+> pouco acima e atrás do ombro, bem perto; o rosto fica no terço de cima, levemente à esquerda do centro,
+> e o cabelo cobre o lado direito do quadro; foto de pouca luz com grão, sombras suaves e leve ruído;
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas,
+> quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem
+> bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco
+> exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de
+> IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a bedroom at night with low light; a plain greyish-beige wall behind, a dark doorway on the
+> left and the ceiling with a faint green LED-strip glow in the upper-left corner; soft, warm light from
+> the front (room light/screen), lighting the face and shoulder, with a darker, greenish background; muted
+> colors: beige, olive, green and warm skin.
+>
+> OUTFIT: a black strapless top (only the black edge shows in the lower-left corner), bare shoulders.
+>
+> PERSON DETAILS: very straight long hair, blonde with ombré, center part, with front strands falling
+> over the face and the rest running down the back and over the shoulder; thick brushed-up brows, defined
+> lashes, highlighter on the nose and cheekbones, rosy blush, glossy nude lips; confident, playful
+> half smile, looking straight at the camera; natural, healthy skin texture — pores and a few faint
+> freckles, soft redness, a few small moles on the shoulder; no acne, no over-imperfection; no jewelry, no
+> piercings, no tattoos.
+>
+> POSE: back to the camera, turning her head over her shoulder; the bare shoulder in the foreground fills
+> the whole bottom of the frame, large and close to the lens; vertical selfie with the rear camera held a
+> little above and behind the shoulder, very close; the face sits in the top third, slightly left of
+> center, and the hair covers the right side of the frame; low-light photo with grain, soft shadows and
+> slight noise; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost
+> everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh),
+> automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
+> compression and auto white balance; realistic photo, no retouching, no AI look.
