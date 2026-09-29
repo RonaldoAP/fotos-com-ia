@@ -3564,3 +3564,71 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
 > blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
 > processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT82 — Banco de trás do carro com flash, corset de couro e óculos escuros — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem colar de pérolas, correntinha e pulseira de tecido
+> com escrita; decote do corset reto normal. Óculos mantidos (peça funcional). Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: banco de trás de um carro à noite; o forro do teto cinza-claro ocupa todo o terço de cima do
+> quadro, com uma alça de segurar cinza no canto superior esquerdo; atrás dela, as janelas pretas da
+> noite e os bancos de tecido preto; em primeiro plano, as laterais dos encostos dos bancos da frente,
+> cinza-escuros e fora de foco, entrando pelos cantos inferior esquerdo e inferior direito; flash direto
+> do celular de frente, luz chapada e clara no rosto, nos ombros e nas coxas, com sombra dura atrás dela
+> e o resto do carro escuro; cores neutras: cinza, preto e pele quente.
+>
+> ROUPA: vestido curto tomara-que-caia de couro sintético preto, estilo corset, com costuras verticais,
+> barbatanas e uma fileira de colchetes prateados fechando na frente, decote reto normal; óculos de sol
+> pretos estreitos e ovais, estilo anos 2000.
+>
+> DETALHES DA PESSOA: cabelo comprido bem liso, loiro com ombré, repartido no meio, caindo pela frente de
+> um ombro e por trás do outro; cabeça levemente virada e inclinada pro lado, rosto voltado um pouco pra
+> baixo, lábios levemente entreabertos com gloss rosado, olhos escondidos pelos óculos; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, brilho do flash na pele; sem acne,
+> sem excesso de imperfeição; sem joias, sem colar, sem pulseira, sem piercing, sem tatuagem.
+>
+> POSE: sentada no meio do banco de trás, encostada, de frente pra câmera; uma mão levantada ajeitando o
+> cabelo atrás da orelha, com o cotovelo pra fora; o outro braço relaxado ao lado do corpo; pernas pra
+> frente, coxas aparecendo na parte de baixo; foto vertical tirada por alguém no banco da frente virado
+> pra trás, entre os dois bancos, levemente de cima; ela fica no centro do quadro, com a cabeça pouco
+> acima do meio, cortada nas coxas pela borda de baixo; o teto ocupa o alto; foto de flash de celular com
+> leve granulação no fundo escuro; cara de foto de câmera de celular — lente grande-angular de celular com
+> leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de
+> câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez
+> digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: the back seat of a car at night; the light-grey headliner fills the whole top third of the
+> frame, with a grey grab handle in the upper-left corner; behind her, the black night windows and black
+> fabric seats; in the foreground, the sides of the front-seat backrests, dark grey and out of focus,
+> entering from the lower-left and lower-right corners; direct frontal phone flash, flat bright light on
+> the face, shoulders and thighs, with a hard shadow behind her and the rest of the car dark; neutral
+> colors: grey, black and warm skin.
+>
+> OUTFIT: a short black faux-leather strapless corset-style dress with vertical seams, boning and a row of
+> silver hook-and-eye closures down the front, straight normal neckline; narrow oval black sunglasses,
+> 2000s style.
+>
+> PERSON DETAILS: very straight long hair, blonde with ombré, center part, falling over the front of one
+> shoulder and behind the other; head slightly turned and tilted to the side, face angled a little
+> downward, lips slightly parted with pink gloss, eyes hidden by the sunglasses; natural, healthy skin
+> texture — pores and a few faint freckles, soft redness, flash sheen on the skin; no acne, no
+> over-imperfection; no jewelry, no necklace, no bracelet, no piercings, no tattoos.
+>
+> POSE: sitting in the middle of the back seat, leaning back, facing the camera; one hand raised tucking
+> the hair behind the ear, elbow out; the other arm relaxed at her side; legs forward, thighs showing at
+> the bottom; vertical photo taken by someone in the front seat turned around, between the two seats,
+> slightly from above; she sits in the center of the frame, head a bit above the middle, cut at the thighs
+> by the bottom edge; the headliner fills the top; phone-flash photo with slight grain in the dark
+> background; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost
+> everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh),
+> automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
+> compression and auto white balance; realistic photo, no retouching, no AI look.
