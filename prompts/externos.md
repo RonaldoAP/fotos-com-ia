@@ -4393,3 +4393,62 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
 > shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
 > realistic photo, no retouching, no AI look.
+
+---
+
+## EXT95 — Mirror selfie de perto piscando, suéter de tricô creme — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem anéis e argolas; celular = iPhone padrão (no print,
+> capinha transparente com adesivo de cachorro — trocar se quiser igual). Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: em casa, de dia, na frente de um espelho; fundo de parede branca lisa, quase sem nada; luz
+> natural clara e suave de dia vindo de frente/de cima, uniforme, sem sombras duras; cores claras e
+> limpas: branco, creme, rosado da pele e castanho do cabelo; aparência luminosa e suave.
+>
+> ROUPA: suéter de tricô grosso creme/off-white, de trama aberta e textura rústica, mangas compridas e
+> largas cobrindo parte da mão.
+>
+> DETALHES DA PESSOA: cabelo comprido liso, loiro com ombré, repartido no meio, caindo pela frente dos
+> dois ombros e cobrindo as laterais do rosto; piscando um olho de forma brincalhona, o outro olho aberto
+> olhando pra tela, sorriso fechado de canto; blush rosado forte nas bochechas e no nariz, cílios
+> definidos, gloss rosado brilhante; pele com textura natural e saudável — poros e uma sardinha ou outra,
+> leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem anéis, sem brincos, sem piercing,
+> sem tatuagem.
+>
+> POSE: mirror selfie vertical bem de perto; cabeça inclinada, bochecha apoiada na mão, com a manga do
+> suéter cobrindo o pulso; a outra mão segura o celular (iPhone 15 Pro Max titânio preto, capinha preta)
+> no canto superior direito do quadro, cortado pela borda, com os dedos aparecendo; o rosto fica no terço
+> de cima, à esquerda do centro, e o suéter e o cabelo preenchem toda a parte de baixo; câmera na altura
+> do rosto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
+> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional,
+> sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco
+> exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de
+> IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: at home, during the day, in front of a mirror; a plain white wall background, almost empty;
+> clear, soft daylight from the front/above, even, no hard shadows; light, clean colors: white, cream, the
+> rosy tone of the skin and the brown of the hair; bright, soft look.
+>
+> OUTFIT: a chunky cream/off-white knit sweater with an open, rustic weave, long wide sleeves partly
+> covering the hand.
+>
+> PERSON DETAILS: long straight hair, blonde with ombré, center part, falling over the front of both
+> shoulders and framing the sides of the face; playfully winking one eye, the other eye open looking at
+> the screen, closed half smile; strong rosy blush on the cheeks and nose, defined lashes, glossy pink
+> gloss; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no rings, no earrings, no piercings, no tattoos.
+>
+> POSE: very close vertical mirror selfie; head tilted, cheek resting on the hand, with the sweater sleeve
+> covering the wrist; the other hand holds the phone (black titanium iPhone 15 Pro Max, plain black case)
+> in the upper-right corner of the frame, cut off by the edge, with the fingers showing; the face sits in
+> the top third, left of center, and the sweater and hair fill the whole bottom; camera at face height;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
