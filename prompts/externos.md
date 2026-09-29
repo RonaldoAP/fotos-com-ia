@@ -3975,3 +3975,61 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
 > shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
 > realistic photo, no retouching, no AI look.
+
+---
+
+## EXT89 — Mirror selfie na academia em pé, sem flash (ambiente por referência) — modo réplica
+
+> **Pedido do dono:** mesma foto com **outra roupa** e **sem flash**; o **ambiente vem da imagem
+> anexada** (`[AQUI]`). Roupa escolhida: conjunto cinza-mescla (trocar a linha ROUPA se quiser outra).
+> Anexar: referência(s) da Vic + foto da academia. Pose, enquadramento e celular idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: [AQUI — usar a imagem de referência da academia]; sem flash — só a luz quente e amarelada
+> das lâmpadas do teto da academia, suave, com sombras leves e tom dourado na pele.
+>
+> ROUPA: conjunto de academia cinza-mescla — top esportivo de alça fina com costas nadador e short
+> ciclista de cintura alta, tecido grosso e opaco.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré solto, repartido de lado, meio bagunçado e levemente úmido
+> de suor, com mechas caindo na frente do rosto e sobre um ombro; olhando pra baixo, pra tela do
+> celular, expressão cansada e tranquila de pós-treino, boca fechada; pele com textura natural e
+> saudável — poros e sardinhas nos ombros e no colo, leve vermelhidão, brilho leve de suor; sem acne, sem
+> excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo reto e relaxado; uma mão segurando o celular (iPhone 15 Pro
+> Max titânio preto, capinha preta) na frente do rosto, cobrindo um olho e parte da bochecha, sem flash
+> ligado; o outro braço solto ao lado do corpo, mão relaxada; mirror selfie vertical, câmera na altura do
+> rosto; ela fica no centro do quadro, do topo da cabeça até o meio das coxas, cortada pela borda de
+> baixo; o fundo da academia preenche os lados e o terço de cima; foto interna com leve grão; cara de foto
+> de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em
+> foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR
+> automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve
+> compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: [HERE — use the attached gym reference image]; no flash — only the warm yellowish light of
+> the gym's ceiling lamps, soft, with light shadows and a golden tone on the skin.
+>
+> OUTFIT: a heather-grey gym set — a thin-strap racerback sports bra and high-waisted bike shorts, thick
+> opaque fabric.
+>
+> PERSON DETAILS: blonde ombré hair down, side-parted, a bit messy and slightly damp with sweat, with
+> strands falling in front of the face and over one shoulder; looking down at the phone screen, tired,
+> calm post-workout expression, closed mouth; natural, healthy skin texture — pores and freckles on the
+> shoulders and chest, soft redness, a light sweat sheen; no acne, no over-imperfection; no jewelry, no
+> piercings, no tattoos.
+>
+> POSE: standing facing the mirror, body straight and relaxed; one hand holding the phone (black titanium
+> iPhone 15 Pro Max, plain black case) in front of the face, covering one eye and part of the cheek, flash
+> off; the other arm hanging loose at her side, hand relaxed; vertical mirror selfie, camera at face
+> height; she stands in the center of the frame, from the top of the head to mid-thigh, cut by the bottom
+> edge; the gym background fills the sides and the top third; indoor photo with slight grain;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
