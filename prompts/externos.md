@@ -3018,8 +3018,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT74 — Mirror selfie de perfil ajoelhada na cama, espelho ondulado (modo réplica)
 
 > **Exceções aplicadas:** cabelo/rosto da Vic; a referência era de fio-dental com pose de perfil
-> empinada focada no bumbum → **tronco reto (sem empinar)**, **legging preta** e regata cobrindo até a
-> cintura. Celular: iPhone padrão (no print é capinha vermelha com pop socket). Espelho, quarto, luz,
+> empinada focada no bumbum → **tronco reto (sem empinar)** e **calcinha de biquíni azul-marinho de
+> corte tradicional** (nem fio-dental nem calçola), com a mesma regata cropped do print. Celular: iPhone padrão (no print é capinha vermelha com pop socket). Espelho, quarto, luz,
 > composição e posição no quadro idênticos ao print. Mesmo quarto do EXT73.
 
 **PT**
@@ -3036,8 +3036,9 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > muito escura e melancólica, contraste baixo, cores dessaturadas em cinza-marrom, preto, branco sujo e
 > madeira.
 >
-> ROUPA: regata branca canelada justa de alça fina, cobrindo até a cintura, e uma legging preta fosca de
-> cintura alta.
+> ROUPA: regata branca canelada justa de alça fina, cropped, terminando logo acima do umbigo, e uma
+> calcinha de biquíni azul-marinho de corte tradicional, com lateral fininha e cobertura normal atrás
+> (nem fio-dental, nem calçola).
 >
 > DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pelas costas; rosto de perfil
 > quase todo escondido atrás do celular; pele com textura natural e saudável — poros e uma sardinha ou
@@ -3069,8 +3070,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > leaving the room in deep shadow with only her and the bed slightly lit; very dark, moody photo, low
 > contrast, desaturated colors in grey-brown, black, off-white and wood.
 >
-> OUTFIT: a fitted white ribbed thin-strap tank top covering down to the waist, and matte black
-> high-waisted leggings.
+> OUTFIT: a fitted white ribbed thin-strap cropped tank top ending just above the navel, and navy-blue
+> classic-cut bikini bottoms with thin sides and normal back coverage (not a thong, not full briefs).
 >
 > PERSON DETAILS: long straight hair down, blonde with ombré, falling down the back; face in profile
 > almost fully hidden behind the phone; natural, healthy skin texture — pores and a few faint freckles,
