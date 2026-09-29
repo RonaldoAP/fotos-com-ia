@@ -2678,3 +2678,93 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > lowering the brim to peek over it, face visible; hands with five fingers and correct anatomy; full-body
 > photo taken by someone else, normal slightly tilted framing, harsh sunlight; realistic photo, no
 > retouching, no AI look.
+
+---
+
+## EXT69 — Jantar no restaurante japonês (slip dress marrom)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: sentada à mesa de um restaurante japonês à noite; na mesa de pedra escura, uma bandeja preta
+> de ardósia com um potinho de shoyu, hashis de madeira e um bule preto de cerâmica; atrás dela, um sofá
+> estofado azul, um espelho grande de moldura dourada refletindo o salão, uma samambaia pendurada e uma
+> pessoa de costas desfocada; luz interna quente e amarelada.
+>
+> ROUPA: um slip dress marrom-chocolate de alcinha fina, com decote discreto; um casaquinho de pelúcia
+> branco apoiado no encosto da cadeira.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, repartido no meio e caindo pelos
+> ombros; expressão tranquila com um sorriso de canto, olhando pra câmera; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada de frente pra câmera com os braços relaxados ao lado do corpo e a mesa em primeiro plano;
+> foto tirada por quem está do outro lado da mesa, enquadramento normal da cintura pra cima, meio torto,
+> grão suave de celular em ambiente interno; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: seated at a table in a Japanese restaurant at night; on the dark stone table, a black slate
+> tray with a small soy-sauce dish, wooden chopsticks and a black ceramic teapot; behind her, a blue
+> upholstered booth, a large gold-framed mirror reflecting the room, a hanging fern and a blurred person
+> seen from behind; warm, yellowish indoor light.
+>
+> OUTFIT: a chocolate-brown slip dress with thin straps and a modest neckline; a white fleece jacket draped
+> over the back of the chair.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, center part, falling over the shoulders;
+> calm expression with a half smile, looking at the camera; natural, healthy skin texture — pores and a
+> few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: seated facing the camera with arms relaxed at her sides and the table in the foreground; photo
+> taken by the person across the table, normal waist-up framing, slightly tilted, soft indoor phone grain;
+> realistic photo, no retouching, no AI look.
+
+---
+
+## EXT70 — Estande de tiro esportivo (camiseta + abafador)
+
+> Atividade de tiro esportivo em estande legal. Se o gerador bloquear por causa da arma, trocar a POSE
+> por "segurando o abafador e olhando pro alvo, com a pistola descansando no balcão".
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de um estande de tiro esportivo coberto; baia com paredes cinza-escuro, teto com dutos
+> metálicos aparentes e luminárias fluorescentes, a pista de concreto com faixas azuis no chão e um alvo
+> de papel de silhueta pendurado lá no fundo; no balcão da baia, caixas de munição organizadas; luz fria
+> fluorescente de cima.
+>
+> ROUPA: uma camiseta preta justa de manga curta com cobertura normal e uma calça legging preta fosca;
+> abafador de ouvido preto (sem marca) e óculos de proteção transparentes.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado solto, loiro com ombré, caindo pelas costas; expressão
+> concentrada, olhando pro alvo; pele com textura natural e saudável — poros e uma sardinha ou outra, leve
+> vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé na baia, vista de 3/4 de costas com o perfil do rosto aparecendo, braços estendidos
+> segurando uma pistola com as duas mãos apontada pro alvo, postura firme de tiro esportivo; mãos com
+> cinco dedos e anatomia correta; foto tirada por alguém atrás dela, enquadramento normal da cintura pra
+> cima, meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside an indoor sport-shooting range; a lane booth with dark-grey walls, a ceiling with exposed
+> metal ducts and fluorescent lights, the concrete lane with blue floor stripes and a paper silhouette
+> target hanging far down; on the booth counter, neatly stacked ammo boxes; cold fluorescent overhead
+> light.
+>
+> OUTFIT: a fitted black short-sleeve t-shirt with normal coverage and matte black leggings; black ear
+> protection muffs (no branding) and clear safety glasses.
+>
+> PERSON DETAILS: long wavy hair down, blonde with ombré, falling down the back; focused expression,
+> looking at the target; natural, healthy skin texture — pores and a few faint freckles, soft redness; no
+> acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing in the booth, seen from a 3/4 back view with her face in profile, arms extended holding a
+> pistol with both hands aimed at the target, a steady sport-shooting stance; hands with five fingers and
+> correct anatomy; photo taken by someone behind her, normal waist-up framing, slightly tilted, soft phone
+> grain; realistic photo, no retouching, no AI look.
