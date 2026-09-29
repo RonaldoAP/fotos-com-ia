@@ -2877,3 +2877,55 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
 > shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
 > realistic photo, no retouching, no AI look.
+
+---
+
+## EXT73 — Mirror selfie sentada na cama, quarto escuro (regata + short de moletom)
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: no quarto de casa com pouca luz, refletido num espelho de parede com borda orgânica/ondulada;
+> cama com colcha branca matelassê e um gato siamês deitado num canto dela, piso de madeira, teto claro com
+> um trilho preto de spots apagados, paredes claras e um corredor escuro ao fundo levando pra outro
+> cômodo; luz natural fraca e lateral, clima escuro e aconchegante.
+>
+> ROUPA: uma regata branca canelada de alça larga com decote normal e um short de moletom cinza-mescla
+> confortável.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pelas costas; expressão
+> tranquila, boca levemente em biquinho, olhando pro celular no espelho; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada na beira da cama de frente pro espelho, pernas juntas e relaxadas, segurando o celular
+> (iPhone 15 Pro Max titânio preto, capinha preta) um pouco de lado na altura do rosto, deixando o rosto
+> visível, a outra mão apoiada no colo; mirror selfie com enquadramento normal, a borda ondulada do espelho
+> aparecendo à esquerda, meio torto, marca de dedo no espelho, grão de pouca luz; cara de foto de câmera
+> de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no
+> máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular
+> com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de
+> branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a dimly lit home bedroom, reflected in a wall mirror with an organic, wavy edge; a bed with
+> a white quilted cover and a Siamese cat lying in one corner of it, a wooden floor, a light ceiling with
+> a black track of switched-off spotlights, light walls and a dark hallway in the background leading to
+> another room; weak natural side light, dark and cozy mood.
+>
+> OUTFIT: a white ribbed wide-strap tank top with a normal neckline and comfy heather-grey sweat shorts.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, falling down the back; calm expression, lips
+> slightly pouted, looking at the phone in the mirror; natural, healthy skin texture — pores and a few
+> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting on the edge of the bed facing the mirror, legs together and relaxed, holding the phone
+> (black titanium iPhone 15 Pro Max, plain black case) slightly to the side at face height so the face
+> stays visible, the other hand resting on her lap; mirror selfie with normal framing, the wavy mirror
+> edge showing on the left, slightly tilted, a fingerprint smudge on the mirror, low-light grain;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
