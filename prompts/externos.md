@@ -4177,3 +4177,79 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > slightly larger; old-iPhone front-camera quality in low light: visible noise, noise-reduction smoothing
 > smearing fine skin and hair detail, crushed shadows, mild JPEG compression, white balance leaning
 > magenta; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT92 — Espreguiçadeira na piscina de resort tropical, olhando por cima do ombro (tricô azul-bebê) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem pulseiras e brincos; a calça de tricô era de cintura
+> bem baixa com pose empinada → **mesma calça na cintura normal** e **tronco reto**. Pose, luz,
+> coloração e cenário idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: resort de selva tropical (estilo Tulum) numa manhã de sol; uma piscina sinuosa de água
+> turquesa bem clara e brilhante atravessando da esquerda pro fundo, com uma pontezinha em arco de pedra
+> branca por cima, bordas de pedra calcária clara e reflexos das árvores na água; à esquerda, palmeiras e
+> folhagens verdes bem vivas e uma estrutura branca arredondada tipo concha/cúpula; ao fundo, uma
+> estrutura alta de madeira em formato de A (palapa) e árvores altas de mata; um ombrelone cinza-claro
+> aberto em cima dela ocupando o alto do quadro, com a haste preta; ela está numa espreguiçadeira larga
+> com almofada cinza-bege; à direita, uma mesinha lateral redonda de pedra branca; céu azul-claro no canto
+> superior esquerdo; luz de sol forte filtrada, com partes na sombra do ombrelone e sol batendo no ombro e
+> no rosto; coloração vibrante e limpa: turquesa saturado, verdes vivos, bege e cinza claros, pele com
+> tom dourado quente e brilho, contraste médio, aparência nítida e luminosa.
+>
+> ROUPA: conjunto de tricô azul-bebê — top faixa (tomara-que-caia) de tricô com amarração em laço nas
+> costas e calça pantalona de tricô na cintura normal, com um laço atrás.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, liso com leve onda, loiro com ombré, caindo pelas costas até
+> a cintura; maquiagem com blush rosado, iluminador forte nas maçãs e no nariz, batom coral-rosado com
+> gloss; olhando por cima do ombro direto pra câmera, expressão tranquila e confiante, boca fechada; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão do sol, brilho dourado
+> nos ombros; sem acne, sem excesso de imperfeição; sem joias, sem pulseiras, sem brincos, sem piercing,
+> sem tatuagem.
+>
+> POSE: sentada na espreguiçadeira de costas pra câmera, corpo em 3/4, tronco reto, virando a cabeça e o
+> ombro pra olhar por cima do ombro; um braço levantado e dobrado com a mão no topo da cabeça, enfiada no
+> cabelo; o outro braço esticado pra trás com a mão apoiada na almofada, à direita; pernas pra frente, em
+> direção à piscina; foto vertical tirada por outra pessoa de pé atrás dela, um pouco de cima; ela ocupa a
+> metade de baixo do quadro, do centro pra direita, e o ombrelone e a piscina ocupam o resto; cara de foto
+> de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco
+> (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático
+> de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e
+> balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: a tropical jungle resort (Tulum style) on a sunny morning; a winding pool of very clear, bright
+> turquoise water running from the left into the background, with a small white stone arched bridge over
+> it, light limestone edges and tree reflections on the water; on the left, very vivid green palms and
+> foliage and a rounded white shell/dome structure; in the background, a tall wooden A-frame (palapa)
+> structure and tall jungle trees; an open light-grey patio umbrella above her filling the top of the
+> frame, with a black pole; she is on a wide sun bed with a grey-beige cushion; on the right, a round white
+> stone side table; pale blue sky in the upper-left corner; strong filtered sunlight, with parts in the
+> umbrella's shade and sun hitting her shoulder and face; vibrant, clean color grading: saturated
+> turquoise, vivid greens, light beige and grey, warm golden glowing skin, medium contrast, crisp and
+> luminous look.
+>
+> OUTFIT: a baby-blue knit set — a knit bandeau (strapless) top tied with a bow at the back and knit
+> wide-leg pants at a normal waist, with a bow at the back.
+>
+> PERSON DETAILS: very long hair, straight with a slight wave, blonde with ombré, falling down the back to
+> the waist; makeup with rosy blush, strong highlighter on the cheekbones and nose, glossy coral-pink
+> lipstick; looking back over the shoulder straight at the camera, calm, confident expression, closed
+> mouth; natural, healthy skin texture — pores and a few faint freckles, soft sun redness, golden sheen on
+> the shoulders; no acne, no over-imperfection; no jewelry, no bracelets, no earrings, no piercings, no
+> tattoos.
+>
+> POSE: sitting on the sun bed with her back to the camera, body in 3/4, torso upright, turning her head
+> and shoulder to look back over the shoulder; one arm raised and bent with the hand on top of the head,
+> in the hair; the other arm stretched back with the hand resting on the cushion, to the right; legs
+> forward, toward the pool; vertical photo taken by someone standing behind her, slightly from above; she
+> fills the bottom half of the frame, from the center to the right, and the umbrella and pool fill the
+> rest; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in
+> focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone
+> HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and
+> auto white balance; realistic photo, no retouching, no AI look.
