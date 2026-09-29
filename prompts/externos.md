@@ -3157,3 +3157,77 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
 > with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
 > white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT76 — Terraço com piscina de borda infinita e vista pro Rio (vestido de crochê creme) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem colar, pulseira e brincos; o vestido de crochê
+> original era vazado/transparente, com decote profundo e recorte mostrando o seio → **mesmo vestido de
+> crochê creme frente-única com argola e recortes na cintura, forrado por baixo com forro nude opaco** e
+> busto com cobertura normal. Composição, luz, vista e pose idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: terraço de cobertura no Rio de Janeiro no fim da tarde; ela está sentada no deck branco na
+> borda de uma piscina de borda infinita com água azul, com um guarda-corpo de vidro atrás; ao fundo, a
+> praia de Copacabana: árvores verdes logo abaixo do terraço, o mar azul-profundo com dois ou três
+> praticantes de stand-up paddle pequeninos, a faixa de areia e a fileira de prédios brancos da orla, o
+> morro verde (Leme) no canto superior direito e outra montanha no canto superior esquerdo, céu
+> azul-claro com poucas nuvens; luz suave e fria do fim de tarde (hora azul chegando), com um leve flash
+> de preenchimento de frente deixando a pele iluminada e com brilho; paleta dominada por azuis e creme.
+>
+> ROUPA: vestido longo de crochê creme/areia, frente-única de alça no pescoço, com uma argola prateada no
+> centro do busto e recortes laterais na cintura; o crochê é forrado por baixo com forro nude opaco (não
+> transparente) e o busto tem cobertura normal.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, liso com leve onda nas pontas, solto, loiro com ombré,
+> jogado todo pra um lado (esquerda do quadro) caindo pela frente do ombro até a cintura; sobrancelhas
+> marcadas, cílios definidos, pele bronzeada com brilho, boca carnuda com gloss vermelho-cereja;
+> expressão séria e confiante, boca fechada, olhando direto pra câmera; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem pulseira, sem piercing, sem tatuagem.
+>
+> POSE: sentada de lado no deck, recostada pra trás pro lado esquerdo do quadro, apoiada no braço
+> esticado com a mão espalmada no piso branco no canto inferior esquerdo; tronco virado de frente pra
+> câmera e quadril e pernas indo pro canto inferior direito, em diagonal; foto vertical bem fechada
+> tirada por outra pessoa de pé, levemente de cima e de perto; o topo da cabeça quase encosta na borda de
+> cima, o rosto fica no alto à esquerda do centro e o corpo preenche o quadro até as coxas, cortado pela
+> borda de baixo; a vista e a piscina aparecem pelos lados; cara de foto de câmera de celular — lente
+> grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente
+> suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras
+> levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco
+> automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a rooftop terrace in Rio de Janeiro in the late afternoon; she sits on the white deck at the
+> edge of an infinity pool with blue water, with a glass railing behind; in the background, Copacabana
+> beach: green trees just below the terrace, the deep-blue sea with two or three tiny stand-up paddlers,
+> the strip of sand and the row of white beachfront buildings, the green hill (Leme) in the upper-right
+> corner and another mountain in the upper-left corner, a pale blue sky with few clouds; soft, cool
+> late-afternoon light (blue hour approaching), with a light frontal fill flash leaving the skin lit and
+> glowing; palette dominated by blues and cream.
+>
+> OUTFIT: a long cream/sand crochet halter maxi dress with a silver ring at the center of the bust and
+> side cutouts at the waist; the crochet is lined underneath with an opaque nude lining (not see-through)
+> and the bust has normal coverage.
+>
+> PERSON DETAILS: very long hair, straight with a slight wave at the ends, worn down, blonde with ombré,
+> swept entirely to one side (left of the frame) falling over the front of the shoulder to the waist;
+> defined brows, defined lashes, glowing bronzed skin, full lips with cherry-red gloss; serious, confident
+> expression, closed mouth, looking straight at the camera; natural, healthy skin texture — pores and a
+> few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no bracelet, no piercings,
+> no tattoos.
+>
+> POSE: sitting sideways on the deck, leaning back toward the left of the frame, propped on her
+> straightened arm with the palm flat on the white floor in the lower-left corner; torso turned toward the
+> camera, hips and legs going diagonally to the lower-right corner; very tight vertical photo taken by
+> someone standing, slightly from above and close; the top of the head almost touches the top edge, the
+> face sits high, left of center, and the body fills the frame down to the thighs, cut by the bottom edge;
+> the view and the pool show at the sides; smartphone-camera look — phone wide-angle lens with slight edge
+> distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
+> blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
+> processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
