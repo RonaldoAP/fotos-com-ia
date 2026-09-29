@@ -3440,3 +3440,63 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
 > blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
 > processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT80 — Selfie torta de rosto com casaquinho de tweed creme — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; botões sem logo. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de casa, num closet/corredor claro; atrás dela, o teto branco com quinas e rebaixos
+> formando linhas diagonais no alto do quadro, armários brancos à direita e uma parede cinza-lilás bem
+> clara no canto inferior direito; luz interna suave e uniforme vinda de cima e da frente, sem sombras
+> duras, tom neutro levemente quente; cores claras: branco, creme, caramelo e lilás acinzentado.
+>
+> ROUPA: casaquinho curto de tweed creme/off-white com fios brilhantes, bordas desfiadas em franja e
+> botões dourados grandes e trabalhados (sem logo), fechado.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, liso e volumoso, loiro com ombré, repartido de lado,
+> jogado pra um lado e espalhado atravessando o quadro da esquerda até embaixo, com fios soltos e
+> arrepiados; maquiagem de pele iluminada, blush rosado nas bochechas, delineado marrom esfumado e
+> cílios definidos, sobrancelhas penteadas, boca carnuda com gloss nude-rosado bem brilhante; expressão
+> séria, boca fechada em biquinho leve, olhando direto pra câmera; pele com textura natural e saudável —
+> poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem
+> piercing, sem tatuagem.
+>
+> POSE: selfie vertical com a câmera frontal de braço esticado, levemente de cima, com o celular bem
+> inclinado (quadro torto na diagonal, uns 25–30°); a cabeça inclinada acompanhando; o rosto fica no
+> alto à direita do centro, bem perto, e o cabelo e o casaco preenchem toda a metade esquerda e a parte
+> de baixo; corte do topo da cabeça até o peito; cara de foto de câmera de celular — lente grande-angular
+> de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem
+> desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente
+> levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: indoors, in a bright closet/hallway; behind her, a white ceiling with corners and soffits
+> forming diagonal lines at the top of the frame, white cabinets on the right and a very light
+> greyish-lilac wall in the lower-right corner; soft, even indoor light from above and in front, no hard
+> shadows, neutral slightly warm tone; light colors: white, cream, caramel and greyish lilac.
+>
+> OUTFIT: a short cream/off-white tweed jacket with sparkly threads, frayed fringed edges and large ornate
+> gold buttons (no logo), buttoned up.
+>
+> PERSON DETAILS: very long, straight, voluminous hair, blonde with ombré, side-parted, swept to one side
+> and spread across the frame from the left down to the bottom, with loose flyaway strands; glowing skin
+> makeup, rosy blush on the cheeks, smoky brown liner and defined lashes, brushed-up brows, full lips with
+> very glossy rosy-nude gloss; serious expression, closed mouth in a slight pout, looking straight at the
+> camera; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: vertical arm's-length front-camera selfie, slightly from above, with the phone strongly tilted
+> (frame rotated diagonally, about 25–30°); head tilted along with it; the face sits high, right of
+> center, very close, and the hair and jacket fill the whole left half and the bottom; crop from the top
+> of the head to the chest; smartphone-camera look — phone wide-angle lens with slight edge distortion,
+> almost everything in focus (background at most slightly soft, no strong professional-camera blur, no
+> bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing,
+> mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
