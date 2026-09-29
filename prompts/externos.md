@@ -3632,3 +3632,218 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh),
 > automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
 > compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT83 — Selfie com flash no banco do carro, mão na testa (moletom preto) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem colar com pingentes; decote V do top normal. Resto
+> idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de um carro à noite, no banco do passageiro; no alto, o para-sol bege abaixado no
+> canto superior esquerdo, o forro cinza-claro com a alça de segurar e o teto solar escuro no canto
+> superior direito; à esquerda, a porta com friso cromado e fita de luz ambiente, a janela preta da
+> noite e um reflexo forte e estourado do flash no vidro; atrás dela, o encosto de banco de tecido preto;
+> flash direto do celular, luz dura e clara no rosto e na mão, com um halo branco estourado à esquerda e o
+> resto escuro; cores: preto, bege, pele rosada.
+>
+> ROUPA: top preto de decote V normal e um moletom preto de zíper, aberto e caindo do ombro; calça escura.
+>
+> DETALHES DA PESSOA: cabelo comprido ondulado nas pontas, loiro com ombré, com uma trancinha fina de um
+> lado emoldurando o rosto e o resto solto caindo pelo ombro; olhos fechados, cabeça levemente inclinada,
+> boca fechada em biquinho, bochechas e nariz corados; unhas longas amendoadas com decoração branca e
+> cromada; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, brilho do flash; sem acne, sem excesso de imperfeição; sem joias, sem colar, sem
+> piercing, sem tatuagem.
+>
+> POSE: recostada no banco, corpo meio de lado; uma mão apoiada na testa com os dedos abertos em cima da
+> franja, cobrindo as sobrancelhas; o outro braço esticado em direção à câmera segurando o celular, com o
+> antebraço aparecendo grande, estourado e desfocado na parte de baixo do quadro; selfie vertical com a
+> câmera frontal de baixo e da direita; ela fica no centro-direita, cabeça pouco acima do meio, cortada
+> nas coxas; foto de flash de celular com grão e cantos escuros; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside a car at night, in the passenger seat; at the top, the beige sun visor folded down in the
+> upper-left corner, the light-grey headliner with a grab handle and the dark sunroof in the upper-right
+> corner; on the left, the door with chrome trim and an ambient light strip, the black night window and a
+> strong blown-out flash reflection on the glass; behind her, a black fabric seatback; direct phone flash,
+> hard bright light on the face and hand, with a blown white halo on the left and the rest dark; colors:
+> black, beige, rosy skin.
+>
+> OUTFIT: a black top with a normal V neckline and a black zip-up hoodie, open and slipping off the
+> shoulder; dark pants.
+>
+> PERSON DETAILS: long hair wavy at the ends, blonde with ombré, with a thin little braid on one side
+> framing the face and the rest loose over the shoulder; eyes closed, head slightly tilted, closed mouth in
+> a pout, flushed cheeks and nose; long almond nails with white and chrome nail art; natural, healthy skin texture — pores and a few faint freckles, soft redness, flash
+> sheen; no acne, no over-imperfection; no jewelry, no necklace, no piercings, no tattoos.
+>
+> POSE: reclining in the seat, body half turned; one hand resting on the forehead with fingers spread over
+> the fringe, covering the brows; the other arm stretched toward the camera holding the phone, the forearm
+> appearing large, blown out and blurred at the bottom of the frame; vertical front-camera selfie from
+> below and from the right; she sits center-right, head a bit above the middle, cut at the thighs;
+> phone-flash photo with grain and dark corners; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT84 — Selfie quadrada no carro, rosto no encosto do banco com celular rosa — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; o jeans do print estava caído mostrando a calcinha →
+> **jeans branco na cintura normal, sem roupa íntima aparecendo**, e top preto com cobertura normal.
+> Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro de um carro escuro à noite; ela está no banco de trás, debruçada entre os bancos da
+> frente; o encosto de cabeça preto de couro do banco da frente à direita, com a porta e a maçaneta
+> escura atrás; teto escuro com uma luz de cortesia pequena acesa no alto à esquerda; quase tudo em
+> penumbra; flash direto do celular de perto, luz dura e chapada na pele e no cabelo, com o braço em
+> primeiro plano estourado de branco; cores: preto, loiro dourado, pele clara rosada e o vermelho da boca.
+>
+> ROUPA: top preto tomara-que-caia com cobertura normal e uma calça jeans branca/clara, lavada, na altura
+> normal da cintura.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, liso com ondas suaves, loiro com ombré, caindo pelas costas e
+> pelo ombro; maquiagem de boneca: cílios postiços volumosos, blush rosa forte nas bochechas e no nariz,
+> boca carnuda com batom vermelho brilhante em biquinho; olhos baixos, quase fechados, cabeça inclinada e
+> encostada no encosto; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, brilho do flash; sem acne, sem excesso de imperfeição; sem joias, sem
+> piercing, sem tatuagem.
+>
+> POSE: debruçada de lado, com a bochecha apoiada no encosto de cabeça do banco da frente; uma mão perto
+> do rosto segurando encostado na bochecha um celular com capinha rosa-chiclete; o outro braço esticado
+> pra câmera, atravessando o quadro de baixo pro meio, estourado pelo flash; selfie com câmera frontal,
+> formato quadrado 1:1, câmera baixa e bem perto; ela ocupa o centro e a direita do quadro, rosto no
+> terço de cima à direita; foto de flash de celular com grão e fundo escuro; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside a dark car at night; she is in the back seat, leaning forward between the front seats;
+> the black leather headrest of the front seat on the right, with the door and dark handle behind; dark
+> ceiling with a small courtesy light on at the upper left; almost everything in shadow; direct phone flash
+> up close, hard flat light on the skin and hair, with the foreground arm blown out white; colors: black,
+> golden blonde, fair rosy skin and the red of the lips.
+>
+> OUTFIT: a black strapless top with normal coverage and light/white washed jeans at a normal waist
+> height.
+>
+> PERSON DETAILS: very long hair, straight with soft waves, blonde with ombré, falling down the back and
+> over the shoulder; doll-like makeup: voluminous false lashes, strong pink blush on the cheeks and nose,
+> full lips with glossy red lipstick in a pout; eyes lowered, almost closed, head tilted and resting on the
+> headrest; natural, healthy skin texture — pores and a few faint freckles, soft redness, flash sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: leaning sideways, cheek resting on the front-seat headrest; one hand near the face holding a phone
+> with a bubblegum-pink case against the cheek; the other arm stretched toward the camera, crossing the
+> frame from the bottom to the middle, blown out by the flash; front-camera selfie, square 1:1 format,
+> camera low and very close; she fills the center and right of the frame, face in the upper-right third;
+> phone-flash photo with grain and a dark background; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT85 — Em pé na frente de um SUV rosa à noite (conjunto preto de brilho) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; o cropped mostrava o seio por baixo e a pose era
+> empinada de costas → **cropped com cobertura normal** e **pose de 3/4 com tronco reto**, olhando por
+> cima do ombro; carro sem marca/logo. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: rua de condomínio/bairro residencial à noite; atrás dela, um SUV quadrado de luxo estilo
+> jipe, pintado de rosa-chiclete fosco, com vidros pretos, frisos pretos, retrovisor rosa e roda grande
+> cromada, sem marca/logo visível, estacionado no meio-fio; ao fundo à esquerda, prédios/casas bege com
+> janelas acesas, outro carro escuro e o céu preto; asfalto cinza e calçada no canto inferior esquerdo;
+> flash direto do celular de frente, luz chapada na pele e no carro, com o fundo escuro; cores: rosa,
+> preto, bege e pele dourada.
+>
+> ROUPA: conjunto preto de malha com pontinhos de brilho (strass) — cropped de manga longa com cobertura
+> normal e saia curta justa.
+>
+> DETALHES DA PESSOA: cabelo muito comprido e liso, loiro com ombré, caindo pelas costas até a cintura;
+> olhando por cima do ombro direto pra câmera, expressão séria e confiante, boca fechada com batom nude;
+> pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé ao lado do carro, corpo de 3/4 de costas pra câmera, tronco reto, cabeça virada olhando por
+> cima do ombro; um braço dobrado na frente do corpo, a outra mão encostada na lateral; foto quadrada 1:1
+> tirada por outra pessoa de pé, na altura do peito; ela fica no centro-direita do quadro, cabeça perto
+> da borda de cima, cortada no meio das coxas; o carro rosa preenche todo o fundo; foto noturna de flash
+> com leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a residential street/gated community at night; behind her, a boxy luxury jeep-style SUV painted
+> matte bubblegum pink, with black windows, black trim, a pink side mirror and a large chrome wheel, no
+> visible brand/logo, parked at the curb; in the background on the left, beige buildings/houses with lit
+> windows, another dark car and the black sky; grey asphalt and sidewalk in the lower-left corner; direct
+> frontal phone flash, flat light on the skin and the car, dark background; colors: pink, black, beige and
+> golden skin.
+>
+> OUTFIT: a black knit set with small sparkly rhinestone dots — a long-sleeve cropped top with normal
+> coverage and a short fitted skirt.
+>
+> PERSON DETAILS: very long straight hair, blonde with ombré, falling down the back to the waist; looking
+> back over the shoulder straight at the camera, serious confident expression, closed mouth with nude
+> lipstick; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing beside the car, body in a 3/4 back view to the camera, torso upright, head turned
+> looking back over the shoulder; one arm bent in front of the body, the other hand touching her side;
+> square 1:1 photo taken by someone standing, at chest height; she stands center-right, head near the top
+> edge, cut at mid-thigh; the pink car fills the whole background; night flash photo with slight grain;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT86 — Sentada no banco do motorista com a porta aberta (vestido listrado cinza) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; alças do vestido sem escrita; sem pulseiras, elástico
+> de cabelo no pulso e tatuagem; volante sem logo. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: carro sedã de luxo azul-marinho metálico à noite, com a porta do motorista aberta; bancos de
+> couro caramelo/conhaque com costuras, console central preto brilhante com câmbio e botões, volante
+> preto sem logo no canto inferior esquerdo; a moldura da porta azul brilhando no canto esquerdo e
+> direito, com os botões de ajuste do banco na porta à direita; flash direto do celular de cima, luz dura
+> e clara na pele, reflexo no couro e na lataria azul, fundo interno escuro; cores: azul-marinho,
+> caramelo, cinza e pele clara.
+>
+> ROUPA: vestido curto justo cinza-claro com listras finas verticais brancas, de alças pretas lisas.
+>
+> DETALHES DA PESSOA: cabelo comprido liso, loiro com ombré, repartido de lado, caindo pela frente de um
+> ombro; olhando pra baixo, cabeça inclinada, expressão tranquila, boca fechada; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne,
+> sem excesso de imperfeição; sem joias, sem pulseiras, sem piercing, sem tatuagem.
+>
+> POSE: sentada no banco do motorista virada pra fora do carro, pernas juntas pra frente e cruzadas na
+> altura dos tornozelos; as duas mãos levantadas mexendo no cabelo atrás das orelhas, cotovelos pra fora;
+> foto vertical tirada por outra pessoa de pé do lado de fora, pela porta aberta, de cima pra baixo; ela
+> ocupa o centro do quadro, da cabeça até as canelas, cortada pela borda de baixo; a porta aberta faz
+> moldura dos dois lados; foto de flash de celular com leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a metallic navy-blue luxury sedan at night, with the driver's door open; caramel/cognac stitched
+> leather seats, a glossy black center console with the gear selector and buttons, a black steering wheel
+> with no logo in the lower-left corner; the shiny blue door frame on the left and right, with the seat
+> adjustment buttons on the door to the right; direct phone flash from above, hard bright light on the
+> skin, reflections on the leather and blue paint, dark interior background; colors: navy blue, caramel,
+> grey and fair skin.
+>
+> OUTFIT: a short fitted light-grey dress with thin vertical white pinstripes and plain black straps.
+>
+> PERSON DETAILS: long straight hair, blonde with ombré, side-parted, falling over the front of one
+> shoulder; looking down, head tilted, calm expression, closed mouth; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
+> over-imperfection; no jewelry, no bracelets, no piercings, no tattoos.
+>
+> POSE: sitting in the driver's seat turned toward the outside of the car, legs together forward and
+> crossed at the ankles; both hands raised tucking the hair behind the ears, elbows out; vertical photo
+> taken by someone standing outside through the open door, from above; she fills the center of the frame
+> from head to shins, cut by the bottom edge; the open door frames both sides; phone-flash photo with
+> slight grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
