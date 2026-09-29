@@ -4108,3 +4108,74 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > whites slightly blown out; 35mm analog point-and-shoot look: visible film grain, warm colors leaning
 > orange and gold, slightly lifted blacks, slight vignette in the corners; realistic photo, no retouching,
 > no AI look.
+
+---
+
+## EXT91 — Selfie deitada na cama com flash frontal de iPhone 11 — modo réplica + efeito Retina Flash
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem anel, pulseira e piercing de nariz; "top de alcinha"
+> escrito pra ombros nus não serem lidos como sem roupa. **Efeito:** preset "selfie de iPhone 11 com flash
+> frontal" (`guia/06`) no lugar do bloco "cara de celular". Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: quarto simples à noite com a luz do teto fraca; parede lisa creme/cinza-esverdeada, uma
+> cortina blackout cinza-clara num varão de metal à esquerda, um monte de roupas e bolsas escuras em cima
+> de um móvel à esquerda, e à direita um espelho de moldura de madeira clara refletindo o quarto escuro;
+> embaixo, uma manta felpuda branca com estampa de florzinhas rosa; cores apagadas e escuras no fundo,
+> pele rosada iluminada na frente.
+>
+> ROUPA: top preto de alcinha fina (as alças quase não aparecem), ombros de fora.
+>
+> DETALHES DA PESSOA: cabelo comprido liso e volumoso, loiro com ombré, repartido de lado, caindo pelos
+> ombros e pelos braços; maquiagem marcada: sobrancelhas grossas desenhadas, delineado gatinho, cílios
+> volumosos, iluminador forte no nariz e nas maçãs, boca carnuda contornada com batom marrom-avermelhado
+> e gloss bem brilhante; um olho meio fechado, cabeça inclinada, sorriso de canto com a ponta da língua
+> encostando nos dentes de cima, expressão provocante e brincalhona; unhas verde-petróleo escuras; pele
+> com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso
+> de imperfeição; sem joias, sem anel, sem pulseira, sem piercing, sem tatuagem.
+>
+> POSE: deitada de bruços na cama, apoiada nos antebraços; uma mão com o polegar embaixo do queixo e os
+> outros dedos dobrados junto do pescoço, segurando o rosto; o braço do celular esticado pra frente, com
+> o ombro e o braço aparecendo grandes em primeiro plano no canto inferior esquerdo; o antebraço
+> atravessando a parte de baixo do quadro sobre a manta; selfie vertical com a câmera frontal na altura do
+> rosto, bem perto; o rosto fica no centro, um pouco acima do meio; selfie da câmera frontal de um iPhone
+> 11 com o flash de tela (a tela acende branca na frente do rosto): luz chapada, suave e bem de frente,
+> com tom levemente rosado/frio, iluminando o rosto e o que está mais perto da câmera e deixando o fundo
+> escuro e apagado; brilhos fortes e molhados na boca, na ponta do nariz, nas maçãs e na testa; reflexo
+> retangular claro da tela nos olhos; lente frontal grande-angular bem perto, deixando mão e nariz um
+> pouco maiores; qualidade de câmera frontal de iPhone antigo em pouca luz: ruído visível, suavização de
+> redução de ruído borrando os detalhes finos da pele e do cabelo, sombras esmagadas, leve compressão
+> JPEG, balanço de branco puxando pro magenta; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a simple bedroom at night with a weak ceiling light; a plain cream/greenish-grey wall, a
+> light-grey blackout curtain on a metal rod on the left, a pile of dark clothes and bags on a piece of
+> furniture on the left, and on the right a light-wood-framed mirror reflecting the dark room; below, a
+> fluffy white blanket with a small pink floral print; muted, dark colors in the background, rosy lit skin
+> in front.
+>
+> OUTFIT: a black thin-strap top (the straps barely show), shoulders bare.
+>
+> PERSON DETAILS: long, straight, voluminous hair, blonde with ombré, side-parted, falling over the
+> shoulders and arms; bold makeup: thick drawn brows, winged liner, voluminous lashes, strong highlighter
+> on the nose and cheekbones, full overlined lips with reddish-brown lipstick and very glossy gloss; one
+> eye half closed, head tilted, half smile with the tip of the tongue touching the upper teeth, teasing,
+> playful expression; dark teal nails; natural, healthy skin texture — pores and a few faint freckles,
+> soft redness; no acne, no over-imperfection; no jewelry, no ring, no bracelet, no piercings, no tattoos.
+>
+> POSE: lying on her stomach on the bed, propped on her forearms; one hand with the thumb under the chin
+> and the other fingers curled by the neck, holding the face; the phone arm stretched forward, with the
+> shoulder and arm appearing large in the foreground in the lower-left corner; the forearm crossing the
+> bottom of the frame over the blanket; vertical front-camera selfie at face height, very close; the face
+> sits in the center, slightly above the middle; iPhone 11 front-camera selfie with the screen flash (the
+> screen lights up white in front of the face): flat, soft, fully frontal light with a slightly
+> pinkish/cool tone, lighting the face and whatever is closest to the camera while the background stays
+> dark and dull; strong wet-looking highlights on the lips, nose tip, cheekbones and forehead; a light
+> rectangular screen reflection in the eyes; wide-angle front lens very close, making the hand and nose
+> slightly larger; old-iPhone front-camera quality in low light: visible noise, noise-reduction smoothing
+> smearing fine skin and hair detail, crushed shadows, mild JPEG compression, white balance leaning
+> magenta; realistic photo, no retouching, no AI look.

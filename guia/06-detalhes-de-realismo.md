@@ -60,6 +60,27 @@ Funciona melhor em cena **noturna com luzes no fundo** (rua, festa, restaurante)
 mexendo** (cabelo virando, mão, pessoas passando). Pra reforçar o rastro, escrever na POSE o
 movimento: "virando a cabeça rápido, cabelo balançando".
 
+### 📱 Preset de efeito: selfie de iPhone 11 com flash frontal (Retina Flash)
+Selfie com a câmera frontal em que a **tela acende branca** como flash. Colar no fim da POSE **no
+lugar** do bloco "cara de celular".
+
+> **PT:** selfie da câmera frontal de um iPhone 11 com o flash de tela (a tela acende branca na frente
+> do rosto): luz chapada, suave e bem de frente, com tom levemente rosado/frio, iluminando o rosto e o
+> que está mais perto da câmera e deixando o fundo escuro e apagado; brilhos fortes e molhados na boca,
+> na ponta do nariz, nas maçãs e na testa; reflexo retangular claro da tela nos olhos; lente frontal
+> grande-angular bem perto, deixando mão e nariz um pouco maiores; qualidade de câmera frontal de iPhone
+> antigo em pouca luz: ruído visível, suavização de redução de ruído borrando os detalhes finos da pele e
+> do cabelo, sombras esmagadas, leve compressão JPEG, balanço de branco puxando pro magenta; foto
+> realista, sem retoque, sem cara de IA.
+>
+> **EN:** iPhone 11 front-camera selfie with the screen flash (the screen lights up white in front of the
+> face): flat, soft, fully frontal light with a slightly pinkish/cool tone, lighting the face and whatever
+> is closest to the camera while the background stays dark and dull; strong wet-looking highlights on the
+> lips, nose tip, cheekbones and forehead; a light rectangular screen reflection in the eyes; wide-angle
+> front lens very close, making the hand and nose slightly larger; old-iPhone front-camera quality in low
+> light: visible noise, noise-reduction smoothing smearing fine skin and hair detail, crushed shadows,
+> mild JPEG compression, white balance leaning magenta; realistic photo, no retouching, no AI look.
+
 ## Enquadramento
 Torto · cortando parte da cabeça/ombro · descentralizado · horizonte inclinado · "espaço
 morto" no quadro.
