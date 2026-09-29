@@ -162,7 +162,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto ao vento; olhando pra câmera tranquila; pele real com textura e sardas; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé na areia segurando uma água de coco gelada, a outra mão na cintura do short, dessas tiradas de qualquer jeito; foto de celular, leve grão, meio torta; sem retoque nem cara de IA.
+> POSE: em pé na areia segurando uma água de coco gelada, a outra mão na cintura do short, dessas tiradas de qualquer jeito; foto de celular, leve grão, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -173,7 +173,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose in the wind; looking at the camera relaxed; real skin with texture and freckles; no jewelry, tattoos or piercings.
 >
-> POSE: standing on the sand holding a cold coconut drink, the other hand on her shorts, snapped casually; phone photo, light grain, slightly crooked; no retouching or AI look.
+> POSE: standing on the sand holding a cold coconut drink, the other hand on her shorts, snapped casually; phone photo, light grain, slightly crooked; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C2 — Copacabana / dia de sol
 
@@ -186,7 +186,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; sorrindo; pele real com poros e brilho de suor; sem joia, tatuagem ou piercing.
 >
-> POSE: sentada numa cadeira de praia vermelha embaixo de um guarda-sol verde, uma mão perto do rosto e a outra segurando uma água de coco; foto de celular, leve grão; sem retoque nem cara de IA.
+> POSE: sentada numa cadeira de praia vermelha embaixo de um guarda-sol verde, uma mão perto do rosto e a outra segurando uma água de coco; foto de celular, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -197,7 +197,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; smiling; real skin with pores and a sweat sheen; no jewelry, tattoos or piercings.
 >
-> POSE: sitting on a red beach chair under a green umbrella, one hand near her face, the other holding a coconut drink; phone photo, light grain; no retouching or AI look.
+> POSE: sitting on a red beach chair under a green umbrella, one hand near her face, the other holding a coconut drink; phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C3 — Aquário / luz azul (close)
 
@@ -210,7 +210,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; olhando pro lado tranquila; pele real com textura e reflexo azulado; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, meio de lado, uma mão no corrimão e a outra no cabelo; foto de celular em pouca luz, com grão; sem retoque nem cara de IA.
+> POSE: em pé, meio de lado, uma mão no corrimão e a outra no cabelo; foto de celular em pouca luz, com grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -221,7 +221,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; looking aside relaxed; real skin with texture and a bluish reflection; no jewelry, tattoos or piercings.
 >
-> POSE: standing, turned to the side, one hand on the railing, the other in her hair; low-light phone photo with grain; no retouching or AI look.
+> POSE: standing, turned to the side, one hand on the railing, the other in her hair; low-light phone photo with grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C4 — Aquário túnel / tubarão (look fitness)
 
@@ -234,7 +234,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; pele real com textura e reflexo azul; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, no meio, de frente, relaxada, os dois braços abertos pra baixo com as mãos num corrimão preto atrás; foto de celular em pouca luz, com grão; sem retoque nem cara de IA.
+> POSE: em pé, no meio, de frente, relaxada, os dois braços abertos pra baixo com as mãos num corrimão preto atrás; foto de celular em pouca luz, com grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -245,7 +245,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; real skin with texture and a blue reflection; no jewelry, tattoos or piercings.
 >
-> POSE: standing centered, facing forward, relaxed, both arms down with hands on a black railing behind; low-light phone photo with grain; no retouching or AI look.
+> POSE: standing centered, facing forward, relaxed, both arms down with hands on a black railing behind; low-light phone photo with grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C5 — Ipanema / pôr do sol (caipirinha)
 
@@ -258,7 +258,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; olhando pro mar; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: de perfil, descalça, tomando uma caipirinha; foto de celular aberta de corpo inteiro, leve grão; sem retoque nem cara de IA.
+> POSE: de perfil, descalça, tomando uma caipirinha; foto de celular aberta de corpo inteiro, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -269,7 +269,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; looking at the sea; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: in profile, barefoot, sipping a caipirinha; wide full-body phone photo, light grain; no retouching or AI look.
+> POSE: in profile, barefoot, sipping a caipirinha; wide full-body phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C6 — Selfie no carro / luz de dia
 
@@ -282,7 +282,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e meio bagunçado; olhando pra câmera com cara tranquila; pele real com poros e textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, cinto colocado, meio recostada; foto de celular mesmo (leve distorção de selfie), enquadramento meio torto, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de braço esticado, cinto colocado, meio recostada; foto de celular mesmo (leve distorção de selfie), enquadramento meio torto, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -293,7 +293,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose and a little messy; looking at the camera relaxed; real skin with pores and texture; no jewelry, tattoos or piercings.
 >
-> POSE: arm-extended selfie, seatbelt on, leaning back a bit; just a phone selfie (slight selfie distortion), slightly crooked, light grain; no retouching or AI look.
+> POSE: arm-extended selfie, seatbelt on, leaning back a bit; just a phone selfie (slight selfie distortion), slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C7 — Estádio à noite (torcida Brasil)
 
@@ -306,7 +306,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; sorrindo animada, olhando pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, uma mão na cintura, dessas que um amigo tira de qualquer jeito; foto de celular à noite, com grão e ruído, meio torta; sem retoque nem cara de IA.
+> POSE: em pé, uma mão na cintura, dessas que um amigo tira de qualquer jeito; foto de celular à noite, com grão e ruído, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -317,7 +317,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; smiling, excited, looking at the camera; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: one hand on her waist, the kind a friend snaps casually; night phone photo with grain and noise, slightly crooked; no retouching or AI look.
+> POSE: one hand on her waist, the kind a friend snaps casually; night phone photo with grain and noise, slightly crooked; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C8 — Quarto / foto na porta (regata Brasil)
 
@@ -330,7 +330,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado; olhando pro lado com um meio sorriso; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, meio de lado, mão perto do bolso do short; foto de celular quase de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: em pé, meio de lado, mão perto do bolso do short; foto de celular quase de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -341,7 +341,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: loose wavy hair; looking aside with a half smile; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing, turned a bit, hand near her shorts pocket; near full-body phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, turned a bit, hand near her shorts pocket; near full-body phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C9 — Mirror selfie no quarto (suéter tricô)
 
@@ -354,7 +354,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, de pé, uma mão no bolso do short, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do peito; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, de pé, uma mão no bolso do short, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do peito; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -365,7 +365,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, standing, one hand in her shorts pocket, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her chest; phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: mirror selfie, standing, one hand in her shorts pocket, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her chest; phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C10 — Academia / mirror selfie (look fitness)
 
@@ -378,7 +378,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, de pé, uma perna à frente, relaxada, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, de pé, uma perna à frente, relaxada, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -389,7 +389,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, standing, one leg forward, relaxed, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; no retouching or AI look.
+> POSE: mirror selfie, standing, one leg forward, relaxed, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C11 — Academia / mirror selfie (romper preto "GROWTH")
 
@@ -402,7 +402,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso num rabo alto; meio sorriso; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, uma mão de leve na coxa, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular quase de corpo inteiro, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, uma mão de leve na coxa, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular quase de corpo inteiro, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -413,7 +413,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in a high ponytail; half smile; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, one hand lightly on her thigh, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; near full-body mirror phone photo, light grain; no retouching or AI look.
+> POSE: mirror selfie, one hand lightly on her thigh, the other holding the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; near full-body mirror phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C12 — Academia / mirror selfie (romper azul, dia)
 
@@ -426,7 +426,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso num rabo alto; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, de pé, uma perna à frente, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, de pé, uma perna à frente, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -437,7 +437,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in a high ponytail; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, standing, one leg forward, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; no retouching or AI look.
+> POSE: mirror selfie, standing, one leg forward, phone (black titanium iPhone 15 Pro Max, plain black case) at face height; full-body mirror phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C13 — Academia / mirror selfie (top + legging)
 
@@ -450,7 +450,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso num rabo; pele real com poros e sardas; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto e a outra mão fazendo sinal de paz perto do rosto; foto de celular quase de corpo inteiro no espelho, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto e a outra mão fazendo sinal de paz perto do rosto; foto de celular quase de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -461,7 +461,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in a ponytail; real skin with pores and freckles; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, phone (black titanium iPhone 15 Pro Max, plain black case) at face height and the other hand doing a peace sign near her face; near full-body mirror phone photo, light grain; no retouching or AI look.
+> POSE: mirror selfie, phone (black titanium iPhone 15 Pro Max, plain black case) at face height and the other hand doing a peace sign near her face; near full-body mirror phone photo, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C14 — Cristo Redentor / pôr do sol
 
@@ -474,7 +474,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto ao vento; sorrindo e olhando pro lado; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: encostada num muro de pedra, meio de lado, uma mão ajeitando o boné; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: encostada num muro de pedra, meio de lado, uma mão ajeitando o boné; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -485,7 +485,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose in the wind; smiling and looking aside; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: leaning on a stone wall, turned a bit, one hand adjusting her cap; phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: leaning on a stone wall, turned a bit, one hand adjusting her cap; phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C15 — Quiosque de praia / Ipanema (dia)
 
@@ -498,7 +498,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto; olhando pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: sentada, relaxada, segurando um drink com rodela de laranja; foto de celular, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: sentada, relaxada, segurando um drink com rodela de laranja; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -509,7 +509,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down; looking at the camera; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: sitting, relaxed, holding a drink with an orange slice; phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: sitting, relaxed, holding a drink with an orange slice; phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C16 — Selfie no barco / mar (close)
 
@@ -522,7 +522,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e molhado do mar, alguns fios no rosto; meio sorriso; pele real com sardas, textura e leve brilho de sol e água; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, rosto perto da câmera, cabeça meio inclinada; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de braço esticado, rosto perto da câmera, cabeça meio inclinada; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -533,7 +533,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and wet from the sea, a few strands on her face; half smile; real skin with freckles, texture and a faint sun-and-water sheen; no jewelry, tattoos or piercings.
 >
-> POSE: arm's-length selfie, face close to the camera, head tilted; phone selfie (slight distortion), head and shoulders, light grain; no retouching or AI look.
+> POSE: arm's-length selfie, face close to the camera, head tilted; phone selfie (slight distortion), head and shoulders, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C17 — Mirante de praia / trilha (biquíni)
 
@@ -546,7 +546,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto ao vento; meio sorriso; pele real com textura e brilho de calor; sem joia, tatuagem ou piercing.
 >
-> POSE: de pé, relaxada, uma mão no cabelo; foto de celular aberta com a paisagem, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: de pé, relaxada, uma mão no cabelo; foto de celular aberta com a paisagem, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -557,7 +557,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose in the wind; half smile; real skin with texture and a heat sheen; no jewelry, tattoos or piercings.
 >
-> POSE: standing, relaxed, one hand in her hair; wide phone photo with the landscape, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, relaxed, one hand in her hair; wide phone photo with the landscape, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C18 — Ipanema / dia (camiseta Brasil + short jeans)
 
@@ -570,7 +570,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto ao vento; olhando pra câmera; pele real com sardas e textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, meio de lado, uma mão no cabelo, dessas tiradas de qualquer jeito; foto de celular aberta, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: em pé, meio de lado, uma mão no cabelo, dessas tiradas de qualquer jeito; foto de celular aberta, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -581,7 +581,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose in the wind; looking at the camera; real skin with freckles and texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing, turned a bit, one hand in her hair, snapped casually; wide phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, turned a bit, one hand in her hair, snapped casually; wide phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C19 — Praia / deitada na canga (close)
 
@@ -594,7 +594,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, molhado e meio bagunçado; um meio sorriso, olhando pra câmera de perto; pele real com sardas, textura e leve brilho de sol e suor; sem joia, tatuagem ou piercing.
 >
-> POSE: deitada de bruços, apoia o rosto na mão; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque nem cara de IA.
+> POSE: deitada de bruços, apoia o rosto na mão; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -605,7 +605,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, wet and a bit messy; half smile, looking at the camera up close; real skin with freckles, texture and a faint sun-and-sweat sheen; no jewelry, tattoos or piercings.
 >
-> POSE: lying on her stomach, resting her face on her hand; phone selfie (slight distortion), head and shoulders, light grain; no retouching or AI look.
+> POSE: lying on her stomach, resting her face on her hand; phone selfie (slight distortion), head and shoulders, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C20 — Casa / foto na parede (camisa CBF)
 
@@ -618,7 +618,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado de um lado; olhando pra câmera séria e tranquila; pele real com poros e sardas; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, meio de lado, uma mão na cintura; foto de celular quase de corpo inteiro, meio torta, leve grão de pouca luz; sem retoque nem cara de IA.
+> POSE: em pé, meio de lado, uma mão na cintura; foto de celular quase de corpo inteiro, meio torta, leve grão de pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -629,7 +629,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: loose wavy hair to one side; looking at the camera calm and serious; real skin with pores and freckles; no jewelry, tattoos or piercings.
 >
-> POSE: standing, turned a bit, one hand on her hip; near full-body phone photo, slightly crooked, low-light grain; no retouching or AI look.
+> POSE: standing, turned a bit, one hand on her hip; near full-body phone photo, slightly crooked, low-light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C21 — Casa / foto de look (conjunto Brasil)
 
@@ -642,7 +642,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado, caindo nos ombros; olhando por cima do ombro pra câmera com uma cara séria e tranquila; pele real com textura e poros; sem joia, tatuagem ou piercing.
 >
-> POSE: tipo aquelas fotos de look, meio de lado, quase de costas, uma das mãos perto do cabelo; foto de celular mesmo, com leve grão e enquadramento meio torto; sem retoque nem cara de IA.
+> POSE: tipo aquelas fotos de look, meio de lado, quase de costas, uma das mãos perto do cabelo; foto de celular mesmo, com leve grão e enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -653,7 +653,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose and wavy, falling on her shoulders; looking back over her shoulder with a calm, serious face; real skin with texture and pores; no jewelry, tattoos or piercings.
 >
-> POSE: the kind of outfit-check pic, turned mostly to the side, almost with her back to the camera, one hand near her hair; just a phone photo, with light grain and slightly crooked framing; no retouching or AI look.
+> POSE: the kind of outfit-check pic, turned mostly to the side, almost with her back to the camera, one hand near her hair; just a phone photo, with light grain and slightly crooked framing; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C22 — Mirante de favela / Rio
 
@@ -666,7 +666,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e meio bagunçado pelo vento; olhando pra câmera com uma cara tranquila; pele real com sardas e textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé segurando o corrimão de metal; foto de celular mesmo, com leve grão e enquadramento meio torto; sem retoque nem cara de IA.
+> POSE: em pé segurando o corrimão de metal; foto de celular mesmo, com leve grão e enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -677,7 +677,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose and a bit messy from the wind; looking at the camera all relaxed; real skin with freckles and texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing holding the metal railing; just a phone photo, with light grain and slightly crooked framing; no retouching or AI look.
+> POSE: standing holding the metal railing; just a phone photo, with light grain and slightly crooked framing; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C23 — Praia Vermelha / bandeira do Brasil
 
@@ -690,7 +690,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e liso; a cabeça meio baixa olhando pra baixo, jeito tranquilo; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados pros lados; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados pros lados; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -701,7 +701,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and straight; head tilted down, relaxed vibe; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing on the sand holding a Brazil flag wide open behind her, both arms out to the sides; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing on the sand holding a Brazil flag wide open behind her, both arms out to the sides; full-body phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C24 — Quarto / selfie à noite (conjunto Brasil)
 
@@ -714,7 +714,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado, bem comprido; olhando pra câmera tranquila; pele real com textura e sardas; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, sentada na beira da cama, uma mão no cabelo; foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio torto; sem retoque nem cara de IA.
+> POSE: selfie de braço esticado, sentada na beira da cama, uma mão no cabelo; foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -725,7 +725,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair loose and wavy, very long; looking at the camera relaxed; real skin with texture and freckles; no jewelry, tattoos or piercings.
 >
-> POSE: arm's-length selfie, sitting on the edge of the bed, one hand in her hair; a slightly dim phone photo because of the lamp light, light grain, slightly crooked framing; no retouching or AI look.
+> POSE: arm's-length selfie, sitting on the edge of the bed, one hand in her hair; a slightly dim phone photo because of the lamp light, light grain, slightly crooked framing; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C25 — Praia / dia (look Brasil + chapéu de palha)
 
@@ -738,7 +738,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso em duas tranças; olhando pra câmera tranquila; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: de pé, uma mão segurando a aba do chapéu; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: de pé, uma mão segurando a aba do chapéu; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -749,7 +749,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in two braids; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing, one hand holding the brim of her hat; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, one hand holding the brim of her hat; full-body phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C26 — Apê de luxo / noite de jogo
 
@@ -762,7 +762,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido e liso; sorrindo pra câmera; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, segurando um copo térmico estampado do Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído; foto de celular de corpo inteiro, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: em pé, segurando um copo térmico estampado do Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -773,7 +773,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, long and straight; smiling at the camera; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing, holding a Brazil-printed tumbler in one hand, one leg crossed in front of the other, relaxed vibe; full-body phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, holding a Brazil-printed tumbler in one hand, one leg crossed in front of the other, relaxed vibe; full-body phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C27 — Bar / assistindo o jogo (chopp)
 
@@ -786,7 +786,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido e liso; olhando pra câmera tranquila; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: sentada, os braços apoiados na mesa, as mãos perto do caneco, assistindo o jogo; foto de celular meio escura por causa da luz de bar, leve grão, meio torta; sem retoque nem cara de IA.
+> POSE: sentada, os braços apoiados na mesa, as mãos perto do caneco, assistindo o jogo; foto de celular meio escura por causa da luz de bar, leve grão, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -797,7 +797,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, long and straight; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: sitting, arms resting on the table, hands near the mug, watching the game; a slightly dim phone photo because of the bar light, light grain, slightly crooked; no retouching or AI look.
+> POSE: sitting, arms resting on the table, hands near the mug, watching the game; a slightly dim phone photo because of the bar light, light grain, slightly crooked; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C28 — Casa / selfie close (glam CBF)
 
@@ -810,7 +810,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso num rabo de cavalo bem alinhado e com volume, caindo de um lado; cara séria e confiante, olhando direto pra câmera; maquiagem mais caprichada (sobrancelha marcada, cílios, batom nude), mas a pele ainda com textura real, poros e tudo — nada de pele lisa de IA; pele real; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, bem de pertinho do rosto; selfie de celular (leve distorção), só rosto e ombros, leve grão; sem retoque exagerado nem cara de IA.
+> POSE: selfie de braço esticado, bem de pertinho do rosto; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque exagerado nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -821,7 +821,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in a sleek, voluminous high ponytail falling to one side; serious, confident look, staring right at the camera; fuller glam makeup (bold brows, lashes, nude lipstick), but the skin still has real texture, pores and all — none of that smooth AI skin; real skin; no jewelry, tattoos or piercings.
 >
-> POSE: arm's-length selfie, very close to her face; phone selfie (slight distortion), head and shoulders, light grain; no heavy retouching or AI look.
+> POSE: arm's-length selfie, very close to her face; phone selfie (slight distortion), head and shoulders, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no heavy retouching or AI look.
 
 ## C29 — Varanda à noite / flash (camisa retrô)
 
@@ -834,7 +834,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo cacheado/ondulado e meio bagunçado pelo vento, alguns fios no rosto; cabeça meio inclinada, com atitude, a boca levemente aberta; pele real com textura e o brilho do flash; sem joia, tatuagem ou piercing.
 >
-> POSE: encostada num corrimão; foto de celular noturna com flash, grão e meio torta; sem retoque nem cara de IA.
+> POSE: encostada num corrimão; foto de celular noturna com flash, grão e meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -845,7 +845,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: curly/wavy hair, a bit messy from the wind, a few strands on her face; head tilted, full of attitude, mouth slightly open; real skin with texture and the flash sheen; no jewelry, tattoos or piercings.
 >
-> POSE: leaning on a railing; night flash phone photo, grainy and slightly crooked; no retouching or AI look.
+> POSE: leaning on a railing; night flash phone photo, grainy and slightly crooked; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C30 — Casa / mirror selfie (luz dourada)
 
@@ -858,7 +858,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido e liso, repartido no meio; olhando pra câmera com uma cara tranquila; pele real com textura e o brilho quente do sol na pele; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; selfie de espelho de celular, meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de espelho, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; selfie de espelho de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -869,7 +869,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, long and straight, parted in the middle; looking at the camera with a calm expression; real skin with texture and the warm sun glow on her skin; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; mirror phone selfie, slightly crooked, light grain; no retouching or AI look.
+> POSE: mirror selfie, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; mirror phone selfie, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C31 — Varanda hora azul / selfie (camisa away CBF) — _usa preset "Varanda ao anoitecer"_
 
@@ -882,7 +882,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado, caindo de um lado, meio ao vento; cabeça meio inclinada, um meio sorriso, olhando pra câmera; pele real com sardas e textura, só com a luz ambiente e o brilho quente da cidade no rosto; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo; selfie de celular (leve distorção), ângulo meio torto, grão de pouca luz; sem retoque nem cara de IA.
+> POSE: selfie de braço esticado, bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo; selfie de celular (leve distorção), ângulo meio torto, grão de pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -893,7 +893,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and wavy, falling to one side, a bit windblown; head tilted, a half smile, looking at the camera; real skin with freckles and texture, only the ambient light and warm city glow on her face; no jewelry, tattoos or piercings.
 >
-> POSE: arm's-length selfie, very close to the camera, one hand raised resting on her head/hair; phone selfie (slight distortion), slightly tilted angle, low-light grain; no retouching or AI look.
+> POSE: arm's-length selfie, very close to the camera, one hand raised resting on her head/hair; phone selfie (slight distortion), slightly tilted angle, low-light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C32 — Banheiro / mirror selfie (top tomara-que-caia)
 
@@ -906,7 +906,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado, comprido; olhando pra câmera com uma cara tranquila; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho, encostada na parede, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; foto de celular, meio torta, leve grão (uma mão segura o celular); sem retoque nem cara de IA.
+> POSE: selfie de espelho, encostada na parede, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; foto de celular, meio torta, leve grão (uma mão segura o celular); cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -917,7 +917,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and wavy, long; looking at the camera relaxed; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: mirror selfie, leaning on the wall, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; phone photo, slightly crooked, light grain (one hand holds the phone); no retouching or AI look.
+> POSE: mirror selfie, leaning on the wall, holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at the mirror; phone photo, slightly crooked, light grain (one hand holds the phone); smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C33 — Casa / retrato na cortina (camisa CBF)
 
@@ -930,7 +930,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido e liso, repartido no meio; olhando pra câmera com uma cara tranquila e um biquinho de leve; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: em pé, uma das mãos atrás da cabeça, no cabelo; foto de celular meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: em pé, uma das mãos atrás da cabeça, no cabelo; foto de celular meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -941,7 +941,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, long and straight, parted in the middle; looking at the camera with a calm face and a slight pout; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: standing, one hand behind her head, in her hair; phone photo, slightly crooked, light grain; no retouching or AI look.
+> POSE: standing, one hand behind her head, in her hair; phone photo, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C34 — Casa / selfie close (camisa CBF)
 
@@ -954,7 +954,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido e liso; olhando pra câmera com uma cara séria e tranquila; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de braço esticado, uma das mãos na cabeça, no cabelo; selfie de celular (leve distorção), meio torta, leve grão; sem retoque nem cara de IA.
+> POSE: selfie de braço esticado, uma das mãos na cabeça, no cabelo; selfie de celular (leve distorção), meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -965,7 +965,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down, long and straight; looking at the camera with a calm, serious face; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: arm's-length selfie, one hand on her head, in her hair; phone selfie (slight distortion), slightly crooked, light grain; no retouching or AI look.
+> POSE: arm's-length selfie, one hand on her head, in her hair; phone selfie (slight distortion), slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C35 — Rua à noite / mirror selfie de lado (neon)
 
@@ -978,7 +978,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e comprido; sorrindo pra tela; pele real com textura; sem joia, tatuagem ou piercing.
 >
-> POSE: selfie de espelho de lado, de perfil, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto; foto de celular meio torta, leve grão de noite; sem retoque nem cara de IA.
+> POSE: selfie de espelho de lado, de perfil, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto; foto de celular meio torta, leve grão de noite; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -989,7 +989,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and long; smiling at the screen; real skin with texture; no jewelry, tattoos or piercings.
 >
-> POSE: side mirror selfie, in profile, holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; phone photo, slightly crooked, night grain; no retouching or AI look.
+> POSE: side mirror selfie, in profile, holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; phone photo, slightly crooked, night grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C36 — Academia / treino de verdade (agachando)
 
@@ -1002,7 +1002,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo preso num rabo de cavalo, alguns fios soltos grudados de suor; concentrada, olhando pra frente; pele real com brilho de suor e textura; sem joia, tatuagem ou piercing.
 >
-> POSE: treinando de verdade, alguém tirou de lado enquanto ela agacha — fazendo um agachamento com a barra apoiada nas costas no rack, no meio do movimento (joelhos dobrados); foto de celular meio torta, leve grão e leve desfoque de movimento; sem retoque nem cara de IA.
+> POSE: treinando de verdade, alguém tirou de lado enquanto ela agacha — fazendo um agachamento com a barra apoiada nas costas no rack, no meio do movimento (joelhos dobrados); foto de celular meio torta, leve grão e leve desfoque de movimento; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1013,7 +1013,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair in a ponytail, a few sweaty strands stuck to her face; focused, looking forward; real skin with a sweat sheen and texture; no jewelry, tattoos or piercings.
 >
-> POSE: actually working out, taken from the side by someone while she squats — doing a barbell back squat at the rack, mid-movement (knees bent); phone photo, slightly crooked, light grain and a bit of motion blur; no retouching or AI look.
+> POSE: actually working out, taken from the side by someone while she squats — doing a barbell back squat at the rack, mid-movement (knees bent); phone photo, slightly crooked, light grain and a bit of motion blur; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C37 — Quarto / cozy manhã na cama (óculos)
 
@@ -1026,7 +1026,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto e ondulado, repartido no meio, alguns fios no rosto; olhando pra câmera com uma cara tranquila e um meio sorriso; pele real com textura e sardas; sem joia, tatuagem ou piercing.
 >
-> POSE: foto vertical tirada bem de perto (leve distorção de lente de celular), deitada de bruços, o rosto apoiado no lençol, cabeça de lado, um braço esticado à frente; foto de celular meio torta, luz de dia, leve grão; sem retoque nem cara de IA.
+> POSE: foto vertical tirada bem de perto (leve distorção de lente de celular), deitada de bruços, o rosto apoiado no lençol, cabeça de lado, um braço esticado à frente; foto de celular meio torta, luz de dia, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1037,7 +1037,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: hair down and wavy, middle part, a few strands on her face; looking at the camera with a calm face and a half smile; real skin with texture and freckles; no jewelry, tattoos or piercings.
 >
-> POSE: vertical photo taken up close (slight phone-lens distortion), lying face-down, face resting on the sheet, head to the side, one arm stretched forward; phone photo, slightly crooked, daylight, light grain; no retouching or AI look.
+> POSE: vertical photo taken up close (slight phone-lens distortion), lying face-down, face resting on the sheet, head to the side, one arm stretched forward; phone photo, slightly crooked, daylight, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ## C38 — Street style / Ipanema (golden hour)
 
@@ -1050,7 +1050,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > DETALHES DA PESSOA: cabelo solto, comprido, ao vento; olhando pro lado, tranquila; pele com textura natural e saudável, sem acne; sem joia, tatuagem ou piercing.
 >
-> POSE: foto vertical tipo street style que alguém tirou de longe, ela caminha; foto de celular meio torta, luz de fim de tarde, leve grão.
+> POSE: foto vertical tipo street style que alguém tirou de longe, ela caminha; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular meio torta, luz de fim de tarde, leve grão.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1061,7 +1061,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > PERSON DETAILS: long hair down, in the wind; looking to the side, relaxed; natural, healthy skin texture, no acne; no jewelry, tattoos or piercings.
 >
-> POSE: vertical street-style shot taken from a distance, she walks; phone photo, slightly crooked, dusk light, light grain.
+> POSE: vertical street-style shot taken from a distance, she walks; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; phone photo, slightly crooked, dusk light, light grain.
 
 ---
 

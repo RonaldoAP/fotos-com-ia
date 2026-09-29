@@ -37,7 +37,11 @@ por peça (só a roupa, só a pose, só o ambiente).
 > piercing, sem tatuagem.
 >
 > POSE: [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max titânio
-> preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem cara de IA.
+> preto, capinha preta, se o celular aparecer]; cara de foto de câmera de celular — lente grande-angular
+> de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem
+> desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente
+> levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático;
+> foto realista, sem retoque, sem cara de IA.
 
 ### Molde (EN)
 
@@ -51,7 +55,11 @@ por peça (só a roupa, só a pose, só o ambiente).
 > faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15 Pro
-> Max, plain black case, if the phone shows]; realistic photo, no retouching, no AI look.
+> Max, plain black case, if the phone shows]; smartphone-camera look — phone wide-angle lens with slight
+> edge distortion, almost everything in focus (background at most slightly soft, no strong
+> professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly
+> over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
+> retouching, no AI look.
 
 ### Exemplo preenchido (cena normal)
 
@@ -257,7 +265,7 @@ filtro-safe, sem transparência/lingerie).
 ```json
 {
   "reference_type": "mother_reference_image",
-  "visual_prompt": "A vertical smartphone [selfie/photo] of the same young adult woman as in the attached reference images (Vic), framed [ENQUADRAMENTO: ex. from the upper torso to the top of the head], photographed [ÂNGULO/PERSPECTIVA: ex. at close range, slightly high front-facing angle]. She has [EXPRESSÃO/OLHAR: ex. a calm expression looking at the camera]. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face. Her hair is worn [PENTEADO: ex. down / in a bun / windblown] (hair color, length and texture come from the reference images). She wears [ROUPA — filtro-safe, sem transparência/lingerie/peça íntima]. [MÃO/GESTO opcional: ex. one hand resting on the face; hand with exactly five fingers, correct anatomy]. No jewelry, no piercings, no tattoos. The background shows [AMBIENTE/CENÁRIO + [AQUI] se for o quarto padrão]. Lighting: [LUZ: fonte, direção, temperatura]. Casual smartphone qualities: close/informal framing, mild grain, warm-neutral color cast, slightly tilted; realistic photo, not a 3D render, no AI look.",
+  "visual_prompt": "A vertical smartphone [selfie/photo] of the same young adult woman as in the attached reference images (Vic), framed [ENQUADRAMENTO: ex. from the upper torso to the top of the head], photographed [ÂNGULO/PERSPECTIVA: ex. at close range, slightly high front-facing angle]. She has [EXPRESSÃO/OLHAR: ex. a calm expression looking at the camera]. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face. Her hair is worn [PENTEADO: ex. down / in a bun / windblown] (hair color, length and texture come from the reference images). She wears [ROUPA — filtro-safe, sem transparência/lingerie/peça íntima]. [MÃO/GESTO opcional: ex. one hand resting on the face; hand with exactly five fingers, correct anatomy]. No jewelry, no piercings, no tattoos. The background shows [AMBIENTE/CENÁRIO + [AQUI] se for o quarto padrão]. Lighting: [LUZ: fonte, direção, temperatura]. Casual smartphone qualities: close/informal framing, mild grain, warm-neutral color cast, slightly tilted; smartphone-camera look: phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, not a 3D render, no AI look.",
   "negative_prompt": "changed identity, altered facial bone structure, different age or skin tone, hair recolored or restyled away from the reference; jewelry, earrings, septum or nose ring, rings, bracelets, necklaces; piercings; tattoos; sheer/see-through fabric, lingerie, visible undergarments, body-focused or sexualized framing; glamour or studio lighting, beauty retouching, porcelain skin, excessive symmetry, altered body proportions, artificial sharpness, CGI/3D/render texture, cartoon, brand logos, fantasy elements, extra fingers, deformed hands.",
   "camera_and_optics": {
     "format": "vertical smartphone [selfie/photo]",

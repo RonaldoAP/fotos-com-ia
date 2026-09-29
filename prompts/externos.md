@@ -29,7 +29,7 @@ _Origem: prompt JSON (retrato sentada, sofá creme, parede branca texturizada, l
 > luz na pele; sem joia, tatuagem ou piercing.
 >
 > POSE: sentada no sofá/chaise, meio virada pra câmera, recostada pra trás com uma das mãos apoiada na
-> almofada, cabeça levemente inclinada; foto de celular horizontal, luz de dia, leve grão; sem retoque
+> almofada, cabeça levemente inclinada; foto de celular horizontal, luz de dia, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque
 > nem cara de IA.
 
 **EN**
@@ -47,7 +47,7 @@ _Origem: prompt JSON (retrato sentada, sofá creme, parede branca texturizada, l
 > no jewelry, tattoos or piercings.
 >
 > POSE: sitting on the couch/lounge, angled slightly toward the camera, leaning back with one hand
-> flat on the cushion, head slightly tilted; horizontal phone photo, daylight, light grain; no
+> flat on the cushion, head slightly tilted; horizontal phone photo, daylight, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no
 > retouching or AI look.
 
 ---
@@ -72,7 +72,7 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 >
 > POSE: de pé meio de lado, o corpo virado, olhando por cima do ombro pra câmera, uma das mãos ajeitando
 > o rabo de cavalo e a outra encostada na parede de azulejo bege; selfie vertical dessas tiradas de
-> qualquer jeito, foto de celular meio torta, leve grão, fundo nítido; sem retoque nem cara de IA.
+> qualquer jeito, foto de celular meio torta, leve grão, fundo nítido; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -88,7 +88,7 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 >
 > POSE: standing sideways, body turned, looking back over her shoulder at the camera, one hand fixing her
 > ponytail and the other resting on a beige tiled wall; vertical selfie snapped casually, phone photo
-> slightly crooked, light grain, background in focus; no retouching or AI look.
+> slightly crooked, light grain, background in focus; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ---
 
@@ -108,7 +108,7 @@ _Variação da base fitness, movida pra praia (manhã)._
 > com textura e leve brilho de sol e suor; sem joia, tatuagem ou piercing.
 >
 > POSE: de pé meio de lado, o corpo virado, olhando por cima do ombro pra câmera, uma das mãos ajeitando
-> o rabo de cavalo; foto de celular vertical dessas tiradas de qualquer jeito, meio torta, leve grão; sem
+> o rabo de cavalo; foto de celular vertical dessas tiradas de qualquer jeito, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem
 > retoque nem cara de IA.
 
 **EN**
@@ -123,7 +123,7 @@ _Variação da base fitness, movida pra praia (manhã)._
 > and a faint sun-and-sweat sheen; no jewelry, tattoos or piercings.
 >
 > POSE: standing sideways, body turned, looking back over her shoulder at the camera, one hand fixing her
-> ponytail; vertical phone photo snapped casually, slightly crooked, light grain; no retouching or AI look.
+> ponytail; vertical phone photo snapped casually, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ---
 
@@ -144,7 +144,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > pele real com textura e leve brilho de sol; sem joia, tatuagem ou piercing.
 >
 > POSE: de pé, de frente pra câmera, uma das mãos ajeitando o cabelo, a outra relaxada; selfie de celular
-> (leve distorção), vertical, meio torta, leve grão; sem retoque nem cara de IA.
+> (leve distorção), vertical, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -159,7 +159,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > skin with texture and a faint sun sheen; no jewelry, tattoos or piercings.
 >
 > POSE: standing, facing the camera, one hand fixing her hair, the other relaxed; phone selfie (slight
-> distortion), vertical, slightly crooked, light grain; no retouching or AI look.
+> distortion), vertical, slightly crooked, light grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; no retouching or AI look.
 
 ---
 
@@ -178,7 +178,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > suave, sem acne; brilho do flash na pele; sem joia, tatuagem ou piercing.
 >
 > POSE: deitada na cama, recostada nos travesseiros, cabeça meio de lado, de braço esticado, selfie com o
-> flash do celular; foto de celular com flash, meio torta, leve grão e ruído de noite.
+> flash do celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular com flash, meio torta, leve grão e ruído de noite.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -193,7 +193,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > flash sheen on the skin; no jewelry, tattoos or piercings.
 >
 > POSE: lying on the bed, leaning back on the pillows, head slightly to the side, arm extended, a selfie
-> with the phone flash; flash phone photo, slightly crooked, light grain and night noise.
+> with the phone flash; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; flash phone photo, slightly crooked, light grain and night noise.
 
 ---
 
@@ -212,7 +212,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > vermelhidão suave, sem acne; uns reflexinhos de luz nos óculos e nos lábios; sem joia, tatuagem ou piercing.
 >
 > POSE: deitada nos travesseiros, cabeça inclinada pro lado, selfie tirada de cima bem de perto, aparecendo
-> do peito pra cima; selfie de celular em pouca luz, meio torta, bastante grão.
+> do peito pra cima; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; selfie de celular em pouca luz, meio torta, bastante grão.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -227,7 +227,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > redness, no acne; small light reflections on the glasses and lips; no jewelry, tattoos or piercings.
 >
 > POSE: lying on the pillows, head tilted to the side, selfie taken from above up close, framed from the
-> chest up; low-light phone selfie, slightly crooked, heavy grain.
+> chest up; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; low-light phone selfie, slightly crooked, heavy grain.
 
 ---
 
@@ -248,7 +248,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ou piercing.
 >
 > POSE: largada no sofá, deitada meio na diagonal, cabeça pro lado perto da câmera, segurando um controle
-> de videogame branco encostado de leve no peito/ombro; selfie de celular de cima, tirada de qualquer
+> de videogame branco encostado de leve no peito/ombro; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; selfie de celular de cima, tirada de qualquer
 > jeito, meio torta, leve grão.
 
 **EN**
@@ -265,7 +265,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > natural, healthy skin texture — pores and soft redness, no acne; no jewelry, tattoos or piercings.
 >
 > POSE: sprawled on the sofa, lying diagonally, head to the side near the camera, loosely holding a white
-> game controller against her chest/shoulder; overhead phone selfie, snapped casually, slightly crooked,
+> game controller against her chest/shoulder; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; overhead phone selfie, snapped casually, slightly crooked,
 > light grain.
 
 ---
@@ -287,7 +287,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: selfie de cima bem de pertinho, o rosto ocupa quase todo o quadro (bem coladinho na câmera, com
 > aquela distorção de lente de perto) e o corpo vai indo pra baixo, o braço esticado em direção à câmera
-> aparece no canto de baixo, aumentado pela lente; selfie de celular, alto contraste, leve compressão,
+> aparece no canto de baixo, aumentado pela lente; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; selfie de celular, alto contraste, leve compressão,
 > meio torta.
 
 **EN**
@@ -305,7 +305,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: high-angle selfie up very close, her face fills most of the frame (right up to the lens, with that
 > close-lens distortion) and her body recedes downward, her arm extends toward the camera in the lower
-> corner, enlarged by the lens; phone selfie, high contrast, light compression, slightly crooked.
+> corner, enlarged by the lens; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; phone selfie, high contrast, light compression, slightly crooked.
 
 ---
 
@@ -328,7 +328,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ou piercing.
 >
 > POSE: em pé no quarto, do meio da coxa pra cima, de frente pra câmera, com os dois braços pra trás das
-> costas; foto de celular vertical, meio torta, leve grão, fundo com leve desfoque de celular.
+> costas; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular vertical, meio torta, leve grão, fundo com leve desfoque de celular.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -345,7 +345,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > skin texture — pores and soft cheek blush, no acne; no jewelry, tattoos or piercings.
 >
 > POSE: standing in a bedroom, framed from mid-thigh up, facing the camera with both arms behind her back;
-> vertical phone photo, slightly crooked, light grain, slight background blur.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; vertical phone photo, slightly crooked, light grain, slight background blur.
 
 ---
 
@@ -366,7 +366,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ou piercing.
 >
 > POSE: treinando em casa, num tapete de yoga, fazendo um alongamento/prancha apoiada nos antebraços, foto
-> tirada de lado, num ângulo baixo, mostrando ela fazendo o exercício; foto de celular vertical, meio torta,
+> tirada de lado, num ângulo baixo, mostrando ela fazendo o exercício; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular vertical, meio torta,
 > luz de dia, leve grão.
 
 **EN**
@@ -382,7 +382,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > healthy skin with a faint sweat sheen, no acne; no jewelry, tattoos or piercings.
 >
 > POSE: working out at home, on a yoga mat, doing a stretch/plank up on her forearms, taken from the side at
-> a low angle, showing her doing the exercise; vertical phone photo, slightly crooked, daylight, light grain.
+> a low angle, showing her doing the exercise; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; vertical phone photo, slightly crooked, daylight, light grain.
 
 ---
 
@@ -405,7 +405,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: selfie de espelho, sentada de lado na bancada de granito preto, aparecendo do meio da coxa pra
 > cima, o corpo meio de lado e a cabeça virada pro espelho, segurando o celular (um iPhone 15 Pro Max
-> titânio preto, capinha preta lisa) na altura do rosto, apontado pro espelho; selfie de celular de
+> titânio preto, capinha preta lisa) na altura do rosto, apontado pro espelho; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; selfie de celular de
 > espelho, meio torta, leve grão.
 
 **EN**
@@ -424,7 +424,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: a mirror selfie, sitting sideways on the black granite countertop, framed from mid-thigh up, body
 > turned sideways and head turned back to the mirror, holding the phone (a black titanium iPhone 15 Pro Max,
-> plain black case) at face height pointed at the mirror; mirror phone selfie, slightly crooked, light grain.
+> plain black case) at face height pointed at the mirror; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; mirror phone selfie, slightly crooked, light grain.
 
 ---
 
@@ -448,7 +448,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sentada numa poltrona branca de encosto capitonê, o braço esticado segurando o celular um pouco
 > acima, câmera olhando levemente de cima pra baixo, o tronco meio virado pro lado, uma das mãos brincando
 > com uma mecha do cabelo; enquadramento meio torto de selfie, leve distorção de grande-angular por causa da
-> câmera perto e de cima, grão suave de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> câmera perto e de cima, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -466,7 +466,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sitting on a white button-tufted upholstered chair, arm extended holding the phone slightly above,
 > camera looking gently down at her, torso turned a bit to the side, one hand playing with a strand of her
 > hair; slightly tilted selfie framing, mild wide-angle distortion from the close high camera, soft phone
-> grain; realistic photo, no beauty retouching, no AI look.
+> grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -491,7 +491,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: mirror selfie, em pé perto do espelho grande, o corpo meio de lado pro espelho, a cabeça virada pra
 > tela do celular, uma das mãos segura o celular (um iPhone 15 Pro Max titânio preto, capinha preta lisa) na
 > frente de parte do rosto, a outra apoiada de leve na estrutura de um aparelho; enquadramento meio torto de
-> mirror selfie, marca de dedo no espelho, reflexo do flash na tela, grão suave de celular; foto realista,
+> mirror selfie, marca de dedo no espelho, reflexo do flash na tela, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista,
 > sem retoque de beleza, sem cara de IA.
 
 **EN**
@@ -511,7 +511,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: a mirror selfie, standing near the big mirror, body turned a bit sideways to the mirror, head turned
 > toward the phone screen, one hand holds the phone (a black titanium iPhone 15 Pro Max, plain black case) in
 > front of part of her face, the other resting lightly on a machine frame; slightly tilted mirror-selfie
-> framing, a fingerprint smudge on the mirror, flash reflection on the screen, soft phone grain; realistic
+> framing, a fingerprint smudge on the mirror, flash reflection on the screen, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no beauty retouching, no AI look.
 
 ---
@@ -533,7 +533,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada numa cadeira de praia dobrável, curtindo o sol da tarde, meio recostada, relaxada, uma perna
 > esticada e a outra dobrada, a cabeça apoiada pra trás pegando sol no rosto; enquadramento meio torto e de
-> improviso, grão suave de foto de celular no sol; foto realista, sem retoque de beleza, sem cara de IA.
+> improviso, grão suave de foto de celular no sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -551,7 +551,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting in a folding beach chair, enjoying the afternoon sun, reclining a bit, relaxed, one leg
 > stretched out and the other bent, head tipped back catching sun on her face; slightly tilted, candid
-> framing, soft phone-camera grain in the sun; realistic photo, no beauty retouching, no AI look.
+> framing, soft phone-camera grain in the sun; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -575,7 +575,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: mirror selfie de corpo inteiro, em pé no meio do salão, de frente pro espelho grande, o corpo
 > levemente de lado, uma das mãos segura o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na
 > altura do peito apontado pro espelho, a outra solta ao lado do corpo; marca de dedo no espelho, reflexo do
-> flash na tela do celular, enquadramento meio torto, grão suave de foto de celular; foto realista, sem
+> flash na tela do celular, enquadramento meio torto, grão suave de foto de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque de beleza, sem cara de IA.
 
 **EN**
@@ -595,7 +595,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: a full-body mirror selfie, standing in the middle of the floor, facing the big mirror, body turned
 > slightly to the side, one hand holds the phone (black titanium iPhone 15 Pro Max, plain black case) at
 > chest height pointed at the mirror, the other loose at her side; fingerprint smudge on the mirror, flash
-> reflection on the phone screen, slightly tilted framing, soft phone-camera grain; realistic photo, no
+> reflection on the phone screen, slightly tilted framing, soft phone-camera grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > beauty retouching, no AI look.
 
 ---
@@ -618,7 +618,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada na beirada de pedra, meio de lado, uma perna dobrada com o pé apoiado na pedra e a outra
 > pendurada, o cotovelo apoiado no joelho e a mão encostada de leve na lateral da cabeça; enquadramento meio
-> torto de improviso, grão suave de foto de celular no sol; foto realista, sem retoque de beleza, sem cara
+> torto de improviso, grão suave de foto de celular no sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara
 > de IA.
 
 **EN**
@@ -637,7 +637,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting on the stone edge, slightly sideways, one leg bent with her foot on the stone and the other
 > hanging down, elbow resting on her knee and her hand lightly against the side of her head; slightly tilted
-> candid framing, soft phone-camera grain in the sun; realistic photo, no beauty retouching, no AI look.
+> candid framing, soft phone-camera grain in the sun; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -660,7 +660,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé encostada num muro de pedra, o corpo meio de lado, as duas mãos apoiadas atrás no muro;
 > enquadramento meio torto de improviso, leve estouro de luz do sol num canto, grão suave de foto de celular
-> no contraluz; foto realista, sem retoque de beleza, sem cara de IA.
+> no contraluz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -679,7 +679,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing leaning against a stone wall, body turned slightly to the side, both hands resting back on
 > the wall; slightly tilted candid framing, mild sun flare in one corner, soft phone-camera grain in the
-> backlight; realistic photo, no beauty retouching, no AI look.
+> backlight; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -703,7 +703,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: mirror selfie, em pé de frente pro espelho do guarda-roupa, o corpo levemente de lado, o celular na
 > mão (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto apontado pro espelho, a outra
 > mão relaxada segurando de leve a alça do macacão; marca de dedo no espelho, reflexo do flash na tela,
-> enquadramento meio torto, grão suave de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -721,7 +721,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: a mirror selfie, standing facing the wardrobe mirror, body turned slightly to the side, phone in hand
 > (black titanium iPhone 15 Pro Max, plain black case) at face height pointed at the mirror, the other hand
 > relaxed lightly holding the overall strap; fingerprint smudge on the mirror, flash reflection on the
-> screen, slightly tilted framing, soft phone grain; realistic photo, no beauty retouching, no AI look.
+> screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -744,7 +744,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: mirror selfie recostada na cabeceira da cama, meio deitada, encostada na cabeceira estofada marrom,
 > uma perna dobrada com o joelho pra cima, uma das mãos apoiada na testa afastando o cabelo, a outra segurando
 > o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do corpo apontado pro espelho;
-> reflexo do flash na tela do celular, enquadramento meio torto de deitada, grão suave de celular; foto
+> reflexo do flash na tela do celular, enquadramento meio torto de deitada, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto
 > realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
@@ -764,7 +764,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > upholstered headboard, one leg bent with the knee up, one hand rests on her forehead pushing her hair back,
 > the other holds the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her body pointed
 > at the mirror; flash reflection on the phone screen, slightly tilted lying-down framing, soft phone grain;
-> realistic photo, no beauty retouching, no AI look.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -786,7 +786,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: deitada de bruços na cama escrevendo num caderninho, apoiada nos cotovelos, os pés levantados e
 > cruzados pra trás, a caneta na mão; enquadramento meio de cima, meio torto, grão suave de foto de celular;
-> foto realista, sem retoque de beleza, sem cara de IA.
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -802,7 +802,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > soft cheek redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: lying on her stomach on the bed writing in a small notebook, propped on her elbows, feet up and
-> crossed behind her, pen in hand; slightly high, slightly tilted framing, soft phone-camera grain; realistic
+> crossed behind her, pen in hand; slightly high, slightly tilted framing, soft phone-camera grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no beauty retouching, no AI look.
 
 ---
@@ -824,7 +824,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: deitada de bruços na cama tirando uma selfie, apoiada nos cotovelos, os pés levantados e cruzados pra
 > trás, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) perto do rosto;
-> enquadramento meio torto de deitada, reflexo do flash na tela, grão suave de celular; foto realista, sem
+> enquadramento meio torto de deitada, reflexo do flash na tela, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque de beleza, sem cara de IA.
 
 **EN**
@@ -842,7 +842,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: lying on her stomach on the bed taking a selfie, propped on her elbows, feet up and crossed behind
 > her, holding the phone (black titanium iPhone 15 Pro Max, plain black case) near her face; slightly tilted
-> lying-down framing, flash reflection on the screen, soft phone grain; realistic photo, no beauty
+> lying-down framing, flash reflection on the screen, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty
 > retouching, no AI look.
 
 ---
@@ -865,7 +865,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: tirada de dentro da barraca olhando pra fora pela abertura, agachada/sentada na entrada da barraca,
 > de frente ou meio de lado pra câmera, mexendo numa mochila; enquadramento meio torto de improviso, grão
-> suave de foto de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> suave de foto de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -882,7 +882,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: taken from inside the tent looking out through the opening, crouched/sitting at the tent entrance,
 > facing or slightly angled to the camera, rummaging in a backpack; slightly tilted candid framing, soft
-> phone-camera grain; realistic photo, no beauty retouching, no AI look.
+> phone-camera grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -905,7 +905,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: selfie no quarto, sentada na cama, aparecendo da cabeça até a coxa, sentada meio de lado, uma perna
 > dobrada, uma das mãos segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado
 > pro espelho ou pra frente, a outra apoiada no colchão; enquadramento meio torto de improviso, grão suave
-> de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -923,7 +923,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: a selfie in the bedroom, sitting on the bed, framed from head to thigh, sitting slightly sideways,
 > one leg bent, one hand holding the phone (black titanium iPhone 15 Pro Max, plain black case) pointed at
 > the mirror or toward the front, the other resting on the mattress; slightly tilted candid framing, soft
-> phone grain; realistic photo, no beauty retouching, no AI look.
+> phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -946,7 +946,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada no banco do passageiro do carro, recostada no banco de couro caramelo, meio de lado, uma das
 > mãos ajeitando o cabelo atrás da orelha; enquadramento meio torto de improviso, grão suave de foto de
-> celular; foto realista, sem retoque de beleza, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -964,7 +964,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting in the passenger seat of the car, leaning back in the caramel leather seat, slightly turned,
 > one hand tucking her hair behind her ear; slightly tilted candid framing, soft phone-camera grain;
-> realistic photo, no beauty retouching, no AI look.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -984,7 +984,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: deitada de bruços na cama, apoiada nos cotovelos, os pés levantados e cruzados pra trás, tirando uma
 > selfie de braço esticado, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) perto
-> do rosto; enquadramento meio torto de deitada, reflexo do flash na tela, grão suave de celular; foto
+> do rosto; enquadramento meio torto de deitada, reflexo do flash na tela, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto
 > realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
@@ -1001,7 +1001,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: lying on her stomach on the bed, propped on her elbows, feet up and crossed behind her, taking an
 > arm's-length selfie, holding the phone (black titanium iPhone 15 Pro Max, plain black case) near her face;
-> slightly tilted lying-down framing, flash reflection on the screen, soft phone grain; realistic photo, no
+> slightly tilted lying-down framing, flash reflection on the screen, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > beauty retouching, no AI look.
 
 ---
@@ -1023,7 +1023,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: deitada de bruços na cama à noite, lendo um livro, apoiada nos cotovelos, com o livro aberto na
 > frente, os pés levantados e cruzados pra trás; enquadramento meio torto de improviso, grão suave de
-> celular; foto realista, sem retoque de beleza, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1038,7 +1038,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > soft cheek redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: lying on her stomach on the bed at night, reading a book, propped on her elbows, the open book in
-> front of her, feet up and crossed behind her; slightly tilted candid framing, soft phone grain; realistic
+> front of her, feet up and crossed behind her; slightly tilted candid framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no beauty retouching, no AI look.
 
 ---
@@ -1059,7 +1059,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem tatuagem.
 >
 > POSE: deitada de bruços na cama, apoiada num cotovelo com a mão no queixo, os pés levantados e cruzados pra
-> trás; enquadramento meio torto de improviso, grão suave de celular; foto realista, sem retoque de beleza,
+> trás; enquadramento meio torto de improviso, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza,
 > sem cara de IA.
 
 **EN**
@@ -1075,7 +1075,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cheek redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: lying on her stomach on the bed, propped on one elbow with her hand on her chin, feet up and crossed
-> behind her; slightly tilted candid framing, soft phone grain; realistic photo, no beauty retouching, no AI
+> behind her; slightly tilted candid framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI
 > look.
 
 ---
@@ -1098,7 +1098,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: deitada de bruços na cama, apoiada num cotovelo com a mão no rosto, os pés levantados e cruzados pra
 > trás, tirando uma selfie de braço esticado, segurando o celular (iPhone 15 Pro Max titânio preto, capinha
 > preta lisa) na frente do rosto; enquadramento meio torto de deitada, reflexo do flash na tela, grão suave
-> de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1115,7 +1115,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: lying on her stomach on the bed, propped on one elbow with her hand on her face, feet up and crossed
 > behind her, taking an arm's-length selfie, holding the phone (black titanium iPhone 15 Pro Max, plain black
 > case) in front of her face; slightly tilted lying-down framing, flash reflection on the screen, soft phone
-> grain; realistic photo, no beauty retouching, no AI look.
+> grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -1136,7 +1136,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: deitada de bruços na cama, apoiada nos dois cotovelos com o rosto encostado na mão, os pés levantados
 > e cruzados pra trás; enquadramento fechado no rosto e parte de cima, meio torto de improviso, grão suave de
-> celular; foto realista, sem retoque de beleza, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1152,7 +1152,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: lying on her stomach on the bed, propped on both elbows with her face resting on her hand, feet up
 > and crossed behind her; framed close on her face and upper body, slightly tilted candid, soft phone grain;
-> realistic photo, no beauty retouching, no AI look.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -1171,7 +1171,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
 > POSE: sentada na cama, meio de lado, uma das mãos apoiada no colchão; enquadramento meio torto de improviso,
-> grão suave de celular; foto realista, sem retoque de beleza, sem cara de IA.
+> grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1186,7 +1186,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > no jewelry, no piercings, no tattoos.
 >
 > POSE: sitting on the bed, slightly turned, one hand resting on the mattress; slightly tilted candid
-> framing, soft phone grain; realistic photo, no beauty retouching, no AI look.
+> framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no beauty retouching, no AI look.
 
 ---
 
@@ -1206,7 +1206,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio preto (capinha preta)
 > na frente do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento meio torto,
-> grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1222,7 +1222,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing, slightly turned, mirror selfie with the black titanium iPhone 15 Pro Max (plain
 > black case) in front of her face; fingerprint smudge on the mirror, flash reflection on the screen,
-> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1242,7 +1242,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé, mirror selfie com o iPhone 15 Pro Max titânio preto (capinha preta) na altura do
 > rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de
-> celular; foto realista, sem retoque, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1258,7 +1258,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing, mirror selfie with the black titanium iPhone 15 Pro Max (plain black case) at
 > face height; fingerprint smudge on the mirror, flash reflection on the screen, slightly tilted
-> framing, soft phone grain; realistic photo, no retouching, no AI look.
+> framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1279,7 +1279,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, mirror selfie com o iPhone 15 Pro Max titânio preto (capinha
 > preta) na altura do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento meio
-> torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1296,7 +1296,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, mirror selfie with the black titanium iPhone 15 Pro Max (plain
 > black case) at face height; fingerprint smudge on the mirror, flash reflection on the screen,
-> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1317,7 +1317,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem tatuagem.
 >
 > POSE: em pé de frente, meio de lado, uma das mãos encostada de leve na parede, peso num pé só,
-> postura relaxada; foto de celular meio torta, grão suave; foto realista, sem retoque, sem cara de IA.
+> postura relaxada; foto de celular meio torta, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1332,7 +1332,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: standing facing the camera, slightly turned, one hand resting lightly on the wall, weight
-> on one leg, relaxed posture; slightly tilted phone photo, soft grain; realistic photo, no retouching,
+> on one leg, relaxed posture; slightly tilted phone photo, soft grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -1355,7 +1355,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio
 > preto (capinha preta) na altura do peito; marca de dedo no espelho, reflexo do flash na tela,
-> enquadramento meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1372,7 +1372,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, slightly turned, mirror selfie with the black titanium iPhone
 > 15 Pro Max (plain black case) at chest height; fingerprint smudge on the mirror, flash reflection on
-> the screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> the screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1394,7 +1394,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada meio de lado, uma perna dobrada, mirror selfie com o iPhone 15 Pro Max titânio preto
 > (capinha preta) na altura do rosto; reflexo do flash na tela, enquadramento meio torto, grão suave de
-> celular; foto realista, sem retoque, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1411,7 +1411,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting slightly turned, one leg bent, mirror selfie with the black titanium iPhone 15 Pro Max
 > (plain black case) at face height; flash reflection on the screen, slightly tilted framing, soft phone
-> grain; realistic photo, no retouching, no AI look.
+> grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1433,7 +1433,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada no chão com os joelhos dobrados pra cima, meio de lado, mirror selfie com o iPhone 15
 > Pro Max titânio preto (capinha preta) esticado pra cima; reflexo do flash na tela, enquadramento meio
-> torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1450,7 +1450,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting on the floor with knees bent up, slightly turned, mirror selfie with the black titanium
 > iPhone 15 Pro Max (plain black case) reached up; flash reflection on the screen, slightly tilted
-> framing, soft phone grain; realistic photo, no retouching, no AI look.
+> framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1470,7 +1470,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio preto
 > (capinha preta) na altura do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento
-> meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1486,7 +1486,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, slightly turned, mirror selfie with the black titanium iPhone 15
 > Pro Max (plain black case) at face height; fingerprint smudge on the mirror, flash reflection on the
-> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1507,7 +1507,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem tatuagem.
 >
 > POSE: em pé de frente, meio de lado, peso num pé só, uma das mãos relaxada na cintura, postura
-> natural; foto de celular meio torta, grão suave; foto realista, sem retoque, sem cara de IA.
+> natural; foto de celular meio torta, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1523,7 +1523,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: standing facing the camera, slightly turned, weight on one leg, one hand relaxed on her waist,
-> natural posture; slightly tilted phone photo, soft grain; realistic photo, no retouching, no AI look.
+> natural posture; slightly tilted phone photo, soft grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1544,7 +1544,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé, meio de lado, mirror selfie com o iPhone 15 Pro Max titânio preto (capinha preta)
 > esticado na altura do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento meio
-> torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1560,7 +1560,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing, slightly turned, mirror selfie with the black titanium iPhone 15 Pro Max (plain black
 > case) reached up at face height; fingerprint smudge on the mirror, flash reflection on the screen,
-> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1583,7 +1583,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos fazendo sinal de paz na altura do rosto
 > e a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto;
 > marca de dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular;
-> foto realista, sem retoque, sem cara de IA.
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1602,7 +1602,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: standing facing the mirror, full body, one hand making a peace sign near her face and the other
 > holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face;
 > fingerprint smudge on the mirror, flash reflection on the screen, slightly tilted framing, soft phone
-> grain; realistic photo, no retouching, no AI look.
+> grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1623,7 +1623,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, corpo inteiro, segurando o celular (iPhone 15 Pro Max titânio preto,
 > capinha preta) na altura do rosto com uma mão e uma garrafa de água preta na outra; reflexo do flash na
-> tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> tela, enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1640,7 +1640,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, full body, holding the phone (black titanium iPhone 15 Pro Max, plain
 > black case) at face height in one hand and a black water bottle in the other; flash reflection on the
-> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1661,7 +1661,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos segurando de leve uma das tranças e a
 > outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do rosto; marca de
-> dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular; foto
+> dedo no espelho, reflexo do flash na tela, enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto
 > realista, sem retoque, sem cara de IA.
 
 **EN**
@@ -1679,7 +1679,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, full body, one hand lightly holding one of her braids and the other
 > holding the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; fingerprint
-> smudge on the mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; realistic
+> smudge on the mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
 
 ---
@@ -1702,7 +1702,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, corpo inteiro, peso num pé só, segurando o celular (iPhone 15 Pro Max
 > titânio preto, capinha preta) na frente do rosto; reflexo do flash na tela, enquadramento meio torto,
-> grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1720,7 +1720,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, full body, weight on one leg, holding the phone (black titanium iPhone
 > 15 Pro Max, plain black case) in front of her face; flash reflection on the screen, slightly tilted
-> framing, soft phone grain; realistic photo, no retouching, no AI look.
+> framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1742,7 +1742,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, corpo inteiro, uma das mãos relaxada ao lado do corpo e a outra
 > segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto; reflexo do
-> flash na tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque, sem cara de
+> flash na tela, enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de
 > IA.
 
 **EN**
@@ -1761,7 +1761,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, full body, one hand relaxed at her side and the other holding the
 > phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; flash reflection on the
-> screen, slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -1782,7 +1782,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > piercing, sem tatuagem.
 >
 > POSE: sentada no aparelho, uma das mãos na barra do equipamento, selfie de braço esticado de cima pra
-> baixo (leve distorção de lente frontal); enquadramento meio torto, grão suave de celular; foto realista,
+> baixo (leve distorção de lente frontal); enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista,
 > sem retoque, sem cara de IA.
 
 **EN**
@@ -1798,7 +1798,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > light workout sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: sitting on the machine, one hand on the equipment bar, arm's-length selfie from slightly above
-> (mild front-lens distortion); slightly tilted framing, soft phone grain; realistic photo, no retouching,
+> (mild front-lens distortion); slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -1821,7 +1821,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: selfie de braço esticado bem de pertinho, enquadramento fechado só no rosto e ombros, cabeça
 > levemente virada (leve distorção de lente frontal); enquadramento meio torto, grão suave de celular;
-> foto realista, sem retoque, sem cara de IA.
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1838,7 +1838,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > tattoos.
 >
 > POSE: arm's-length selfie up close, tight framing on face and shoulders only, head slightly turned
-> (mild front-lens distortion); slightly tilted framing, soft phone grain; realistic photo, no retouching,
+> (mild front-lens distortion); slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -1860,7 +1860,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
 > POSE: sentada no banco do jet ski de frente/meio de lado, as duas mãos apoiadas no guidão, postura
-> relaxada; foto de celular aberta, meio torta, grão suave no sol; foto realista, sem retoque, sem cara de
+> relaxada; foto de celular aberta, meio torta, grão suave no sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de
 > IA.
 
 **EN**
@@ -1878,7 +1878,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > jewelry, no piercings, no tattoos.
 >
 > POSE: sitting on the jet ski seat facing/slightly turned to the camera, both hands on the handlebar,
-> relaxed posture; wide phone photo, slightly tilted, soft grain in the sun; realistic photo, no
+> relaxed posture; wide phone photo, slightly tilted, soft grain in the sun; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > retouching, no AI look.
 
 ---
@@ -1900,7 +1900,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > tatuagem.
 >
 > POSE: recostada na espreguiçadeira de leve, relaxada, uma das mãos apoiada na barriga/colo, postura
-> tranquila de quem tá curtindo o sol; foto de celular aberta, meio torta, grão suave no sol; foto
+> tranquila de quem tá curtindo o sol; foto de celular aberta, meio torta, grão suave no sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto
 > realista, sem retoque, sem cara de IA.
 
 **EN**
@@ -1917,7 +1917,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: leaning back on the lounger a little, relaxed, one hand resting on her stomach/lap, a calm
-> sunbathing posture; wide phone photo, slightly tilted, soft grain in the sun; realistic photo, no
+> sunbathing posture; wide phone photo, slightly tilted, soft grain in the sun; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > retouching, no AI look.
 
 ---
@@ -1939,7 +1939,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > tatuagem.
 >
 > POSE: sentada de frente na cadeira-ovo, recostada nas almofadas, relaxada, uma perna cruzada por cima da
-> outra; foto de celular aberta, meio torta, contraluz suave do sol, grão suave; foto realista, sem
+> outra; foto de celular aberta, meio torta, contraluz suave do sol, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque, sem cara de IA.
 
 **EN**
@@ -1956,7 +1956,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: sitting facing forward in the egg chair, leaning back on the cushions, relaxed, one leg crossed
-> over the other; wide phone photo, slightly tilted, soft sun backlight, soft grain; realistic photo, no
+> over the other; wide phone photo, slightly tilted, soft sun backlight, soft grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > retouching, no AI look.
 
 ---
@@ -1977,7 +1977,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > imperfeição; sem joias, sem piercing, sem tatuagem.
 >
 > POSE: em pé de frente, retrato de meio corpo (da cintura pra cima), postura relaxada; foto de celular
-> meio torta, grão suave, luz natural; foto realista, sem retoque, sem cara de IA.
+> meio torta, grão suave, luz natural; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -1993,7 +1993,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > piercings, no tattoos.
 >
 > POSE: standing facing the camera, half-body portrait (waist up), relaxed posture; slightly tilted phone
-> photo, soft grain, natural light; realistic photo, no retouching, no AI look.
+> photo, soft grain, natural light; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2014,7 +2014,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: selfie de braço esticado deitada, enquadramento fechado só no rosto e ombros (leve distorção de
 > lente frontal); enquadramento meio torto, grão e ruído suave de foto noturna, reflexo do flash nos
-> olhos; foto realista, sem retoque, sem cara de IA.
+> olhos; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2030,7 +2030,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: arm's-length selfie lying down, tight framing on face and shoulders only (mild front-lens
 > distortion); slightly tilted framing, soft night grain and noise, flash catchlight in the eyes;
-> realistic photo, no retouching, no AI look.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2051,7 +2051,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sentada/ajoelhada na cama de frente pro espelho, meio corpo, uma das mãos fazendo sinal de paz e a
 > outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na frente do rosto; flash
 > duro do celular, reflexo do flash no espelho, grão e ruído de foto noturna, enquadramento meio torto;
-> foto realista, sem retoque, sem cara de IA.
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2067,7 +2067,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sitting/kneeling on the bed facing the mirror, half-body, one hand making a peace sign and the
 > other holding the phone (black titanium iPhone 15 Pro Max, plain black case) in front of her face; hard
-> phone flash, flash reflection in the mirror, night grain and noise, slightly tilted framing; realistic
+> phone flash, flash reflection in the mirror, night grain and noise, slightly tilted framing; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
 
 ---
@@ -2089,7 +2089,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, meio corpo, segurando o celular (iPhone 15 Pro Max titânio preto,
 > capinha preta) na frente do rosto; marca de dedo no espelho, reflexo do flash na tela, enquadramento
-> meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2105,7 +2105,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, half-body, holding the phone (black titanium iPhone 15 Pro Max, plain
 > black case) in front of her face; fingerprint smudge on the mirror, flash reflection on the screen,
-> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2125,7 +2125,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > joias, sem piercing, sem tatuagem.
 >
 > POSE: ajoelhada/sentada dentro da banheira, com a espuma na altura da cintura, uma das mãos na água,
-> postura relaxada; foto de celular meio torta, luz quente de ambiente, grão suave; foto realista, sem
+> postura relaxada; foto de celular meio torta, luz quente de ambiente, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque, sem cara de IA.
 
 **EN**
@@ -2141,7 +2141,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > skin, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: kneeling/sitting in the tub, foam up to her waist, one hand in the water, relaxed posture;
-> slightly tilted phone photo, warm ambient light, soft grain; realistic photo, no retouching, no AI look.
+> slightly tilted phone photo, warm ambient light, soft grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2163,7 +2163,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, meio de lado, segurando o celular (iPhone 15 Pro Max titânio preto,
 > capinha preta) na altura do rosto; sem flash — só a luz ambiente quente, marca de dedo no espelho,
-> enquadramento meio torto, grão e leve ruído de foto noturna com pouca luz; foto realista, sem retoque,
+> enquadramento meio torto, grão e leve ruído de foto noturna com pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque,
 > sem cara de IA.
 
 **EN**
@@ -2182,7 +2182,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, slightly turned, holding the phone (black titanium iPhone 15 Pro Max,
 > plain black case) at face height; no flash — just the warm ambient light, a fingerprint smudge on the
-> mirror, slightly tilted framing, low-light night grain and slight noise; realistic photo, no retouching,
+> mirror, slightly tilted framing, low-light night grain and slight noise; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -2206,7 +2206,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, meio de lado, uma das mãos apoiada na bancada e a outra segurando o
 > celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do rosto; marca de dedo no espelho,
-> reflexo do flash na tela, enquadramento meio torto, grão suave de celular; foto realista, sem retoque,
+> reflexo do flash na tela, enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque,
 > sem cara de IA.
 
 **EN**
@@ -2225,7 +2225,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, slightly turned, one hand resting on the counter and the other holding
 > the phone (black titanium iPhone 15 Pro Max, plain black case) at face height; fingerprint smudge on the
-> mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; realistic photo, no
+> mirror, flash reflection on the screen, slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > retouching, no AI look.
 
 ---
@@ -2248,7 +2248,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > perto do rosto uma taça de espumante com morangos dentro; foto noturna claramente TREMIDA — a mão de
 > quem fotografou mexeu no clique, então tem um rastro de movimento nítido (motion blur) nas bordas do
 > corpo, no cabelo e nas luzes do fundo, com um leve arrasto/fantasma duplicado; enquadramento normal na
-> parte de cima, meio torto, grão e ruído forte de foto noturna com pouca luz; foto realista de celular,
+> parte de cima, meio torto, grão e ruído forte de foto noturna com pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista de celular,
 > sem retoque, sem cara de IA.
 
 **EN**
@@ -2267,7 +2267,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > shoulder, holding a strawberry-filled champagne flute up near the face; clearly SHAKY night photo — the
 > photographer's hand moved during the shot, so there is a visible motion-blur streak along the body edges,
 > the hair and the background lights, with a faint double/ghost drag; normal upper-body framing, slightly
-> tilted, heavy low-light night grain and noise; realistic phone photo, no retouching, no AI look.
+> tilted, heavy low-light night grain and noise; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic phone photo, no retouching, no AI look.
 
 ---
 
@@ -2291,7 +2291,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé de frente pro espelho, corpo levemente de lado, segurando o celular (iPhone 15 Pro Max
 > titânio preto, capinha preta) na altura do rosto, a outra mão relaxada ao lado do corpo; enquadramento
-> normal de corpo inteiro, meio torto, marca de dedo no espelho, grão suave de celular; foto realista, sem
+> normal de corpo inteiro, meio torto, marca de dedo no espelho, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque, sem cara de IA.
 
 **EN**
@@ -2311,7 +2311,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, body slightly turned, holding the phone (black titanium iPhone 15 Pro
 > Max, plain black case) at face height, the other hand relaxed at the side; normal full-body framing,
-> slightly tilted, a fingerprint smudge on the mirror, soft phone grain; realistic photo, no retouching,
+> slightly tilted, a fingerprint smudge on the mirror, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -2335,7 +2335,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada de forma relaxada, corpo levemente de lado pra câmera, uma das mãos apoiada no colo;
 > retrato candid da cintura pra cima, enquadramento normal e meio torto, grão e leve ruído de foto noturna
-> com pouca luz; foto realista, sem retoque, sem cara de IA.
+> com pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2351,7 +2351,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: seated in a relaxed way, body slightly turned to the camera, one hand resting on the lap; candid
-> waist-up portrait, normal slightly tilted framing, low-light night grain and slight noise; realistic
+> waist-up portrait, normal slightly tilted framing, low-light night grain and slight noise; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
 
 ---
@@ -2374,7 +2374,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: retrato próximo, corpo meio de lado dentro do cesto, uma das mãos mexendo no cabelo perto da
 > cabeça; enquadramento fechado e meio torto, contraluz dourado com leve flare do sol, grão suave de
-> celular; foto realista, sem retoque, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2390,7 +2390,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > freckles, soft sun redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: close portrait, body slightly turned inside the basket, one hand up near the head playing with the
-> hair; tight slightly tilted framing, golden backlight with a soft sun flare, soft phone grain; realistic
+> hair; tight slightly tilted framing, golden backlight with a soft sun flare, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
 
 ---
@@ -2412,7 +2412,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > vermelhidão do sol; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
 > POSE: em pé de lado, uma das mãos apoiada na borda do cesto, olhando o horizonte; enquadramento normal
-> da cintura pra cima, meio torto, contraluz dourado, grão suave de celular; foto realista, sem retoque,
+> da cintura pra cima, meio torto, contraluz dourado, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque,
 > sem cara de IA.
 
 **EN**
@@ -2430,7 +2430,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: standing side-on, one hand resting on the rim of the basket, gazing at the horizon; normal
-> waist-up framing, slightly tilted, golden backlight, soft phone grain; realistic photo, no retouching,
+> waist-up framing, slightly tilted, golden backlight, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching,
 > no AI look.
 
 ---
@@ -2452,7 +2452,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: de costas, virando o tronco e sorrindo por cima do ombro pra câmera, um braço erguido pro alto
 > curtindo a música; foto noturna de show, enquadramento meio torto, grão e leve motion blur das luzes e
-> da fumaça; foto realista, sem retoque, sem cara de IA.
+> da fumaça; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2469,7 +2469,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: back turned, twisting the torso and smiling back over the shoulder at the camera, one arm raised up
 > enjoying the music; night concert photo, slightly tilted framing, grain and slight motion blur from the
-> lights and haze; realistic photo, no retouching, no AI look.
+> lights and haze; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2489,7 +2489,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: em pé, curvada pra frente em direção a um cachorro dálmata sentado no chão à frente dela (coleira
 > vermelha), rosto quase encostando no focinho do cachorro num carinho, uma das mãos perto da cabeça dele;
-> cena candid de casa, enquadramento normal e meio torto, grão suave de celular; foto realista, sem
+> cena candid de casa, enquadramento normal e meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
 > retoque, sem cara de IA.
 
 **EN**
@@ -2506,7 +2506,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing, leaning forward toward a dalmatian dog sitting on the floor in front of her (red collar),
 > face almost touching the dog's snout in a nuzzle, one hand near its head; candid home scene, normal
-> slightly tilted framing, soft phone grain; realistic photo, no retouching, no AI look.
+> slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2519,7 +2519,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ```json
 {
   "reference_type": "mother_reference_image",
-  "visual_prompt": "A vertical smartphone selfie of the same young adult woman as in the attached reference images (Vic), framed from the upper torso to the top of the head, photographed at close range with a slightly high front-facing angle. She faces the camera with a playful expression, both eyes mostly closed, mouth open, tongue extended to one side, teeth visible. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face (hair color, length and texture also come from the reference). Her long hair is worn down, falling over one side of the face and past the chest, with visible individual strands. Her raised hand forms a peace sign near the upper left of the frame, with short glossy nails; hand with exactly five fingers, correct anatomy. She wears a solid (not sheer) black high-neck top. No jewelry, no piercings, no tattoos. The background shows an indoor room with a pale wooden door or cabinet panel on the right, a light grooved ceiling, beige walls, and bright daylight entering from the left, slightly overexposing the left edge. Lighting is mixed: strong soft daylight from the left with weaker indoor ambient fill, mild shadows along the hair, face, hand and neck. Casual smartphone selfie qualities: close perspective, warm-neutral color cast, minor grain, informal framing; realistic photo, not a 3D render, no AI look.",
+  "visual_prompt": "A vertical smartphone selfie of the same young adult woman as in the attached reference images (Vic), framed from the upper torso to the top of the head, photographed at close range with a slightly high front-facing angle. She faces the camera with a playful expression, both eyes mostly closed, mouth open, tongue extended to one side, teeth visible. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face (hair color, length and texture also come from the reference). Her long hair is worn down, falling over one side of the face and past the chest, with visible individual strands. Her raised hand forms a peace sign near the upper left of the frame, with short glossy nails; hand with exactly five fingers, correct anatomy. She wears a solid (not sheer) black high-neck top. No jewelry, no piercings, no tattoos. The background shows an indoor room with a pale wooden door or cabinet panel on the right, a light grooved ceiling, beige walls, and bright daylight entering from the left, slightly overexposing the left edge. Lighting is mixed: strong soft daylight from the left with weaker indoor ambient fill, mild shadows along the hair, face, hand and neck. Casual smartphone selfie qualities: close perspective, warm-neutral color cast, minor grain, informal framing; smartphone-camera look: phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, not a 3D render, no AI look.",
   "negative_prompt": "changed identity, altered facial bone structure, different age or skin tone, hair recolored or restyled away from the reference; jewelry, earrings, septum or nose ring, rings, bracelets, necklaces; piercings; tattoos; sheer/see-through fabric, lingerie, visible undergarments, body-focused or sexualized framing; glamour lighting, studio backdrop, beauty retouching, porcelain skin, excessive symmetry, altered body proportions, artificial sharpness, CGI/3D/render texture, cartoon, brand logos, fantasy elements, extra fingers, deformed hands.",
   "camera_and_optics": {
     "format": "vertical smartphone selfie",
@@ -2571,7 +2571,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: em pé de frente pro espelho, corpo levemente de lado, uma das mãos segurando o celular (iPhone 15
 > Pro Max titânio preto, capinha preta) na altura do rosto e a outra segurando um copo de bebida gelada
 > com canudo; marca de dedo no espelho, enquadramento de corpo inteiro meio torto, grão suave de celular;
-> foto realista, sem retoque, sem cara de IA.
+> cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2587,7 +2587,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: standing facing the mirror, body slightly turned, one hand holding the phone (black titanium
 > iPhone 15 Pro Max, plain black case) at face height and the other holding an iced drink with a straw; a
-> fingerprint smudge on the mirror, full-body slightly tilted framing, soft phone grain; realistic photo,
+> fingerprint smudge on the mirror, full-body slightly tilted framing, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo,
 > no retouching, no AI look.
 
 ---
@@ -2612,7 +2612,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: sentada na cadeira, segurando com as duas mãos uma câmera de ação pequena preta (sem marca) na
 > frente do rosto, como se estivesse filmando quem tira a foto; mãos com cinco dedos e anatomia correta;
 > enquadramento normal da cintura pra cima com a mesa em primeiro plano, meio torto, grão suave de
-> celular; foto realista, sem retoque, sem cara de IA.
+> celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2631,7 +2631,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: seated on the chair, holding a small black action camera (no branding) with both hands in front of
 > her face, as if filming the person taking the photo; hands with five fingers and correct anatomy; normal
-> waist-up framing with the table in the foreground, slightly tilted, soft phone grain; realistic photo,
+> waist-up framing with the table in the foreground, slightly tilted, soft phone grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo,
 > no retouching, no AI look.
 
 ---
@@ -2656,7 +2656,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: caminhando descalça pela areia em direção à câmera, segurando o chapéu com as duas mãos bem na
 > frente do rosto, com a copa virada pra câmera, **cobrindo o rosto inteiro** (rosto não aparece); mãos
 > com cinco dedos e anatomia correta; foto de corpo inteiro tirada por outra pessoa, enquadramento normal
-> e meio torto, luz dura de sol; foto realista, sem retoque, sem cara de IA.
+> e meio torto, luz dura de sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2676,7 +2676,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: walking barefoot across the sand toward the camera, holding the hat with both hands right in front
 > of her face, crown facing the camera, **completely covering the face** (face not visible); hands with
 > five fingers and correct anatomy; full-body photo taken by someone else, normal slightly tilted framing,
-> harsh sunlight; realistic photo, no retouching, no AI look.
+> harsh sunlight; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2700,7 +2700,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: sentada de frente pra câmera com os braços relaxados ao lado do corpo e a mesa em primeiro plano;
 > foto tirada por quem está do outro lado da mesa, enquadramento normal da cintura pra cima, meio torto,
-> grão suave de celular em ambiente interno; foto realista, sem retoque, sem cara de IA.
+> grão suave de celular em ambiente interno; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2719,7 +2719,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > POSE: seated facing the camera with arms relaxed at her sides and the table in the foreground; photo
 > taken by the person across the table, normal waist-up framing, slightly tilted, soft indoor phone grain;
-> realistic photo, no retouching, no AI look.
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
@@ -2746,7 +2746,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: em pé na baia, vista de 3/4 de costas com o perfil do rosto aparecendo, braços estendidos
 > segurando uma pistola com as duas mãos apontada pro alvo, postura firme de tiro esportivo; mãos com
 > cinco dedos e anatomia correta; foto tirada por alguém atrás dela, enquadramento normal da cintura pra
-> cima, meio torto, grão suave de celular; foto realista, sem retoque, sem cara de IA.
+> cima, meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
@@ -2766,4 +2766,4 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > POSE: standing in the booth, seen from a 3/4 back view with her face in profile, arms extended holding a
 > pistol with both hands aimed at the target, a steady sport-shooting stance; hands with five fingers and
 > correct anatomy; photo taken by someone behind her, normal waist-up framing, slightly tilted, soft phone
-> grain; realistic photo, no retouching, no AI look.
+> grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.

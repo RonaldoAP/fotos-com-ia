@@ -157,6 +157,10 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    **acne/irritação**. Sempre usar o "bloco de pele seguro": *pele com textura natural e saudável —
    poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição.* (Isso já
    está em todos os prompts.)
+5. **⭐ Bloco "cara de celular" (fixo, no fim da POSE):** lente grande-angular de celular, quase tudo
+   em foco (**sem bokeh** de câmera profissional), HDR de celular, nitidez digital exagerada, leve
+   JPEG e balanço de branco automático. Texto exato PT/EN em `guia/06-detalhes-de-realismo.md`. Já
+   aplicado em todos os prompts (exemplos, externos e os dois JSON).
 
 ---
 

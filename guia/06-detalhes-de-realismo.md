@@ -17,6 +17,24 @@ Grão de pouca luz · um cantinho estourado de luz · leve subexposição · fla
 sombra dura · foco levemente errado · leve motion blur · distorção de lente frontal ·
 reflexo do flash nos olhos · marca de dedo/poeira na lente.
 
+### ⭐ Bloco "cara de celular" (fixo em TODO prompt, no fim da POSE)
+O que mais entrega foto de IA é o **desfoque de fundo de câmera profissional (bokeh)** e a luz
+"perfeita". Celular faz o contrário: lente grande-angular, quase tudo em foco e processamento
+digital visível. Por isso todo prompt termina com este bloco, antes de "foto realista…":
+
+> **PT:** cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
+> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
+> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
+> um pouco exagerada, leve compressão JPEG e balanço de branco automático;
+>
+> **EN:** smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything
+> in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic
+> phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
+> compression and auto white balance;
+
+Já aplicado em todos os prompts de `prompts/exemplos.md` e `prompts/externos.md`. Ele **soma**
+com as âncoras da cena (grão, torto, flash, motion blur) — não substitui.
+
 ## Enquadramento
 Torto · cortando parte da cabeça/ombro · descentralizado · horizonte inclinado · "espaço
 morto" no quadro.
