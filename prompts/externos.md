@@ -3373,3 +3373,70 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows,
 > slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
+
+---
+
+## EXT79 — Na escadaria do hotel com martini (corset rosa + saia plissada branca) — modo réplica
+
+> **Exceções aplicadas:** cabelo da Vic; sem anéis e pulseira; bolsa sem logo. Roupa, composição, luz,
+> cenário e pose idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: escadaria interna de um hotel elegante à noite; paredes lisas verde-oliva escuro; corrimão
+> de ferro preto com balaústres em formato de argola oval e detalhes de latão dourado, e um corrimão de
+> parede escuro à esquerda; degraus com espelho de pedra bege-clara e piso de carpete cinza-chumbo
+> mesclado (preto e branco), fazendo um desenho em zigue-zague onde a escada faz a curva; luz quente
+> dourada vinda de cima à esquerda, fazendo um foco de luz na parede atrás dela e brilhando no cabelo e
+> nos ombros, enquanto os cantos e a parte de cima da parede ficam escuros; clima de hotel à noite,
+> contraste médio, cores oliva, rosa-bebê, branco e cinza.
+>
+> ROUPA: top corset tomara-que-caia de cetim rosa-bebê, com um laço/drapeado no decote e costuras
+> verticais; saia branca plissada curtinha e rodada, de cintura baixa; descalça; na mão, uma bolsinha
+> baú pequena rosa-clara de alça curta (sem logo).
+>
+> DETALHES DA PESSOA: cabelo comprido, ondulado e volumoso, loiro com ombré, com reflexos dourados
+> brilhando na luz, caindo pela frente e cobrindo o rosto de lado; cabeça virada pra baixo e pro lado
+> direito do quadro, rosto escondido pelo cabelo; unhas vinho-escuro; pele com textura natural e
+> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
+> joias, sem anéis, sem pulseira, sem piercing, sem tatuagem.
+>
+> POSE: em pé num degrau da escada, corpo de frente pra câmera e levemente virado, pés juntos; uma mão
+> segura uma taça de martini com o drink claro e uma azeitona verde espetada, na altura da cintura; a
+> outra mão segura a bolsinha rosa ao lado do corpo; foto vertical de corpo inteiro tirada de cima por
+> outra pessoa alguns degraus acima, câmera inclinada pra baixo; ela fica no centro do quadro, da cabeça
+> aos pés; a parede verde ocupa a metade de cima e os degraus ocupam o terço de baixo; cara de foto de
+> câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco
+> (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático
+> de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e
+> balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: the interior staircase of an elegant hotel at night; plain dark olive-green walls; a black iron
+> railing with oval loop balusters and brass details, and a dark wall handrail on the left; steps with
+> light beige stone risers and charcoal grey speckled (black and white) carpet treads, forming a zigzag
+> pattern where the stairs turn; warm golden light from the upper left, making a pool of light on the wall
+> behind her and glowing on the hair and shoulders, while the corners and upper wall stay dark; night hotel
+> mood, medium contrast, olive, baby-pink, white and grey colors.
+>
+> OUTFIT: a baby-pink satin strapless corset top with a bow/drape at the neckline and vertical seams; a
+> short, flared white pleated low-rise skirt; barefoot; in hand, a small light-pink barrel bag with a short
+> handle (no logo).
+>
+> PERSON DETAILS: long, wavy, voluminous hair, blonde with ombré, with golden highlights shining in the
+> light, falling forward and covering the face from the side; head turned down and toward the right of
+> the frame, face hidden by the hair; dark wine nails; natural, healthy skin texture — pores and a few
+> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no rings, no bracelet, no
+> piercings, no tattoos.
+>
+> POSE: standing on a stair step, body facing the camera and slightly turned, feet together; one hand holds
+> a martini glass with a clear drink and a skewered green olive at waist height; the other hand holds the
+> pink bag at her side; vertical full-body photo taken from above by someone a few steps higher, camera
+> angled down; she stands in the center of the frame, head to feet; the green wall fills the top half and
+> the steps fill the bottom third; smartphone-camera look — phone wide-angle lens with slight edge
+> distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
+> blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
+> processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
