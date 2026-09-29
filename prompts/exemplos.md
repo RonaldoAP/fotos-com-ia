@@ -1063,6 +1063,30 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 >
 > POSE: vertical street-style shot taken from a distance, she walks; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; phone photo, slightly crooked, dusk light, light grain.
 
+## C39 — Academia / mirror selfie depois do treino
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: numa academia moderna de manhã, em frente ao espelho grande da parede da área de pesos; ao fundo, refletidos no espelho, racks de anilhas pretas, halteres organizados num suporte, um banco de supino, piso de borracha preto e algumas pessoas treinando desfocadas; luz fria de luminárias de LED no teto, com o reflexo delas aparecendo no espelho.
+>
+> ROUPA: conjunto de academia verde-oliva — top esportivo de alça larga e legging de cintura alta sem costura na frente — com tênis branco de treino e meia branca curta; uma garrafinha de água preta na mão.
+>
+> DETALHES DA PESSOA: cabelo preso num rabo de cavalo alto, loiro com ombré, com alguns fios soltos grudando na testa; expressão tranquila e satisfeita, sorriso leve, olhando pra tela do celular; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, brilho de suor de pós-treino no rosto, no colo e nos braços, abdômen definido; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pro espelho, corpo levemente de lado, peso numa perna só; uma mão segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do peito, a outra segurando a garrafinha ao lado do corpo; mirror selfie vertical de corpo inteiro, meio torta, marca de dedo e um pouco de poeira no espelho, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: in a modern gym in the morning, in front of the large wall mirror of the weights area; in the background, reflected in the mirror, black plate racks, dumbbells lined up on a rack, a bench press and a few blurred people training; cool LED ceiling lights, with their reflection showing in the mirror.
+>
+> OUTFIT: an olive-green gym set — a wide-strap sports bra and high-waisted seamless-front leggings — with white training sneakers and short white socks; a black water bottle in hand.
+>
+> PERSON DETAILS: hair in a high ponytail, blonde with ombré, with a few loose strands sticking to the forehead; calm, satisfied expression, slight smile, looking at the phone screen; natural, healthy skin texture — pores and a few faint freckles, soft redness, a post-workout sweat sheen on the face, chest and arms, defined abs; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: standing facing the mirror, body slightly turned, weight on one leg; one hand holding the phone (black titanium iPhone 15 Pro Max, plain black case) at chest height, the other holding the water bottle at her side; vertical full-body mirror selfie, slightly tilted, a fingerprint smudge and a little dust on the mirror, soft grain; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
 ---
 
 ## Registro de testes
