@@ -2770,162 +2770,245 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 
 ---
 
-## EXT71 — Selfie no quarto com luz de janela (regata branca, gato na cama)
+## EXT71 — Selfie no quarto com luz de janela (regata branca, gato na cama) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; o corte original era centrado no busto → mesmo
+> enquadramento e luz, mas o quadro corta na altura do peito, logo abaixo da linha da regata. Resto
+> idêntico ao print.
 
 **PT**
 > PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
 >
-> AMBIENTE: no quarto de casa, de tarde; ao fundo, a cama com manta cinza-clara e um gato siamês dormindo
-> enrolado em cima dela, cabeceira escura, parede clara e a porta aberta de um closet na penumbra; luz
-> natural suave entrando de lado por uma janela fora do quadro, iluminando só metade do rosto, resto do
-> quarto mais escuro.
+> AMBIENTE: quarto de casa de tarde, com pouca luz; parede lisa cinza-bege que na penumbra puxa pra um
+> tom oliva/esverdeado; no centro-alto do fundo, o vão escuro de uma porta aberta de closet, com roupas
+> escuras penduradas quase sumindo na sombra; no canto esquerdo, a ponta de uma cabeceira estofada
+> marrom-escura e a cama com manta cinza-clara felpuda, com um gato siamês (corpo creme, cara e orelhas
+> escuras) deitado enrolado perto da cabeceira; luz natural suave e difusa de uma janela fora do quadro,
+> vindo da direita e de cima, iluminando o rosto, o pescoço e o ombro dela com um tom quente dourado,
+> enquanto a metade esquerda do quarto fica em sombra; foto escura (low-key), contraste suave, cores
+> apagadas e dessaturadas em bege, oliva e marrom.
 >
-> ROUPA: uma regata branca canelada de alça larga, com decote normal.
+> ROUPA: regata branca canelada (canelado fino vertical), justa, de alça larga e decote U com barra
+> reforçada, levemente amarelada na sombra.
 >
-> DETALHES DA PESSOA: cabelo comprido solto, loiro com ombré, meio bagunçado caindo por um dos ombros;
-> expressão tranquila e preguiçosa, olhos semicerrados, sorriso leve de canto; pele com textura natural e
-> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
-> joias, sem piercing, sem tatuagem.
+> DETALHES DA PESSOA: cabelo comprido solto, loiro com ombré, repartido de lado, jogado pra trás pelo
+> lado direito do quadro com algumas mechas caindo no rosto e sobre o ombro, levemente bagunçado;
+> olhos semicerrados olhando pra baixo direto pra lente, sobrancelhas relaxadas, boca fechada com um
+> sorriso contido de canto, lábios naturais; pele com textura natural e saudável — poros e uma sardinha
+> ou outra, leve vermelhidão, brilho natural suave no nariz e bochecha pela luz da janela; sem acne, sem
+> excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
-> POSE: selfie com a câmera frontal segurada baixo, na altura do peito, apontando de baixo pra cima
-> (contra-plongée); corpo recostado na diagonal, ombros meio de lado; cabeça jogada pra trás e inclinada
-> pro lado, queixo erguido e pescoço alongado, olhando pra baixo em direção à câmera com os olhos
-> semicerrados; ela fica no lado direito do quadro, cortada um pouco pela borda, e a metade esquerda
-> mostra o quarto (cama com o gato, porta escura); o quadro corta logo abaixo dos ombros, com o rosto no
-> terço de cima; meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve
-> distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
-> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
-> um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
-> cara de IA.
+> POSE: selfie vertical com a câmera frontal segurada baixo, na altura do peito e bem perto, apontando
+> de baixo pra cima (contra-plongée); corpo recostado na diagonal pra trás e pra direita; cabeça
+> inclinada forte pro lado direito do quadro, quase encostando no ombro, com o queixo erguido e o
+> pescoço alongado; ela ocupa a metade direita do quadro, com o cabelo e o ombro direito cortados pela
+> borda direita; o rosto fica no meio do quadro, meio à direita; a metade esquerda e o terço de cima
+> mostram parede vazia, o vão do closet e a cama com o gato; o quadro corta na altura do peito, logo
+> abaixo da linha do decote; leve distorção de lente grande-angular por estar perto; imagem suave, com
+> grão fino de pouca luz nas sombras e leve perda de detalhe na parede escura; cara de foto de câmera de
+> celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no
+> máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de
+> celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e
+> balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
 >
-> SETTING: in the home bedroom, in the afternoon; in the background, the bed with a light-grey blanket and
-> a Siamese cat sleeping curled up on it, a dark headboard, a light wall and the open door of a dim
-> walk-in closet; soft natural light coming in from the side through a window out of frame, lighting only
-> half of the face, the rest of the room darker.
+> SETTING: a home bedroom in the afternoon, dimly lit; a plain grey-beige wall that shifts to an
+> olive/greenish tone in the shade; in the upper-center background, the dark opening of an open closet
+> door with dark clothes hanging, almost lost in shadow; in the left corner, the edge of a dark-brown
+> upholstered headboard and the bed with a fluffy light-grey blanket, with a Siamese cat (cream body,
+> dark face and ears) sleeping curled up near the headboard; soft, diffuse natural light from a window
+> out of frame, coming from the right and above, lighting her face, neck and shoulder with a warm golden
+> tone while the left half of the room stays in shadow; dark (low-key) photo, soft contrast, muted
+> desaturated colors in beige, olive and brown.
 >
-> OUTFIT: a white ribbed wide-strap tank top with a normal neckline.
+> OUTFIT: a fitted white ribbed tank top (fine vertical rib), wide straps and a U neckline with a bound
+> edge, slightly yellowish in the shade.
 >
-> PERSON DETAILS: long hair down, blonde with ombré, a bit messy, falling over one shoulder; calm, lazy
-> expression, half-closed eyes, slight half smile; natural, healthy skin texture — pores and a few faint
-> freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+> PERSON DETAILS: long hair down, blonde with ombré, side-parted, swept back over the right side of the
+> frame with a few strands falling across the face and over the shoulder, slightly messy; half-closed
+> eyes looking down straight into the lens, relaxed brows, closed mouth with a subtle half smile, natural
+> lips; natural, healthy skin texture — pores and a few faint freckles, soft redness, a soft natural sheen
+> on the nose and cheek from the window light; no acne, no over-imperfection; no jewelry, no piercings,
+> no tattoos.
 >
-> POSE: front-camera selfie with the phone held low, at chest height, shooting upward (low angle); body
-> reclining diagonally, shoulders slightly turned; head tipped back and tilted to the side, chin raised
-> and neck elongated, looking down toward the camera with half-closed eyes; she sits on the right side of
-> the frame, slightly cut off by the edge, while the left half shows the room (bed with the cat, dark
-> doorway); the frame cuts just below the shoulders, with the face in the upper third; slightly tilted;
-> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
-> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
-> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
-> white balance; realistic photo, no retouching, no AI look.
+> POSE: vertical front-camera selfie with the phone held low, at chest height and very close, shooting
+> upward (low angle); body reclining diagonally back and to the right; head tilted hard toward the right
+> side of the frame, almost resting on the shoulder, chin raised and neck elongated; she fills the right
+> half of the frame, with her hair and right shoulder cut off by the right edge; the face sits in the
+> middle of the frame, slightly right; the left half and the top third show empty wall, the closet
+> opening and the bed with the cat; the frame cuts at chest level, just below the neckline; slight
+> wide-angle distortion from the close distance; soft image with fine low-light grain in the shadows and
+> slight loss of detail on the dark wall; smartphone-camera look — phone wide-angle lens with slight edge
+> distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
+> blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
+> processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
 
 ---
 
-## EXT72 — Jantar no restaurante pé na areia à noite (spritz, vestido de florzinhas)
+## EXT72 — Jantar no restaurante pé na areia à noite (spritz, vestido de florzinhas) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem gargantilha, pulseira, relógio e tatuagens; o
+> vestido tomara-que-caia de decote aprofundado → mesmo vestido, mesma estampa, com alcinha fina e
+> decote normal. Resto idêntico ao print.
 
 **PT**
 > PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
 >
-> AMBIENTE: sentada à mesa de madeira de um restaurante pé na areia à noite, num deck coberto com teto
-> de ripas de madeira, luminárias de fibra com luz amarela quente e pilares brancos; na mesa, uma taça de
-> Aperol spritz com rodela de laranja e canudo, uma cestinha de vime com flores vermelhas e rosadas, um
-> porta-guardanapo de madeira com o número 34, pratos brancos, um caneco de chope vazio e uma bolsa preta
-> no canto; à esquerda, a praia iluminada à noite com uma rede de vôlei azul, gente jogando e as luzes da
-> cidade no morro; ao fundo à direita, outras mesas e clientes desfocados; luz noturna quente do
-> restaurante.
+> AMBIENTE: restaurante pé na areia à noite, num deck coberto; no alto à esquerda, um painel de teto
+> branco com duas luminárias cilíndricas de fibra trançada acesas em amarelo quente, com raios de luz em
+> estrela saindo delas; o resto do teto é de ripas de madeira mel e uma cobertura de lona branca no canto
+> superior direito; à direita, uma fileira de pilares redondos brancos iluminados indo pro fundo, mesas
+> de madeira com cadeiras de corda cinza, luminárias amarelas e alguns clientes homens desfocados; à
+> esquerda, atrás dela, um vaso branco com uma planta verde grande (costela-de-adão) iluminada, e o salão
+> aberto pra praia à noite: areia branca bem iluminada, uma rede de vôlei com luz azul neon e um poste,
+> pessoas de roupa de banho jogando, e ao longe as luzes da cidade subindo o morro sob o céu preto;
+> mesa de madeira marrom quente com jogos americanos trançados bronze e cinza; em primeiro plano, à
+> esquerda, uma cesta de vime bege com um vaso de calanchoê de flores vermelhas e rosadas e folhas
+> verdes grossas; no centro, um porta-guardanapo de madeira clara com o número "34" num círculo azul e
+> sachês de açúcar vermelho e azul; atrás dele, um prato branco com um saquinho de papel kraft; à
+> direita, um caneco de chope de vidro vazio com espuma escorrida num prato branco irregular; embaixo, a
+> borda de outro prato branco cortada pela moldura, um guardanapo bege estampado de folhas e uma bolsa
+> preta com corrente prateada no canto inferior direito; luz quente amarelada do restaurante no rosto e
+> no corpo, contraste com o azul frio da rede e das luzes da praia; cores dominantes laranja, mel e
+> marrom com um toque de azul.
 >
-> ROUPA: um vestido branco com estampa de florzinhas vermelhas, de alcinha e decote normal.
+> ROUPA: vestido branco justo com estampa pequena de florzinhas/cerejinhas vermelhas, corpo franzido
+> transpassado na frente, com alcinha fina e decote normal.
 >
-> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, repartido no meio e caindo pela frente
-> dos ombros; sorriso leve e simpático, olhando pra câmera; pele com textura natural e saudável — poros e
-> uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem relógio,
-> sem piercing, sem tatuagem.
+> DETALHES DA PESSOA: cabelo comprido bem liso solto, loiro com ombré, repartido no meio, caindo pela
+> frente dos dois ombros até abaixo do peito; sobrancelhas marcadas, maquiagem com delineado gatinho e
+> cílios definidos, boca com batom nude rosado brilhante; sorriso fechado e simpático de canto, cabeça
+> levemente inclinada, olhando direto pra câmera; unhas longas amendoadas brancas; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, pele com brilho dourado pela luz
+> quente; sem acne, sem excesso de imperfeição; sem joias, sem relógio, sem piercing, sem tatuagem.
 >
-> POSE: sentada inclinada pra frente com os antebraços apoiados na mesa, uma das mãos segurando o canudo
-> do drink perto do rosto, cabeça levemente inclinada; foto tirada por quem está do outro lado da mesa,
-> com a mesa e a cestinha de flores em primeiro plano, enquadramento normal da cintura pra cima, meio
-> torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
-> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
-> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
-> um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
-> cara de IA.
-
-**EN**
-> CHARACTER: the same person as in the reference images (Vic).
->
-> SETTING: seated at a wooden table in a beachfront restaurant at night, on a covered deck with a slatted
-> wooden ceiling, woven pendant lamps with warm yellow light and white columns; on the table, an Aperol
-> spritz glass with an orange slice and a straw, a small wicker basket of red and pink flowers, a wooden
-> napkin holder with the number 34, white plates, an empty beer mug and a black handbag in the corner; to
-> the left, the lit beach at night with a blue volleyball net, people playing and the city lights on the
-> hill; in the background to the right, other tables and blurred diners; warm night restaurant light.
->
-> OUTFIT: a white dress with a small red floral print, thin straps and a normal neckline.
->
-> PERSON DETAILS: long straight hair down, blonde with ombré, center part, falling over the front of the
-> shoulders; soft, friendly smile, looking at the camera; natural, healthy skin texture — pores and a few
-> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no watch, no piercings, no
-> tattoos.
->
-> POSE: seated leaning forward with forearms resting on the table, one hand holding the drink's straw near
-> her face, head slightly tilted; photo taken by the person across the table, with the table and the
-> flower basket in the foreground, normal waist-up framing, slightly tilted; smartphone-camera look —
-> phone wide-angle lens with slight edge distortion, almost everything in focus (background at most
-> slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
-> shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
-> realistic photo, no retouching, no AI look.
-
----
-
-## EXT73 — Mirror selfie sentada na cama, quarto escuro (regata + short de moletom)
-
-**PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
->
-> AMBIENTE: no quarto de casa com pouca luz, refletido num espelho de parede com borda orgânica/ondulada;
-> cama com colcha branca matelassê e um gato siamês deitado num canto dela, piso de madeira, teto claro com
-> um trilho preto de spots apagados, paredes claras e um corredor escuro ao fundo levando pra outro
-> cômodo; luz natural fraca e lateral, clima escuro e aconchegante.
->
-> ROUPA: uma regata branca canelada de alça larga com decote normal e um short de moletom cinza-mescla
-> confortável.
->
-> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pelas costas; expressão
-> tranquila, boca levemente em biquinho, olhando pro celular no espelho; pele com textura natural e
-> saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
-> joias, sem piercing, sem tatuagem.
->
-> POSE: sentada na beira da cama de frente pro espelho, pernas juntas e relaxadas, segurando o celular
-> (iPhone 15 Pro Max titânio preto, capinha preta) um pouco de lado na altura do rosto, deixando o rosto
-> visível, a outra mão apoiada no colo; mirror selfie com enquadramento normal, a borda ondulada do espelho
-> aparecendo à esquerda, meio torto, marca de dedo no espelho, grão de pouca luz; cara de foto de câmera
-> de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no
-> máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular
-> com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de
+> POSE: sentada atrás da mesa, levemente à direita do centro, inclinada pra frente com o antebraço
+> esquerdo apoiado na mesa; a mão direita levantada perto do rosto, cotovelo apoiado, segurando o canudo
+> branco de uma taça de vinho com Aperol spritz laranja e rodela de laranja, que fica na frente do peito
+> dela; foto vertical tirada por alguém sentado do outro lado da mesa, câmera na altura dos olhos
+> apontando levemente pra baixo; ela ocupa o meio do quadro (cabeça no terço de cima, corte na cintura
+> pela mesa); a metade de baixo do quadro é toda mesa com os objetos em primeiro plano; o terço de cima
+> é teto com as luminárias; foto noturna de celular limpa e nítida, com starburst nas lâmpadas, leve
+> ruído nas sombras e altas-luzes das luminárias levemente estouradas; cara de foto de câmera de celular
+> — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo
+> levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com
+> sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de
 > branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
 > CHARACTER: the same person as in the reference images (Vic).
 >
-> SETTING: in a dimly lit home bedroom, reflected in a wall mirror with an organic, wavy edge; a bed with
-> a white quilted cover and a Siamese cat lying in one corner of it, a wooden floor, a light ceiling with
-> a black track of switched-off spotlights, light walls and a dark hallway in the background leading to
-> another room; weak natural side light, dark and cozy mood.
+> SETTING: a beachfront restaurant at night, on a covered deck; at top left, a white ceiling panel with
+> two cylindrical woven-fiber lamps glowing warm yellow, with starburst light rays; the rest of the
+> ceiling is honey-colored wooden slats, with a white canvas cover in the upper-right corner; to the
+> right, a row of lit round white columns receding into the background, wooden tables with grey rope
+> chairs, yellow lamps and a few blurred male diners; to the left, behind her, a white planter with a big
+> lit green plant (monstera), and the room opening onto the beach at night: brightly lit white sand, a
+> volleyball net glowing neon blue with a pole, people in swimwear playing, and in the distance the city
+> lights climbing the hill under a black sky; a warm brown wooden table with woven bronze-and-grey
+> placemats; in the foreground, on the left, a beige wicker basket with a potted kalanchoe of red and pink
+> flowers and thick green leaves; in the center, a light wooden napkin holder with the number "34" in a
+> blue circle and red and blue sugar packets; behind it, a white plate with a small kraft paper bag; on
+> the right, an empty glass beer mug with foam streaks on an irregular white plate; at the bottom, the
+> edge of another white plate cut by the frame, a beige leaf-print napkin and a black handbag with a
+> silver chain in the lower-right corner; warm yellowish restaurant light on her face and body,
+> contrasting with the cold blue of the net and beach lights; dominant colors orange, honey and brown with
+> a touch of blue.
 >
-> OUTFIT: a white ribbed wide-strap tank top with a normal neckline and comfy heather-grey sweat shorts.
+> OUTFIT: a fitted white dress with a small red flower/cherry print, gathered wrap-front bodice, thin
+> straps and a normal neckline.
 >
-> PERSON DETAILS: long straight hair down, blonde with ombré, falling down the back; calm expression, lips
-> slightly pouted, looking at the phone in the mirror; natural, healthy skin texture — pores and a few
-> faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+> PERSON DETAILS: very straight long hair down, blonde with ombré, center part, falling over the front of
+> both shoulders to below the chest; defined brows, winged eyeliner and defined lashes, glossy rosy-nude
+> lips; closed friendly half smile, head slightly tilted, looking straight at the camera; long white
+> almond nails; natural, healthy skin texture — pores and a few faint freckles, soft redness, golden glow
+> from the warm light; no acne, no over-imperfection; no jewelry, no watch, no piercings, no tattoos.
 >
-> POSE: sitting on the edge of the bed facing the mirror, legs together and relaxed, holding the phone
-> (black titanium iPhone 15 Pro Max, plain black case) slightly to the side at face height so the face
-> stays visible, the other hand resting on her lap; mirror selfie with normal framing, the wavy mirror
-> edge showing on the left, slightly tilted, a fingerprint smudge on the mirror, low-light grain;
+> POSE: seated behind the table, slightly right of center, leaning forward with her left forearm on the
+> table; her right hand raised near her face, elbow resting, holding the white straw of a wine glass of
+> orange Aperol spritz with an orange slice, which stands in front of her chest; vertical photo taken by
+> someone sitting across the table, camera at eye level angled slightly down; she fills the middle of the
+> frame (head in the top third, cut at the waist by the table); the bottom half of the frame is all table
+> with the foreground objects; the top third is ceiling with the lamps; clean, sharp phone night photo
+> with starbursts on the bulbs, slight noise in the shadows and slightly blown highlights on the lamps;
 > smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
 > with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
 > white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT73 — Mirror selfie sentada na cama, quarto escuro (regata + shortinho azul) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; a calcinha de renda azul → **shortinho de algodão
+> azul-royal** (mesma cor); a mão que levantava a regata → **mão segurando a barra da regata na cintura,
+> sem levantar** (regata cobrindo até o cós). Celular: iPhone padrão da Vic no lugar da capinha vermelha
+> — se quiser idêntico ao print, trocar por "capinha vermelha com um pop socket bege". Resto idêntico.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: quarto escuro de apartamento moderno, visto por um espelho de parede de formato orgânico com
+> borda ondulada; a borda curva do espelho e a parede bege fora dele aparecem ocupando a faixa da esquerda
+> do quadro, de cima a baixo; no reflexo: teto liso cinza-claro ocupando o terço de cima, com um trilho
+> preto de dois spots apagados no canto superior esquerdo; ao fundo no centro, uma coluna/parede branca
+> e o vão de uma porta; à direita, um painel alto preto (porta de armário) e um corredor que leva a um
+> cômodo mais claro ao longe (cozinha com uma planta); embaixo à esquerda, a cama com colcha branca
+> matelassê em diagonal e um gato siamês deitado na ponta esquerda da cama; embaixo à direita, piso de
+> taco de madeira quente; luz natural fraca vindo da direita, iluminando suavemente o lado direito dela,
+> o resto do quarto em sombra profunda; foto escura e melancólica, contraste baixo, cores dessaturadas em
+> cinza, preto, branco sujo e madeira.
+>
+> ROUPA: regata branca canelada justa de alça larga e decote U, e um shortinho de algodão azul-royal.
+>
+> DETALHES DA PESSOA: cabelo comprido bem liso solto, loiro com ombré, caindo por trás dos ombros e
+> descendo até a cintura pelo lado direito; o celular cobre um olho e metade do rosto, o outro olho e a
+> boca aparecem, boca em biquinho, olhando pra tela; pele com textura natural e saudável — poros e uma
+> sardinha ou outra, leve vermelhidão, brilho suave nos ombros onde a luz bate; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: mirror selfie vertical; sentada na beira da cama, de frente pro espelho com o corpo levemente
+> virado, coxas pra frente saindo pela borda de baixo do quadro; uma mão segura o celular (iPhone 15 Pro
+> Max titânio preto, capinha preta) na frente do rosto na altura do olho, cotovelo pra fora; a outra mão
+> segura a barra da regata na cintura, sem levantar; ela ocupa a metade de baixo do quadro, um pouco à
+> esquerda do centro, cortada no meio das coxas pela borda de baixo; a metade de cima é teto e quarto
+> vazio; câmera na altura do rosto dela; imagem escura com bastante grão de pouca luz, sombras esmagadas
+> e leve perda de detalhe nos pretos; cara de foto de câmera de celular — lente grande-angular de celular
+> com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte
+> de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez
+> digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem
+> retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a dark modern apartment bedroom, seen through an organic-shaped wall mirror with a wavy edge;
+> the curved mirror edge and the beige wall outside it fill the left strip of the frame from top to
+> bottom; in the reflection: a plain light-grey ceiling filling the top third, with a black track of two
+> switched-off spotlights in the upper-left corner; in the center background, a white column/wall and a
+> door opening; on the right, a tall black panel (wardrobe door) and a hallway leading to a brighter room
+> far away (kitchen with a plant); at bottom left, the bed with a white quilted cover running diagonally
+> and a Siamese cat lying at the left end of the bed; at bottom right, warm wooden parquet floor; weak
+> natural light coming from the right, softly lighting her right side, the rest of the room in deep
+> shadow; dark, moody photo, low contrast, desaturated colors in grey, black, off-white and wood.
+>
+> OUTFIT: a fitted white ribbed wide-strap tank top with a U neckline, and royal-blue cotton shorts.
+>
+> PERSON DETAILS: very straight long hair down, blonde with ombré, falling behind the shoulders and down
+> to the waist on the right side; the phone covers one eye and half of the face, the other eye and the
+> mouth show, lips pouted, looking at the screen; natural, healthy skin texture — pores and a few faint
+> freckles, soft redness, a soft sheen on the shoulders where the light hits; no acne, no
+> over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: vertical mirror selfie; sitting on the edge of the bed, facing the mirror with the body slightly
+> turned, thighs forward running out of the bottom edge of the frame; one hand holds the phone (black
+> titanium iPhone 15 Pro Max, plain black case) in front of the face at eye level, elbow out; the other
+> hand holds the hem of the tank top at the waist, without lifting it; she fills the bottom half of the
+> frame, slightly left of center, cut at mid-thigh by the bottom edge; the top half is ceiling and empty
+> room; camera at her face height; dark image with plenty of low-light grain, crushed shadows and slight
+> loss of detail in the blacks; smartphone-camera look — phone wide-angle lens with slight edge
+> distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
+> blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
+> processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
