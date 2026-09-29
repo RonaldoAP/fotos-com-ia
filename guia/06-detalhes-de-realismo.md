@@ -35,6 +35,31 @@ digital visível. Por isso todo prompt termina com este bloco, antes de "foto re
 Já aplicado em todos os prompts de `prompts/exemplos.md` e `prompts/externos.md`. Ele **soma**
 com as âncoras da cena (grão, torto, flash, motion blur) — não substitui.
 
+### 🎞️ Preset de efeito: flash com arrasto (slow sync) + filme 35mm
+Efeito de foto noturna de rua em que o **flash congela o rosto nítido** e o obturador lento deixa
+**rastro de movimento** no cabelo, nas mãos e nas luzes. Colar no fim da POSE **no lugar** do bloco
+"cara de celular" (aquele bloco pede "quase tudo em foco", o que briga com o rastro).
+
+> **PT:** efeito de flash direto com obturador lento (flash com arrasto): o rosto e o corpo congelados e
+> nítidos pelo flash, com um leve contorno fantasma em volta; o cabelo em movimento com rastro borrado;
+> a mão em movimento levemente borrada; as luzes do fundo esticadas em riscos e manchas de luz quente
+> por causa do movimento da câmera; fundo escuro com luzes amareladas e vermelhas borradas; pele com
+> brilho do flash e blush rosado estourado nas bochechas, brancos da roupa levemente estourados; look de
+> câmera compacta analógica de 35mm: grão de filme visível, cores quentes puxando pro laranja e dourado,
+> pretos levemente lavados, leve vinheta nos cantos; foto realista, sem retoque, sem cara de IA.
+>
+> **EN:** direct flash with slow shutter (drag-the-shutter / slow-sync flash): the face and body frozen
+> sharp by the flash, with a faint ghost outline around them; the moving hair with a blurred motion
+> trail; the moving hand slightly blurred; the background lights stretched into streaks and smears of
+> warm light from camera movement; dark background with blurred yellow and red lights; flash sheen on the
+> skin and blown-out rosy blush on the cheeks, whites of the clothes slightly blown out; 35mm analog
+> point-and-shoot look: visible film grain, warm colors leaning orange and gold, slightly lifted blacks,
+> slight vignette in the corners; realistic photo, no retouching, no AI look.
+
+Funciona melhor em cena **noturna com luzes no fundo** (rua, festa, restaurante) e com **algo se
+mexendo** (cabelo virando, mão, pessoas passando). Pra reforçar o rastro, escrever na POSE o
+movimento: "virando a cabeça rápido, cabelo balançando".
+
 ## Enquadramento
 Torto · cortando parte da cabeça/ombro · descentralizado · horizonte inclinado · "espaço
 morto" no quadro.
