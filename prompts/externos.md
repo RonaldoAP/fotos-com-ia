@@ -2787,9 +2787,12 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
 > joias, sem piercing, sem tatuagem.
 >
-> POSE: selfie com a câmera frontal de braço esticado, levemente de baixo pra cima, cabeça inclinada pro
-> lado e encostada no ombro; enquadramento do rosto e ombros (do topo da cabeça até a altura das
-> clavículas), meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve
+> POSE: selfie com a câmera frontal segurada baixo, na altura do peito, apontando de baixo pra cima
+> (contra-plongée); corpo recostado na diagonal, ombros meio de lado; cabeça jogada pra trás e inclinada
+> pro lado, queixo erguido e pescoço alongado, olhando pra baixo em direção à câmera com os olhos
+> semicerrados; ela fica no lado direito do quadro, cortada um pouco pela borda, e a metade esquerda
+> mostra o quarto (cama com o gato, porta escura); o quadro corta logo abaixo dos ombros, com o rosto no
+> terço de cima; meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve
 > distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
 > profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
 > um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
@@ -2809,9 +2812,12 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > expression, half-closed eyes, slight half smile; natural, healthy skin texture — pores and a few faint
 > freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
-> POSE: arm's-length front-camera selfie, slightly from below, head tilted to the side resting against
-> the shoulder; face-and-shoulders framing (from the top of the head down to the collarbones), slightly
-> tilted; smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything
-> in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic
-> phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
-> compression and auto white balance; realistic photo, no retouching, no AI look.
+> POSE: front-camera selfie with the phone held low, at chest height, shooting upward (low angle); body
+> reclining diagonally, shoulders slightly turned; head tipped back and tilted to the side, chin raised
+> and neck elongated, looking down toward the camera with half-closed eyes; she sits on the right side of
+> the frame, slightly cut off by the edge, while the left half shows the room (bed with the cat, dark
+> doorway); the frame cuts just below the shoulders, with the face in the upper third; slightly tilted;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
