@@ -168,6 +168,10 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    referência da Vic; (3) lingerie/transparência/peça íntima → peça equivalente mais próxima (mesmo
    corte, cor, caimento); (4) recorte feito pra destacar corpo → mesma pose/luz, só o corte muda o
    mínimo. Checklist de precisão em `prompts/templates.md` (seção "Modo réplica").
+7. **⭐ Trava de rosto (Seedream 5 Pro / multi-referência):** Imagem 1 = sempre o rosto da Vic; a linha
+   PERSONAGEM de todos os prompts já trava a identidade na Imagem 1; nunca descrever formato de rosto
+   (boca carnuda, sobrancelha grossa, pele bronzeada) — maquiagem só por cor. Regras em
+   `guia/05-consistencia-banana-pro.md` (seção "Seedream 5 Pro").
 
 ---
 

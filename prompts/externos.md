@@ -15,7 +15,7 @@ Gemini lê texto natural; aqui fica só a prosa já adaptada.
 _Origem: prompt JSON (retrato sentada, sofá creme, parede branca texturizada, luz de dia)._
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um ambiente bem claro e branco, de dia, com um sofá/chaise de tecido creme; atrás, uma
 > parede branca texturizada com nichos arredondados e umas partes de pedra cinza embutidas, e uma
@@ -33,7 +33,7 @@ _Origem: prompt JSON (retrato sentada, sofá creme, parede branca texturizada, l
 > nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bright white interior, during the day, with a cream-colored couch/lounge; behind her, a
 > white textured plaster wall with rounded recessed niches and gray stone-like inset patches, and a
@@ -59,7 +59,7 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 (dedo na boca → ajeitando o rabo), + bolsa de treino no banco._
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um vestiário de academia; atrás, os armários do vestiário, um banco com uma bolsa de treino
 > em cima e o teto com luminárias; luz artificial branca do teto, meio dura, com sombra suave.
@@ -75,7 +75,7 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 > qualquer jeito, foto de celular meio torta, leve grão, fundo nítido; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a gym locker room; behind her, the locker-room lockers, a bench with a gym bag on it, and
 > ceiling light panels; bright white artificial ceiling light, a bit harsh, with soft shadows.
@@ -97,7 +97,7 @@ Variação: cor da roupa (verde → lilás), local (banheiro → vestiário com 
 _Variação da base fitness, movida pra praia (manhã)._
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: a praia de manhã cedo; atrás, a faixa de areia, o mar com ondas quebrando e o céu de manhã
 > meio nublado, uns quiosques e pessoas pequenas ao longe; luz natural suave da manhã.
@@ -112,7 +112,7 @@ _Variação da base fitness, movida pra praia (manhã)._
 > retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the beach early in the morning; behind her, the stretch of sand, the sea with breaking waves
 > and an overcast morning sky, some beach kiosks and small distant people; soft natural morning light.
@@ -132,7 +132,7 @@ _Variação da base fitness, movida pra praia (manhã)._
 _Variação: de frente pra câmera, olhar firme e confiante (expressão, não sexualização)._
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: a praia de manhã; atrás, a faixa de areia, o mar com ondas e o céu de manhã meio nublado;
 > luz natural suave da manhã.
@@ -147,7 +147,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > (leve distorção), vertical, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the beach in the morning; behind her, the stretch of sand, the sea with waves and an overcast
 > morning sky; soft natural morning light.
@@ -166,7 +166,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT5 — Cozy bed selfie / flash de noite
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um quarto à noite; o flash duro ilumina ela e o fundo fica escuro atrás — dá pra ver de leve
 > um criado-mudo desfocado com um abajur e uma plantinha; lençol branco amassado.
@@ -181,7 +181,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > flash do celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular com flash, meio torta, leve grão e ruído de noite.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bedroom at night; the hard flash lights her up while the background goes dark — you can
 > faintly see a blurred nightstand with a lamp and a small plant; wrinkled white bedding.
@@ -200,7 +200,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT6 — Selfie noturna escura / pouca luz
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um quarto bem escuro à noite; só a luz fraca e meio fria do celular ilumina o rosto, os óculos
 > e os travesseiros brancos; o resto some no escuro, com bastante grão e ruído de pouca luz.
@@ -215,7 +215,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > do peito pra cima; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; selfie de celular em pouca luz, meio torta, bastante grão.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a very dark room at night; only the dim, slightly cool phone light lights her face, glasses and
 > the white pillows; everything else falls into deep shadow, heavy low-light grain and noise.
@@ -234,7 +234,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT7 — Sofá / gamer preguiçosa
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um sofá de tecido cinza com textura de tecido e botõezinhos (captonê), com almofadas grandes
 > atrás da cabeça; atrás, cortinas brancas numa janela com uma luz de dia meio fria entrando; espalhados
@@ -252,7 +252,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > jeito, meio torta, leve grão.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a gray fabric sofa with soft fabric texture and tufted buttons, large cushions behind her head;
 > behind her, white curtains at a window with cool daylight filtering in; scattered on the sofa: a dark
@@ -273,7 +273,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT8 — Barco / selfie de sol (língua de fora)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um barco de dia com sol forte, a água verde-escura atrás; fundo: água verde-escura de um lado
 > e a borda clara de um barco do outro, sol duro e sombra forte; sol forte batendo, deixando um brilho de
@@ -291,7 +291,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > meio torta.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a boat on a sunny day, dark green water behind her; background: dark green water on one side and
 > the pale edge of a boat on the other, hard sun and deep shadow; strong sun creating a wet sheen on her
@@ -312,7 +312,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT9 — Quarto / retrato em pé (blusa branca + jeans)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: o quarto: parede clara, uma TV na parede, uma cômoda creme com puxadores redondos, um vaso de
 > vidro com florzinhas rosa e amarelo claro, um roupão branco pendurado à direita, uma porta de madeira à
@@ -331,7 +331,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > costas; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular vertical, meio torta, leve grão, fundo com leve desfoque de celular.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the bedroom: a pale wall, a wall-mounted TV, a cream dresser with round knobs, a glass vase with
 > pale pink and yellow flowers, a white robe hanging on the right, a wooden door on the left, and light
@@ -352,7 +352,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT10 — Treino em casa / alongamento no tapete
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um cômodo claro com bastante sol entrando pela janela, um tapete de yoga preto no chão de
 > madeira; atrás, um espelho grande, parede branca, uma janela de moldura preta, uma estante branca com
@@ -370,7 +370,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > luz de dia, leve grão.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bright room with lots of sun through the window, a black yoga mat on the wood floor; behind
 > her, a large mirror, a white wall, a black-framed window, white shelving with books, and gray workout
@@ -389,7 +389,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT11 — Banheiro / mirror selfie na bancada (biquíni + jeans)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um banheiro com azulejo azul-claro à esquerda, uma porta de madeira escura atrás, um box de
 > vidro azulado à direita com marcas de água, e a pia branca com torneira cromada em primeiro plano
@@ -409,7 +409,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > espelho, meio torta, leve grão.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bathroom with light blue tiles on the left, a dark wooden door behind, a bluish glass shower
 > with water marks on the right, and a white sink with a chrome faucet in the lower foreground, the black
@@ -431,7 +431,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT12 — Selfie de banheiro (poltrona, óculos, luz difusa)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um banheiro claro, no fim do dia; ao fundo dá pra ver a banheira branca no canto, parede de
 > mármore claro e chão de porcelanato claro com reflexos suaves; luz de banheiro clara e difusa, sombra
@@ -451,7 +451,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > câmera perto e de cima, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bright bathroom, end of the day; behind her you can see a white freestanding bathtub in the
 > corner, light marble wall, and pale glossy floor tiles with soft reflections; bright diffuse bathroom
@@ -473,7 +473,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT13 — Mirror selfie academia à noite (look Flamengo)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: uma academia à noite, quase vazia; ao fundo, no reflexo, dá pra ver os aparelhos de musculação,
 > halteres no rack, piso emborrachado escuro e as luzes do teto meio amareladas da academia à noite;
@@ -495,7 +495,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a gym at night, almost empty; behind her, in the reflection, you can see weight machines,
 > dumbbells on the rack, dark rubber flooring and the yellowish ceiling lights of the gym at night; indoor
@@ -519,7 +519,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT14 — Cadeira de praia, se bronzeando ao sol
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: uma praia, com uma cadeira de praia dobrável; ao redor, a areia clara com algumas pegadas, uma
 > canga estampada jogada na cadeira do lado e o mar azul ao fundo meio desfocado; sol forte de fim de tarde
@@ -536,7 +536,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > improviso, grão suave de foto de celular no sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a beach, with a folding beach chair; around her, light sand with a few footprints, a printed
 > sarong tossed on the chair beside her, and the blue sea slightly out of focus in the background; strong
@@ -558,7 +558,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT15 — Mirror selfie de corpo inteiro na academia (parede amarelada)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: uma academia; ao fundo, a parede de porcelanato grande em tom bege-amarelado quente, aparelhos
 > de musculação pretos dos dois lados, anilhas e piso emborrachado escuro; luz de teto quente e uniforme da
@@ -579,7 +579,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a gym; behind her, a big warm beige-yellow tiled wall, black weight machines on both sides,
 > plates and dark rubber flooring; warm even ceiling lighting, soft shadow on the floor.
@@ -603,7 +603,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT16 — Museu do Amanhã, sentada na borda (dia de sol)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: a beirada de pedra do espelho d'água do Museu do Amanhã, no Rio, num dia de sol forte; atrás
 > dela, a estrutura branca futurista do museu com as aletas, a água azul-esverdeada do espelho d'água
@@ -622,7 +622,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the stone edge of the reflecting pool at the Museu do Amanhã in Rio, on a bright sunny day;
 > behind her, the white futuristic structure of the museum with its fins, the blue-green water of the
@@ -644,7 +644,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT17 — Mirante ao pôr do sol, Pão de Açúcar ao fundo (short branco)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um mirante no Rio, no fim da tarde, com o Pão de Açúcar e a Baía de Guanabara ao fundo, um muro
 > de pedra; atrás dela, o morro do Pão de Açúcar em contraluz, o mar dourado refletindo o sol com vários
@@ -663,7 +663,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > no contraluz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a lookout in Rio, late afternoon, with Sugarloaf Mountain and Guanabara Bay in the background, a
 > stone wall; behind her, the Sugarloaf hill backlit, the golden sea reflecting the sun with lots of little
@@ -686,7 +686,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT18 — Mirror selfie de quarto (macacão jeans, óculos)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: o quarto dela, de dia: guarda-roupa de porta clara atrás, uma cama com colcha rosa à esquerda,
 > um piso de madeira, uma penteadeira com espelho e uns potinhos coloridos à direita, uma porta de madeira
@@ -706,7 +706,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: her bedroom, daytime: a light-door wardrobe behind her, a bed with a pink cover on the left,
 > wooden floor, a vanity with a mirror and little colorful pots on the right, a dark wooden door in the
@@ -728,7 +728,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT19 — Deitada na cama, mirror selfie preguiçosa
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um quarto num fim de tarde preguiçoso; cama com colcha clara amassada, um edredom verde-claro e
 > uma manta laranja de tricô jogada nos pés, uma cabeceira de tecido marrom atrás, um criado-mudo estampado
@@ -748,7 +748,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bedroom on a lazy late afternoon; bed with a rumpled light cover, a pale green duvet and a knit
 > orange throw tossed at the foot, a brown fabric headboard behind, a patterned nightstand to the side; warm
@@ -771,7 +771,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT20 — Manhã na cama, escrevendo no caderno (café gelado)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um quarto numa manhã preguiçosa; na frente dela, uma bandeja de madeira com o caderno aberto e
 > um copo de café gelado com gelo e leite; cama de lençol branco amassado, uma cabeceira de madeira rústica
@@ -789,7 +789,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bedroom on a lazy morning; in front of her, a wooden tray with the open notebook and a glass of
 > iced coffee with ice and milk; bed with rumpled white sheets, a rustic wooden headboard behind with big
@@ -810,7 +810,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT21 — Selfie deitada na cama ao pôr do sol (camiseta + short)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um quarto no fim de tarde; cama de lençol claro amassado; atrás, uma janela com persiana branca
 > meio aberta deixando entrar a luz alaranjada do pôr do sol, cortina branca leve dos lados, parede
@@ -828,7 +828,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bedroom at late afternoon; bed with rumpled light sheets; behind her, a window with a half-open
 > white shutter letting in the orange sunset light, light white curtains on the sides, pale blue wall; warm
@@ -850,7 +850,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT22 — Camping, vista de dentro da barraca
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um acampamento, dentro da barraca; pela abertura arredondada da barraca dá pra ver os pinheiros
 > altos, o mar azul ao longe entre os troncos e a luz do dia batendo forte lá fora, um cachorrinho peludo
@@ -868,7 +868,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > suave de foto de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a campsite, inside the tent; through the round tent opening you can see tall pine trees, the blue
 > sea in the distance between the trunks and the bright daylight outside, a small fluffy dog sitting just
@@ -889,7 +889,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT23 — Selfie no quarto, corpo na camisa xadrez (manhã)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: o quarto de manhã; cama de lençol claro amassado, um criado-mudo escuro atrás meio desfocado com
 > uns potes, cabeceira de madeira; luz de manhã suave entrando de lado, sombra macia.
@@ -908,7 +908,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the bedroom in the morning; bed with rumpled light sheets, a dark nightstand blurred behind with
 > some jars, a wooden headboard; soft morning light coming from the side, gentle shadows.
@@ -930,7 +930,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT24 — Dentro do carro (banco de couro caramelo, fim de tarde)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: um carro, num fim de tarde; dentro do carro dá pra ver o painel de madeira e couro, o volante e
 > o cinto de segurança atravessado; pela janela, o estacionamento e umas árvores desfocadas lá fora com a
@@ -949,7 +949,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a car, late afternoon; inside the car you can see the wood-and-leather dashboard, the steering
 > wheel and the seatbelt across her; through the window, the parking lot and some blurred trees outside with
@@ -971,7 +971,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT25 — Selfie deitada na cama (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente
 > preenchendo o rosto (ou luz natural de fim de tarde, se preferir).
@@ -988,7 +988,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + warm lamp filling the
 > face (or natural late-afternoon light if you prefer).
@@ -1009,7 +1009,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT26 — Lendo um livro na cama à noite (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente do
 > criado-mudo iluminando as páginas; luz baixa e aconchegante de noite.
@@ -1026,7 +1026,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + the warm nightstand lamp
 > lighting the pages; low cozy night light.
@@ -1046,7 +1046,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT27 — Pijama de cetim rosa, deitada (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente
 > deixando um brilho rosado no rosto; luz baixa e aconchegante de noite.
@@ -1063,7 +1063,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + warm lamp casting a rosy
 > glow on her face; low cozy night light.
@@ -1083,7 +1083,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT28 — Selfie rosa deitada (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente no
 > rosto (ou luz suave de fim de tarde, se preferir).
@@ -1101,7 +1101,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + warm lamp on her face
 > (or soft late-afternoon light if you prefer).
@@ -1122,7 +1122,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT29 — Pijama Hello Kitty, deitada (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente no
 > rosto; luz baixa e aconchegante.
@@ -1139,7 +1139,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + warm lamp on her face;
 > low cozy light.
@@ -1159,7 +1159,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT30 — Pijama de cetim branco, sentada (quarto-padrão)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em **[COR DA LED]** + abajur quente no
 > rosto; luz baixa e aconchegante.
@@ -1174,7 +1174,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque de beleza, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference); ceiling LED light in **[LED COLOR]** + warm lamp on her face;
 > low cozy light.
@@ -1193,7 +1193,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT31 — Mirror selfie na sala (vestido rosa, going-out)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na sala, em frente a um espelho de corpo; atrás, um sofá cinza com uns bichinhos de
 > pelúcia, um pôster colorido na parede, piso de madeira clara; luz interna quente e uniforme.
@@ -1209,7 +1209,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the living room, in front of a full-length mirror; behind her, a grey couch with some
 > plushies, a colorful poster on the wall, light wood floor; warm even indoor light.
@@ -1229,7 +1229,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT32 — Mirror selfie (vestidinho preto, going-out)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num quarto/sala de parede clara com luz rosada; luz interna quente e suave, parede com
 > um leve degradê rosa da iluminação.
@@ -1245,7 +1245,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a light-walled room with a rosy glow; warm soft indoor light, the wall with a light
 > pink gradient from the lighting.
@@ -1265,7 +1265,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT33 — Mirror selfie fitness na sala (legging, de frente)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na sala ampla e clara, em frente a um espelho grande; atrás, um sofá grande cinza de
 > canto com almofadas, janelões com luz de dia, um ventilador de teto e um tapete estampado; luz
@@ -1282,7 +1282,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the bright open living room, in front of a big mirror; behind her, a big grey
 > sectional couch with cushions, large windows with daylight, a ceiling fan and a patterned rug; bright
@@ -1303,7 +1303,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT34 — Vestido branco canelado, retrato de frente
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, encostada numa parede clara com moldura de boiserie e piso de madeira;
 > luz de dia suave e uniforme entrando de lado.
@@ -1320,7 +1320,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > postura relaxada; foto de celular meio torta, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors, leaning against a light wall with boiserie molding and a wood floor; soft even
 > daylight from the side.
@@ -1340,7 +1340,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT35 — Mirror selfie cozy com café (moletom + flare)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa sala/quarto claro de manhã, em frente a um espelho grande; poltrona rosa de
 > pelúcia do lado, parede clara, carpete bege; luz de dia suave e uniforme.
@@ -1358,7 +1358,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a bright living room/bedroom in the morning, in front of a big mirror; a pink fuzzy
 > armchair to the side, light wall, beige carpet; soft even daylight.
@@ -1379,7 +1379,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT36 — Mirror selfie na luz dourada (moletom + legging)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada num sofá/puff escuro de tecido macio numa sala, no fim de tarde; luz dourada do
 > pôr do sol entrando forte pela janela e batendo de lado no rosto; ao fundo, uma varanda e um
@@ -1397,7 +1397,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: sitting on a dark soft couch/pouf in a living room, late afternoon; golden sunset light
 > coming strong through the window and hitting the side of her face; a balcony and a blurred mirror/TV
@@ -1418,7 +1418,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT37 — Mirror selfie no chão com fone (top preto + legging)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada no chão de carpete encostada numa parede bege lisa, dentro de casa; luz interna
 > quente e suave, sombra macia na parede.
@@ -1436,7 +1436,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: sitting on carpet against a plain beige wall, indoors; warm soft indoor light, gentle shadow
 > on the wall.
@@ -1457,7 +1457,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT38 — Mirror selfie no banheiro (moletom vermelho + short)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num banheiro claro, em frente ao espelho; uma toalha bege pendurada do lado, um armário de
 > porta clara atrás, bancada branca embaixo; luz interna quente e suave.
@@ -1473,7 +1473,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a bright bathroom, in front of the mirror; a beige towel hanging to the side, a
 > light-door cabinet behind, a white countertop below; warm soft indoor light.
@@ -1493,7 +1493,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT39 — Conjunto cinza loungewear, retrato de frente
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, em frente a uma parede clara com moldura de boiserie, uma cortina branca
 > leve de um lado; luz de dia suave e difusa entrando pela janela.
@@ -1510,7 +1510,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > natural; foto de celular meio torta, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors, in front of a light wall with boiserie molding, a light white curtain to one side;
 > soft diffuse daylight from the window.
@@ -1530,7 +1530,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT40 — Mirror selfie (top tomara-que-caia, parede damasco)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: em frente a um espelho, ao lado de uma parede de papel de parede damasco cinza (estampa
 > floral) e uma porta de madeira; luz interna quente e suave.
@@ -1547,7 +1547,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a mirror, next to a grey damask floral wallpaper wall and a wooden door; warm
 > soft indoor light.
@@ -1567,7 +1567,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT41 — Mirror selfie fitness em casa (sinal de paz)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: em frente a um espelho grande em casa, num cômodo com uma cômoda branca cheia de itens de
 > maquiagem do lado, um tapetinho rosa e piso de azulejo estampado; luz interna, com uma luzinha de LED
@@ -1586,7 +1586,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a big mirror at home, in a room with a white dresser full of makeup items to the
 > side, a small pink rug and patterned tile floor; indoor light, with a little colored LED reflecting in
@@ -1609,7 +1609,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT42 — Mirror selfie fitness no elevador (garrafa d'água)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de um elevador de parede de aço escovado, refletindo de leve; luz de teto branca e
 > uniforme, com sombra suave.
@@ -1626,7 +1626,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > tela, enquadramento meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside an elevator with brushed-steel walls, softly reflective; even white ceiling light,
 > gentle shadows.
@@ -1647,7 +1647,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT43 — Mirror selfie fitness na academia (tranças + preto)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia, em frente a um espelho grande com moldura vermelha; piso de porcelanato cinza
 > claro, luz de teto branca e uniforme, aparelhos desfocados ao fundo.
@@ -1665,7 +1665,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at a gym, in front of a big mirror with a red frame; light-grey tile floor, even white ceiling
 > light, blurred machines in the background.
@@ -1687,7 +1687,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT44 — Mirror selfie fitness na academia (macaquinho azul)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia ampla e clara, em frente a um espelho grande; atrás, janelões com vista pra
 > cidade e o verde lá fora, aparelhos de musculação e esteiras, piso de madeira na frente e algumas
@@ -1705,7 +1705,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a big bright gym, in front of a large mirror; behind her, floor-to-ceiling windows with a
 > city-and-greenery view, weight machines and treadmills, a wood floor in front and a few blurred people
@@ -1727,7 +1727,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT45 — Mirror selfie fitness na academia (conjunto azul, gym escura)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia moderna de parede escura, em frente a um espelho grande; atrás, um rack de
 > anilhas, kettlebells coloridos, aparelhos e uma porta de vidro; piso emborrachado escuro, luz de teto
@@ -1746,7 +1746,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a modern dark-walled gym, in front of a large mirror; behind her, a weight-plate rack,
 > colorful kettlebells, machines and a glass door; dark rubber flooring, directional ceiling light giving
@@ -1768,7 +1768,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT46 — Selfie fitness na academia (língua de fora, descontraída)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia, sentada num aparelho de musculação; atrás, piso de madeira clara, uma barra
 > com anilhas pretas e outros equipamentos, algumas pessoas treinando desfocadas ao fundo; luz de teto
@@ -1786,7 +1786,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at a gym, sitting on a weight machine; behind her, a light wood floor, a barbell with black
 > plates and other equipment, a few blurred people training in the background; even white ceiling light.
@@ -1806,7 +1806,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT47 — Selfie close de rosto (verão, top branco de tricô)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, encostada numa cabeceira/parede de madeira clara; luz natural suave e quente
 > batendo no rosto, clima de verão.
@@ -1824,7 +1824,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors, leaning against a light wooden headboard/wall; soft warm natural light on her face,
 > summery mood.
@@ -1846,7 +1846,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT48 — Jet ski no mar (dia de sol)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada num jet ski parado no mar, num dia de sol; água azul-esverdeada ao redor, morros e
 > uma faixa de praia ao longe, céu azul com nuvens; luz forte de sol batendo de cima, um cantinho
@@ -1864,7 +1864,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: sitting on a jet ski stopped out on the sea, on a sunny day; blue-green water around, hills and
 > a strip of beach in the distance, blue sky with clouds; strong overhead sun, one corner blown out by
@@ -1886,7 +1886,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT49 — Espreguiçadeira na praia (guarda-sol de palha)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa espreguiçadeira de praia embaixo de um guarda-sol de palha, num dia de sol; atrás,
 > coqueiros, outras espreguiçadeiras, uns prédios e a faixa de areia com o mar ao longe; céu azul com
@@ -1904,7 +1904,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a beach lounger under a straw parasol, on a sunny day; behind her, palm trees, other
 > loungers, some buildings and the strip of sand with the sea in the distance; blue sky with clouds,
@@ -1925,7 +1925,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT50 — Cadeira-ovo no jardim (dia de sol)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada numa cadeira-ovo suspensa (de vime preto com almofadões bege) numa área
 > externa/quintal, num dia de sol; atrás, gramado verde, coqueiros e árvores, um muro e o céu bem azul
@@ -1943,7 +1943,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: sitting in a hanging egg chair (black wicker with beige cushions) in an outdoor backyard, on a
 > sunny day; behind her, green lawn, palm trees and trees, a wall and a bright blue sky with one cloud;
@@ -1964,7 +1964,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT51 — Retrato de biquíni no barco (óculos aviador)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no deck de um barco, com o mar calmo e uns morros esfumaçados ao fundo, um corrimão de madeira
 > atrás; céu claro meio nublado, luz de dia difusa e suave.
@@ -1980,7 +1980,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > meio torta, grão suave, luz natural; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a boat deck, with calm sea and hazy hills in the background, a wooden railing behind; bright
 > overcast sky, soft diffuse daylight.
@@ -2000,7 +2000,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT52 — Close noturno no quarto (regata branca)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic), deitada na cama à noite; luz da LED do teto em [COR DA
 > LED] + abajur quente bem baixinho, ambiente escuro e aconchegante.
@@ -2017,7 +2017,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > olhos; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference), lying on the bed at night; ceiling LED in [LED COLOR] + a
 > very low warm lamp, dark cozy room.
@@ -2037,7 +2037,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT53 — Mirror selfie noturna no quarto (top + short)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic), em frente ao espelho à noite; luz da LED do teto em
 > [COR DA LED] + abajur quente, ambiente escuro.
@@ -2054,7 +2054,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference), in front of the mirror at night; ceiling LED in [LED COLOR] +
 > warm lamp, dark room.
@@ -2075,7 +2075,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT54 — Mirror selfie no quarto (top branco + short)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic), em frente ao espelho; luz da LED do teto em [COR DA LED]
 > + abajur quente, ambiente meio fechado.
@@ -2092,7 +2092,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE] (Vic's bedroom reference), in front of the mirror; ceiling LED in [LED COLOR] + warm
 > lamp, a dim room.
@@ -2112,7 +2112,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT55 — Banheira de hidromassagem com espuma (maiô preto)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de uma banheira de hidromassagem cheia de espuma, num banheiro/spa de hotel com painéis
 > de madeira, ripado no teto, uma TV ligada na parede e luz indireta quente; clima aconchegante.
@@ -2129,7 +2129,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a jacuzzi tub full of foam bubbles, in a hotel bathroom/spa with wood panels, a slatted
 > ceiling, a TV on the wall and warm indirect light; cozy mood.
@@ -2148,7 +2148,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT56 — Mirror selfie sala à noite (look preto de sair, sem flash)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa sala de apartamento à noite, em frente a um espelho; atrás, janelões do chão ao teto com
 > as luzes da cidade lá embaixo, um sofá bege, cortinas e piso claro; luz interna quente e baixa (sem
@@ -2167,7 +2167,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in an apartment living room at night, in front of a mirror; behind her, floor-to-ceiling
 > windows with city lights below, a beige couch, curtains and light floor; warm low indoor light (no
@@ -2190,7 +2190,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT57 — Mirror selfie no vestiário (verde neon, cabelo cacheado)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no vestiário de uma academia, em frente ao espelho; armários verde-limão de um lado, um
 > banco/bancada verde neon na frente, parede escura ripada e piso de porcelanato cinza; luz de teto com um
@@ -2210,7 +2210,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a gym locker room, in front of the mirror; lime-green lockers to one side, a neon-green
 > bench/counter in front, a dark slatted wall and grey tile floor; ceiling light with a greenish cast
@@ -2233,7 +2233,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT58 — Terraço à noite com taça (vestido branco, olhar sobre o ombro)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: em um terraço/varanda à noite, com guarda-corpo de vidro; céu totalmente escuro atrás e, lá
 > embaixo, a água esverdeada de uma piscina iluminada; luz baixa e quente da noite, sem flash.
@@ -2252,7 +2252,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a terrace/balcony at night, with a glass railing; a fully dark sky behind and, down below,
 > the greenish water of a lit swimming pool; low warm night light, no flash.
@@ -2274,7 +2274,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT59 — Mirror selfie boho (conjunto verde-sálvia, macramé)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no corredor de uma casa/hotel rústico-boho, em frente a um espelho grande de moldura de
 > madeira; parede cor de terracota e uma porta metálica avermelhada de um lado, parede creme com um grande
@@ -2295,7 +2295,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the hallway of a rustic-boho house/hotel, in front of a large wood-framed mirror; a
 > terracotta wall and a reddish metal door on one side, a cream wall with a large macramé wall hanging on
@@ -2319,7 +2319,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT60 — Sentada na frente do restaurante à noite (jaqueta de couro marrom)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada na área externa de um restaurante/bar à noite, numa cadeira com uma manta de pelego
 > claro; atrás dela, a vidraça escura da fachada com luz quente do salão por dentro, reflexos e outras
@@ -2338,7 +2338,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > com pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: seated at the outdoor area of a restaurant/bar at night, on a chair with a light sheepskin
 > throw; behind her, the dark glass façade with warm interior light from the dining room, reflections and
@@ -2359,7 +2359,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT61 — Balão ao pôr do sol, retrato próximo (óculos aviador, top terroso)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro do cesto de um balão de ar quente em voo, no fim da tarde (golden hour); céu azul com
 > nuvens bem finas, um outro balão colorido ao longe e campos verdes lá embaixo; luz dourada, quente e
@@ -2377,7 +2377,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside the basket of a hot-air balloon in flight, late afternoon (golden hour); blue sky with
 > very thin clouds, another colorful balloon far away and green fields far below; warm golden side light
@@ -2398,7 +2398,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT62 — Em pé no cesto do balão (top terroso + jeans, bolsa transversal)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: em pé dentro do cesto de couro de um balão de ar quente em voo; céu azul limpo com rastros
 > finos de avião, campos e plantações formando um mosaico verde e marrom bem lá embaixo, a borda de couro
@@ -2416,7 +2416,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: standing inside the leather basket of a hot-air balloon in flight; clear blue sky with thin
 > plane contrails, fields and crops forming a green-and-brown mosaic far below, the black leather rim of
@@ -2438,7 +2438,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT63 — Festival de música à noite (top preto com brilho, lasers)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no meio da multidão de um festival de música à noite, feixes de laser vermelhos e verdes
 > cortando a fumaça, o palco iluminado ao fundo e gente em volta desfocada; luz colorida de show, baixa.
@@ -2455,7 +2455,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > da fumaça; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the middle of the crowd at a music festival at night, red and green laser beams cutting
 > through the haze, a lit stage in the background and blurred people around; low colorful concert light.
@@ -2476,7 +2476,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT64 — Roupão em casa com o dálmata (coque, quarto)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no quarto de casa, em pé sobre o piso de porcelanato claro em frente a um espelho grande de
 > parede; ao fundo, a cama com roupa de cama branca e amassadinha; luz interna suave e quente.
@@ -2493,7 +2493,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the home bedroom, standing on the light tile floor in front of a large wall mirror; behind
 > her, the bed with rumpled white linens; soft warm indoor light.
@@ -2558,7 +2558,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > + foto da roupa**.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI — usar a imagem de referência deste banheiro]; manter a luz quente do próprio ambiente.
 >
@@ -2574,7 +2574,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE — use the attached reference image of this bathroom]; keep the warm ambient light of the
 > room itself.
@@ -2595,7 +2595,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT67 — Café da manhã no restaurante com câmera de ação (conjunto azul-bebê)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada à mesa de um restaurante claro e arejado de manhã, toalha de mesa branca; em primeiro
 > plano, uma xícara de cappuccino com espuma e um prato com crepe caramelizado e amendoim picado; ao
@@ -2615,7 +2615,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: seated at a table in a bright, airy restaurant in the morning, white tablecloth; in the
 > foreground, a cappuccino cup with foam and a plate with a caramelized crepe and chopped peanuts; in the
@@ -2639,7 +2639,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT68 — Andando na praia da cidade com chapéu de palha (biquíni rosa)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na faixa de areia de uma praia urbana tipo Balneário Camboriú, de manhã; areia clara com
 > marcas de rastelo e pegadas, arranha-céus altos de vidro ao fundo (sem logos), uma roda-gigante branca
@@ -2659,7 +2659,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > e meio torto, luz dura de sol; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the sand of an urban beach like Balneário Camboriú, in the morning; light sand with rake
 > marks and footprints, tall glass skyscrapers in the background (no logos), a white Ferris wheel in front
@@ -2683,7 +2683,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 ## EXT69 — Jantar no restaurante japonês (slip dress marrom)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: sentada à mesa de um restaurante japonês à noite; na mesa de pedra escura, uma bandeja preta
 > de ardósia com um potinho de shoyu, hashis de madeira e um bule preto de cerâmica; atrás dela, um sofá
@@ -2703,7 +2703,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > grão suave de celular em ambiente interno; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: seated at a table in a Japanese restaurant at night; on the dark stone table, a black slate
 > tray with a small soy-sauce dish, wooden chopsticks and a black ceramic teapot; behind her, a blue
@@ -2729,7 +2729,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > por "segurando o abafador e olhando pro alvo, com a pistola descansando no balcão".
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de um estande de tiro esportivo coberto; baia com paredes cinza-escuro, teto com dutos
 > metálicos aparentes e luminárias fluorescentes, a pista de concreto com faixas azuis no chão e um alvo
@@ -2749,7 +2749,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cima, meio torto, grão suave de celular; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside an indoor sport-shooting range; a lane booth with dark-grey walls, a ceiling with exposed
 > metal ducts and fluorescent lights, the concrete lane with blue floor stripes and a paper silhouette
@@ -2777,7 +2777,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto de casa de tarde, com pouca luz; parede lisa cinza-bege que na penumbra puxa pra um
 > tom oliva/esverdeado; no centro-alto do fundo, o vão escuro de uma porta aberta de closet, com roupas
@@ -2812,7 +2812,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a home bedroom in the afternoon, dimly lit; a plain grey-beige wall that shifts to an
 > olive/greenish tone in the shade; in the upper-center background, the dark opening of an open closet
@@ -2854,7 +2854,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > decote normal. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: restaurante pé na areia à noite, num deck coberto; no alto à esquerda, um painel de teto
 > branco com duas luminárias cilíndricas de fibra trançada acesas em amarelo quente, com raios de luz em
@@ -2878,7 +2878,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > transpassado na frente, com alcinha fina e decote normal.
 >
 > DETALHES DA PESSOA: cabelo comprido bem liso solto, loiro com ombré, repartido no meio, caindo pela
-> frente dos dois ombros até abaixo do peito; sobrancelhas marcadas, maquiagem com delineado gatinho e
+> frente dos dois ombros até abaixo do peito; maquiagem com delineado gatinho e
 > cílios definidos, boca com batom nude rosado brilhante; sorriso fechado e simpático de canto, cabeça
 > levemente inclinada, olhando direto pra câmera; unhas longas amendoadas brancas; pele com textura
 > natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, pele com brilho dourado pela luz
@@ -2898,7 +2898,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a beachfront restaurant at night, on a covered deck; at top left, a white ceiling panel with
 > two cylindrical woven-fiber lamps glowing warm yellow, with starburst light rays; the rest of the
@@ -2921,7 +2921,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > straps and a normal neckline.
 >
 > PERSON DETAILS: very straight long hair down, blonde with ombré, center part, falling over the front of
-> both shoulders to below the chest; defined brows, winged eyeliner and defined lashes, glossy rosy-nude
+> both shoulders to below the chest; winged eyeliner and defined lashes, glossy rosy-nude
 > lips; closed friendly half smile, head slightly tilted, looking straight at the camera; long white
 > almond nails; natural, healthy skin texture — pores and a few faint freckles, soft redness, golden glow
 > from the warm light; no acne, no over-imperfection; no jewelry, no watch, no piercings, no tattoos.
@@ -2948,7 +2948,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > — se quiser idêntico ao print, trocar por "capinha vermelha com um pop socket bege". Resto idêntico.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto escuro de apartamento moderno, visto por um espelho de parede de formato orgânico com
 > borda ondulada; a borda curva do espelho e a parede bege fora dele aparecem ocupando a faixa da esquerda
@@ -2982,7 +2982,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a dark modern apartment bedroom, seen through an organic-shaped wall mirror with a wavy edge;
 > the curved mirror edge and the beige wall outside it fill the left strip of the frame from top to
@@ -3023,7 +3023,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > composição e posição no quadro idênticos ao print. Mesmo quarto do EXT73.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto escuro de apartamento moderno visto por um espelho grande de formato orgânico; a borda
 > ondulada do espelho e a parede bege-acinzentada fora dele ocupam toda a faixa esquerda do quadro (quase
@@ -3058,7 +3058,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a dark modern apartment bedroom seen through a large organic-shaped mirror; the wavy mirror
 > edge and the greyish-beige wall outside it fill the entire left strip of the frame (almost 40% of the
@@ -3100,7 +3100,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cortina, cabelo e mão no rosto idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto de hotel/apartamento à noite; no terço de cima do quadro, uma cortina blackout
 > cinza-taupe com pregas verticais, escura, e o canto superior direito preto; embaixo, a cama com lençol e
@@ -3130,7 +3130,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a hotel/apartment bedroom at night; in the top third of the frame, a dark grey-taupe blackout
 > curtain with vertical pleats, and the upper-right corner black; below, the bed with slightly rumpled
@@ -3168,7 +3168,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > busto com cobertura normal. Composição, luz, vista e pose idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: terraço de cobertura no Rio de Janeiro no fim da tarde; ela está sentada no deck branco na
 > borda de uma piscina de borda infinita com água azul, com um guarda-corpo de vidro atrás; ao fundo, a
@@ -3183,8 +3183,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > transparente) e o busto tem cobertura normal.
 >
 > DETALHES DA PESSOA: cabelo muito comprido, liso com leve onda nas pontas, solto, loiro com ombré,
-> jogado todo pra um lado (esquerda do quadro) caindo pela frente do ombro até a cintura; sobrancelhas
-> marcadas, cílios definidos, pele bronzeada com brilho, boca carnuda com gloss vermelho-cereja;
+> jogado todo pra um lado (esquerda do quadro) caindo pela frente do ombro até a cintura; cílios definidos, pele com brilho, boca com gloss vermelho-cereja;
 > expressão séria e confiante, boca fechada, olhando direto pra câmera; pele com textura natural e
 > saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem
 > joias, sem pulseira, sem piercing, sem tatuagem.
@@ -3201,7 +3200,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a rooftop terrace in Rio de Janeiro in the late afternoon; she sits on the white deck at the
 > edge of an infinity pool with blue water, with a glass railing behind; in the background, Copacabana
@@ -3217,7 +3216,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > PERSON DETAILS: very long hair, straight with a slight wave at the ends, worn down, blonde with ombré,
 > swept entirely to one side (left of the frame) falling over the front of the shoulder to the waist;
-> defined brows, defined lashes, glowing bronzed skin, full lips with cherry-red gloss; serious, confident
+> defined lashes, glowing skin, lips with cherry-red gloss; serious, confident
 > expression, closed mouth, looking straight at the camera; natural, healthy skin texture — pores and a
 > few faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no bracelet, no piercings,
 > no tattoos.
@@ -3241,7 +3240,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > o seio pela lateral). Composição, luz, vista e pose idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: terraço de cobertura no Rio de Janeiro numa tarde de sol, céu azul limpo quase sem nuvens
 > ocupando toda a metade de cima do quadro; no meio, a panorâmica de Copacabana: montanha verde escura à
@@ -3274,7 +3273,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a rooftop terrace in Rio de Janeiro on a sunny afternoon, a clear blue sky with almost no
 > clouds filling the whole top half of the frame; in the middle, the Copacabana panorama: a dark green
@@ -3312,7 +3311,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > pose idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro da piscina de um hotel/clube, de manhã ou fim de tarde; logo atrás dela, a parede
 > interna da piscina de pastilhas verde-oliva pequenas e quadradas, com a borda de granito claro
@@ -3345,7 +3344,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside the pool of a hotel/club, in the morning or late afternoon; right behind her, the inner
 > pool wall of small square olive-green mosaic tiles with a speckled light-granite coping; further back, a
@@ -3382,7 +3381,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cenário e pose idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: escadaria interna de um hotel elegante à noite; paredes lisas verde-oliva escuro; corrimão
 > de ferro preto com balaústres em formato de argola oval e detalhes de latão dourado, e um corrimão de
@@ -3413,7 +3412,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the interior staircase of an elegant hotel at night; plain dark olive-green walls; a black iron
 > railing with oval loop balusters and brass details, and a dark wall handrail on the left; steps with
@@ -3448,7 +3447,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > **Exceções aplicadas:** cabelo/rosto da Vic; botões sem logo. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, num closet/corredor claro; atrás dela, o teto branco com quinas e rebaixos
 > formando linhas diagonais no alto do quadro, armários brancos à direita e uma parede cinza-lilás bem
@@ -3461,7 +3460,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > DETALHES DA PESSOA: cabelo muito comprido, liso e volumoso, loiro com ombré, repartido de lado,
 > jogado pra um lado e espalhado atravessando o quadro da esquerda até embaixo, com fios soltos e
 > arrepiados; maquiagem de pele iluminada, blush rosado nas bochechas, delineado marrom esfumado e
-> cílios definidos, sobrancelhas penteadas, boca carnuda com gloss nude-rosado bem brilhante; expressão
+> cílios definidos, sobrancelhas penteadas, boca com gloss nude-rosado bem brilhante; expressão
 > séria, boca fechada em biquinho leve, olhando direto pra câmera; pele com textura natural e saudável —
 > poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem
 > piercing, sem tatuagem.
@@ -3476,7 +3475,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors, in a bright closet/hallway; behind her, a white ceiling with corners and soffits
 > forming diagonal lines at the top of the frame, white cabinets on the right and a very light
@@ -3488,7 +3487,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > PERSON DETAILS: very long, straight, voluminous hair, blonde with ombré, side-parted, swept to one side
 > and spread across the frame from the left down to the bottom, with loose flyaway strands; glowing skin
-> makeup, rosy blush on the cheeks, smoky brown liner and defined lashes, brushed-up brows, full lips with
+> makeup, rosy blush on the cheeks, smoky brown liner and defined lashes, brushed-up brows, lips with
 > very glossy rosy-nude gloss; serious expression, closed mouth in a slight pout, looking straight at the
 > camera; natural, healthy skin texture — pores and a few faint freckles, soft redness; no acne, no
 > over-imperfection; no jewelry, no piercings, no tattoos.
@@ -3508,7 +3507,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > **Exceções aplicadas:** cabelo/rosto da Vic. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: banco de trás de um carro à noite, parado; forro do teto cinza-claro no alto do quadro,
 > coluna da porta cinza à direita, bancos de couro preto, a maçaneta cromada da porta aparecendo à
@@ -3521,7 +3520,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > DETALHES DA PESSOA: cabelo comprido bem liso, loiro com ombré, repartido no meio, caindo pelos ombros e
 > pelas costas; maquiagem marcada: blush rosado forte nas bochechas e no nariz, delineado esfumado,
-> cílios definidos, sobrancelhas penteadas, boca carnuda com batom marrom-nude matte; expressão
+> cílios definidos, sobrancelhas penteadas, boca com batom marrom-nude matte; expressão
 > blasé, boca em biquinho, cabeça levemente inclinada, olhando direto pra câmera; pele com textura
 > natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de
 > imperfeição; sem joias, sem piercing, sem tatuagem.
@@ -3538,7 +3537,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the back seat of a parked car at night; light-grey headliner at the top of the frame, grey door
 > pillar on the right, black leather seats, the chrome door handle showing on the left and the dark window
@@ -3551,7 +3550,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > PERSON DETAILS: very straight long hair, blonde with ombré, center part, falling over the shoulders and
 > down the back; bold makeup: strong rosy blush on the cheeks and nose, smoky liner, defined lashes,
-> brushed-up brows, full lips with matte brown-nude lipstick; blasé expression, pouty lips, head slightly
+> brushed-up brows, lips with matte brown-nude lipstick; blasé expression, pouty lips, head slightly
 > tilted, looking straight at the camera; natural, healthy skin texture — pores and a few faint freckles,
 > soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
@@ -3573,7 +3572,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > com escrita; decote do corset reto normal. Óculos mantidos (peça funcional). Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: banco de trás de um carro à noite; o forro do teto cinza-claro ocupa todo o terço de cima do
 > quadro, com uma alça de segurar cinza no canto superior esquerdo; atrás dela, as janelas pretas da
@@ -3604,7 +3603,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the back seat of a car at night; the light-grey headliner fills the whole top third of the
 > frame, with a grey grab handle in the upper-left corner; behind her, the black night windows and black
@@ -3641,7 +3640,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de um carro à noite, no banco do passageiro; no alto, o para-sol bege abaixado no
 > canto superior esquerdo, o forro cinza-claro com a alça de segurar e o teto solar escuro no canto
@@ -3665,7 +3664,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > nas coxas; foto de flash de celular com grão e cantos escuros; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside a car at night, in the passenger seat; at the top, the beige sun visor folded down in the
 > upper-left corner, the light-grey headliner with a grab handle and the dark sunroof in the upper-right
@@ -3697,7 +3696,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de um carro escuro à noite; ela está no banco de trás, debruçada entre os bancos da
 > frente; o encosto de cabeça preto de couro do banco da frente à direita, com a porta e a maçaneta
@@ -3710,7 +3709,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > DETALHES DA PESSOA: cabelo muito comprido, liso com ondas suaves, loiro com ombré, caindo pelas costas e
 > pelo ombro; maquiagem de boneca: cílios postiços volumosos, blush rosa forte nas bochechas e no nariz,
-> boca carnuda com batom vermelho brilhante em biquinho; olhos baixos, quase fechados, cabeça inclinada e
+> boca com batom vermelho brilhante em biquinho; olhos baixos, quase fechados, cabeça inclinada e
 > encostada no encosto; pele com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, brilho do flash; sem acne, sem excesso de imperfeição; sem joias, sem
 > piercing, sem tatuagem.
 >
@@ -3721,7 +3720,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > terço de cima à direita; foto de flash de celular com grão e fundo escuro; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: inside a dark car at night; she is in the back seat, leaning forward between the front seats;
 > the black leather headrest of the front seat on the right, with the door and dark handle behind; dark
@@ -3734,7 +3733,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > PERSON DETAILS: very long hair, straight with soft waves, blonde with ombré, falling down the back and
 > over the shoulder; doll-like makeup: voluminous false lashes, strong pink blush on the cheeks and nose,
-> full lips with glossy red lipstick in a pout; eyes lowered, almost closed, head tilted and resting on the
+> lips with glossy red lipstick in a pout; eyes lowered, almost closed, head tilted and resting on the
 > headrest; natural, healthy skin texture — pores and a few faint freckles, soft redness, flash sheen; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: leaning sideways, cheek resting on the front-seat headrest; one hand near the face holding a phone
@@ -3752,7 +3751,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cima do ombro; carro sem marca/logo. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: rua de condomínio/bairro residencial à noite; atrás dela, um SUV quadrado de luxo estilo
 > jipe, pintado de rosa-chiclete fosco, com vidros pretos, frisos pretos, retrovisor rosa e roda grande
@@ -3775,7 +3774,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > com leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a residential street/gated community at night; behind her, a boxy luxury jeep-style SUV painted
 > matte bubblegum pink, with black windows, black trim, a pink side mirror and a large chrome wheel, no
@@ -3805,7 +3804,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > de cabelo no pulso e tatuagem; volante sem logo. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: carro sedã de luxo azul-marinho metálico à noite, com a porta do motorista aberta; bancos de
 > couro caramelo/conhaque com costuras, console central preto brilhante com câmbio e botões, volante
@@ -3827,7 +3826,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > moldura dos dois lados; foto de flash de celular com leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a metallic navy-blue luxury sedan at night, with the driver's door open; caramel/cognac stitched
 > leather seats, a glossy black center console with the gear selector and buttons, a black steering wheel
@@ -3855,7 +3854,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > **Exceções aplicadas:** cabelo/rosto da Vic; sem piercing no nariz. Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto à noite com pouca luz; parede bege-acinzentada lisa atrás, um vão de porta escuro à
 > esquerda e o teto com um brilho verde fraco de fita de LED no canto superior esquerdo; luz suave e
@@ -3865,8 +3864,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ROUPA: top preto tomara-que-caia (só a borda preta aparece no canto inferior esquerdo), ombros nus.
 >
 > DETALHES DA PESSOA: cabelo comprido bem liso, loiro com ombré, repartido no meio, com mechas da frente
-> caindo pelo rosto e o resto descendo pelas costas e por cima do ombro; sobrancelhas grossas e
-> penteadas, cílios definidos, iluminador no nariz e nas maçãs, blush rosado, boca com gloss nude
+> caindo pelo rosto e o resto descendo pelas costas e por cima do ombro; sobrancelhas penteadas, cílios definidos, iluminador no nariz e nas maçãs, blush rosado, boca com gloss nude
 > brilhante; sorrisinho de canto, confiante e brincalhão, olhando direto pra câmera; pele com textura
 > natural e saudável — poros e uma sardinha ou outra, leve vermelhidão, algumas pintinhas no ombro; sem
 > acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
@@ -3882,7 +3880,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a bedroom at night with low light; a plain greyish-beige wall behind, a dark doorway on the
 > left and the ceiling with a faint green LED-strip glow in the upper-left corner; soft, warm light from
@@ -3892,7 +3890,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > OUTFIT: a black strapless top (only the black edge shows in the lower-left corner), bare shoulders.
 >
 > PERSON DETAILS: very straight long hair, blonde with ombré, center part, with front strands falling
-> over the face and the rest running down the back and over the shoulder; thick brushed-up brows, defined
+> over the face and the rest running down the back and over the shoulder; brushed-up brows, defined
 > lashes, highlighter on the nose and cheekbones, rosy blush, glossy nude lips; confident, playful
 > half smile, looking straight at the camera; natural, healthy skin texture — pores and a few faint
 > freckles, soft redness, a few small moles on the shoulder; no acne, no over-imperfection; no jewelry, no
@@ -3917,7 +3915,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > idênticas ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: academia à noite, área de musculação, vista pelo espelho; parede de fundo revestida em placas
 > cor terracota/cobre fosco; máquinas de musculação pretas de anilha (plate-loaded) à direita, com
@@ -3948,7 +3946,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a gym at night, weight-training area, seen through the mirror; the back wall clad in matte
 > terracotta/copper panels; black plate-loaded strength machines on the right, with heavy frames and black
@@ -3985,7 +3983,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > Anexar: referência(s) da Vic + foto da academia. Pose, enquadramento e celular idênticos ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI — usar a imagem de referência da academia]; sem flash — só a luz quente e amarelada
 > das lâmpadas do teto da academia, suave, com sombras leves e tom dourado na pele.
@@ -4010,7 +4008,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [HERE — use the attached gym reference image]; no flash — only the warm yellowish light of
 > the gym's ceiling lamps, soft, with light shadows and a golden tone on the skin.
@@ -4044,7 +4042,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > celular". Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: área externa de um bar/restaurante de praia à noite, decorado de fim de ano; ela está
 > encostada numa mureta de tijolinho aparente com rejunte branco, com uma vidraça grande em cima; à
@@ -4059,8 +4057,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ROUPA: vestido tubinho curto tomara-que-caia preto, liso, de malha grossa, decote reto normal.
 >
 > DETALHES DA PESSOA: cabelo muito comprido, liso com leve onda, loiro com ombré, com uma parte jogada pra
-> frente de um ombro e o resto pelas costas até o quadril; sobrancelhas marcadas, delineado gatinho,
-> cílios definidos, batom vermelho-rosado, pele bronzeada; olhar sério e sensual direto pra câmera,
+> frente de um ombro e o resto pelas costas até o quadril; delineado gatinho,
+> cílios definidos, batom vermelho-rosado; olhar sério e sensual direto pra câmera,
 > cabeça levemente inclinada, boca fechada; unhas pretas; pele com textura natural e saudável — poros e
 > uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem pulseiras,
 > sem anéis, sem colar, sem brinco, sem piercing, sem tatuagem.
@@ -4078,7 +4076,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: the outdoor area of a beach bar/restaurant at night, decorated for the holidays; she leans on a
 > low exposed-brick wall with white mortar, topped by a large glass window; on the left, the glass
@@ -4091,8 +4089,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > OUTFIT: a short black strapless tube dress, plain, thick knit, straight normal neckline.
 >
 > PERSON DETAILS: very long hair, straight with a slight wave, blonde with ombré, with part of it swept over
-> the front of one shoulder and the rest down the back to the hips; defined brows, winged eyeliner,
-> defined lashes, rosy-red lipstick, tanned skin; serious, sultry gaze straight at the camera, head
+> the front of one shoulder and the rest down the back to the hips; winged eyeliner,
+> defined lashes, rosy-red lipstick; serious, sultry gaze straight at the camera, head
 > slightly tilted, closed mouth; black nails; natural, healthy skin texture — pores and a few faint
 > freckles, soft redness; no acne, no over-imperfection; no jewelry, no bracelets, no rings, no necklace,
 > no earrings, no piercings, no tattoos.
@@ -4118,7 +4116,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > frontal" (`guia/06`) no lugar do bloco "cara de celular". Resto idêntico ao print.
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: quarto simples à noite com a luz do teto fraca; parede lisa creme/cinza-esverdeada, uma
 > cortina blackout cinza-clara num varão de metal à esquerda, um monte de roupas e bolsas escuras em cima
@@ -4129,8 +4127,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > ROUPA: top preto de alcinha fina (as alças quase não aparecem), ombros de fora.
 >
 > DETALHES DA PESSOA: cabelo comprido liso e volumoso, loiro com ombré, repartido de lado, caindo pelos
-> ombros e pelos braços; maquiagem marcada: sobrancelhas grossas desenhadas, delineado gatinho, cílios
-> volumosos, iluminador forte no nariz e nas maçãs, boca carnuda contornada com batom marrom-avermelhado
+> ombros e pelos braços; maquiagem marcada: sobrancelhas penteadas, delineado gatinho, cílios
+> volumosos, iluminador forte no nariz e nas maçãs, boca com batom marrom-avermelhado
 > e gloss bem brilhante; um olho meio fechado, cabeça inclinada, sorriso de canto com a ponta da língua
 > encostando nos dentes de cima, expressão provocante e brincalhona; unhas verde-petróleo escuras; pele
 > com textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso
@@ -4150,7 +4148,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > JPEG, balanço de branco puxando pro magenta; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: a simple bedroom at night with a weak ceiling light; a plain cream/greenish-grey wall, a
 > light-grey blackout curtain on a metal rod on the left, a pile of dark clothes and bags on a piece of
@@ -4161,8 +4159,8 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > OUTFIT: a black thin-strap top (the straps barely show), shoulders bare.
 >
 > PERSON DETAILS: long, straight, voluminous hair, blonde with ombré, side-parted, falling over the
-> shoulders and arms; bold makeup: thick drawn brows, winged liner, voluminous lashes, strong highlighter
-> on the nose and cheekbones, full overlined lips with reddish-brown lipstick and very glossy gloss; one
+> shoulders and arms; bold makeup: groomed brows, winged liner, voluminous lashes, strong highlighter
+> on the nose and cheekbones, lips with reddish-brown lipstick and very glossy gloss; one
 > eye half closed, head tilted, half smile with the tip of the tongue touching the upper teeth, teasing,
 > playful expression; dark teal nails; natural, healthy skin texture — pores and a few faint freckles,
 > soft redness; no acne, no over-imperfection; no jewelry, no ring, no bracelet, no piercings, no tattoos.

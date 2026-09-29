@@ -154,7 +154,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C1 — Ipanema / fim de tarde
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na praia de Ipanema no fim de tarde; atrás, o morro Dois Irmãos, o mar com ondas e a galera na praia; céu de fim de tarde meio nublado, em tons pastel, luz suave e meio fraca.
 >
@@ -165,7 +165,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé na areia segurando uma água de coco gelada, a outra mão na cintura do short, dessas tiradas de qualquer jeito; foto de celular, leve grão, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at Ipanema beach at dusk; behind her, the Dois Irmãos mountain, the sea with waves and people on the beach; overcast pastel dusk sky, soft dim light.
 >
@@ -178,7 +178,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C2 — Copacabana / dia de sol
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: em Copacabana, num dia de sol forte; atrás, os prédios da orla, a areia branca, outras pessoas e guarda-sóis coloridos; sol forte de meio-dia, sombra dura, bastante contraste.
 >
@@ -189,7 +189,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: sentada numa cadeira de praia vermelha embaixo de um guarda-sol verde, uma mão perto do rosto e a outra segurando uma água de coco; foto de celular, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at Copacabana, on a sunny day; behind her, the beachfront buildings, white sand, other people and colorful umbrellas; harsh midday sun, hard shadows, high contrast.
 >
@@ -202,7 +202,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C3 — Aquário / luz azul (close)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na frente de um tanque grande de aquário, num lugar fechado e escuro; atrás do vidro, água azul-esverdeada com um tubarão e vários peixes, pedras no fundo; tudo banhado por aquela luz azul fria do tanque.
 >
@@ -213,7 +213,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, meio de lado, uma mão no corrimão e a outra no cabelo; foto de celular em pouca luz, com grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a big aquarium tank, in a dark indoor spot; behind the glass, blue-green water with a shark and lots of fish, rocks at the bottom; everything bathed in that cold blue tank light.
 >
@@ -226,7 +226,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C4 — Aquário túnel / tubarão (look fitness)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na frente de um tanque curvo gigante de aquário, com um tubarão passando logo atrás dela e peixes em volta; luz azul fria do tanque, ambiente escuro.
 >
@@ -237,7 +237,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, no meio, de frente, relaxada, os dois braços abertos pra baixo com as mãos num corrimão preto atrás; foto de celular em pouca luz, com grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a huge curved aquarium tank, with a shark passing right behind her and fish around; cold blue tank light, dark room.
 >
@@ -250,7 +250,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C5 — Ipanema / pôr do sol (caipirinha)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na areia de Ipanema no fim de tarde; atrás, o Dois Irmãos em silhueta, o mar e a galera na praia, com uma nuvenzinha de neblina; céu de pôr do sol em degradê laranja pro azul, sol baixo em contraluz (nada de cinema, é o pôr do sol normal mesmo).
 >
@@ -261,7 +261,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: de perfil, descalça, tomando uma caipirinha; foto de celular aberta de corpo inteiro, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the Ipanema sand at dusk; behind her, Dois Irmãos in silhouette, the sea and beach crowd, a bit of haze; sunset sky fading orange to blue, low backlit sun (nothing cinematic, just a normal sunset).
 >
@@ -274,7 +274,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C6 — Selfie no carro / luz de dia
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no banco de trás do carro, de dia; dá pra ver o banco preto, uma mala atrás e a estrada pela janela; luz do dia entrando, normal, com leve contraluz da janela.
 >
@@ -285,7 +285,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, cinto colocado, meio recostada; foto de celular mesmo (leve distorção de selfie), enquadramento meio torto, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the back seat of a car during the day; you can see the black seat, a suitcase behind and the road through the window; daylight coming in, normal, with a faint backlight from the window.
 >
@@ -298,7 +298,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C7 — Estádio à noite (torcida Brasil)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na arquibancada de um estádio de futebol lotado à noite; atrás, a galera de amarelo desfocada, o gramado iluminado lá embaixo e os refletores fortes do estádio brilhando; luz mista de estádio, meio em contraluz.
 >
@@ -309,7 +309,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, uma mão na cintura, dessas que um amigo tira de qualquer jeito; foto de celular à noite, com grão e ruído, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in the stands of a packed football stadium at night; behind her, the blurred yellow crowd, the lit pitch below and the strong stadium floodlights glowing; mixed stadium light, slightly backlit.
 >
@@ -322,7 +322,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C8 — Quarto / foto na porta (regata Brasil)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na frente de uma porta de madeira dentro de casa, com uma parede de azulejo claro do lado; luz interna suave e quente.
 >
@@ -333,7 +333,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, meio de lado, mão perto do bolso do short; foto de celular quase de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a wooden door indoors, a light tiled wall to the side; soft warm indoor light.
 >
@@ -346,7 +346,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C9 — Mirror selfie no quarto (suéter tricô)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no quarto; atrás, dá pra ver a cama arrumada, uma TV preta na parede e o piso de madeira; luz interna suave do quarto.
 >
@@ -357,7 +357,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, de pé, uma mão no bolso do short, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do peito; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in her bedroom; behind her, the made bed, a black TV on the wall and the wooden floor; soft indoor light.
 >
@@ -370,7 +370,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C10 — Academia / mirror selfie (look fitness)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na academia; atrás, o salão com rack, halteres, banco e janelões; algumas pessoas treinando ao fundo; luz de academia com LED no teto.
 >
@@ -381,7 +381,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, de pé, uma perna à frente, relaxada, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the gym; behind her, the floor with a rack, dumbbells, a bench and big windows; a few people training; gym LED ceiling light.
 >
@@ -394,7 +394,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C11 — Academia / mirror selfie (romper preto "GROWTH")
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na academia, do lado de um rack com anilhas pretas; atrás, equipamentos, parede de tijolinho e gente treinando desfocada; luz quente de academia.
 >
@@ -405,7 +405,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, uma mão de leve na coxa, a outra segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular quase de corpo inteiro, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the gym, beside a rack with black plates; behind, equipment, a brick wall and blurred people training; warm gym light.
 >
@@ -418,7 +418,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C12 — Academia / mirror selfie (romper azul, dia)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia ampla de dia; atrás, janelões grandes com a cidade e o verde lá fora, esteiras, piso de madeira na frente e gente treinando; luz natural de dia entrando.
 >
@@ -429,7 +429,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, de pé, uma perna à frente, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto; foto de celular de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a big daytime gym; behind, large windows with the city and greenery outside, treadmills, wooden floor in front and people training; natural daylight coming in.
 >
@@ -442,7 +442,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C13 — Academia / mirror selfie (top + legging)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na academia; atrás, o salão com equipamentos, luzes quentes e gente desfocada, uma barra de aparelho preta do lado; luz quente de academia, com contraste.
 >
@@ -453,7 +453,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na altura do rosto e a outra mão fazendo sinal de paz perto do rosto; foto de celular quase de corpo inteiro no espelho, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the gym; behind, the floor with equipment, warm lights and blurred people, a black machine bar to the side; warm gym light with contrast.
 >
@@ -466,7 +466,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C14 — Cristo Redentor / pôr do sol
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no mirante do Cristo Redentor no fim de tarde; atrás, o Cristo de braços abertos visto de baixo, o céu de pôr do sol alaranjado e os turistas na escadaria; luz quente de fim de tarde, meio em contraluz.
 >
@@ -477,7 +477,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: encostada num muro de pedra, meio de lado, uma mão ajeitando o boné; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the Christ the Redeemer viewpoint at dusk; behind, the Christ with open arms seen from below, an orange sunset sky and tourists on the steps; warm late-afternoon light, slightly backlit.
 >
@@ -490,7 +490,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C15 — Quiosque de praia / Ipanema (dia)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na mesa de um quiosque na orla de Ipanema num dia de sol; em cima, o guarda-sol do quiosque; atrás, a areia com guarda-sóis coloridos, gente, o mar, o Dois Irmãos ao longe e o calçadão; sol forte de verão, sombra dura.
 >
@@ -501,7 +501,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: sentada, relaxada, segurando um drink com rodela de laranja; foto de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at a beach kiosk table on the Ipanema seafront on a sunny day; above, the kiosk umbrella; behind, the sand with colorful umbrellas, people, the sea, Dois Irmãos far off and the promenade; strong summer sun, hard shadows.
 >
@@ -514,7 +514,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C16 — Selfie no barco / mar (close)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num barco em mar verde-turquesa, num dia de sol; atrás, o mar calmo, uma ilha bem verde e o céu azul; sol forte refletindo na água.
 >
@@ -525,7 +525,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, rosto perto da câmera, cabeça meio inclinada; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a boat on turquoise-green water, on a sunny day; behind, the calm sea, a lush green island and blue sky; strong sun reflecting off the water.
 >
@@ -538,7 +538,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C17 — Mirante de praia / trilha (biquíni)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no alto de uma trilha verde à beira-mar, num dia de sol; atrás, uma praia de areia dourada com ondas, morros de mata, pedras e mato alto na frente, mar azul; sol forte de meio-dia.
 >
@@ -549,7 +549,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: de pé, relaxada, uma mão no cabelo; foto de celular aberta com a paisagem, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the top of a green coastal trail, on a sunny day; behind, a golden-sand beach with waves, forested hills, rocks and tall grass in front, blue sea; strong midday sun.
 >
@@ -562,7 +562,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C18 — Ipanema / dia (camiseta Brasil + short jeans)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na areia de Ipanema num dia de sol; atrás, o Dois Irmãos, o mar com ondas, os prédios da orla e a galera na praia; sol forte, sombra dura, clima de verão.
 >
@@ -573,7 +573,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, meio de lado, uma mão no cabelo, dessas tiradas de qualquer jeito; foto de celular aberta, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the Ipanema sand on a sunny day; behind, Dois Irmãos, the sea with waves, the beachfront buildings and the beach crowd; strong sun, hard shadows, summer vibe.
 >
@@ -586,7 +586,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C19 — Praia / deitada na canga (close)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na areia numa canga estampada (azul e branca), num dia de sol; atrás, a areia com guarda-sóis coloridos, gente em cadeiras, prédios da orla e o mar; sol forte, sombra dura.
 >
@@ -597,7 +597,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: deitada de bruços, apoia o rosto na mão; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the sand on a patterned beach towel (blue and white), on a sunny day; behind, the sand with colorful umbrellas, people on chairs, beachfront buildings and the sea; strong sun, hard shadows.
 >
@@ -610,7 +610,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C20 — Casa / foto na parede (camisa CBF)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na frente de uma parede lisa bege dentro de casa, à noite; luz quente e suave de lâmpada, com a sombra dela na parede.
 >
@@ -621,7 +621,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, meio de lado, uma mão na cintura; foto de celular quase de corpo inteiro, meio torta, leve grão de pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a plain beige wall indoors, at night; warm soft lamp light, with her shadow on the wall.
 >
@@ -634,7 +634,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C21 — Casa / foto de look (conjunto Brasil)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: encostada numa parede branca dentro de casa; luz clara e normal do ambiente, parede branca atrás e um pilar de azulejo claro do lado direito.
 >
@@ -645,7 +645,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: tipo aquelas fotos de look, meio de lado, quase de costas, uma das mãos perto do cabelo; foto de celular mesmo, com leve grão e enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: leaning against a white wall indoors; plain, normal indoor light, a white wall behind her and a light tiled column on the right.
 >
@@ -658,7 +658,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C22 — Mirante de favela / Rio
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num mirante lá no alto de uma favela do Rio, dessas com vista aberta pra cidade; atrás dá pra ver o costão de pedra enorme do morro, o casario colorido da favela descendo a encosta, um grafite numa parede do lado e umas pessoas sentadas num cantinho de café; sol forte de fim de tarde batendo de lado, sombra dura.
 >
@@ -669,7 +669,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé segurando o corrimão de metal; foto de celular mesmo, com leve grão e enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at a viewpoint high up in a Rio favela, the kind with an open view over the city; behind her you can see the huge rock face of the hill, the colorful favela houses going down the slope, some graffiti on a wall to the side and a few people sitting at a little café corner; strong late-afternoon sun hitting from the side, hard shadows.
 >
@@ -682,7 +682,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C23 — Praia Vermelha / bandeira do Brasil
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa praia do Rio com o Pão de Açúcar logo atrás, no fim de tarde; atrás, o morro do Pão de Açúcar, o mar calmo e os morros verdes, com um céu de fim de tarde clarinho; luz suave de fim de tarde.
 >
@@ -693,7 +693,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé na areia segurando uma bandeira do Brasil bem aberta atrás dela, com os dois braços esticados pros lados; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a Rio beach with Sugarloaf Mountain right behind, at dusk; behind her, the Sugarloaf hill, the calm sea and green hills, with a soft pale dusk sky; soft late-afternoon light.
 >
@@ -706,7 +706,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C24 — Quarto / selfie à noite (conjunto Brasil)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no quarto, aconchegante, com luz quentinha de abajur acesa, parede clara meio inclinada no teto, um guarda-roupa de madeira do lado com umas coisas em cima e a cama com lençol branco meio amassado.
 >
@@ -717,7 +717,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, sentada na beira da cama, uma mão no cabelo; foto de celular meio escura por causa da luz de abajur, leve grão, enquadramento meio torto; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in her bedroom, cozy, with warm light from a small lamp, a light wall with a sloped ceiling, a wooden wardrobe to the side with some stuff on top, and the bed with slightly rumpled white sheets.
 >
@@ -730,7 +730,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C25 — Praia / dia (look Brasil + chapéu de palha)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na areia de uma praia do Rio num dia de sol forte; atrás, o mar com ondas, os prédios da orla, uns morros ao longe e a galera na praia; céu azul com nuvens, sol forte e sombra dura.
 >
@@ -741,7 +741,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: de pé, uma mão segurando a aba do chapéu; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the sand at a Rio beach on a bright sunny day; behind her, the sea with waves, the beachfront buildings, some hills far off and people on the beach; blue sky with clouds, strong sun and hard shadows.
 >
@@ -754,7 +754,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C26 — Apê de luxo / noite de jogo
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa sala de apartamento de luxo à noite, dessas com janelão do chão ao teto e a cidade toda iluminada lá fora; atrás dela, uma TV grande passando um jogo do Brasil, sofás bege, uma mesa de centro de madeira rústica com um arranjo de flores e um tapete claro; luz interna quente e aconchegante.
 >
@@ -765,7 +765,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, segurando um copo térmico estampado do Brasil numa mão, uma perna cruzada na frente da outra, jeito descontraído; foto de celular de corpo inteiro, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a luxury apartment living room at night, the kind with floor-to-ceiling windows and the whole city lit up outside; behind her, a big TV showing a Brazil football match, beige sofas, a rustic wood coffee table with a flower arrangement and a light carpet; warm, cozy indoor light.
 >
@@ -778,7 +778,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C27 — Bar / assistindo o jogo (chopp)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa mesa de um bar/boteco à noite; na frente dela, um caneco de chopp gelado e uma bandeira verde e amarela na mesa; atrás, a TV passando o jogo do Brasil meio desfocada, outras pessoas de amarelo e a luz quente do bar.
 >
@@ -789,7 +789,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: sentada, os braços apoiados na mesa, as mãos perto do caneco, assistindo o jogo; foto de celular meio escura por causa da luz de bar, leve grão, meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at a table in a bar/pub at night; in front of her, a cold mug of draft beer and a green-and-yellow flag on the table; behind, the TV showing the Brazil game slightly blurred, other people in yellow and the warm bar light.
 >
@@ -802,7 +802,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C28 — Casa / selfie close (glam CBF)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, num corredor claro; luz interna normal e suave do corredor.
 >
@@ -813,7 +813,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, bem de pertinho do rosto; selfie de celular (leve distorção), só rosto e ombros, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque exagerado nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors in a bright hallway; normal soft indoor hallway light.
 >
@@ -826,7 +826,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C29 — Varanda à noite / flash (camisa retrô)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa varanda/terraço à noite, com a cidade no fundo e o céu ainda meio alaranjado do pôr do sol; atrás, a silhueta escura dos prédios e umas luzinhas da cidade lá embaixo; flash do celular batendo forte nela, fundo bem escuro.
 >
@@ -837,7 +837,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: encostada num corrimão; foto de celular noturna com flash, grão e meio torta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at night on a balcony/terrace with the city behind and the sky still a bit orange from the sunset; behind her, the dark silhouette of buildings and some city lights below; the phone flash hitting her hard, very dark background.
 >
@@ -850,7 +850,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C30 — Casa / mirror selfie (luz dourada)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa no fim de tarde, com aquela luz quente do sol entrando pela janela e batendo no rosto dela e na parede; atrás, um pedaço do quarto com um espelho na parede.
 >
@@ -861,7 +861,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; selfie de espelho de celular, meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors in the late afternoon, with that warm sunlight coming through the window and hitting her face and the wall; behind her, a bit of the room with a mirror on the wall.
 >
@@ -874,7 +874,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C31 — Varanda hora azul / selfie (camisa away CBF) — _usa preset "Varanda ao anoitecer"_
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa varanda de apartamento alto ao anoitecer (hora azul), com a cidade em silhueta e janelas acesas lá embaixo, corrimão de metal do lado; céu em degradê do azul profundo pro laranja no horizonte, ambiente escuro, foto levemente subexposta; clima moody meio saturado tipo filtro de filme (azul-petróleo + laranja quente), sombras fechadas e realces quentes.
 >
@@ -885,7 +885,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, bem de pertinho da câmera, com uma das mãos levantada apoiada na cabeça/cabelo; selfie de celular (leve distorção), ângulo meio torto, grão de pouca luz; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on a high apartment balcony at dusk (blue hour), with the city in silhouette and lit windows below, a metal railing to the side; sky gradient from deep blue to orange at the horizon, dark setting, slightly underexposed; moody, fairly saturated film-filter look (teal + warm orange), crushed shadows and warm highlights.
 >
@@ -898,7 +898,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C32 — Banheiro / mirror selfie (top tomara-que-caia)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num banheiro de parede de azulejo branco; luz interna normal do banheiro.
 >
@@ -909,7 +909,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho, encostada na parede, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) apontado pro espelho; foto de celular, meio torta, leve grão (uma mão segura o celular); cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a bathroom with a white tiled wall; normal indoor bathroom light.
 >
@@ -922,7 +922,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C33 — Casa / retrato na cortina (camisa CBF)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na frente de uma cortina bege/verde-oliva dentro de casa, à noite; luz interna quente e suave do ambiente.
 >
@@ -933,7 +933,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé, uma das mãos atrás da cabeça, no cabelo; foto de celular meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in front of a beige/olive curtain indoors, at night; warm soft indoor light.
 >
@@ -946,7 +946,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C34 — Casa / selfie close (camisa CBF)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: dentro de casa, num cômodo de parede clara, à noite; luz interna suave e quente.
 >
@@ -957,7 +957,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de braço esticado, uma das mãos na cabeça, no cabelo; selfie de celular (leve distorção), meio torta, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: indoors, in a light-walled room, at night; soft warm indoor light.
 >
@@ -970,7 +970,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C35 — Rua à noite / mirror selfie de lado (neon)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: à noite, do lado de fora perto de uma parede de tijolinho, com umas luzes de neon (verde e rosa) desfocadas atrás.
 >
@@ -981,7 +981,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: selfie de espelho de lado, de perfil, segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta lisa) na frente do rosto; foto de celular meio torta, leve grão de noite; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at night, outdoors near a brick wall, with blurred neon lights (green and pink) behind her.
 >
@@ -994,7 +994,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C36 — Academia / treino de verdade (agachando)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na academia; atrás, o salão da academia com equipamentos, espelhos e algumas pessoas treinando ao fundo; luz de academia normal.
 >
@@ -1005,7 +1005,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: treinando de verdade, alguém tirou de lado enquanto ela agacha — fazendo um agachamento com a barra apoiada nas costas no rack, no meio do movimento (joelhos dobrados); foto de celular meio torta, leve grão e leve desfoque de movimento; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: at the gym; behind her, the gym floor with equipment, mirrors and a few people training; normal gym light.
 >
@@ -1018,7 +1018,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C37 — Quarto / cozy manhã na cama (óculos)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: num quarto claro de manhã, numa cama de lençol branco; entra um sol forte pela esquerda, fazendo uns retângulos de luz na parede e sombras marcadas no lençol e no rosto, com o cabelo brilhando na luz.
 >
@@ -1029,7 +1029,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: foto vertical tirada bem de perto (leve distorção de lente de celular), deitada de bruços, o rosto apoiado no lençol, cabeça de lado, um braço esticado à frente; foto de celular meio torta, luz de dia, leve grão; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; sem retoque nem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a bright morning room, on a white bed; strong sunlight comes from the left, making rectangular light patches on the wall and hard shadows on the sheet and her face, hair glowing in the light.
 >
@@ -1042,7 +1042,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C38 — Street style / Ipanema (golden hour)
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: no calçadão de pedra portuguesa da orla de Ipanema no fim de tarde; atrás, o calçadão com o desenho de ondas preto e branco, o morro Dois Irmãos com o sol se pondo bem atrás (contraluz dourada forte), palmeiras, os prédios da orla, carros na avenida e algumas pessoas caminhando; luz quente e dourada de fim de tarde, em contraluz.
 >
@@ -1053,7 +1053,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: foto vertical tipo street style que alguém tirou de longe, ela caminha; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto de celular meio torta, luz de fim de tarde, leve grão.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: on the Portuguese-stone promenade along Ipanema at dusk; behind her, the wave-patterned promenade, the Dois Irmãos mountain with the sun setting right behind (strong golden backlight), palm trees, beachfront buildings, cars on the avenue and a few people walking; warm golden backlit dusk light.
 >
@@ -1066,7 +1066,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 ## C39 — Academia / mirror selfie depois do treino
 
 **PT**
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: numa academia moderna de manhã, em frente ao espelho grande da parede da área de pesos; ao fundo, refletidos no espelho, racks de anilhas pretas, halteres organizados num suporte, um banco de supino, piso de borracha preto e algumas pessoas treinando desfocadas; luz fria de luminárias de LED no teto, com o reflexo delas aparecendo no espelho.
 >
@@ -1077,7 +1077,7 @@ Prompts que descrevem **só a cena** (lugar, pose, roupa, luz). Usados junto com
 > POSE: em pé de frente pro espelho, corpo levemente de lado, peso numa perna só; uma mão segurando o celular (iPhone 15 Pro Max titânio preto, capinha preta) na altura do peito, a outra segurando a garrafinha ao lado do corpo; mirror selfie vertical de corpo inteiro, meio torta, marca de dedo e um pouco de poeira no espelho, grão suave; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
 
 **EN**
-> CHARACTER: the same person as in the reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: in a modern gym in the morning, in front of the large wall mirror of the weights area; in the background, reflected in the mirror, black plate racks, dumbbells lined up on a rack, a bench press and a few blurred people training; cool LED ceiling lights, with their reflection showing in the mirror.
 >

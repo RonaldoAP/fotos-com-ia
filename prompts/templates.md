@@ -53,7 +53,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 
 ### Molde (PT)
 
-> PERSONAGEM: a mesma pessoa das imagens de referência anexadas (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [local — ou [AQUI] pro quarto padrão]; [luz do ambiente].
 >
@@ -72,7 +72,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 
 ### Molde (EN)
 
-> CHARACTER: the same person as in the attached reference images (Vic).
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
 > SETTING: [place — or [HERE] for the standard bedroom]; [ambient light].
 >
@@ -90,7 +90,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 
 ### Exemplo preenchido (cena normal)
 
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: na areia de Ipanema no fim de tarde, mar e Dois Irmãos ao fundo; sol dourado de lado,
 > um cantinho estourado de luz.
@@ -106,7 +106,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 
 ### Exemplo preenchido (quarto padrão)
 
-> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
 > AMBIENTE: [AQUI] (referência do quarto da Vic); luz da LED do teto em roxo + abajur quente no
 > rosto.

@@ -122,3 +122,26 @@ mais prático de cobrir o que faltou sem refazer tudo.
 3. Nova foto = kit/âncora (identidade) + prompt de cenário (biblioteca) + mini-ficha (texto).
 4. Sempre voltar à âncora, nunca encadear.
 5. Ajuste fino por edição, não re-geração.
+
+---
+
+## Seedream 5 Pro — travar o rosto (não deixar mudar)
+
+O Seedream mistura rostos quando recebe várias imagens sem saber o papel de cada uma. Regras:
+
+1. **Imagem 1 = sempre a referência de rosto da Vic** (a âncora frontal nítida). Anexar ela **primeiro**.
+   Ambiente/roupa vêm depois (Imagem 2, 3…). Menos referências = rosto mais fiel; evitar mais de 3.
+2. **A linha PERSONAGEM é a trava de rosto** (já aplicada em todos os prompts):
+   > PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao
+   > da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas,
+   > mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não
+   > afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só
+   > pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+3. **Quando anexar ambiente ou roupa**, dizer no campo o número da imagem: `AMBIENTE: [AQUI — Imagem 2]`,
+   `ROUPA: conforme a Imagem 3`.
+4. **Nunca descrever formato de rosto no texto** (boca carnuda, sobrancelha grossa, pele bronzeada, nariz
+   fino…). Isso puxa o rosto pra pessoa do print. Maquiagem só por **cor** (batom vermelho, blush
+   rosado, delineado).
+5. **Nunca anexar o print original da outra pessoa** como referência — só a Vic + ambiente/roupa.
+6. Se ainda mudar: gerar 3–4 variações e escolher a mais fiel; mudar **uma coisa por vez** (primeiro
+   composição, depois rosto, depois luz). Nunca encadear (gerar a partir de uma geração anterior).
