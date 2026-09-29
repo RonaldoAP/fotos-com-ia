@@ -5,6 +5,33 @@ bloco anti-IA embutidos. Há versão **PT** e **EN** (o EN costuma render um pou
 
 ---
 
+## ⭐ Modo réplica — foto de referência = cópia exata
+
+Quando o dono manda uma foto, o prompt é uma **réplica fiel** dela. Não simplificar, não "melhorar",
+não trocar cor/peça/luz/pose por gosto. Antes de escrever, passar pelo checklist e colocar **cada
+item** no campo certo dos 5 campos:
+
+| Item | O que descrever com precisão | Campo |
+|---|---|---|
+| Composição | onde ela está no quadro (esquerda/centro/direita, cortada pela borda?), o que ocupa o resto, espaço vazio acima/abaixo, proporção | POSE |
+| Câmera | quem tira (selfie frontal/traseira, espelho, outra pessoa), altura (chão/peito/olho/acima), inclinação (de baixo/de cima), distância, lente (grande-angular, distorção) | POSE |
+| Corte | de onde até onde o corpo aparece (topo da cabeça até…), o que é cortado pela borda | POSE |
+| Pose | posição do corpo, ombros, cabeça (inclinação, queixo), braços, mãos (o que seguram/onde), pernas | POSE |
+| Expressão | olhos (abertos/semicerrados/fechados, pra onde olham), boca, sorriso | DETALHES |
+| Cabelo | penteado e como cai (lado, frente, costas, molhado, bagunçado) — cor vem da Vic | DETALHES |
+| Luz | fonte, direção, dureza, cor/temperatura, o que fica iluminado e o que fica no escuro, altas-luzes estouradas | AMBIENTE |
+| Cor/tratamento | paleta dominante, saturação, contraste, se é escuro/claro, filtro, cor da pele sob aquela luz | AMBIENTE/POSE |
+| Textura de imagem | grão, ruído, nitidez, compressão, motion blur, flash, marca no espelho | POSE |
+| Cenário | cada objeto visível, com cor, material e posição (primeiro plano / fundo) | AMBIENTE |
+| Roupa | peça, cor exata, tecido, textura (canelado, cetim…), caimento, detalhes | ROUPA |
+
+**Só 4 exceções** (sempre avisar o dono do que mudou): (1) joia/piercing/tatuagem saem; (2) rosto,
+cor de cabelo e corpo vêm da referência da Vic; (3) lingerie/transparência/peça íntima → peça
+equivalente mais próxima (mesmo corte, cor, caimento); (4) recorte feito pra destacar corpo → mesma
+pose/luz, só o corte muda o mínimo necessário.
+
+---
+
 ## ⭐ Estrutura padrão (5 campos) — usar em todos os prompts
 
 Todo prompt da Vic segue esta ordem de campos. Cada campo é uma **frase natural** (não é lista

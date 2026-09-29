@@ -161,6 +161,13 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    em foco (**sem bokeh** de câmera profissional), HDR de celular, nitidez digital exagerada, leve
    JPEG e balanço de branco automático. Texto exato PT/EN em `guia/06-detalhes-de-realismo.md`. Já
    aplicado em todos os prompts (exemplos, externos e os dois JSON).
+6. **⭐ Modo réplica (pedido do dono):** quando chega uma foto de referência, o prompt reproduz a foto
+   **exatamente igual** — luz, textura, cor, enquadramento, posição no quadro, câmera, pose, expressão,
+   cenário e objetos. **Nada é "melhorado" por conta própria.** As únicas mudanças permitidas (e
+   sempre avisadas ao dono) são: (1) joia/piercing/tatuagem saem; (2) rosto/cor de cabelo/corpo vêm da
+   referência da Vic; (3) lingerie/transparência/peça íntima → peça equivalente mais próxima (mesmo
+   corte, cor, caimento); (4) recorte feito pra destacar corpo → mesma pose/luz, só o corte muda o
+   mínimo. Checklist de precisão em `prompts/templates.md` (seção "Modo réplica").
 
 ---
 
