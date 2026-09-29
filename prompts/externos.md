@@ -4509,3 +4509,68 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows,
 > slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
 > photo, no retouching, no AI look.
+
+---
+
+## EXT97 — Selfie brincalhona no box de toalha, língua pra fora e gilete rosa — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; a referência era no chuveiro com o corpo à mostra →
+> **enrolada numa toalha branca presa acima do peito** (cabelo molhado e gotinhas mantidos); sem
+> tatuagem, argolas e pulseira. Cenário, luz, pose, gesto e gilete idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: dentro do box do banheiro, com o chuveiro desligado; à esquerda, parede de porcelanato bege
+> tipo travertino com veios horizontais e uma faixa de pastilhas de vidro cinza-marrom atravessando; no
+> alto à esquerda, um chuveiro cromado redondo; embaixo à esquerda, o registro cromado; à direita, uma
+> cortina de box branca translúcida pendurada num varão cromado com argolas, com pregas; luz interna quente
+> e amarelada do banheiro, suave e uniforme, com um leve vapor no ar; cores: bege, branco quente e pele
+> rosada molhada.
+>
+> ROUPA: toalha de banho branca enrolada no corpo, presa acima do peito, cobrindo o tronco; ombros de fora.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré molhado, mais escuro por estar molhado, penteado pra trás com
+> mechas grudadas caindo pelos lados do rosto e no pescoço; rosto sem maquiagem, molhado, com gotinhas
+> d'água; língua pra fora numa careta brincalhona, olhos bem abertos olhando direto pra câmera; pele com
+> textura natural e saudável — poros e uma sardinha ou outra, leve vermelhidão do banho quente, gotas
+> d'água nos ombros e na clavícula; sem acne, sem excesso de imperfeição; sem joias, sem brincos, sem
+> pulseira, sem piercing, sem tatuagem.
+>
+> POSE: selfie vertical com a câmera frontal, levemente de cima; a mão livre em primeiro plano no canto
+> inferior esquerdo, grande e perto da lente, fazendo sinal de paz com dois dedos e segurando entre os
+> dedos uma gilete descartável rosa com detalhe azul, dedos molhados; ela fica no terço de baixo à
+> direita, do topo da cabeça até o peito; a metade de cima do quadro é parede de porcelanato, chuveiro e
+> cortina; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
+> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional,
+> sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital um pouco
+> exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de
+> IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: inside the bathroom shower stall, with the shower off; on the left, a beige travertine-look
+> porcelain tile wall with horizontal veins and a strip of grey-brown glass mosaic running across it; at
+> the upper left, a round chrome shower head; at the lower left, the chrome valve handle; on the right, a
+> white translucent shower curtain hanging from a chrome rod with rings, with folds; warm, yellowish
+> bathroom light, soft and even, with a little steam in the air; colors: beige, warm white and wet rosy
+> skin.
+>
+> OUTFIT: a white bath towel wrapped around the body, tucked above the chest, covering the torso;
+> shoulders bare.
+>
+> PERSON DETAILS: wet blonde ombré hair, darker because it is wet, slicked back with strands stuck to the
+> sides of the face and the neck; bare, wet face with water droplets; tongue out in a playful face, eyes
+> wide open looking straight at the camera; natural, healthy skin texture — pores and a few faint
+> freckles, soft redness from the hot shower, water droplets on the shoulders and collarbone; no acne, no
+> over-imperfection; no jewelry, no earrings, no bracelet, no piercings, no tattoos.
+>
+> POSE: vertical front-camera selfie, slightly from above; the free hand in the foreground in the
+> lower-left corner, large and close to the lens, making a peace sign with two fingers and holding a pink
+> disposable razor with a blue detail between the fingers, wet fingers; she sits in the lower-right third,
+> from the top of the head to the chest; the top half of the frame is tile wall, shower head and curtain;
+> smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything in focus
+> (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
+> with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
+> white balance; realistic photo, no retouching, no AI look.
