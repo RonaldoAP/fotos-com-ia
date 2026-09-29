@@ -3303,3 +3303,73 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly
 > over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
 > retouching, no AI look.
+
+---
+
+## EXT78 — Na borda da piscina com sol dourado, cabelo molhado — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem o colarzinho dourado. Composição, luz, cenário e
+> pose idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: dentro da piscina de um hotel/clube, de manhã ou fim de tarde; logo atrás dela, a parede
+> interna da piscina de pastilhas verde-oliva pequenas e quadradas, com a borda de granito claro
+> salpicado; mais atrás, um vaso cilíndrico grande azul-marinho escuro com uma planta alta (dracena e
+> costela-de-adão) com folhas escuras contra a luz; à esquerda, um prédio moderno com teto branco,
+> spots de luz embutidos acesos e um salão escuro envidraçado com guarda-corpo de vidro; à direita, uma
+> escada de inox com corrimão e janelas mostrando um morro verde lá fora; a borda da piscina em primeiro
+> plano é de pedra ardósia cinza molhada; sol baixo e forte vindo da direita, dourado e quente, batendo
+> em cheio no rosto e no braço, com a metade esquerda do rosto e do quadro mais na sombra; fundo mais
+> escuro e levemente subexposto; alto contraste, cores quentes na pele contra o verde das pastilhas e o
+> azul-escuro do vaso.
+>
+> ROUPA: de biquíni dentro da água (alças não aparecem), só ombros e braços à mostra.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré molhado, mais escuro por estar molhado, penteado todo pra
+> trás e rente à cabeça, preso atrás; rosto molhado com gotas d'água na testa, bochecha e embaixo do
+> olho; cílios molhados e definidos; olhar sereno e preguiçoso direto pra câmera, pálpebras levemente
+> caídas, boca fechada em biquinho suave; pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão, brilho molhado no nariz, na bochecha e no ombro; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: dentro da piscina, braços cruzados apoiados na borda de pedra, o rosto deitado de lado sobre a
+> mão e o antebraço, cabeça levemente inclinada; selfie vertical bem de perto, com a câmera quase na
+> altura da água e dos braços, frontal; o rosto fica no centro, um pouco à direita, e o antebraço
+> atravessa toda a parte de baixo do quadro em primeiro plano; o topo do quadro mostra o prédio e a
+> planta; cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
+> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
+> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
+> um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem
+> cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: inside the pool of a hotel/club, in the morning or late afternoon; right behind her, the inner
+> pool wall of small square olive-green mosaic tiles with a speckled light-granite coping; further back, a
+> large dark navy-blue cylindrical planter with a tall plant (dracaena and monstera) with dark leaves
+> against the light; on the left, a modern building with a white ceiling, lit recessed spotlights and a
+> dark glass-walled lounge with a glass railing; on the right, a stainless-steel staircase with a handrail
+> and windows showing a green hill outside; the pool edge in the foreground is wet grey slate; low, strong
+> sun from the right, golden and warm, hitting the face and arm full-on, with the left half of the face
+> and frame more in shadow; darker, slightly underexposed background; high contrast, warm skin tones
+> against the green tiles and the dark-blue planter.
+>
+> OUTFIT: in a bikini in the water (straps not visible), only shoulders and arms showing.
+>
+> PERSON DETAILS: wet blonde ombré hair, darker because it is wet, slicked all the way back close to the
+> head and tied behind; wet face with water droplets on the forehead, cheek and under the eye; wet,
+> defined lashes; calm, lazy gaze straight at the camera, lids slightly lowered, closed mouth in a soft
+> pout; natural, healthy skin texture — pores and a few faint freckles, soft redness, wet sheen on the
+> nose, cheek and shoulder; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: in the pool, arms folded on the stone edge, face lying sideways on the hand and forearm, head
+> slightly tilted; very close vertical selfie, camera almost at water and arm level, frontal; the face
+> sits in the center, slightly right, and the forearm crosses the whole bottom of the frame in the
+> foreground; the top of the frame shows the building and the plant; smartphone-camera look — phone
+> wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly
+> soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows,
+> slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
+> photo, no retouching, no AI look.
