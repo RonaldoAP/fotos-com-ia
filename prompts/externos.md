@@ -4033,3 +4033,78 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
 > with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
 > white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT90 — Bar de praia à noite com luzinhas, vestido tomara-que-caia preto — modo réplica + efeito flash com arrasto
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem corrente de cintura, bracelete de braço, pulseiras,
+> anéis, colar, brinco, piercing de nariz e pulseirinha de evento; placa de letras de madeira sem texto
+> legível. **Efeito:** preset "flash com arrasto + filme 35mm" (`guia/06`) no lugar do bloco "cara de
+> celular". Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: área externa de um bar/restaurante de praia à noite, decorado de fim de ano; ela está
+> encostada numa mureta de tijolinho aparente com rejunte branco, com uma vidraça grande em cima; à
+> esquerda, o vidro reflete cordões de luzinhas amarelas, uma estrela prateada de glitter colada no vidro,
+> uma barraquinha de comida iluminada e uma pessoa de bermuda; à direita, a varanda aberta com cortinas
+> de luzinhas pisca-pisca penduradas, estrelas de glitter prateada e vermelha, um portal de madeira com
+> uma placa de letras de madeira no alto (sem texto legível), um portãozinho de madeira em X, cadeiras de
+> plástico vermelhas, piso de lajota bege, carros estacionados, uma tenda vermelha iluminada, uma
+> palmeira e o céu preto; luz: flash direto de frente nela, forte, com o fundo iluminado pelas luzinhas
+> quentes.
+>
+> ROUPA: vestido tubinho curto tomara-que-caia preto, liso, de malha grossa, decote reto normal.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, liso com leve onda, loiro com ombré, com uma parte jogada pra
+> frente de um ombro e o resto pelas costas até o quadril; sobrancelhas marcadas, delineado gatinho,
+> cílios definidos, batom vermelho-rosado, pele bronzeada; olhar sério e sensual direto pra câmera,
+> cabeça levemente inclinada, boca fechada; unhas pretas; pele com textura natural e saudável — poros e
+> uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição; sem joias, sem pulseiras,
+> sem anéis, sem colar, sem brinco, sem piercing, sem tatuagem.
+>
+> POSE: em pé encostada na mureta, corpo levemente virado, quadril apoiado; uma mão passando no cabelo
+> perto da cabeça, com o cabelo balançando; o outro braço esticado pra trás, com a mão apoiada na borda da
+> mureta; foto vertical tirada por outra pessoa de pé, na altura do peito; ela fica no centro-esquerda do
+> quadro, da cabeça até o alto das coxas, cortada pela borda de baixo; efeito de flash direto com
+> obturador lento (flash com arrasto): o rosto e o corpo congelados e nítidos pelo flash, com um leve
+> contorno fantasma em volta; o cabelo em movimento com rastro borrado; a mão em movimento levemente
+> borrada; as luzes do fundo esticadas em riscos e manchas de luz quente por causa do movimento da câmera;
+> fundo escuro com luzes amareladas e vermelhas borradas; pele com brilho do flash e blush rosado estourado
+> nas bochechas, brancos levemente estourados; look de câmera compacta analógica de 35mm: grão de filme
+> visível, cores quentes puxando pro laranja e dourado, pretos levemente lavados, leve vinheta nos cantos;
+> foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: the outdoor area of a beach bar/restaurant at night, decorated for the holidays; she leans on a
+> low exposed-brick wall with white mortar, topped by a large glass window; on the left, the glass
+> reflects strings of yellow fairy lights, a silver glitter star stuck on the glass, a lit food stall and a
+> person in shorts; on the right, the open terrace with hanging curtains of twinkle lights, silver and red
+> glitter stars, a wooden entrance arch with a wooden-letter sign on top (no legible text), a small wooden
+> X-braced gate, red plastic chairs, beige tile floor, parked cars, a lit red tent, a palm tree and the
+> black sky; light: strong direct frontal flash on her, with the background lit by the warm fairy lights.
+>
+> OUTFIT: a short black strapless tube dress, plain, thick knit, straight normal neckline.
+>
+> PERSON DETAILS: very long hair, straight with a slight wave, blonde with ombré, with part of it swept over
+> the front of one shoulder and the rest down the back to the hips; defined brows, winged eyeliner,
+> defined lashes, rosy-red lipstick, tanned skin; serious, sultry gaze straight at the camera, head
+> slightly tilted, closed mouth; black nails; natural, healthy skin texture — pores and a few faint
+> freckles, soft redness; no acne, no over-imperfection; no jewelry, no bracelets, no rings, no necklace,
+> no earrings, no piercings, no tattoos.
+>
+> POSE: standing leaning against the low wall, body slightly turned, hip resting on it; one hand running
+> through her hair near the head, with the hair swinging; the other arm stretched back, hand resting on the
+> edge of the wall; vertical photo taken by someone standing, at chest height; she stands center-left in
+> the frame, from the head to the upper thighs, cut by the bottom edge; direct flash with slow shutter
+> (drag-the-shutter / slow-sync flash): the face and body frozen sharp by the flash, with a faint ghost
+> outline around them; the moving hair with a blurred motion trail; the moving hand slightly blurred; the
+> background lights stretched into streaks and smears of warm light from camera movement; dark background
+> with blurred yellow and red lights; flash sheen on the skin and blown-out rosy blush on the cheeks,
+> whites slightly blown out; 35mm analog point-and-shoot look: visible film grain, warm colors leaning
+> orange and gold, slightly lifted blacks, slight vignette in the corners; realistic photo, no retouching,
+> no AI look.
