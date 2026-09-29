@@ -3500,3 +3500,67 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > almost everything in focus (background at most slightly soft, no strong professional-camera blur, no
 > bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital processing,
 > mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT81 — Banco de trás do carro à noite, look todo preto — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: banco de trás de um carro à noite, parado; forro do teto cinza-claro no alto do quadro,
+> coluna da porta cinza à direita, bancos de couro preto, a maçaneta cromada da porta aparecendo à
+> esquerda e a janela escura atrás dela; quase tudo no escuro; luz suave de frente (flash de celular
+> fraco/difuso vindo de um pouco longe) iluminando só o rosto, a mão e a coxa, com queda rápida pro preto
+> ao redor; cores escuras e dessaturadas, pretos profundos, pele com tom quente.
+>
+> ROUPA: look todo preto — blazer preto oversized de ombro largo, com mangas compridas cobrindo parte das
+> mãos, sobre um vestidinho/saia curta preta, e bota preta de couro de cano alto até o joelho.
+>
+> DETALHES DA PESSOA: cabelo comprido bem liso, loiro com ombré, repartido no meio, caindo pelos ombros e
+> pelas costas; maquiagem marcada: blush rosado forte nas bochechas e no nariz, delineado esfumado,
+> cílios definidos, sobrancelhas penteadas, boca carnuda com batom marrom-nude matte; expressão
+> blasé, boca em biquinho, cabeça levemente inclinada, olhando direto pra câmera; pele com textura
+> natural e saudável — poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: sentada de lado no banco, virada pra câmera; uma mão com os dedos apoiados na bochecha e na
+> têmpora, segurando a cabeça inclinada; o outro braço apoiado no joelho; perna dobrada com o joelho vindo
+> pra frente, a coxa aparecendo entre a saia e a bota no canto inferior; foto vertical tirada de perto por
+> alguém no banco ao lado/na frente, na altura dos olhos, levemente de cima; ela ocupa o centro e a
+> esquerda do quadro, rosto no terço de cima, cortada nos joelhos pela borda de baixo; foto noturna escura
+> com grão, pretos esmagados e leve ruído; cara de foto de câmera de celular — lente grande-angular de
+> celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque
+> forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas,
+> nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático; foto realista,
+> sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: the back seat of a parked car at night; light-grey headliner at the top of the frame, grey door
+> pillar on the right, black leather seats, the chrome door handle showing on the left and the dark window
+> behind her; almost everything in darkness; soft frontal light (weak/diffused phone flash from a little
+> distance) lighting only the face, hand and thigh, with a fast falloff to black around; dark desaturated
+> colors, deep blacks, warm skin tone.
+>
+> OUTFIT: an all-black look — an oversized broad-shouldered black blazer with long sleeves partly covering
+> the hands, over a short black mini dress/skirt, and black leather knee-high boots.
+>
+> PERSON DETAILS: very straight long hair, blonde with ombré, center part, falling over the shoulders and
+> down the back; bold makeup: strong rosy blush on the cheeks and nose, smoky liner, defined lashes,
+> brushed-up brows, full lips with matte brown-nude lipstick; blasé expression, pouty lips, head slightly
+> tilted, looking straight at the camera; natural, healthy skin texture — pores and a few faint freckles,
+> soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
+>
+> POSE: sitting sideways on the seat, turned toward the camera; one hand with fingers resting on the cheek
+> and temple, holding the tilted head; the other arm resting on the knee; one leg bent with the knee coming
+> forward, the thigh showing between the skirt and the boot in the lower corner; vertical photo taken up
+> close by someone in the seat beside/in front, at eye level, slightly from above; she fills the center
+> and left of the frame, face in the top third, cut at the knees by the bottom edge; dark night photo with
+> grain, crushed blacks and slight noise; smartphone-camera look — phone wide-angle lens with slight edge
+> distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
+> blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
+> processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
