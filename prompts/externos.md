@@ -3012,3 +3012,79 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
 > blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
 > processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT74 — Mirror selfie de perfil ajoelhada na cama, espelho ondulado (modo réplica)
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; a referência era de fio-dental com pose de perfil
+> empinada focada no bumbum → **tronco reto (sem empinar)**, **legging preta** e regata cobrindo até a
+> cintura. Celular: iPhone padrão (no print é capinha vermelha com pop socket). Espelho, quarto, luz,
+> composição e posição no quadro idênticos ao print. Mesmo quarto do EXT73.
+
+**PT**
+> PERSONAGEM: a mesma pessoa das imagens de referência (Vic).
+>
+> AMBIENTE: quarto escuro de apartamento moderno visto por um espelho grande de formato orgânico; a borda
+> ondulada do espelho e a parede bege-acinzentada fora dele ocupam toda a faixa esquerda do quadro (quase
+> 40% da largura), fazendo uma curva em S de cima a baixo, e a borda de cima do espelho faz um arco
+> amplo na parte superior; no reflexo: teto liso cinza-claro curvo no terço de cima; no centro, uma
+> coluna branca e, à direita dela, um vão escuro de porta levando a um corredor com um cômodo mais claro
+> ao longe (com uma planta); na direita, um painel preto alto de armário; embaixo à esquerda, a ponta da
+> cama com colcha branca matelassê; embaixo à direita, piso de taco de madeira quente; luz natural fraca
+> vinda da direita, deixando o quarto em sombra profunda e só ela e a cama um pouco iluminadas; foto
+> muito escura e melancólica, contraste baixo, cores dessaturadas em cinza-marrom, preto, branco sujo e
+> madeira.
+>
+> ROUPA: regata branca canelada justa de alça fina, cobrindo até a cintura, e uma legging preta fosca de
+> cintura alta.
+>
+> DETALHES DA PESSOA: cabelo comprido liso solto, loiro com ombré, caindo pelas costas; rosto de perfil
+> quase todo escondido atrás do celular; pele com textura natural e saudável — poros e uma sardinha ou
+> outra, leve vermelhidão, brilho suave no braço e ombro onde a luz bate; sem acne, sem excesso de
+> imperfeição; sem joias, sem piercing, sem tatuagem.
+>
+> POSE: mirror selfie vertical; ajoelhada na beira da cama, vista de perfil completo virada pra direita
+> do quadro, tronco reto e ereto (sem empinar); uma das pernas dobrada com o pé de trás levantado e
+> cruzado atrás, pé descalço aparecendo; o braço levantado segura o celular (iPhone 15 Pro Max titânio
+> preto, capinha preta) na frente do rosto, cotovelo dobrado; ela é pequena no quadro, no centro um pouco
+> abaixo do meio, ocupando a faixa entre o meio e o pé da imagem, com a cama e o piso cortados pela borda
+> de baixo; a metade de cima é só teto e o arco do espelho; câmera na altura do rosto; imagem escura com
+> bastante grão de pouca luz, sombras esmagadas e perda de detalhe nos pretos; cara de foto de câmera de
+> celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco (fundo no
+> máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático de celular
+> com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de
+> branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the same person as in the reference images (Vic).
+>
+> SETTING: a dark modern apartment bedroom seen through a large organic-shaped mirror; the wavy mirror
+> edge and the greyish-beige wall outside it fill the entire left strip of the frame (almost 40% of the
+> width), forming an S-curve from top to bottom, and the top edge of the mirror makes a wide arc across
+> the upper part; in the reflection: a curved plain light-grey ceiling in the top third; in the center, a
+> white column and, to its right, a dark door opening leading to a hallway with a brighter room far away
+> (with a plant); on the right, a tall black wardrobe panel; at bottom left, the end of the bed with a
+> white quilted cover; at bottom right, warm wooden parquet floor; weak natural light from the right,
+> leaving the room in deep shadow with only her and the bed slightly lit; very dark, moody photo, low
+> contrast, desaturated colors in grey-brown, black, off-white and wood.
+>
+> OUTFIT: a fitted white ribbed thin-strap tank top covering down to the waist, and matte black
+> high-waisted leggings.
+>
+> PERSON DETAILS: long straight hair down, blonde with ombré, falling down the back; face in profile
+> almost fully hidden behind the phone; natural, healthy skin texture — pores and a few faint freckles,
+> soft redness, a soft sheen on the arm and shoulder where the light hits; no acne, no over-imperfection;
+> no jewelry, no piercings, no tattoos.
+>
+> POSE: vertical mirror selfie; kneeling on the edge of the bed, seen in full profile facing the right of
+> the frame, torso straight and upright (not arched); one leg bent with the back foot lifted and crossed
+> behind, bare foot showing; the raised arm holds the phone (black titanium iPhone 15 Pro Max, plain black
+> case) in front of the face, elbow bent; she is small in the frame, in the center slightly below the
+> middle, filling the band between the middle and the bottom of the image, with the bed and floor cut by
+> the bottom edge; the top half is only ceiling and the mirror's arc; camera at face height; dark image
+> with plenty of low-light grain, crushed shadows and loss of detail in the blacks; smartphone-camera look
+> — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most
+> slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
+> shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
+> realistic photo, no retouching, no AI look.
