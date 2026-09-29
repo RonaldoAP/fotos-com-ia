@@ -4452,3 +4452,63 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR
 > with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG compression and auto
 > white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT96 — Selfie de baixo com sol em faixas no rosto, dedo no lábio (sem texto) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem colar e brincos; sem o texto/legenda do print;
+> "top de alcinha" escrito pra ombros nus não serem lidos como sem roupa. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: dentro de casa ou do carro, de dia; atrás dela, um teto/parede cinza-escuro liso com
+> algumas linhas retas; sol forte entrando por uma janela fora do quadro, à esquerda, formando faixas de
+> luz dourada quente que cortam o fundo na diagonal e batem em cheio na bochecha, no nariz e no queixo,
+> deixando o resto do rosto e o fundo em sombra suave; alto contraste entre as faixas de sol e a sombra;
+> cores: cinza, dourado quente e pele pêssego.
+>
+> ROUPA: top de alcinha fina (as alças quase não aparecem), ombros de fora.
+>
+> DETALHES DA PESSOA: cabelo comprido liso, loiro com ombré, repartido no meio, caindo pelos lados do
+> rosto e por trás dos ombros; sorriso aberto e brincalhão mostrando os dentes de cima, olhando direto pra
+> câmera; cílios definidos, sobrancelhas penteadas, blush pêssego, gloss rosado-pêssego bem brilhante;
+> unhas longas nude; pele com textura natural e saudável — poros e sardinhas no nariz e nas bochechas,
+> leve vermelhidão, brilho do sol na pele; sem acne, sem excesso de imperfeição; sem joias, sem colar,
+> sem brincos, sem piercing, sem tatuagem.
+>
+> POSE: selfie vertical com a câmera frontal de baixo pra cima, bem perto; cabeça levemente inclinada; a
+> mão que não segura o celular levantada com a ponta do dedo indicador encostada no lábio de baixo; o
+> braço atravessando o canto inferior direito em primeiro plano; o rosto ocupa o centro do quadro, do
+> topo da cabeça até o pescoço; imagem limpa, sem nenhum texto, legenda ou elemento gráfico; cara de foto
+> de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em foco
+> (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR automático
+> de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e
+> balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: indoors or in a car, during the day; behind her, a plain dark-grey ceiling/wall with a few
+> straight lines; strong sun coming through a window out of frame on the left, forming warm golden light
+> streaks that cut diagonally across the background and hit the cheek, nose and chin full-on, leaving the
+> rest of the face and the background in soft shadow; high contrast between the sun streaks and the
+> shadow; colors: grey, warm gold and peachy skin.
+>
+> OUTFIT: a thin-strap top (the straps barely show), shoulders bare.
+>
+> PERSON DETAILS: long straight hair, blonde with ombré, center part, falling at the sides of the face and
+> behind the shoulders; wide, playful smile showing the upper teeth, looking straight at the camera;
+> defined lashes, groomed brows, peach blush, very glossy peachy-pink gloss; long nude nails; natural,
+> healthy skin texture — pores and freckles on the nose and cheeks, soft redness, sun sheen on the skin;
+> no acne, no over-imperfection; no jewelry, no necklace, no earrings, no piercings, no tattoos.
+>
+> POSE: vertical front-camera selfie from below, very close; head slightly tilted; the hand not holding
+> the phone raised with the tip of the index finger touching the lower lip; the arm crossing the
+> lower-right corner in the foreground; the face fills the center of the frame, from the top of the head
+> to the neck; clean image, with no text, caption or graphic element; smartphone-camera look — phone
+> wide-angle lens with slight edge distortion, almost everything in focus (background at most slightly
+> soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows,
+> slightly over-sharpened digital processing, mild JPEG compression and auto white balance; realistic
+> photo, no retouching, no AI look.
