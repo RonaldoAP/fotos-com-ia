@@ -4327,3 +4327,69 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > distortion, almost everything in focus (background at most slightly soft, no strong professional-camera
 > blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly over-sharpened digital
 > processing, mild JPEG compression and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT94 — Vista de dentro da palapa, ela pequena de costas na piscina (tricô azul-bebê) — modo réplica
+
+> **Mesma sessão do EXT92/EXT93.** **Exceções aplicadas:** cabelo da Vic; sem joias; calça de tricô na
+> cintura normal. Composição, luz, coloração e cenário idênticos ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: resort de selva tropical (estilo Tulum) numa manhã de sol, visto de dentro de uma palapa;
+> o teto triangular de palha seca com vigas de tronco de madeira escura cruzando o quadro ocupa as bordas
+> de cima, com tecidos de linho cru transparentes pendurados em diagonal, balançando; pela abertura, um
+> céu azul-claro limpo ocupando boa parte do meio; embaixo, uma massa densa de palmeiras e folhagens
+> verde-escuras quase em silhueta, um prédio moderno de concreto cinza com ripas de madeira à esquerda,
+> árvores altas de mata ao fundo e uma estrutura de madeira em formato de A à direita; no canto inferior
+> direito, a piscina de água turquesa clara com borda de pedra calcária e um canteiro com pedras; piso
+> de cimento queimado claro embaixo à esquerda; luz de contraluz: o interior da palapa e as plantas mais
+> escuros e levemente subexpostos, o céu claro; coloração: azul do céu, verde-escuro, marrom da madeira e
+> turquesa da água, contraste médio-alto.
+>
+> ROUPA: conjunto de tricô azul-bebê — top faixa (tomara-que-caia) de tricô com amarração em laço nas
+> costas e calça pantalona longa de tricô na cintura normal.
+>
+> DETALHES DA PESSOA: cabelo muito comprido, loiro com ombré, solto e caindo pelas costas; rosto não
+> aparece (de costas); pele com textura natural e saudável, leve brilho do sol nos ombros; sem joias,
+> sem piercing, sem tatuagem.
+>
+> POSE: em pé na beira da piscina, de costas pra câmera, olhando pra mata; os dois braços levantados com
+> as mãos no topo da cabeça, segurando o cabelo; foto vertical bem aberta tirada de dentro da palapa, de
+> baixo, com a câmera inclinada pra cima pegando o teto; ela aparece pequena no terço de baixo, um pouco
+> à direita do centro, de corpo inteiro; o teto, o céu e a mata ocupam quase todo o quadro; cara de foto
+> de câmera de celular — lente grande-angular de celular com leve distorção nas bordas, quase tudo em
+> foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR
+> automático de celular com sombras levemente levantadas, nitidez digital um pouco exagerada, leve
+> compressão JPEG e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: a tropical jungle resort (Tulum style) on a sunny morning, seen from inside a palapa; the
+> triangular dried-palm thatched roof with dark wooden log beams crossing the frame fills the top edges,
+> with sheer raw-linen fabrics hanging diagonally, swaying; through the opening, a clear pale blue sky
+> filling much of the middle; below, a dense mass of dark green palms and foliage almost in silhouette, a
+> modern grey concrete building with wooden slats on the left, tall jungle trees in the background and a
+> wooden A-frame structure on the right; in the lower-right corner, the pool of clear turquoise water with
+> a limestone edge and a planter with stones; light polished-concrete floor in the lower left; backlit
+> light: the palapa interior and the plants darker and slightly underexposed, the sky bright; colors: sky
+> blue, dark green, wood brown and water turquoise, medium-high contrast.
+>
+> OUTFIT: a baby-blue knit set — a knit bandeau (strapless) top tied with a bow at the back and long knit
+> wide-leg pants at a normal waist.
+>
+> PERSON DETAILS: very long hair, blonde with ombré, loose and falling down the back; face not visible
+> (back turned); natural, healthy skin texture, light sun sheen on the shoulders; no jewelry, no
+> piercings, no tattoos.
+>
+> POSE: standing at the edge of the pool, back to the camera, looking at the jungle; both arms raised with
+> the hands on top of the head, holding the hair; very wide vertical photo taken from inside the palapa,
+> from below, with the camera tilted up to catch the roof; she appears small in the bottom third, slightly
+> right of center, full body; the roof, sky and jungle fill almost the whole frame; smartphone-camera look
+> — phone wide-angle lens with slight edge distortion, almost everything in focus (background at most
+> slightly soft, no strong professional-camera blur, no bokeh), automatic phone HDR with slightly lifted
+> shadows, slightly over-sharpened digital processing, mild JPEG compression and auto white balance;
+> realistic photo, no retouching, no AI look.
