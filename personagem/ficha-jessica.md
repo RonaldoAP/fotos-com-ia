@@ -68,7 +68,8 @@ verde-acinzentados. Sem risco de confundir as duas.
 > leve e meigo de boca fechada mostrando covinhas nas bochechas. Mesmo cabelo castanho liso e comprido,
 > repartido no meio, colocado atrás das orelhas. Fundo cinza-claro liso, luz suave e uniforme, sem
 > sombras duras. Regata branca lisa. Maquiagem leve. Sem joias, sem colar, sem piercing, sem tatuagem.
-> Alta resolução, foco nítido no rosto, textura de pele real com poros, sem suavização nem brilho de IA.
+> Resolução máxima (4K), imagem grande e bem definida, foco nítido no rosto, cada fio de cabelo, cílio e
+> poro visível, textura de pele real com poros, sem suavização nem brilho de IA.
 > Foto realista, não render 3D, não ilustração.
 
 **EN:**
@@ -78,8 +79,11 @@ verde-acinzentados. Sem risco de confundir as duas.
 > Facing forward, head straight, looking straight at the camera, a slight, sweet closed-mouth smile
 > showing dimples on the cheeks. Same straight long brown hair, center part, tucked behind the ears.
 > Plain light-grey background, soft even light, no hard shadows. Plain white tank top. Light makeup. No
-> jewelry, no necklace, no piercings, no tattoos. High resolution, sharp focus on the face, real skin
+> jewelry, no necklace, no piercings, no tattoos. Maximum resolution (4K), a large, crisply defined image,
+> sharp focus on the face with every hair strand, eyelash and pore visible, real skin
 > texture with pores, no smoothing or AI glow. Realistic photo, not a 3D render, not an illustration.
+
+**Resolução:** na ferramenta, escolher a maior saída (Nano Banana Pro: 4K ou 2K; Seedream 5 Pro: 4K), proporção 3:4. Se ainda sair pequena, passar a aprovada no **upscaler** (Magnific Upscale, fator 2x, criatividade baixa pra não mexer no rosto).
 
 Gerar 3–4, escolher a mais fiel ao retrato original. **Essa passa a ser a Imagem 1 do kit e das cenas.**
 
