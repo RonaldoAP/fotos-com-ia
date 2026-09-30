@@ -71,7 +71,20 @@ Mesma regra da Vic:
   nude-rosado). Em conteúdo de **beleza/tutorial** pode variar (mais marcada, colorida), sempre
   descrita **só por cor**, nunca pelo formato do rosto.
 
-## 4. Estilo e objetos-assinatura ⏳
+## 4. Estilo e objetos-assinatura ✅
+
+- **Estilo de roupa:** mistura de **fofo + gamer** — moletom oversized, cropped de tricô, saia
+  plissada, meião, laços no cabelo, pijama fofo, camiseta larga de "gamer girl", conjunto de moletom;
+  no frio da serra: casaco puffer, gorro, cachecol, bota. Fitness ocasional: conjunto de academia
+  rosa/lilás. Dia de jogo: camisa tricolor do Grêmio **sem escudo**.
+- **Cores favoritas:** **rosa e lilás** (predominantes), com branco de base.
+- **Celular padrão (objeto-assinatura):** **iPhone 15 rosa-claro com capinha lilás fosca** — sempre
+  esse quando o celular aparecer em quadro (mirror selfie). Diferencia da Vic (iPhone preto).
+- **Chimarrão:** cuia com bomba metálica e garrafa térmica — objeto recorrente (frio, manhã, serra).
+- **Setup gamer (padrão, ajustar se quiser):** PC branco com LED **rosa/lilás**, headset branco com
+  orelhinhas de gato opcional, teclado e mouse brancos, cadeira gamer branca e rosa, mesa branca.
+- **Pet:** nenhum por enquanto.
+
 ## 5. Limites de conteúdo ⏳ (base já definida na seção 1)
 ## 6. Ferramentas ⏳
 ## 7. Mini-ficha (pra colar no prompt) ⏳
