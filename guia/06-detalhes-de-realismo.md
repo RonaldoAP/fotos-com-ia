@@ -17,6 +17,30 @@ Grão de pouca luz · um cantinho estourado de luz · leve subexposição · fla
 sombra dura · foco levemente errado · leve motion blur · distorção de lente frontal ·
 reflexo do flash nos olhos · marca de dedo/poeira na lente.
 
+### ⭐ Bloco de imperfeição / naturalidade (fixo em TODO prompt, antes do bloco de câmera)
+**Foto perfeita = foto de IA.** O que torna uma foto real é o que dá "errado": momento no meio da
+ação, cabelo fora do lugar, roupa amassada, enquadramento amador cortando partes, foco imperfeito,
+luz desigual e fundo sem arrumar. Descrever tudo "no lugar certinho" gera foto posada. Por isso todo
+prompt tem este bloco logo antes do bloco de câmera (exemplo-base: EXT98):
+
+> **PT:** foto espontânea e imperfeita, nada posada nem perfeita: capturada no meio do momento, expressão
+> natural de verdade; fios de cabelo soltos, arrepiados e fora do lugar; roupa real com amassados, vincos
+> e tecido repuxado; enquadramento amador, levemente torto e descentralizado, com partes do corpo cortadas
+> pelas bordas; foco um pouco impreciso e nitidez irregular, leve tremida; luz desigual, com partes
+> estouradas e partes na sombra, leve véu/reflexo de luz na lente; fundo real, com pessoas e objetos do
+> jeito que estavam, sem arrumar; cores levemente desbotadas, como foto de celular sem edição;
+>
+> **EN:** spontaneous, imperfect photo, not posed or polished: caught mid-moment, a genuinely natural
+> expression; loose, frizzy, out-of-place strands of hair; real clothes with creases, wrinkles and pulled
+> fabric; amateur framing, slightly tilted and off-center, with parts of the body cut off by the edges;
+> slightly imprecise focus and uneven sharpness, slight camera shake; uneven light, with some blown-out
+> areas and some in shadow, a slight haze/flare on the lens; real background with people and objects left
+> as they were, nothing tidied up; slightly faded colors, like an unedited phone photo;
+
+**Dicas pra reforçar por cena:** expressão "no meio" (rindo de verdade, falando, piscando, olhando pro
+lado); um detalhe de roupa imperfeito (fiapo, alça torta, blusa subindo); um corte "errado" (braço, pé,
+topo da cabeça). ⚠️ Isso **não** vale pra pele — pele continua no "bloco de pele seguro" (senão vira acne).
+
 ### ⭐ Bloco "cara de celular" (fixo em TODO prompt, no fim da POSE)
 O que mais entrega foto de IA é o **desfoque de fundo de câmera profissional (bokeh)** e a luz
 "perfeita". Celular faz o contrário: lente grande-angular, quase tudo em foco e processamento

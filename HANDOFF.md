@@ -172,6 +172,9 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    PERSONAGEM de todos os prompts já trava a identidade na Imagem 1; nunca descrever formato de rosto
    (boca carnuda, sobrancelha grossa, pele bronzeada) — maquiagem só por cor. Regras em
    `guia/05-consistencia-banana-pro.md` (seção "Seedream 5 Pro").
+8. **⭐ Naturalidade (foto imperfeita = foto real):** todo prompt tem o "bloco de imperfeição" antes do
+   bloco de câmera (momento espontâneo, cabelo fora do lugar, roupa amassada, enquadramento amador, foco e
+   luz imperfeitos, fundo sem arrumar, cor sem edição). Texto em `guia/06` e exemplo-base no EXT98.
 
 ---
 

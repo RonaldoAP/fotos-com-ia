@@ -64,7 +64,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 > piercing, sem tatuagem.
 >
 > POSE: [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max titânio
-> preto, capinha preta, se o celular aparecer]; cara de foto de câmera de celular — lente grande-angular
+> preto, capinha preta, se o celular aparecer]; foto espontânea e imperfeita, nada posada nem perfeita: capturada no meio do momento, expressão natural de verdade; fios de cabelo soltos, arrepiados e fora do lugar; roupa real com amassados, vincos e tecido repuxado; enquadramento amador, levemente torto e descentralizado, com partes do corpo cortadas pelas bordas; foco um pouco impreciso e nitidez irregular, leve tremida; luz desigual, com partes estouradas e partes na sombra, leve véu/reflexo de luz na lente; fundo real, com pessoas e objetos do jeito que estavam, sem arrumar; cores levemente desbotadas, como foto de celular sem edição; cara de foto de câmera de celular — lente grande-angular
 > de celular com leve distorção nas bordas, quase tudo em foco (fundo no máximo levemente suave, sem
 > desfoque forte de câmera profissional, sem bokeh), HDR automático de celular com sombras levemente
 > levantadas, nitidez digital um pouco exagerada, leve compressão JPEG e balanço de branco automático;
@@ -82,7 +82,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 > faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15 Pro
-> Max, plain black case, if the phone shows]; smartphone-camera look — phone wide-angle lens with slight
+> Max, plain black case, if the phone shows]; spontaneous, imperfect photo, not posed or polished: caught mid-moment, a genuinely natural expression; loose, frizzy, out-of-place strands of hair; real clothes with creases, wrinkles and pulled fabric; amateur framing, slightly tilted and off-center, with parts of the body cut off by the edges; slightly imprecise focus and uneven sharpness, slight camera shake; uneven light, with some blown-out areas and some in shadow, a slight haze/flare on the lens; real background with people and objects left as they were, nothing tidied up; slightly faded colors, like an unedited phone photo; smartphone-camera look — phone wide-angle lens with slight
 > edge distortion, almost everything in focus (background at most slightly soft, no strong
 > professional-camera blur, no bokeh), automatic phone HDR with slightly lifted shadows, slightly
 > over-sharpened digital processing, mild JPEG compression and auto white balance; realistic photo, no
