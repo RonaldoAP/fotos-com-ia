@@ -23,19 +23,9 @@ ação, cabelo fora do lugar, roupa amassada, enquadramento amador cortando part
 luz desigual e fundo sem arrumar. Descrever tudo "no lugar certinho" gera foto posada. Por isso todo
 prompt tem este bloco logo antes do bloco de câmera (exemplo-base: EXT98):
 
-> **PT:** foto espontânea e imperfeita, nada posada nem perfeita: capturada no meio do momento, expressão
-> natural de verdade; fios de cabelo soltos, arrepiados e fora do lugar; roupa real com amassados, vincos
-> e tecido repuxado; enquadramento amador, levemente torto e descentralizado, com partes do corpo cortadas
-> pelas bordas; foco um pouco impreciso e nitidez irregular, leve tremida; luz desigual, com partes
-> estouradas e partes na sombra, leve véu/reflexo de luz na lente; fundo real, com pessoas e objetos do
-> jeito que estavam, sem arrumar; cores levemente desbotadas, como foto de celular sem edição;
+> **PT:** foto comum e espontânea, sem parecer produzida: capturada num momento real, expressão natural e sutil, sem exagero (nada de careta ou gargalhada forçada); alguns fios de cabelo soltos fora do lugar; roupa real com leves amassados; enquadramento de amador, levemente torto e descentralizado, com partes cortadas pelas bordas; foco não perfeito; luz natural sem tratamento, com partes mais claras e partes mais escuras; fundo real e sem arrumar; cores levemente desbotadas, sem edição; imperfeições discretas — parecer uma foto comum de celular, não uma foto bagunçada;
 >
-> **EN:** spontaneous, imperfect photo, not posed or polished: caught mid-moment, a genuinely natural
-> expression; loose, frizzy, out-of-place strands of hair; real clothes with creases, wrinkles and pulled
-> fabric; amateur framing, slightly tilted and off-center, with parts of the body cut off by the edges;
-> slightly imprecise focus and uneven sharpness, slight camera shake; uneven light, with some blown-out
-> areas and some in shadow, a slight haze/flare on the lens; real background with people and objects left
-> as they were, nothing tidied up; slightly faded colors, like an unedited phone photo;
+> **EN:** an ordinary, spontaneous photo that doesn't look produced: caught in a real moment, a natural, subtle expression, nothing exaggerated (no grimace or forced big laugh); a few loose strands of hair out of place; real clothes with light creases; amateur framing, slightly tilted and off-center, with parts cut off by the edges; imperfect focus; natural, ungraded light, with brighter and darker areas; real, untidied background; slightly faded, unedited colors; subtle imperfections — it should look like an ordinary phone photo, not a messy one;
 
 **Dicas pra reforçar por cena:** expressão "no meio" (rindo de verdade, falando, piscando, olhando pro
 lado); um detalhe de roupa imperfeito (fiapo, alça torta, blusa subindo); um corte "errado" (braço, pé,
@@ -46,15 +36,9 @@ O que mais entrega foto de IA é o **desfoque de fundo de câmera profissional (
 "perfeita". Celular faz o contrário: lente grande-angular, quase tudo em foco e processamento
 digital visível. Por isso todo prompt termina com este bloco, antes de "foto realista…":
 
-> **PT:** cara de foto de câmera de celular — lente grande-angular de celular com leve distorção nas
-> bordas, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera
-> profissional, sem bokeh), HDR automático de celular com sombras levemente levantadas, nitidez digital
-> um pouco exagerada, leve compressão JPEG e balanço de branco automático;
+> **PT:** cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem um pouco suave e sem nitidez exagerada, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático;
 >
-> **EN:** smartphone-camera look — phone wide-angle lens with slight edge distortion, almost everything
-> in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), automatic
-> phone HDR with slightly lifted shadows, slightly over-sharpened digital processing, mild JPEG
-> compression and auto white balance;
+> **EN:** ordinary phone-photo look — phone lens with natural perspective, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), light phone HDR without overdoing it, slightly soft image with no oversharpening, little fine detail, moderate contrast, mild JPEG compression like a photo posted on social media and auto white balance;
 
 Já aplicado em todos os prompts de `prompts/exemplos.md` e `prompts/externos.md`. Ele **soma**
 com as âncoras da cena (grão, torto, flash, motion blur) — não substitui.

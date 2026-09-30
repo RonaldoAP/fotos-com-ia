@@ -157,10 +157,10 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    **acne/irritação**. Sempre usar o "bloco de pele seguro": *pele com textura natural e saudável —
    poros e uma sardinha ou outra, leve vermelhidão; sem acne, sem excesso de imperfeição.* (Isso já
    está em todos os prompts.)
-5. **⭐ Bloco "cara de celular" (fixo, no fim da POSE):** lente grande-angular de celular, quase tudo
-   em foco (**sem bokeh** de câmera profissional), HDR de celular, nitidez digital exagerada, leve
-   JPEG e balanço de branco automático. Texto exato PT/EN em `guia/06-detalhes-de-realismo.md`. Já
-   aplicado em todos os prompts (exemplos, externos e os dois JSON).
+5. **⭐ Bloco "cara de celular" (fixo, no fim da POSE):** foto **comum** de celular — perspectiva natural,
+   quase tudo em foco (**sem bokeh**), HDR leve, imagem **um pouco suave, sem nitidez exagerada, pouco
+   detalhe fino**, leve JPEG de rede social. ⚠️ Nitidez/HDR exagerados = cara de IA (lição do EXT98).
+   Texto exato em `guia/06-detalhes-de-realismo.md`.
 6. **⭐ Modo réplica (pedido do dono):** quando chega uma foto de referência, o prompt reproduz a foto
    **exatamente igual** — luz, textura, cor, enquadramento, posição no quadro, câmera, pose, expressão,
    cenário e objetos. **Nada é "melhorado" por conta própria.** As únicas mudanças permitidas (e
@@ -173,8 +173,9 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    (boca carnuda, sobrancelha grossa, pele bronzeada) — maquiagem só por cor. Regras em
    `guia/05-consistencia-banana-pro.md` (seção "Seedream 5 Pro").
 8. **⭐ Naturalidade (foto imperfeita = foto real):** todo prompt tem o "bloco de imperfeição" antes do
-   bloco de câmera (momento espontâneo, cabelo fora do lugar, roupa amassada, enquadramento amador, foco e
-   luz imperfeitos, fundo sem arrumar, cor sem edição). Texto em `guia/06` e exemplo-base no EXT98.
+   bloco de câmera, com imperfeições **discretas** (momento real, expressão sutil, poucos fios soltos,
+   leves amassados, enquadramento amador, cor sem edição). ⚠️ Imperfeição exagerada (careta, cabelo
+   desgrenhado, tremida forte) também denuncia IA. Texto em `guia/06`, exemplo-base no EXT98.
 
 ---
 
