@@ -36,47 +36,62 @@ Ficha canônica da personagem **Jessica**, montada a partir da entrevista (rotei
 
 ---
 
-## 2. Aparência ✅
+## 2. Aparência ⏳ (rosto novo em geração)
 
-**Rosto-base (Fase 3): ⏳ REFAZENDO** — o primeiro retrato (gerado no Nano Banana, fundo branco) foi
-**descartado** pelo dono. Novo rosto a ser gerado com o prompt abaixo; o aprovado vira a Imagem 1.
-
-### Prompt do rosto-base (gerar 8–12, escolher 1)
-
-**PT:**
-> Retrato fotorrealista de estúdio, 3:4 vertical, de uma jovem de 18 anos, claramente adulta, brasileira
-> do sul (gaúcha): pele clara com leve bronzeado dourado e bochechas naturalmente rosadas; olhos
-> azul-acinzentados claros; sobrancelhas castanhas naturais, penteadas; rosto delicado e jovem, com
-> **covinhas marcadas nas bochechas** aparecendo num sorriso leve e meigo de boca fechada; cabelo
-> loiro-claro com raiz mais escura esfumada, comprido, em ondas largas soltas, repartido no meio,
-> colocado atrás das orelhas; olhando direto pra câmera. [VARIAÇÃO]. Fundo cinza-claro liso, luz suave
-> e uniforme, sem sombras duras. Regata branca lisa. Maquiagem quase nenhuma (pele com viço, cílios
-> naturais, bálsamo labial rosado). Sem joias, sem piercing, sem tatuagem. Rosto comum e real, não
-> "perfeito de IA", sem semelhança com nenhuma pessoa famosa. Textura de pele real com poros e leves
-> sardinhas no nariz, sem suavização nem brilho de IA. Foto realista, não render 3D, não ilustração.
-
-**Variações (trocar [VARIAÇÃO] por uma delas, gerar algumas de cada):**
-- **V1 — meiga:** rosto mais arredondado, bochechas cheinhas, nariz pequeno e levemente arrebitado, olhos grandes.
-- **V2 — divertida:** rosto em formato de coração, queixo fino, nariz reto e pequeno, olhos amendoados e expressivos.
-- **V3 — girl next door:** rosto oval, maçãs do rosto suaves, nariz com ponta arredondada, sorriso largo.
-
-**Critérios pra aprovar:** parece 18–20 e claramente adulta; covinhas visíveis; diferente da Vic;
-rosto memorável mas comum; não lembra ninguém famoso; nítido e de frente (vai ser a Imagem 1).
+**Decisão do dono:** a Jessica é **morena**, com **rosto original** gerado do zero (o primeiro rosto,
+loiro, foi descartado; os prints do projeto antigo servem só de inspiração de estilo, não de rosto).
+O rosto aprovado vira a **Imagem 1** de tudo.
 
 | Item | Resposta |
 |---|---|
-| Pele | Clara com bronzeado dourado leve, bochechas rosadas |
-| Olhos | **Azul-acinzentados claros** (diferencial vs. Vic, que tem verde-acinzentados) |
-| Sobrancelhas | Castanhas, bem definidas e penteadas |
-| Cabelo (fixo) | Loiro-claro com **raiz mais escura esfumada**, comprido abaixo do ombro, **sempre em ondas largas soltas** (diferencial vs. Vic, que é mais lisa), repartido no meio |
+| Pele | Bem clara (porcelana), bochechas naturalmente rosadas |
+| Olhos | Castanho-escuros, amendoados, levemente puxadinhos |
+| Sobrancelhas | Castanho-escuras, naturais e penteadas |
+| Rosto | Delicado, formato de coração (definido pelo rosto-base aprovado) |
+| Cabelo (fixo) | **Castanho-escuro, bem liso, comprido** (abaixo do peito), repartido no meio |
 | Marcas fixas | **Covinhas nas bochechas** (aparecem ao sorrir) |
-| Biotipo | **Magrinha atlética** — corpo esguio e tonificado, ombros e braços finos, cintura fina, pernas definidas |
-| Altura | ~1,63 m (padrão, ajustar se o dono quiser) |
-| Maquiagem padrão | Leve e luminosa: pele com viço, cílios definidos, gloss nude-rosado |
+| Biotipo | **Magrinha atlética** — esguia e tonificada, ombros e braços finos, cintura fina, pernas definidas |
+| Altura | ~1,63 m |
+| Maquiagem padrão | Leve, estilo "boneca": pele com viço, blush rosado, delineado fino, cílios definidos, batom/gloss marrom-rosado |
 
-> ⚠️ As **covinhas não aparecem na foto-base**. Elas precisam entrar no **kit de ângulos (Fase 4)**
-> — escrever "covinhas nas bochechas ao sorrir" nos prompts do kit — pra ficarem gravadas nas
-> referências. Depois disso, nos prompts de cena elas vêm da referência, como os outros traços.
+Diferença da Vic: morena de cabelo liso escuro e olhos castanhos × Vic loira ombré de olhos
+verde-acinzentados. Sem risco de confundir as duas.
+
+### Prompt do rosto-base (gerar 8–12, escolher 1) — sem anexar imagem
+
+**PT:**
+> Retrato fotorrealista de estúdio, 3:4 vertical, de uma jovem de 18 anos, claramente adulta, brasileira
+> do sul (gaúcha): pele bem clara com bochechas naturalmente rosadas; olhos castanho-escuros amendoados,
+> levemente puxadinhos; sobrancelhas castanho-escuras naturais e penteadas; rosto delicado e jovem, com
+> **covinhas marcadas nas bochechas** aparecendo num sorriso leve e meigo de boca fechada; cabelo
+> castanho-escuro bem liso e comprido, repartido no meio, colocado atrás das orelhas; olhando direto pra
+> câmera. [VARIAÇÃO]. Fundo cinza-claro liso, luz suave e uniforme, sem sombras duras. Regata branca
+> lisa. Maquiagem leve (pele com viço, blush rosado, cílios definidos, gloss marrom-rosado). Sem joias,
+> sem piercing, sem tatuagem. Rosto original, comum e real, não "perfeito de IA", sem semelhança com
+> nenhuma pessoa real ou famosa. Textura de pele real com poros, sem suavização nem brilho de IA. Foto
+> realista, não render 3D, não ilustração.
+
+**EN:**
+> Photorealistic studio portrait, 3:4 vertical, of an 18-year-old young woman, clearly adult, from
+> southern Brazil: very fair skin with naturally rosy cheeks; dark brown almond-shaped eyes, slightly
+> upturned; natural, brushed dark brown brows; a delicate, youthful face with **deep dimples on the
+> cheeks** showing in a slight, sweet closed-mouth smile; very straight long dark brown hair, center
+> part, tucked behind the ears; looking straight at the camera. [VARIATION]. Plain light-grey background,
+> soft even light, no hard shadows. Plain white tank top. Light makeup (dewy skin, rosy blush, defined
+> lashes, brownish-pink gloss). No jewelry, no piercings, no tattoos. An original, ordinary, real face,
+> not "AI-perfect", with no resemblance to any real or famous person. Real skin texture with pores, no
+> smoothing or AI glow. Realistic photo, not a 3D render, not an illustration.
+
+**Variações ([VARIAÇÃO]):**
+- **V1 — boneca:** rosto em formato de coração, queixo fino, nariz pequeno e delicado, olhos grandes /
+  heart-shaped face, narrow chin, small delicate nose, big eyes.
+- **V2 — meiga:** rosto mais arredondado, bochechas cheinhas, nariz levemente arrebitado /
+  rounder face, full cheeks, slightly upturned nose.
+- **V3 — divertida:** rosto oval, maçãs do rosto marcadas, sorriso mais largo /
+  oval face, defined cheekbones, wider smile.
+
+**Critérios pra aprovar:** parece 18–20 e claramente adulta; covinhas visíveis; rosto original (não
+lembra os prints nem ninguém famoso); nítido e de frente.
 
 ## 3. Regras fixas (exclusões) ✅
 
@@ -127,14 +142,14 @@ Mesmas regras da Vic (`HANDOFF.md` §3), com reforço de idade:
 ## 7. Mini-ficha (pra colar junto do prompt quando precisar reforçar) ✅
 
 **PT:**
-> Jessica: jovem adulta de 18 anos, claramente adulta; cabelo loiro-claro com raiz mais escura
-> esfumada, comprido, em ondas largas soltas; olhos azul-acinzentados; covinhas nas bochechas ao
-> sorrir; biotipo magrinho atlético; unhas rosinha; sem joias, sem piercing, sem tatuagem.
+> Jessica: jovem adulta de 18 anos, claramente adulta; cabelo castanho-escuro bem liso e comprido,
+> repartido no meio; olhos castanho-escuros; covinhas nas bochechas ao sorrir; biotipo magrinho
+> atlético; unhas rosinha; sem joias, sem piercing, sem tatuagem.
 
 **EN:**
-> Jessica: an 18-year-old young adult, clearly adult; light blonde hair with softly blended darker
-> roots, long, in loose wide waves; blue-grey eyes; dimples on the cheeks when smiling; slim athletic
-> build; baby-pink nails; no jewelry, no piercings, no tattoos.
+> Jessica: an 18-year-old young adult, clearly adult; very straight long dark brown hair, center part;
+> dark brown eyes; dimples on the cheeks when smiling; slim athletic build; baby-pink nails; no jewelry,
+> no piercings, no tattoos.
 
 **Celular padrão (quando aparecer em quadro):** iPhone 15 rosa-claro com capinha lilás fosca /
 light-pink iPhone 15 with a matte lilac case.
