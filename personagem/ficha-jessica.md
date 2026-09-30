@@ -56,7 +56,21 @@ Ficha canônica da personagem **Jessica**, montada a partir da entrevista (rotei
 > — escrever "covinhas nas bochechas ao sorrir" nos prompts do kit — pra ficarem gravadas nas
 > referências. Depois disso, nos prompts de cena elas vêm da referência, como os outros traços.
 
-## 3. Regras fixas (exclusões) ⏳
+## 3. Regras fixas (exclusões) ✅
+
+Mesma regra da Vic:
+
+- **Sem tatuagens, sem piercings e sem nenhuma joia ou bijuteria** (sem brincos, colares, anéis,
+  pulseiras) — em toda foto. Frase fixa nos prompts:
+  - **PT:** sem joias, sem piercing, sem tatuagem.
+  - **EN:** no jewelry, no piercings, no tattoos.
+- **Peças funcionais permitidas:** **headset gamer** (e fones), óculos de sol/grau. Relógio **não**
+  (igual à Vic).
+- **Unhas:** **rosinha** (rosa-bebê), tamanho médio, formato arredondado/amendoado — padrão fixo.
+- **Maquiagem padrão:** leve e luminosa (pele com viço, cílios definidos, blush rosado, gloss
+  nude-rosado). Em conteúdo de **beleza/tutorial** pode variar (mais marcada, colorida), sempre
+  descrita **só por cor**, nunca pelo formato do rosto.
+
 ## 4. Estilo e objetos-assinatura ⏳
 ## 5. Limites de conteúdo ⏳ (base já definida na seção 1)
 ## 6. Ferramentas ⏳
