@@ -38,8 +38,30 @@ Ficha canônica da personagem **Jessica**, montada a partir da entrevista (rotei
 
 ## 2. Aparência ✅
 
-**Rosto-base (Fase 3): APROVADO** — o retrato gerado pelo dono no Nano Banana, usado **como está**
-(opção A). Aparenta um pouco mais de 18; aceito pelo dono. Sempre claramente adulta.
+**Rosto-base (Fase 3): ⏳ REFAZENDO** — o primeiro retrato (gerado no Nano Banana, fundo branco) foi
+**descartado** pelo dono. Novo rosto a ser gerado com o prompt abaixo; o aprovado vira a Imagem 1.
+
+### Prompt do rosto-base (gerar 8–12, escolher 1)
+
+**PT:**
+> Retrato fotorrealista de estúdio, 3:4 vertical, de uma jovem de 18 anos, claramente adulta, brasileira
+> do sul (gaúcha): pele clara com leve bronzeado dourado e bochechas naturalmente rosadas; olhos
+> azul-acinzentados claros; sobrancelhas castanhas naturais, penteadas; rosto delicado e jovem, com
+> **covinhas marcadas nas bochechas** aparecendo num sorriso leve e meigo de boca fechada; cabelo
+> loiro-claro com raiz mais escura esfumada, comprido, em ondas largas soltas, repartido no meio,
+> colocado atrás das orelhas; olhando direto pra câmera. [VARIAÇÃO]. Fundo cinza-claro liso, luz suave
+> e uniforme, sem sombras duras. Regata branca lisa. Maquiagem quase nenhuma (pele com viço, cílios
+> naturais, bálsamo labial rosado). Sem joias, sem piercing, sem tatuagem. Rosto comum e real, não
+> "perfeito de IA", sem semelhança com nenhuma pessoa famosa. Textura de pele real com poros e leves
+> sardinhas no nariz, sem suavização nem brilho de IA. Foto realista, não render 3D, não ilustração.
+
+**Variações (trocar [VARIAÇÃO] por uma delas, gerar algumas de cada):**
+- **V1 — meiga:** rosto mais arredondado, bochechas cheinhas, nariz pequeno e levemente arrebitado, olhos grandes.
+- **V2 — divertida:** rosto em formato de coração, queixo fino, nariz reto e pequeno, olhos amendoados e expressivos.
+- **V3 — girl next door:** rosto oval, maçãs do rosto suaves, nariz com ponta arredondada, sorriso largo.
+
+**Critérios pra aprovar:** parece 18–20 e claramente adulta; covinhas visíveis; diferente da Vic;
+rosto memorável mas comum; não lembra ninguém famoso; nítido e de frente (vai ser a Imagem 1).
 
 | Item | Resposta |
 |---|---|
