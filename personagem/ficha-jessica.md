@@ -58,34 +58,44 @@ versão vira a **Imagem 1 oficial**.
 Diferença da Vic: morena de cabelo liso escuro e olhos castanhos × Vic loira ombré de olhos
 verde-acinzentados. Sem risco de confundir as duas.
 
-### Prompt da versão limpa de estúdio (anexar o retrato escolhido como Imagem 1)
+### Imagem 1 da Jessica
+
+**Recomendado:** usar a **própria selfie escolhida como Imagem 1** (já é natural, nítida e de frente).
+O colar sai pelo texto ("sem colar") e as covinhas entram pelo kit (A9, A14).
+
+> ⚠️ Lição: pedir "retrato de estúdio + 4K + cada poro nítido" deixou o rosto **polido demais**
+> (cara de ensaio de beleza/IA). Referência boa é **foto natural de celular com luz de janela**, sem
+> retoque. Nitidez e resolução vêm da configuração da ferramenta (saída 2K/4K), não de palavras no prompt.
+
+### Versão natural (opcional — só se quiser tirar o fundo floral e o colar)
 
 **PT:**
-> Retrato fotorrealista de estúdio, 3:4 vertical, da MESMA mulher da Imagem 1 — rosto idêntico ao da
-> Imagem 1: mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca, sobrancelhas, mesmas
-> proporções, mesmas sardinhas e mesmo tom de pele; não embelezar, não afinar, não mudar nenhum traço.
-> Jovem adulta de 18 anos, claramente adulta. De frente, cabeça reta, olhando direto pra câmera, sorriso
-> leve e meigo de boca fechada mostrando covinhas nas bochechas. Mesmo cabelo castanho liso e comprido,
-> repartido no meio, colocado atrás das orelhas. Fundo cinza-claro liso, luz suave e uniforme, sem
-> sombras duras. Regata branca lisa. Maquiagem leve. Sem joias, sem colar, sem piercing, sem tatuagem.
-> Resolução máxima (4K), imagem grande e bem definida, foco nítido no rosto, cada fio de cabelo, cílio e
-> poro visível, textura de pele real com poros, sem suavização nem brilho de IA.
-> Foto realista, não render 3D, não ilustração.
+> Foto natural de celular, 3:4 vertical, da MESMA mulher da Imagem 1 — rosto idêntico ao da Imagem 1:
+> mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca, sobrancelhas, mesmas proporções,
+> mesmas sardinhas e mesmo tom de pele; não embelezar, não afinar, não mudar nenhum traço. Jovem adulta
+> de 18 anos, claramente adulta. De frente, olhando pra câmera, sorriso leve e meigo de boca fechada com
+> covinhas nas bochechas. Mesmo cabelo castanho liso e comprido, repartido no meio, com alguns fios
+> soltos. Em casa, parede lisa clara atrás; luz natural suave de janela vindo de um lado, sem luz de
+> estúdio. Regata branca lisa. Sem maquiagem ou quase nenhuma. Sem joias, sem colar, sem piercing, sem
+> tatuagem. Pele real sem retoque: poros, sardinhas, leve vermelhidão, pequenas manchinhas e leve brilho
+> natural, tom de pele não uniformizado; pequenas assimetrias naturais do rosto; nitidez normal de foto
+> de celular, sem polimento, sem cara de ensaio, sem beleza de IA. Foto realista, não render 3D, não
+> ilustração.
 
 **EN:**
-> Photorealistic studio portrait, 3:4 vertical, of the SAME woman from Image 1 — face identical to Image
-> 1: same face shape, jaw and chin, same eyes, nose, mouth, brows, same proportions, same freckles and
-> same skin tone; do not beautify, slim or change any feature. An 18-year-old young adult, clearly adult.
-> Facing forward, head straight, looking straight at the camera, a slight, sweet closed-mouth smile
-> showing dimples on the cheeks. Same straight long brown hair, center part, tucked behind the ears.
-> Plain light-grey background, soft even light, no hard shadows. Plain white tank top. Light makeup. No
-> jewelry, no necklace, no piercings, no tattoos. Maximum resolution (4K), a large, crisply defined image,
-> sharp focus on the face with every hair strand, eyelash and pore visible, real skin
-> texture with pores, no smoothing or AI glow. Realistic photo, not a 3D render, not an illustration.
+> Natural phone photo, 3:4 vertical, of the SAME woman from Image 1 — face identical to Image 1: same face
+> shape, jaw and chin, same eyes, nose, mouth, brows, same proportions, same freckles and same skin tone;
+> do not beautify, slim or change any feature. An 18-year-old young adult, clearly adult. Facing forward,
+> looking at the camera, a slight, sweet closed-mouth smile with dimples on the cheeks. Same straight long
+> brown hair, center part, with a few loose strands. At home, a plain light wall behind; soft natural
+> window light from one side, no studio lighting. Plain white tank top. No makeup or almost none. No
+> jewelry, no necklace, no piercings, no tattoos. Real, unretouched skin: pores, freckles, soft redness,
+> small blemishes and a light natural sheen, uneven skin tone; small natural facial asymmetries; normal
+> phone-photo sharpness, no polish, no photoshoot look, no AI beauty. Realistic photo, not a 3D render,
+> not an illustration.
 
-**Resolução:** na ferramenta, escolher a maior saída (Nano Banana Pro: 4K ou 2K; Seedream 5 Pro: 4K), proporção 3:4. Se ainda sair pequena, passar a aprovada no **upscaler** (Magnific Upscale, fator 2x, criatividade baixa pra não mexer no rosto).
-
-Gerar 3–4, escolher a mais fiel ao retrato original. **Essa passa a ser a Imagem 1 do kit e das cenas.**
+**Resolução:** configurar a saída da ferramenta em 2K/4K (Nano Banana Pro) ou 4K (Seedream 5 Pro). Não
+usar upscaler com criatividade alta.
 
 ## 3. Regras fixas (exclusões) ✅
 
