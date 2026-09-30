@@ -58,14 +58,19 @@ versão vira a **Imagem 1 oficial**.
 Diferença da Vic: morena de cabelo liso escuro e olhos castanhos × Vic loira ombré de olhos
 verde-acinzentados. Sem risco de confundir as duas.
 
-### Imagem 1 da Jessica
+### Imagens de identidade da Jessica (usar SEMPRE as duas)
 
-**Recomendado:** usar a **própria selfie escolhida como Imagem 1** (já é natural, nítida e de frente).
-O colar sai pelo texto ("sem colar") e as covinhas entram pelo kit (A9, A14).
+- **Imagem 1 = selfie de frente** (papel de parede floral, ursinhos, sorriso leve de boca fechada) —
+  âncora principal do rosto.
+- **Imagem 2 = retrato sorrindo** (de 3/4, sorriso com dentes, fundo desfocado) — sorriso, bochechas
+  e **textura de pele**.
+- Textura escrita nos prompts: pele clara com **sardinhas finas espalhadas no nariz e nas bochechas**,
+  algumas pintinhas, poros visíveis, bochechas levemente avermelhadas, brilho natural no nariz e na
+  testa; cabelo castanho liso com fios soltos no topo.
+- Com 2 imagens de identidade, sobra **1 vaga** pra cenário ou roupa (Imagem 3), dentro do limite de 3.
 
-> ⚠️ Lição: pedir "retrato de estúdio + 4K + cada poro nítido" deixou o rosto **polido demais**
-> (cara de ensaio de beleza/IA). Referência boa é **foto natural de celular com luz de janela**, sem
-> retoque. Nitidez e resolução vêm da configuração da ferramenta (saída 2K/4K), não de palavras no prompt.
+> ⚠️ Lição: pedir "retrato de estúdio + 4K + cada poro nítido" deixou o rosto **polido demais** e
+> **envelhecido** (o retrato de estúdio gerado desviou). Referência boa é foto natural de celular.
 
 ### Versão natural (opcional — só se quiser tirar o fundo floral e o colar)
 
