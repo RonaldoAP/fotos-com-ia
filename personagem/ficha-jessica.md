@@ -36,7 +36,27 @@ Ficha canônica da personagem **Jessica**, montada a partir da entrevista (rotei
 
 ---
 
-## 2. Aparência ⏳
+## 2. Aparência ⏳ (em andamento)
+
+**Rosto-base candidato:** retrato gerado pelo dono no Nano Banana (fundo branco de estúdio, regata branca,
+sorriso com dentes). É imagem gerada, não pessoa real → pode ser a **semente** da Fase 3.
+⚠️ Aparenta ~25 anos → ajustar pra 18 (ver pendências).
+
+| Item | Resposta |
+|---|---|
+| Pele | Clara com bronzeado dourado leve, bochechas rosadas |
+| Olhos | Azul-acinzentados claros |
+| Sobrancelhas | Castanhas, bem definidas e penteadas |
+| Cabelo (fixo) | Loiro-claro com **raiz mais escura esfumada**, comprido abaixo do ombro, **ondas largas soltas**, repartido no meio |
+| Maquiagem padrão | Leve e luminosa: pele com viço, cílios definidos, gloss nude-rosado |
+| Marcas fixas | ⏳ |
+| Biotipo / altura | ⏳ |
+
+**Pendências da seção:**
+- Aprovar essa imagem como rosto-base, com ou sem versão rejuvenescida pra 18.
+- Diferenciar da Vic (também loira com raiz escura): olhos azuis, cabelo sempre ondulado, franja
+  cortininha ou loiro mais mel?
+- Marcas fixas, biotipo e altura.
 ## 3. Regras fixas (exclusões) ⏳
 ## 4. Estilo e objetos-assinatura ⏳
 ## 5. Limites de conteúdo ⏳ (base já definida na seção 1)
