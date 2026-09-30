@@ -95,6 +95,8 @@ guia/
   04-roupas-e-filtros.md          Praia/biquíni sem disparar filtro (sem sexualização)
   05-consistencia-banana-pro.md   Estratégia de consistência de rosto/corpo
   06-detalhes-de-realismo.md      Âncoras de realismo + aviso da "acne por excesso"
+  07-treinar-novo-personagem.md   Kit de ângulos/treino p/ personagem nova
+  08-roteiro-completo-nova-personagem.md  ⭐ Ponta a ponta: entrevista → ficha → kit → prompts → refinamento
 
 personagem/
   00-consistencia.md              3 pilares de consistência + exclusões fixas
