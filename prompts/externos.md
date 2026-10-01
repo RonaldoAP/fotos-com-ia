@@ -4837,7 +4837,7 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 >
 > AMBIENTE: banheiro pequeno de apartamento à noite; espelho do banheiro com algumas manchinhas de água e respingos de pasta de dente; atrás dela, no reflexo, azulejos brancos com rejunte acinzentado, uma toalha pendurada torta num gancho e a cortina do box meio aberta; na bancada da pia, uma escova de dente num copo, um elástico de cabelo e um tubo de creme sem rótulo legível; luz quente amarelada de uma lâmpada no teto, um pouco alaranjada, deixando a pele dourada e fazendo sombras suaves embaixo dos olhos e do queixo, com os cantos do banheiro mais escuros; cores: branco amarelado, bege, dourado quente e cinza.
 >
-> ROUPA: camiseta preta larga e short de moletom cinza.
+> ROUPA: conjunto de seda champanhe: cropped de seda de alcinha com decote reto (cobertura normal), um pouco solto, e short de seda soltinho de cintura com elástico, o tecido com brilho suave e leves amassados.
 >
 > DETALHES DA PESSOA: cabelo comprido e liso, loiro com ombré, meio bagunçado, preso atrás da orelha de um lado e caindo pra frente do outro; expressão neutra, lábios relaxados, olhando pra tela do celular no espelho; sem maquiagem; pele com textura natural e saudável — poros e sardas, um pouco de brilho no nariz; sem acne, sem excesso de imperfeição; sem joias, sem piercing, sem tatuagem.
 >
