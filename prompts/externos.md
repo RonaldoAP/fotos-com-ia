@@ -4586,3 +4586,61 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > from the center down, from the top of the head to the chest, a bit to the right; the top third is dark
 > ceiling with the green stars; low-light photo with grain and noise; clean image, with no text or caption;
 > a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT101 — Em pé no jardim ao sol, olhando pro lado sem sorrir (top faixa amarelo + short jeans) — modo réplica
+
+> **Pedido do dono:** sem sorrir. **Exceções aplicadas:** cabelo/rosto da Vic; sem gargantilha;
+> top descrito como top faixa (cena de jardim, não praia/piscina). Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: jardim de casa num dia de sol forte, perto do meio-dia; atrás dela, uma fileira de árvores
+> altas tipo tuia/cipreste verde-escuras, arbustos de dracena com folhas vermelho-vinho à esquerda, pedras
+> grandes arredondadas cinza-amarronzadas atrás à direita, uma palmeirinha cica no canto direito e o céu
+> azul limpo no alto; no chão, grama verde bem cuidada com um caminho de pisantes de pedra em diagonal à
+> esquerda; sol duro e alto vindo de cima e da esquerda, com sombras marcadas na grama e brilho forte na
+> pele e no cabelo; cores saturadas de verão: verde, azul-céu, vinho das folhas, amarelo-claro e jeans
+> lavado; HEX: ["#836c50", "#283522", "#11140d", "#9d8f69", "#5c4936", "#9ccacd", "#acb280", "#e4d1ad", "#809175", "#b98d73"].
+>
+> ROUPA: top faixa tomara-que-caia amarelo-claro de malha, com um nó torcido no centro, cobertura normal;
+> short jeans azul-claro lavado de cintura alta com a barra dobrada; óculos de sol redondos de armação
+> dourada fina e lente marrom.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré solto, liso, repartido de lado, caindo pelos ombros, com
+> brilho do sol e alguns fios soltos; sem sorrir: expressão serena e tranquila, boca fechada e relaxada,
+> rosto virado pro lado esquerdo, olhando pra longe por trás dos óculos; pele com textura natural e
+> saudável — poros, sardas no rosto, nos ombros e no colo, leve vermelhidão do sol; sem acne, sem excesso
+> de imperfeição; sem joias, sem colar, sem piercing, sem tatuagem.
+>
+> POSE: em pé de frente pra câmera, corpo relaxado, braços soltos ao lado do corpo, cabeça virada pro
+> lado; foto vertical tirada por outra pessoa de pé, na altura do peito, a uns 2 metros; ela fica no
+> centro, da cabeça até o meio das coxas, cortada pela borda de baixo; clima leve, quente e de verão em
+> casa; foto casual tirada no momento, com enquadramento meio torto e fora do centro e partes cortadas pelas bordas, expressão natural do momento, alguns fios de cabelo fora do lugar e roupa com leves amassados; crua, real e não produzida, com cara de foto comum postada no Instagram; provavelmente tirada com a câmera de um celular moderno: foco nítido no rosto, leve suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital, leve processamento digital de celular, cores naturais e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: a home garden on a very sunny day, around noon; behind her, a row of tall dark-green
+> thuja/cypress trees, cordyline shrubs with wine-red leaves on the left, large rounded grey-brown boulders
+> behind on the right, a small cycad palm in the right corner and clear blue sky at the top; on the ground,
+> well-kept green lawn with a diagonal path of stone stepping slabs on the left; hard, high sun from above
+> and the left, with crisp shadows on the grass and strong highlights on the skin and hair; saturated
+> summer colors: green, sky blue, wine-red leaves, pale yellow and washed denim; HEX: ["#836c50", "#283522", "#11140d", "#9d8f69", "#5c4936", "#9ccacd", "#acb280", "#e4d1ad", "#809175", "#b98d73"].
+>
+> OUTFIT: a pale-yellow strapless knit bandeau top with a twisted knot at the center, normal coverage;
+> high-waisted light-wash blue denim shorts with rolled hems; round thin gold-frame sunglasses with brown
+> lenses.
+>
+> PERSON DETAILS: blonde ombré hair down, straight, side-parted, falling over the shoulders, with sun
+> sheen and a few loose strands; not smiling: a calm, serene expression, mouth closed and relaxed, face
+> turned to the left, looking into the distance behind the sunglasses; natural, healthy skin texture —
+> pores, freckles on the face, shoulders and chest, soft sun redness; no acne, no over-imperfection; no
+> jewelry, no necklace, no piercings, no tattoos.
+>
+> POSE: standing facing the camera, body relaxed, arms loose at her sides, head turned to the side;
+> vertical photo taken by someone standing at chest height, about 2 meters away; she stands in the center,
+> from the head to mid-thigh, cut by the bottom edge; a light, warm, summer-at-home mood; a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance;
+> realistic photo, no retouching, no AI look.
