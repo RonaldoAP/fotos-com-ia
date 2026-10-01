@@ -14,7 +14,7 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ## J1 — Selfie à noite no quarto escuro, luz do monitor no rosto
 
-> CHARACTER: the woman from Image 1 @jess. Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+> CHARACTER: @jess.
 >
 > SETTING: a bedroom at night with the main light off; the only light is a computer monitor just out of frame at the bottom left, throwing a cold bluish-white light on one side of her face, and a dim pink LED strip behind the desk glowing on the wall behind her; the corner of a white gaming chair backrest behind her shoulder; a messy shelf in the dark background, barely readable; the other side of her face falls into shadow; dark, muted colors, cold blue on the skin mixed with a little pink.
 >
@@ -28,7 +28,7 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ## J2 — Selfie no banco do carona, sol entrando pela janela
 
-> CHARACTER: the woman from Image 1 @jess. Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+> CHARACTER: @jess.
 >
 > SETTING: the passenger seat of a car during the day; behind her, the grey fabric headrest and part of the side window with a blurred green roadside; strong low sun coming through the window on the right, hitting one side of her face and hair full-on and making the hair glow brown-gold at the edges, while the other side stays in soft shadow; a bright, slightly blown-out patch on the window; the black seatbelt crossing her chest; colors: car grey, warm gold, a bit of green from outside, peachy skin.
 >
@@ -42,7 +42,7 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ## J3 — Mirror selfie no banheiro, luz fluorescente
 
-> CHARACTER: the woman from Image 1 @jess. Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+> CHARACTER: @jess.
 >
 > SETTING: a small apartment bathroom; a bathroom mirror with a few water spots and toothpaste specks; behind her in the reflection, white tiles with greyish grout, a towel hanging crooked on a hook, a shower curtain half open; on the sink counter, a toothbrush in a cup, a hair tie and a cream tube with no readable label; harsh, cool-white overhead light from a ceiling fixture, a bit greenish, making flat shadows under the eyes and chin; colors: white, cold grey, pale green tint.
 >
@@ -56,7 +56,7 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ## J4 — Selfie de cima na rua, frio e neblina na serra
 
-> CHARACTER: the woman from Image 1 @jess. Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+> CHARACTER: @jess.
 >
 > SETTING: a sidewalk in a small highland town on a cold, foggy morning; behind and below her, wet grey paving stones, the edge of a wooden fence and the dark shapes of araucaria pines fading into white fog; flat, soft, cold daylight from an overcast sky, no shadows, slightly dull; colors: fog white, wet grey, dark green, a bit of pink from the clothes.
 >
@@ -70,7 +70,7 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ## J5 — Flash à noite no rolê, amiga cortada pela borda
 
-> CHARACTER: the woman from Image 1 @jess. Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+> CHARACTER: @jess.
 >
 > SETTING: outside a bar at night; behind her, a dark street with blurry warm yellow and red lights, a brick wall and a few people out of focus; direct phone flash from the front lighting her face and shoulders bright and a little flat, a hard shadow behind her on the wall, the background falling into darkness; at the right edge, the shoulder and hair of a friend cut off by the frame; colors: flash-white skin, black, warm yellow and red points of light.
 >

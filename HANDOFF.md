@@ -184,6 +184,12 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
 
 ---
 
+10. **⭐ Personagem marcado + prompt em português (pedido do dono, mais recente — vale sobre o item 7):**
+   no Freepik/Magnific o dono **marca o personagem** (`@vic`, `@jess`), que já traz o rosto. Então o
+   campo PERSONAGEM é **só a marcação** — nada de "a mulher da Imagem 1… use a Imagem 1 SOMENTE pra
+   identidade…". Ex.: `PERSONAGEM: @vic.` Prompts entregues **em português** (EN só se pedir). Descrever
+   a **foto** (luz física, bagunça, imperfeições), não a personalidade da personagem.
+
 ## 7. ⭐ Cenário fixo: o quarto da Vic
 
 Para as **fotos de quarto** a gente definiu um **quarto padrão** (como a personagem, só que de
