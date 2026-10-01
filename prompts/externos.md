@@ -4702,3 +4702,94 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > someone very close, at face height; she sits from the center to the left, cut at the waist by the
 > bottom edge, with the sea line at shoulder height and the sky filling the top third; a happy, light,
 > late-afternoon-with-friends mood; a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; realistic photo, no retouching, no AI look.
+
+---
+
+## EXT103 — Selfie de cima na cama à noite, indo dormir de pijama (formato JSON) — Vic
+
+> Adaptado do JSON "reference_mother" enviado pelo dono: **noite, sem óculos, de pijama**.
+> **Exceções aplicadas:** rosto/cabelo/corpo da Vic; sem óculos, colar, anéis, tatuagens e esmalte;
+> do "Anti-Normalization Block" ficaram só os itens de proporção/textura (removidos os de volume de
+> busto e corte, que puxam pra destaque de corpo). Anexar: Imagem 1 = Vic.
+
+```json
+{
+  "scene_type": "reference_mother",
+  "character_lock": "The woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age, same skin tone and same body proportions; do not beautify, slim, standardize or blend with any other face or body.",
+  "visual_description": {
+    "subject": {
+      "count": 1,
+      "position": "right-center foreground, very close to camera",
+      "pose": "sitting on the edge of the bed at night, about to go to sleep, holding the phone high above for a selfie, torso angled toward the lens, one arm extended toward the camera, the other hand resting on the bed beside the hip",
+      "expression": "direct gaze into the camera, relaxed closed lips, calm sleepy end-of-day expression, heavy-lidded eyes",
+      "hair": {
+        "color": "blonde with ombré (darker roots, lighter ends) — from Image 1",
+        "length": "long",
+        "style": "loose, slightly messy bedtime waves, a few strands on the face, falling over both shoulders"
+      },
+      "skin": {
+        "tone": "from Image 1",
+        "texture": "real skin with visible pores and light freckles, fresh face with no makeup after skincare, soft flash highlights on forehead, nose, cheeks, lips and shoulders"
+      },
+      "face_details": {
+        "makeup": "no makeup, just a light lip balm",
+        "eyes": "looking directly into the lens, natural lashes, slightly sleepy"
+      },
+      "clothing": {
+        "top": "white ribbed cotton pajama tank top with a normal scoop neckline",
+        "bottom": "light mint cotton pajama shorts with a gathered elastic waistband (matching pajama set)"
+      },
+      "accessories": [],
+      "exclusions": [
+        "no glasses",
+        "no jewelry, no necklace, no rings",
+        "no tattoos",
+        "no piercings",
+        "no nail polish color (natural nails)"
+      ],
+      "visible_details": [
+        "extended arm enlarged by close smartphone perspective",
+        "slightly wrinkled pajama fabric"
+      ]
+    },
+    "environment": {
+      "location_visible": "bedroom at night, main light off",
+      "foreground": "her upper body, the extended arm and the pajama top close to the lens",
+      "background": "unmade bed with white sheets and pillows, a dark navy blanket pulled back across the bed, a grey upholstered bed frame, a bedside table with a small warm lamp switched on, a dark textured rug and light floor tiles, the rest of the room in darkness"
+    },
+    "lighting": {
+      "type": "direct phone flash from near the camera mixed with a warm bedside lamp",
+      "direction": "front-facing flash from the lens; warm lamp light from the side behind her",
+      "characteristics": [
+        "bright, slightly flat flash on face, shoulders, torso and arm",
+        "warm amber glow from the lamp on one side of the hair and the bedding",
+        "fast falloff into dark night background, still readable",
+        "small highlights on lip balm and skin",
+        "slight flash shadow on the pillows behind her"
+      ]
+    },
+    "camera": {
+      "orientation": "vertical portrait",
+      "angle": "high close selfie angle looking downward",
+      "framing": "tight crop from the head and upper body down to the shorts and upper legs, slightly tilted and off-center",
+      "lens_behavior": "smartphone front-camera close perspective, extended arm larger in the foreground",
+      "focus": "sharp focus on face, hair and pajama top; background slightly softer and digitally compressed"
+    },
+    "materials_and_textures": [
+      "ribbed white cotton knit",
+      "soft mint cotton pajama fabric with gathered elastic",
+      "loose blonde hair strands",
+      "white bedding wrinkles",
+      "dark plush navy blanket",
+      "grey upholstered bed frame",
+      "warm lampshade glow"
+    ],
+    "color_palette": {
+      "dominant_colors": ["white top", "light mint shorts", "blonde ombré hair", "natural skin tone", "dark navy blanket", "white bedding", "grey bed frame", "warm amber lamp glow", "near-black night shadows"]
+    },
+    "mood": "intimate, cozy, sleepy, end-of-day at home"
+  },
+  "generation_prompt": "The woman from Image 1 (Vic) — face and body identical to Image 1, same features, freckles, skin tone and proportions; do not beautify, slim or blend with any other face. A close vertical smartphone selfie at night as she is about to go to sleep, sitting on the edge of her bed, positioned right-center in the foreground very close to the camera. The phone is held high above, looking downward; her torso is angled toward the lens, one arm extended toward the camera and appearing larger from the close perspective, the other hand resting on the bed beside her hip. Direct gaze into the camera, relaxed closed lips, a calm, sleepy end-of-day expression with slightly heavy eyelids. Long blonde ombré hair in loose, slightly messy bedtime waves, a few strands on her face, falling over both shoulders. Fresh face with no makeup after skincare, just light lip balm; real skin with visible pores and light freckles. Wearing a matching cotton pajama set: a white ribbed tank top with a normal scoop neckline and light mint pajama shorts with a gathered elastic waistband, the fabric slightly wrinkled. No glasses, no jewelry, no necklace, no rings, no tattoos, no piercings, natural nails. Background: an unmade bed with white sheets and pillows, a dark navy blanket pulled back, a grey upholstered bed frame, a bedside table with a small warm lamp switched on, a dark textured rug and light floor tiles, the rest of the room dark. Direct phone flash from near the lens mixed with the warm amber bedside lamp from the side: bright, slightly flat light on her face, shoulders and arm, a warm glow on one side of her hair and the bedding, a slight flash shadow on the pillows, fast falloff into a dark but readable night background. High close selfie angle, tight crop from head and upper body to the shorts and upper legs, slightly tilted and off-center. Intimate, cozy, sleepy mood. A casual, in-the-moment photo with a natural expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; physically believable skin texture, fabric ribbing, hair strands, bedding wrinkles and shadows; realistic photo, no retouching, no AI look.",
+  "anti_normalization_block": "negative_prompt: face changed from reference, body proportions changed from reference, slimmed body, proportion averaging, aesthetic face correction, skin smoothing, plastic skin, over-smoothed texture, AI-generated look, glasses, jewelry, tattoos, studio lighting"
+}
+```
