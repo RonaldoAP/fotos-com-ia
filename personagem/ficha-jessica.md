@@ -51,7 +51,7 @@ versão vira a **Imagem 1 oficial**.
 | Rosto | Delicado, formato de coração (definido pelo rosto-base aprovado) |
 | Cabelo (fixo) | **Castanho-médio, bem liso, comprido** (abaixo do peito), repartido no meio/lado |
 | Marcas fixas | **Covinhas nas bochechas** (aparecem ao sorrir) |
-| Biotipo | **Magrinha atlética** — esguia e tonificada, ombros e braços finos, cintura fina, pernas definidas |
+| Biotipo | **Curvilínea** — ombros e braços finos, cintura fina, quadril largo e coxas mais cheias, pernas torneadas (definido pelo dono; descrever sempre de forma neutra, sem destaque de corpo) |
 | Altura | ~1,63 m |
 | Maquiagem padrão | Leve, estilo "boneca": pele com viço, blush rosado, delineado fino, cílios definidos, batom/gloss marrom-rosado |
 
@@ -152,12 +152,12 @@ Mesmas regras da Vic (`HANDOFF.md` §3), com reforço de idade:
 
 **PT:**
 > Jessica: jovem adulta de 18 anos, claramente adulta; cabelo castanho bem liso e comprido,
-> repartido no meio; olhos castanhos; sardinhas leves; covinhas nas bochechas ao sorrir; biotipo magrinho
-> atlético; unhas rosinha; sem joias, sem piercing, sem tatuagem.
+> repartido no meio; olhos castanhos; sardinhas leves; covinhas nas bochechas ao sorrir; biotipo curvilíneo
+> (cintura fina, quadril largo); unhas rosinha; sem joias, sem piercing, sem tatuagem.
 
 **EN:**
 > Jessica: an 18-year-old young adult, clearly adult; very straight long brown hair, center part;
-> brown eyes; light freckles; dimples on the cheeks when smiling; slim athletic build; baby-pink nails; no jewelry,
+> brown eyes; light freckles; dimples on the cheeks when smiling; curvy build (slim waist, wide hips); baby-pink nails; no jewelry,
 > no piercings, no tattoos.
 
 **Celular padrão (quando aparecer em quadro):** iPhone 15 rosa-claro com capinha lilás fosca /
