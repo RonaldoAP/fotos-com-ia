@@ -145,8 +145,9 @@ Mesmas regras da Vic (`HANDOFF.md` §3), com reforço de idade:
 ## 6. Ferramentas ✅
 
 - **Nano Banana Pro** (Freepik/Magnific) e **Seedream 5 Pro**.
-- Nos dois: **Imagem 1 = rosto-base/hero shot da Jessica**, anexada primeiro; no máximo 3 referências;
-  linha PERSONAGEM com a trava de rosto (ver `guia/05`, seção Seedream).
+- **Magnific/Freepik (padrão):** personagem treinado **@jess** — o prompt começa com `PERSONAGEM: @jess`
+  (sem "a mulher das Imagens 1 e 2"; a marcação já traz o rosto). Prompts prontos em `prompts/jessica.md`.
+- **Seedream 5 Pro / sem o Character:** anexar Imagens 1 e 2 e usar a trava de rosto (ver `guia/05`, seção Seedream).
 
 ## 7. Mini-ficha (pra colar junto do prompt quando precisar reforçar) ✅
 
