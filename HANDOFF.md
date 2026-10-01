@@ -198,6 +198,10 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    "sem X", sem blocão de imperfeição** — o excesso de instrução deixava a foto artificial. Exemplos:
    J6–J10 em `prompts/jessica.md`.
 
+12. **⭐ Prompts genéricos (pedido do dono, mais recente):** o prompt **não descreve a personagem** — nada de cor
+   de cabelo, idade, etnia, tom de pele, sardas, biotipo ou celular-assinatura. Usa `@personagem` (o dono troca
+   pela marcação) e descreve só a foto. Biblioteca em `prompts/genericos.md` (G1…).
+
 ## 7. ⭐ Cenário fixo: o quarto da Vic
 
 Para as **fotos de quarto** a gente definiu um **quarto padrão** (como a personagem, só que de
