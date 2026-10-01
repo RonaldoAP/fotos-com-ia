@@ -54,13 +54,13 @@ Natural phone reference photo, 3:4 vertical, of the woman from Images 1 and 2 (J
 ## BLOCO BASE — corpo (PT)
 
 ```
-Foto de referência natural de celular, 3:4 vertical, de corpo inteiro, de a mulher das Imagens 1 e 2 (Jessica — as duas são a mesma pessoa). Use as Imagens 1 e 2 SOMENTE para a identidade: rosto idêntico ao das Imagens 1 e 2 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. Jovem adulta de 18 anos, claramente adulta. Biotipo curvilíneo: ombros e braços finos, cintura fina, quadril largo e coxas mais cheias, pernas torneadas, altura ~1,63 m. Cabelo castanho bem liso e comprido. Conjunto fitness neutro cinza-claro (top esportivo de alça larga e short ciclista), tênis branco. Em casa, parede lisa clara atrás; luz natural suave de janela, sem luz de estúdio. Unhas rosinha. Sem joias, sem piercing, sem tatuagem. Pose neutra e natural, enquadramento normal, sem destaque de corpo. Pele real sem retoque, pequenas imperfeições naturais; nitidez normal de foto de celular, sem polimento, sem cara de ensaio. Foto realista, não render 3D, não ilustração. [ÂNGULO]
+Foto de referência natural de celular, 3:4 vertical, de corpo inteiro, de a mulher das Imagens 1 e 2 (Jessica — as duas são a mesma pessoa). Use as Imagens 1 e 2 SOMENTE para a identidade: rosto idêntico ao das Imagens 1 e 2 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. Jovem adulta de 18 anos, claramente adulta. Biotipo curvilíneo, mais cheio na parte de baixo: ombros e braços finos, cintura fina, quadril largo, glúteo volumoso e arredondado, coxas grossas e pernas torneadas, altura ~1,63 m (não é magra). Cabelo castanho bem liso e comprido. Conjunto fitness neutro cinza-claro (top esportivo de alça larga e short ciclista), tênis branco. Em casa, parede lisa clara atrás; luz natural suave de janela, sem luz de estúdio. Unhas rosinha. Sem joias, sem piercing, sem tatuagem. Pose neutra e natural, enquadramento normal, sem destaque de corpo. Pele real sem retoque, pequenas imperfeições naturais; nitidez normal de foto de celular, sem polimento, sem cara de ensaio. Foto realista, não render 3D, não ilustração. [ÂNGULO]
 ```
 
 ## BASE BLOCK — body (EN)
 
 ```
-Natural full-body phone reference photo, 3:4 vertical, of the woman from Images 1 and 2 (Jessica — both are the same person). Use Images 1 and 2 ONLY for identity: face identical to Images 1 and 2 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. An 18-year-old young adult, clearly adult. Curvy build: slim shoulders and arms, slim waist, wide hips and fuller thighs, toned legs, about 1.63 m tall. Very straight long brown hair. A neutral light-grey fitness set (wide-strap sports bra and bike shorts), white sneakers. At home, a plain light wall behind; soft natural window light, no studio lighting. Baby-pink nails. No jewelry, no piercings, no tattoos. Neutral, natural pose, normal framing, no body emphasis. Real, unretouched skin with small natural imperfections; normal phone-photo sharpness, no polish, no photoshoot look. Realistic photo, not a 3D render, not an illustration. [ANGLE]
+Natural full-body phone reference photo, 3:4 vertical, of the woman from Images 1 and 2 (Jessica — both are the same person). Use Images 1 and 2 ONLY for identity: face identical to Images 1 and 2 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. An 18-year-old young adult, clearly adult. Curvy build, fuller in the lower body: slim shoulders and arms, slim waist, wide hips, full rounded glutes, thick thighs and toned legs, about 1.63 m tall (not skinny). Very straight long brown hair. A neutral light-grey fitness set (wide-strap sports bra and bike shorts), white sneakers. At home, a plain light wall behind; soft natural window light, no studio lighting. Baby-pink nails. No jewelry, no piercings, no tattoos. Neutral, natural pose, normal framing, no body emphasis. Real, unretouched skin with small natural imperfections; normal phone-photo sharpness, no polish, no photoshoot look. Realistic photo, not a 3D render, not an illustration. [ANGLE]
 ```
 
 ### Ângulos de corpo
@@ -80,3 +80,20 @@ Natural full-body phone reference photo, 3:4 vertical, of the woman from Images 
 
 **Hero shot (Imagem 1 fixa):** a melhor A1 do kit, ou o próprio rosto-base se ele continuar sendo o
 mais fiel.
+
+---
+
+## Foto-guia de corpo (dual-reference) — usar se o corpo sair magro
+
+Texto sozinho puxa pro corpo "médio/magro". Gere esta foto-guia **uma vez** (sem rosto importante) e
+anexe como **Imagem 3** nos prompts B1–B4 (Imagens 1 e 2 = rosto; Imagem 3 = forma do corpo).
+
+> Foto natural de celular, 3:4 vertical, de corpo inteiro, de uma jovem adulta, claramente adulta, em
+> pé de lado (perfil) e depois de frente, postura reta e relaxada, braços ao lado do corpo; biotipo
+> curvilíneo, mais cheio na parte de baixo: ombros e braços finos, cintura fina, quadril largo, glúteo
+> volumoso e arredondado, coxas grossas, pernas torneadas, altura ~1,63 m, não é magra; conjunto fitness
+> cinza-claro (top esportivo de alça larga e legging de cintura alta), tênis branco; em casa, parede lisa
+> clara, luz natural de janela; enquadramento normal da cabeça aos pés, sem destaque de corpo; foto
+> realista, sem retoque.
+
+No prompt de corpo, acrescentar: "Corpo no formato da Imagem 3 (forma do corpo); rosto das Imagens 1 e 2."
