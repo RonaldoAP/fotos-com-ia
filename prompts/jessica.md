@@ -2,13 +2,12 @@
 
 **No Freepik/Magnific:** marcar o personagem **@jess**. Proporção 3:4 vertical.
 
-**Estilo (pedido do dono):** igual aos últimos prompts da Vic que funcionaram — descrever a **foto**, não a
-personagem. Nada de traço de personalidade ("meiga", "divertida"), nada de ficha (idade, biotipo, covinhas,
-objetos-assinatura enfiados à força). O que faz a foto parecer real é a **luz física da cena + as
-imperfeições** (fios fora do lugar, roupa amassada, enquadramento torto, foco imperfeito, fundo sem
-arrumar, cores desbotadas). Maquiagem só quando faz parte da foto, e descrita pelo que aparece.
-
-Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovados.
+**Formato legenda (lição do PDF "AI Models SEP", a partir do J6):** um **parágrafo corrido**, escrito como
+legenda de uma foto que já existe — tipo de foto e ângulo → @jess e o que ela está fazendo → cabelo, roupa
+e maquiagem pelo que aparece → cenário com bagunça real → luz física (de onde vem, cor, o que ilumina) →
+paleta → "provavelmente tirada com um celular moderno: …" → **linha de clima** → HEX. ~150–250 palavras.
+**Sem campos** (AMBIENTE/ROUPA…), **sem lista de "sem X"**, **sem blocão de imperfeição** — isso deixava a
+foto com cara de prompt/IA. Se aparecer joia na geração, acrescentar só "sem joias" no fim.
 
 ---
 
@@ -82,90 +81,42 @@ Bloco final fixo (imperfeição + celular) = o mesmo dos prompts da Vic aprovado
 
 ---
 
-## J6 — Selfie de baixo no quarto cinza, mão no rosto (modo réplica)
+## J6 — Selfie de baixo no quarto cinza, mão no rosto
 
-> **Exceções aplicadas:** biquíni dentro do quarto + enquadramento centrado no peito → regata branca
-> canelada por baixo da camisa bege (sem transparência) e quadro subindo um pouco pro rosto; sem tatuagem
-> e sem pulseira; unhas rosinha (padrão da Jessica). Resto idêntico ao print: luz, ângulo, pose, cor,
-> maquiagem e o pozinho branco na imagem.
+> Réplica com ajuste: o biquíni dentro do quarto virou regata branca + camisa bege; sem tatuagem/pulseira.
 
-> PERSONAGEM: @jess.
->
-> AMBIENTE: quarto de dia com paredes cinza-chumbo esverdeadas e teto cinza-claro com uma moldura de gesso; um ar-condicionado split branco no alto da parede atrás, à direita; à esquerda, uma porta branca aberta mostrando um corredor claro; no canto de baixo à direita, um pedaço da cama com lençol branco amassado; luz natural difusa de janela fora do quadro, vinda de frente e levemente da direita, suave e meio fria, sem sombras duras, o fundo um pouco mais escuro que o rosto; cores frias e desbotadas: cinza-esverdeado, branco, bege e pele morna; HEX: ["#2d3937", "#937f6f", "#55544d", "#846855", "#57625f", "#151a1b", "#a8a69d", "#364342"].
->
-> ROUPA: regata branca canelada de alcinha com decote reto (cobertura normal) e, por cima, uma camisa bege-areia leve e opaca, aberta e caída pros lados, com a gola larga.
->
-> DETALHES DA PESSOA: cabelo castanho bem liso e comprido, repartido no meio, caindo atrás dos ombros, com a raiz um pouco achatada; olhar direto pra câmera, de pálpebras um pouco baixas, boca fechada com os lábios relaxados e levemente projetados, expressão calma e confiante; delineado gatinho preto fino, blush pêssego-alaranjado forte nas bochechas e no nariz, gloss nude-rosado brilhante; unhas rosinha compridas; pele com textura natural e saudável — poros e sardinhas no nariz e nas bochechas, leve brilho no nariz, na testa e nos ombros; sem acne, sem excesso de imperfeição; sem joias, sem pulseira, sem piercing, sem tatuagem.
->
-> POSE: selfie com a câmera frontal de baixo pra cima, bem perto, braço esticado fora do quadro à esquerda; a outra mão levantada perto do rosto, com a ponta dos dedos encostando de leve na linha do maxilar e o pulso solto; cabeça levemente inclinada; enquadrada da cabeça até o meio do peito, um pouco à direita, o teto e o ar-condicionado ocupando o terço de cima; pozinhos e pontinhos brancos de poeira espalhados pela imagem, como foto antiga de celular com lente suja; imagem limpa, sem texto nem legenda; foto comum, espontânea, que não parece produzida: pega num momento real, expressão natural e sutil, nada exagerado; alguns fios de cabelo fora do lugar; roupa real com leves amassados; enquadramento amador, levemente torto e fora do centro, com partes cortadas pelas bordas; foco imperfeito; luz natural sem tratamento, com áreas mais claras e mais escuras; fundo real, sem arrumar; cores levemente desbotadas, sem edição; imperfeições sutis — deve parecer uma foto comum de celular, não bagunçada; cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem levemente suave sem excesso de nitidez, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+> Selfie de perto, de baixo pra cima, de @jess no quarto de dia. Ela segura o celular com o braço esticado e encosta a ponta dos dedos da outra mão na linha do maxilar, com a cabeça levemente inclinada, olhando direto pra lente com as pálpebras meio baixas e os lábios fechados e relaxados. O cabelo castanho bem liso, repartido no meio, cai atrás dos ombros, com a raiz um pouco achatada. Ela usa uma regata branca canelada de alcinha e uma camisa bege-areia aberta, caindo dos ombros. Delineado gatinho fino, blush pêssego forte nas bochechas e no nariz, gloss nude-rosado. Atrás, uma parede cinza-chumbo esverdeada, o teto claro com moldura de gesso, um ar-condicionado branco no alto à direita, uma porta branca aberta pro corredor à esquerda e o canto da cama com lençol branco amassado. A luz é natural de janela, suave e meio fria, vindo de frente, com o fundo um pouco mais escuro que o rosto. Paleta fria e desbotada de cinza-esverdeado, branco e bege, com a pele morna e alguns pontinhos brancos de poeira na imagem. Provavelmente tirada com a câmera frontal de um celular moderno: foco nítido no rosto, leve suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital. Clima íntimo, casual e tranquilo.
+> HEX: ["#2d3937", "#937f6f", "#55544d", "#846855", "#57625f", "#151a1b", "#a8a69d", "#364342"]
 
 ---
 
-## J7 — Balada, encostada no sofá de couro marrom (modo réplica)
+## J7 — Balada, encostada no sofá de couro marrom
 
-> **Exceções aplicadas:** body de tule transparente com bojo e calça de renda transparente → body preto
-> opaco + calça pantalona preta de crepe (sem transparência, sem recortes); sem colar de pérola, pulseira,
-> piercing e tatuagem; unhas rosinha. Resto idêntico ao print.
+> Réplica com ajuste: body de tule e calça de renda transparentes → body preto opaco + pantalona preta; sem colar/piercing/tatuagem.
 
-> PERSONAGEM: @jess.
->
-> AMBIENTE: canto de uma balada à noite; atrás dela, uma parede de cimento queimado azul-acinzentada com manchas e textura; ela está encostada num sofá de couro marrom-avermelhado capitonê com botões, e à direita outro encosto de sofá igual em ângulo; no chão, embaixo do sofá, uma fita de LED laranja acesa brilhando forte; na borda direita, o quadril e o cabelo de uma amiga de vestido preto cortada pelo quadro; flash direto do celular de frente, deixando a pele clara e um pouco estourada, sombra suave atrás na parede, o resto com uma luz azulada fria da balada; cores: azul-acinzentado, marrom do couro, preto, laranja do LED e pele clara de flash.
->
-> ROUPA: body preto de alcinha com decote reto (tecido opaco, cobertura normal), calça pantalona preta de crepe de cintura alta com uma faixa de tecido drapeado amarrada no quadril; bolsinha preta de couro pendurada no ombro pela alça curta.
->
-> DETALHES DA PESSOA: cabelo castanho escuro bem liso e comprido, repartido no meio, com volume caindo atrás de um ombro; olhar direto pra câmera, cabeça levemente inclinada, boca fechada com um meio sorriso de canto; delineado fino, blush rosado, gloss nude-rosado brilhante; reflexo vermelho do flash nos olhos; unhas rosinha; pele com textura natural e saudável — poros, brilho do flash na testa, no nariz e nos ombros; sem acne, sem excesso de imperfeição; sem joias, sem colar, sem pulseira, sem piercing, sem tatuagem.
->
-> POSE: em pé, encostada de lado no encosto do sofá, quadril levemente pra trás; o braço direito esticado com a mão apoiada no encosto; a mão esquerda levantada com os dedos encostando na bochecha e no cabelo, o cotovelo dobrado; foto tirada por outra pessoa de frente, um pouco de cima, enquadrada da cabeça até os joelhos; imagem limpa, sem texto nem legenda; foto comum, espontânea, que não parece produzida: pega num momento real, expressão natural e sutil, nada exagerado; alguns fios de cabelo fora do lugar; roupa real com leves amassados; enquadramento amador, levemente torto e fora do centro, com partes cortadas pelas bordas; foco imperfeito; luz natural sem tratamento, com áreas mais claras e mais escuras; fundo real, sem arrumar; cores levemente desbotadas, sem edição; imperfeições sutis — deve parecer uma foto comum de celular, não bagunçada; cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem levemente suave sem excesso de nitidez, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+> Foto de corpo até os joelhos de @jess numa balada, tirada por uma amiga com o flash do celular, um pouco de cima. Ela está encostada de lado no encosto de um sofá de couro marrom-avermelhado capitonê, com um braço esticado apoiando a mão no couro e a outra mão levantada, os dedos encostando na bochecha e no cabelo. Olha direto pra câmera com a cabeça inclinada e um meio sorriso de canto, boca fechada. O cabelo castanho escuro, liso e comprido, repartido no meio, cai pesado atrás de um ombro. Ela usa um body preto de alcinha com decote reto, uma calça pantalona preta de cintura alta com uma faixa de tecido drapeado amarrada no quadril e uma bolsinha preta de couro no ombro. Gloss nude-rosado, blush e um leve reflexo vermelho do flash nos olhos. Atrás, uma parede de cimento queimado azul-acinzentada e manchada; embaixo do sofá, uma fita de LED laranja acesa; na borda direita, o quadril de uma amiga de vestido preto, cortada pelo quadro. O flash direto deixa a pele clara e um pouco estourada e joga uma sombra suave na parede, enquanto o resto do lugar fica numa luz azulada e fria. Paleta de azul-acinzentado, marrom do couro, preto e laranja. Provavelmente tirada com um celular moderno: flash chapado, ruído nas áreas escuras, cores levemente lavadas. Clima de noite, descontraído, foto rápida entre amigas.
 
 ---
 
-## J8 — Sentada na borda da piscina, de costas (modo réplica com ajuste)
+## J8 — Sentada na borda da piscina, de costas
 
-> **Exceções aplicadas:** enquadramento focado no bumbum e biquíni fio-dental → foto de costas tirada mais
-> alta (do ombro, cortando na cintura), biquíni azul de cobertura normal, pernas dentro da água; sem
-> brinco. Cenário, luz, cabelo, cor e efeito iguais ao print.
+> Réplica com ajuste: foto tirada mais alta (cabeça até a cintura), pernas na água, biquíni de cobertura normal; sem brinco.
 
-> PERSONAGEM: @jess.
->
-> AMBIENTE: quintal de casa com piscina num dia nublado; piscina de pastilhas azuis com a água azul-clara mexida e reflexos; borda de pedra mineira amarelada e pedra irregular ao lado; atrás, um muro mostarda com uma arandela, duas árvores tuia/cipreste altas e finas, uma palmeira à esquerda com folhas verde-amareladas, um portãozinho de ferro preto com flores vermelhas, a casa com telhado de telha colonial e os fios de luz cruzando o céu; céu cinza escuro carregado de chuva; luz difusa de dia nublado, sem sombras fortes, cores quentes; efeito de foto analógica: grão leve, cores puxando pro amarelo-esverdeado, pretos lavados, pontinhos de poeira; cores: azul da piscina, mostarda, verde, bege da pedra, cinza do céu.
->
-> ROUPA: biquíni azul-celeste liso, top cortininha amarrado nas costas e calcinha de cobertura normal (nem fio-dental nem cavada).
->
-> DETALHES DA PESSOA: cabelo castanho escuro bem comprido, abaixo da cintura, com ondas soltas marcadas, duas mechas da frente torcidas e presas atrás da cabeça como uma tiarinha; de costas, o rosto virado de leve pra esquerda olhando pro jardim, só um pedacinho do perfil aparecendo; unhas rosinha; pele com textura natural, leve marca de biquíni; sem joias, sem brinco, sem piercing, sem tatuagem.
->
-> POSE: sentada na borda da piscina, de costas pra câmera, com as pernas dentro da água, as duas mãos apoiadas na borda de pedra ao lado do corpo; foto tirada por outra pessoa atrás dela, em pé, na altura dos ombros dela, enquadrada da cabeça até a cintura, com o cabelo comprido ocupando o centro e a piscina e o quintal em volta; imagem limpa, sem texto nem legenda; foto comum, espontânea, que não parece produzida: pega num momento real, expressão natural e sutil, nada exagerado; alguns fios de cabelo fora do lugar; roupa real com leves amassados; enquadramento amador, levemente torto e fora do centro, com partes cortadas pelas bordas; foco imperfeito; luz natural sem tratamento, com áreas mais claras e mais escuras; fundo real, sem arrumar; cores levemente desbotadas, sem edição; imperfeições sutis — deve parecer uma foto comum de celular, não bagunçada; cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem levemente suave sem excesso de nitidez, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+> Foto de costas de @jess sentada na borda da piscina de casa num dia nublado, tirada por alguém em pé atrás dela, na altura dos ombros, enquadrada da cabeça até a cintura. Ela está com as pernas dentro da água e as duas mãos apoiadas na borda de pedra, o rosto virado de leve pra esquerda, olhando pro jardim, com só um pedacinho do perfil aparecendo. O cabelo castanho escuro, muito comprido, desce até abaixo da cintura em ondas soltas, com duas mechas da frente torcidas e presas atrás da cabeça como uma tiarinha. Ela usa um biquíni azul-celeste liso, com o top amarrado nas costas. Em volta, a água azul-clara mexida sobre pastilhas azuis, a borda de pedra mineira amarelada, um muro mostarda com uma arandela, duas tuias altas e finas, uma palmeira à esquerda, um portãozinho de ferro preto com flores vermelhas, o telhado de telha colonial da casa e fios de luz cruzando um céu cinza carregado de chuva. A luz é difusa de dia nublado, sem sombras fortes. Parece foto de câmera analógica: grão leve, cores puxando pro amarelo-esverdeado, pretos lavados e alguns pontinhos de poeira. Paleta de azul da piscina, mostarda, verde e cinza. Clima de tarde preguiçosa em casa, antes da chuva.
 
 ---
 
-## J9 — Encostada no carro azul à noite na garagem (modo réplica com ajuste)
+## J9 — Encostada no carro azul à noite na garagem
 
-> **Exceções aplicadas:** biquíni fora de praia/piscina e calcinha cavada → cropped azul de amarrar +
-> short jeans claro (mesma cor que combina com o carro); sem colares, pulseira, anel e tatuagem; sem
-> logo do carro e placa sem número legível. Resto idêntico ao print.
+> Réplica com ajuste: biquíni fora da piscina → cropped turquesa + short jeans; sem joias/tatuagem; sem logo do carro, placa ilegível.
 
-> PERSONAGEM: @jess.
->
-> AMBIENTE: garagem descoberta de uma casa à noite; atrás dela, a frente de um sedã esportivo azul-royal fosco envelopado, com farol de LED, grade preta sem logo, roda preta com pinça de freio vermelha e uma placa sem número legível; o para-brisa escuro com um aromatizante de papelzinho pendurado; ao fundo, um muro bege-mostarda, tuias altas e escuras e uma palmeira, o beiral do telhado em cima; piso de cimento; flash do celular de frente iluminando ela e o capô, deixando o azul do carro bem saturado e o fundo amarelado e mais escuro; cores: azul-royal, bege-mostarda, verde-escuro, preto e pele dourada.
->
-> ROUPA: cropped azul-turquesa de amarrar no pescoço (frente fechada, cobertura normal), short jeans claro de cintura alta com a barra desfiada.
->
-> DETALHES DA PESSOA: cabelo castanho escuro bem liso e comprido, abaixo da cintura, repartido no meio, caindo pela frente de um ombro; cabeça levemente inclinada, olhando pra câmera com um meio sorriso de boca fechada; delineado fino, blush, gloss nude; unhas rosinha compridas; pele com textura natural e saudável — poros, brilho do flash nos ombros e nas pernas; sem acne, sem excesso de imperfeição; sem joias, sem colar, sem pulseira, sem anel, sem piercing, sem tatuagem.
->
-> POSE: em pé, sentada de leve na frente do capô, corpo de 3/4 com uma perna esticada e a outra dobrada; a mão direita apoiada em cima do farol, a esquerda solta ao lado da coxa; foto tirada por outra pessoa de frente, na altura do peito, enquadrada da cabeça até os joelhos, ela um pouco à direita e o carro ocupando a esquerda; imagem limpa, sem texto nem legenda; foto comum, espontânea, que não parece produzida: pega num momento real, expressão natural e sutil, nada exagerado; alguns fios de cabelo fora do lugar; roupa real com leves amassados; enquadramento amador, levemente torto e fora do centro, com partes cortadas pelas bordas; foco imperfeito; luz natural sem tratamento, com áreas mais claras e mais escuras; fundo real, sem arrumar; cores levemente desbotadas, sem edição; imperfeições sutis — deve parecer uma foto comum de celular, não bagunçada; cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem levemente suave sem excesso de nitidez, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+> Foto de corpo até os joelhos de @jess à noite na garagem de casa, tirada por alguém de frente com o flash do celular, na altura do peito. Ela está meio sentada na frente do capô de um sedã esportivo azul-royal fosco, de 3/4 pra câmera, com uma perna esticada e a outra dobrada, a mão direita apoiada em cima do farol e a esquerda solta ao lado da coxa. Cabeça levemente inclinada, olhando pra câmera com um meio sorriso de boca fechada. O cabelo castanho escuro, liso e muito comprido, repartido no meio, cai pela frente de um ombro. Ela usa um cropped turquesa de amarrar no pescoço e um short jeans claro de cintura alta com a barra desfiada. Delineado fino, blush e gloss nude. O carro ocupa a esquerda do quadro, com farol de LED, grade preta, roda preta com pinça de freio vermelha e um aromatizante de papelzinho pendurado no para-brisa; atrás, um muro bege-mostarda, tuias escuras, uma palmeira e o beiral do telhado. O flash deixa o azul do carro bem saturado, um brilho na pele dos ombros e das pernas, e o fundo fica amarelado e mais escuro. Paleta de azul-royal, mostarda, verde-escuro e pele dourada. Provavelmente tirada com um celular moderno: flash direto, ruído no fundo escuro, leve compressão digital. Clima de noite em casa, foto rápida antes de sair.
 
 ---
 
-## J10 — Na calçada à noite, olhando por cima do ombro e acenando, foto tremida (modo réplica)
+## J10 — Na calçada à noite, acenando por cima do ombro, foto tremida
 
-> **Exceções aplicadas:** sem pulseiras, anel e brinco; a flor vermelha no cabelo fica (é acessório de
-> cabelo, não joia). Resto idêntico ao print, inclusive o borrão de movimento.
+> Réplica: sem pulseiras, anel e brinco; a flor vermelha no cabelo fica.
 
-> PERSONAGEM: @jess.
->
-> AMBIENTE: calçada de uma rua de cidade à noite; à esquerda, ocupando metade do quadro, uma parede de azulejinhos brancos retangulares (tipo metrô) refletindo luz quente; à direita, a rua escura com prédios antigos, um poste com luminária acesa no alto, faróis e lanternas vermelhas de carros e luzes de lojas borradas ao longe, pessoas desfocadas na calçada; flash do celular de frente iluminando o rosto, o ombro e a mão, com uma sombra dura dela projetada na parede de azulejo; o resto com luz quente amarelada da rua; tons quentes e escuros: âmbar, marrom, caramelo, preto; HEX: ["#453229", "#a96842", "#18100c", "#231813", "#d49069", "#090403", "#76472c", "#382319"].
->
-> ROUPA: blusa creme de alcinha fina com babado franzido na barra, costas abertas; saia/faixa estampada em creme e marrom na cintura.
->
-> DETALHES DA PESSOA: cabelo castanho escuro comprido, com volume e ondas soltas, bagunçado pelo movimento, uma flor vermelha presa atrás da orelha; virando a cabeça por cima do ombro pra câmera, rindo de boca fechada com o canto da boca levantado, olhos apertados e brilhando, metade do rosto escondida atrás da mão; olho com sombra marrom esfumada e delineado, blush rosado, boca nude; unhas rosinha; pele com textura natural e brilho do flash no rosto e no ombro; sem joias, sem pulseira, sem anel, sem brinco, sem piercing, sem tatuagem.
->
-> POSE: de costas pra câmera, andando ao lado da parede, o corpo virado e a cabeça olhando pra trás por cima do ombro; a mão levantada bem perto da lente, acenando/tapando a câmera de brincadeira, a mão borrada e maior em primeiro plano; foto tirada por outra pessoa andando atrás, de perto, na altura do ombro, enquadrada da cabeça até a cintura, levemente torta; borrão de movimento forte na mão, no cabelo e nas luzes do fundo (rastros de luz), a câmera tremendo, só os olhos meio nítidos; imagem limpa, sem texto nem legenda; foto comum, espontânea, que não parece produzida: pega num momento real, expressão natural, nada exagerado; alguns fios de cabelo fora do lugar; roupa real com leves amassados; enquadramento amador, levemente torto e fora do centro, com partes cortadas pelas bordas; foco imperfeito; flash direto misturado com a luz quente da rua, com áreas mais claras e mais escuras; fundo real, sem arrumar; cores quentes levemente desbotadas, sem edição; cara de foto comum de celular à noite — lente de celular com perspectiva natural, sem bokeh de câmera profissional, ruído de pouca luz nas áreas escuras, imagem suave sem excesso de nitidez, pouco detalhe fino, leve compressão JPEG como frame de story e balanço de branco automático puxando pro quente; foto realista, sem retoque, sem cara de IA.
+> Foto tremida de @jess andando numa calçada da cidade à noite, tirada por alguém logo atrás dela com o flash do celular, na altura do ombro e um pouco torta. Ela vira a cabeça por cima do ombro, rindo de boca fechada com os olhos apertados, e levanta a mão bem perto da lente como se fosse tapar a câmera de brincadeira; a mão aparece grande e borrada em primeiro plano, escondendo metade do rosto. O cabelo castanho escuro, comprido e ondulado, está bagunçado pelo movimento, com uma flor vermelha presa atrás da orelha. Ela usa uma blusa creme de alcinha fina com babado franzido na barra e costas abertas, com uma faixa estampada creme e marrom na cintura. Sombra marrom esfumada nos olhos, blush rosado, boca nude. À esquerda, uma parede de azulejinhos brancos tipo metrô, refletindo luz quente, onde o flash projeta a sombra dura dela; à direita, a rua escura com prédios antigos, um poste aceso no alto, lanternas vermelhas de carro e luzes de lojas virando rastros borrados. Borrão de movimento forte na mão, no cabelo e nas luzes, só os olhos meio nítidos. Paleta quente e escura de âmbar, caramelo, marrom e preto. Parece um frame de story de celular: ruído de pouca luz, imagem suave, cores quentes e meio lavadas. Clima de saída à noite com amigas, divertido e espontâneo.
+> HEX: ["#453229", "#a96842", "#18100c", "#231813", "#d49069", "#090403", "#76472c", "#382319"]

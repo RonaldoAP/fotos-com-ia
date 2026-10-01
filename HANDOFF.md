@@ -190,6 +190,14 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    identidade…". Ex.: `PERSONAGEM: @vic.` Prompts entregues **em português** (EN só se pedir). Descrever
    a **foto** (luz física, bagunça, imperfeições), não a personalidade da personagem.
 
+11. **⭐ Formato legenda (pedido do dono, mais recente — vale sobre os blocos fixos dos itens 5 e 8):**
+   reler o PDF `AI_MODELS_SEP.pdf`: os prompts naturais são **um parágrafo corrido** de legenda de foto
+   (tipo de foto/ângulo → personagem fazendo algo → cabelo/roupa/maquiagem → cenário → luz física →
+   paleta → "provavelmente tirada com um celular moderno: foco nítido no rosto, leve suavidade nas bordas,
+   fundo com compressão digital" → linha de clima → HEX), ~150–250 palavras. **Sem campos, sem listas de
+   "sem X", sem blocão de imperfeição** — o excesso de instrução deixava a foto artificial. Exemplos:
+   J6–J10 em `prompts/jessica.md`.
+
 ## 7. ⭐ Cenário fixo: o quarto da Vic
 
 Para as **fotos de quarto** a gente definiu um **quarto padrão** (como a personagem, só que de
