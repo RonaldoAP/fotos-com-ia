@@ -4644,3 +4644,61 @@ _Variação: de frente pra câmera, olhar firme e confiante (expressão, não se
 > vertical photo taken by someone standing at chest height, about 2 meters away; she stands in the center,
 > from the head to mid-thigh, cut by the bottom edge; a light, warm, summer-at-home mood; a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance;
 > realistic photo, no retouching, no AI look.
+
+---
+
+## EXT102 — Fim de tarde na mureta à beira-mar no Rio, sorrindo com o sol no rosto (regata de cetim creme) — modo réplica
+
+> **Exceções aplicadas:** cabelo/rosto da Vic; sem colar. Resto idêntico ao print.
+
+**PT**
+> PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
+>
+> AMBIENTE: mureta de pedra à beira-mar no Rio de Janeiro no fim da tarde (estilo Mureta da Urca); atrás
+> dela, a água da baía calma e azul-acinzentada com pequenas ondulações, do outro lado um morro verde
+> baixo à esquerda, montanhas azuladas em silhueta no horizonte e a orla com prédios brancos e um morro de
+> pedra à direita; céu limpo, azul-claro desbotado puxando pro lilás perto do horizonte; ela está sentada
+> na mureta de pedra cinza rústica com textura e rachaduras; na borda direita, outra pessoa de blusa preta
+> cortada pelo quadro; luz dourada e quente do sol baixo batendo de frente, levemente da esquerda, deixando
+> a pele dourada e brilhando, com um leve véu de luz; cores quentes e suaves: dourado, creme, azul-acinzentado
+> e cinza da pedra; HEX: ["#dbe7f6", "#875d49", "#c0b2a8", "#8f837d", "#463c38", "#e7edf3", "#c89e80", "#d8d6d6", "#e5e8eb", "#bc8666"].
+>
+> ROUPA: regata de cetim creme/off-white de alcinha fina e decote V normal, tecido fluido com leve brilho;
+> a alça de couro caramelo de uma bolsa transversal passando pelo ombro.
+>
+> DETALHES DA PESSOA: cabelo loiro com ombré solto, despenteado pelo vento, com mechas voando pro lado e
+> caindo pelo ombro; sorriso largo e natural mostrando os dentes, um olho mais apertado por causa do sol,
+> olhando pra câmera, cabeça levemente inclinada; pele com textura natural e saudável — poros, sardas e
+> pintinhas no rosto, nos ombros e no colo, leve vermelhidão do sol, brilho dourado de fim de dia; sem
+> acne, sem excesso de imperfeição; sem joias, sem colar, sem piercing, sem tatuagem.
+>
+> POSE: sentada na mureta, corpo levemente de lado e tronco virado pra câmera; foto vertical tirada por
+> outra pessoa bem perto, na altura do rosto; ela fica do centro pra esquerda, cortada na cintura pela
+> borda de baixo, com a linha do mar na altura dos ombros e o céu ocupando o terço de cima; clima feliz,
+> leve e de fim de tarde com amigas; foto casual tirada no momento, com enquadramento meio torto e fora do centro e partes cortadas pelas bordas, expressão natural do momento, alguns fios de cabelo fora do lugar e roupa com leves amassados; crua, real e não produzida, com cara de foto comum postada no Instagram; provavelmente tirada com a câmera de um celular moderno: foco nítido no rosto, leve suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital, leve processamento digital de celular, cores naturais e balanço de branco automático; foto realista, sem retoque, sem cara de IA.
+
+**EN**
+> CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
+>
+> SETTING: a stone seawall by the sea in Rio de Janeiro in the late afternoon (Mureta da Urca style);
+> behind her, the calm blue-grey water of the bay with small ripples, across it a low green hill on the
+> left, bluish mountain silhouettes on the horizon and the waterfront with white buildings and a rocky
+> hill on the right; a clear, faded pale-blue sky turning lilac near the horizon; she sits on the rustic
+> grey stone wall with texture and cracks; at the right edge, another person in a black top cut off by
+> the frame; warm golden light from the low sun hitting from the front, slightly from the left, making
+> the skin golden and glowing, with a slight haze; warm, soft colors: gold, cream, blue-grey and stone
+> grey; HEX: ["#dbe7f6", "#875d49", "#c0b2a8", "#8f837d", "#463c38", "#e7edf3", "#c89e80", "#d8d6d6", "#e5e8eb", "#bc8666"].
+>
+> OUTFIT: a cream/off-white satin cami with thin straps and a normal V neckline, fluid fabric with a soft
+> sheen; the caramel leather strap of a crossbody bag running over the shoulder.
+>
+> PERSON DETAILS: blonde ombré hair down, tousled by the wind, with strands blowing to the side and falling
+> over the shoulder; a wide, natural smile showing the teeth, one eye more squinted from the sun, looking
+> at the camera, head slightly tilted; natural, healthy skin texture — pores, freckles and small moles on
+> the face, shoulders and chest, soft sun redness, golden end-of-day sheen; no acne, no over-imperfection;
+> no jewelry, no necklace, no piercings, no tattoos.
+>
+> POSE: sitting on the seawall, body slightly turned and torso facing the camera; vertical photo taken by
+> someone very close, at face height; she sits from the center to the left, cut at the waist by the
+> bottom edge, with the sea line at shoulder height and the sky filling the top third; a happy, light,
+> late-afternoon-with-friends mood; a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; realistic photo, no retouching, no AI look.
