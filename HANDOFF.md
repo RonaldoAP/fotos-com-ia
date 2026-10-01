@@ -178,6 +178,9 @@ preto, capinha preta, se o celular aparecer]; foto realista, sem retoque, sem ca
    bloco de câmera, com imperfeições **discretas** (momento real, expressão sutil, poucos fios soltos,
    leves amassados, enquadramento amador, cor sem edição). ⚠️ Imperfeição exagerada (careta, cabelo
    desgrenhado, tremida forte) também denuncia IA. Texto em `guia/06`, exemplo-base no EXT98.
+9. **⭐ Estilo legenda + paleta HEX (lições do PDF Soul 2.0):** blocos fixos escritos como legenda
+   positiva (quase sem "sem X"); luz com 2 fontes; paleta HEX da foto de referência no fim do AMBIENTE
+   (`python3 ferramentas/paleta.py foto.jpg`); linha de clima no fim da POSE. Detalhes em `guia/06`.
 
 ---
 

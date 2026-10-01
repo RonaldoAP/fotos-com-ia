@@ -17,15 +17,34 @@ Grão de pouca luz · um cantinho estourado de luz · leve subexposição · fla
 sombra dura · foco levemente errado · leve motion blur · distorção de lente frontal ·
 reflexo do flash nos olhos · marca de dedo/poeira na lente.
 
+### 📄 O que deixa a foto natural (lições do PDF "AI Models — Soul 2.0 / GPT Image 2")
+Parte da naturalidade daquelas fotos vem do **modelo** (Soul 2.0 é treinado pra foto de rede social).
+Mas os prompts têm técnicas que copiamos:
+
+1. **Escrever como legenda de uma foto que já existe**, não como ordem: "Foto casual de perto…",
+   com palavras de incerteza ("provavelmente", "parece"). O modelo trata como foto real.
+2. **Defeitos de câmera descritos de forma positiva**, quase sem "sem X": "foco nítido no rosto, leve
+   suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital". Negação demais
+   confunde o modelo — por isso os blocos fixos foram reescritos assim.
+3. **Luz física, com 2 fontes e temperatura por lado do rosto** (ex.: neon quente rosado à direita,
+   fluorescente fria à esquerda).
+4. **Paleta + HEX**: listar as cores dominantes e os códigos HEX da foto de referência no fim do
+   AMBIENTE. Extrair com `python3 ferramentas/paleta.py foto.jpg`.
+5. **Linha de clima** no fim da POSE: "íntimo, casual e relaxado", "cru, real, não produzido".
+6. **Enquadramento casual**: "levemente fora do centro", "levemente torto", "de cima, olhando pra lente".
+
+**Não copiar:** descrição de rosto ("lábios carnudos", "traços de modelo") — puxa o rosto pra longe da
+referência (regra do `guia/05`); descrições de corpo sexualizadas e joias (regras do projeto).
+
 ### ⭐ Bloco de imperfeição / naturalidade (fixo em TODO prompt, antes do bloco de câmera)
 **Foto perfeita = foto de IA.** O que torna uma foto real é o que dá "errado": momento no meio da
 ação, cabelo fora do lugar, roupa amassada, enquadramento amador cortando partes, foco imperfeito,
 luz desigual e fundo sem arrumar. Descrever tudo "no lugar certinho" gera foto posada. Por isso todo
 prompt tem este bloco logo antes do bloco de câmera (exemplo-base: EXT98):
 
-> **PT:** foto comum e espontânea, sem parecer produzida: capturada num momento real, expressão natural e sutil, sem exagero (nada de careta ou gargalhada forçada); alguns fios de cabelo soltos fora do lugar; roupa real com leves amassados; enquadramento de amador, levemente torto e descentralizado, com partes cortadas pelas bordas; foco não perfeito; luz natural sem tratamento, com partes mais claras e partes mais escuras; fundo real e sem arrumar; cores levemente desbotadas, sem edição; imperfeições discretas — parecer uma foto comum de celular, não uma foto bagunçada;
+> **PT:** foto casual tirada no momento, com enquadramento meio torto e fora do centro e partes cortadas pelas bordas, expressão natural do momento, alguns fios de cabelo fora do lugar e roupa com leves amassados; crua, real e não produzida, com cara de foto comum postada no Instagram;
 >
-> **EN:** an ordinary, spontaneous photo that doesn't look produced: caught in a real moment, a natural, subtle expression, nothing exaggerated (no grimace or forced big laugh); a few loose strands of hair out of place; real clothes with light creases; amateur framing, slightly tilted and off-center, with parts cut off by the edges; imperfect focus; natural, ungraded light, with brighter and darker areas; real, untidied background; slightly faded, unedited colors; subtle imperfections — it should look like an ordinary phone photo, not a messy one;
+> **EN:** a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram;
 
 **Dicas pra reforçar por cena:** expressão "no meio" (rindo de verdade, falando, piscando, olhando pro
 lado); um detalhe de roupa imperfeito (fiapo, alça torta, blusa subindo); um corte "errado" (braço, pé,
@@ -36,9 +55,9 @@ O que mais entrega foto de IA é o **desfoque de fundo de câmera profissional (
 "perfeita". Celular faz o contrário: lente grande-angular, quase tudo em foco e processamento
 digital visível. Por isso todo prompt termina com este bloco, antes de "foto realista…":
 
-> **PT:** cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem um pouco suave e sem nitidez exagerada, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático;
+> **PT:** provavelmente tirada com a câmera de um celular moderno: foco nítido no rosto, leve suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital, leve processamento digital de celular, cores naturais e balanço de branco automático;
 >
-> **EN:** ordinary phone-photo look — phone lens with natural perspective, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), light phone HDR without overdoing it, slightly soft image with no oversharpening, little fine detail, moderate contrast, mild JPEG compression like a photo posted on social media and auto white balance;
+> **EN:** likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance;
 
 Já aplicado em todos os prompts de `prompts/exemplos.md` e `prompts/externos.md`. Ele **soma**
 com as âncoras da cena (grão, torto, flash, motion blur) — não substitui.

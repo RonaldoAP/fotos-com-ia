@@ -23,6 +23,8 @@ item** no campo certo dos 5 campos:
 | Cor/tratamento | paleta dominante, saturação, contraste, se é escuro/claro, filtro, cor da pele sob aquela luz | AMBIENTE/POSE |
 | Textura de imagem | grão, ruído, nitidez, compressão, motion blur, flash, marca no espelho | POSE |
 | Cenário | cada objeto visível, com cor, material e posição (primeiro plano / fundo) | AMBIENTE |
+| Paleta HEX | rodar `python3 ferramentas/paleta.py <foto>` e colar a linha `HEX: [...]` | AMBIENTE |
+| Clima | 2–3 palavras de mood (íntimo, casual, relaxado / cru, real) | POSE |
 | Roupa | peça, cor exata, tecido, textura (canelado, cetim…), caimento, detalhes | ROUPA |
 
 **Só 4 exceções** (sempre avisar o dono do que mudou): (1) joia/piercing/tatuagem saem; (2) rosto,
@@ -55,7 +57,8 @@ por peça (só a roupa, só a pose, só o ambiente).
 
 > PERSONAGEM: a mulher da Imagem 1 (Vic). Use a Imagem 1 SOMENTE para a identidade: rosto idêntico ao da Imagem 1 — mesmo formato de rosto, maxilar e queixo, mesmos olhos, nariz, boca e sobrancelhas, mesmas proporções, sardas e pintas, mesma idade aparente e mesmo tom de pele; não embelezar, não afinar, não padronizar e não misturar com nenhum outro rosto. As demais imagens anexadas servem só pro que o texto indicar (cenário/roupa); pose, roupa, luz e cenário vêm do texto abaixo.
 >
-> AMBIENTE: [local — ou [AQUI] pro quarto padrão]; [luz do ambiente].
+> AMBIENTE: [local — ou [AQUI] pro quarto padrão]; [luz descrita como legenda: fonte, dureza, cor, segunda
+> fonte]; [paleta de cores dominantes]; HEX: ["#...", "#..."] (tirar da foto com `ferramentas/paleta.py`).
 >
 > ROUPA: [peça de cima] + [peça de baixo] + [calçado].
 >
@@ -64,14 +67,15 @@ por peça (só a roupa, só a pose, só o ambiente).
 > piercing, sem tatuagem.
 >
 > POSE: [pose e enquadramento]; foto de celular meio torta, grão suave [+ iPhone 15 Pro Max titânio
-> preto, capinha preta, se o celular aparecer]; foto comum e espontânea, sem parecer produzida: capturada num momento real, expressão natural e sutil, sem exagero (nada de careta ou gargalhada forçada); alguns fios de cabelo soltos fora do lugar; roupa real com leves amassados; enquadramento de amador, levemente torto e descentralizado, com partes cortadas pelas bordas; foco não perfeito; luz natural sem tratamento, com partes mais claras e partes mais escuras; fundo real e sem arrumar; cores levemente desbotadas, sem edição; imperfeições discretas — parecer uma foto comum de celular, não uma foto bagunçada; cara de foto comum de celular — lente de celular com perspectiva natural, quase tudo em foco (fundo no máximo levemente suave, sem desfoque forte de câmera profissional, sem bokeh), HDR leve de celular sem exagero, imagem um pouco suave e sem nitidez exagerada, pouco detalhe fino, contraste moderado, leve compressão JPEG como foto postada em rede social e balanço de branco automático;
+> preto, capinha preta, se o celular aparecer]; foto casual tirada no momento, com enquadramento meio torto e fora do centro e partes cortadas pelas bordas, expressão natural do momento, alguns fios de cabelo fora do lugar e roupa com leves amassados; crua, real e não produzida, com cara de foto comum postada no Instagram; provavelmente tirada com a câmera de um celular moderno: foco nítido no rosto, leve suavidade da lente nas bordas, fundo um pouco mais suave e com compressão digital, leve processamento digital de celular, cores naturais e balanço de branco automático;
 > foto realista, sem retoque, sem cara de IA.
 
 ### Molde (EN)
 
 > CHARACTER: the woman from Image 1 (Vic). Use Image 1 ONLY for identity: face identical to Image 1 — same face shape, jaw and chin, same eyes, nose, mouth and brows, same proportions, freckles and moles, same apparent age and same skin tone; do not beautify, slim, standardize or blend with any other face. Any other attached images are only for what the text says (setting/outfit); pose, outfit, light and setting come from the text below.
 >
-> SETTING: [place — or [HERE] for the standard bedroom]; [ambient light].
+> SETTING: [place — or [HERE] for the standard bedroom]; [light described like a caption: source, hardness,
+> color, second source]; [dominant color palette]; HEX: ["#...", "#..."] (from the photo via `ferramentas/paleta.py`).
 >
 > OUTFIT: [top] + [bottom] + [footwear].
 >
@@ -79,7 +83,7 @@ por peça (só a roupa, só a pose, só o ambiente).
 > faint freckles, soft redness; no acne, no over-imperfection; no jewelry, no piercings, no tattoos.
 >
 > POSE: [pose and framing]; slightly tilted phone photo, soft grain [+ black titanium iPhone 15 Pro
-> Max, plain black case, if the phone shows]; an ordinary, spontaneous photo that doesn't look produced: caught in a real moment, a natural, subtle expression, nothing exaggerated (no grimace or forced big laugh); a few loose strands of hair out of place; real clothes with light creases; amateur framing, slightly tilted and off-center, with parts cut off by the edges; imperfect focus; natural, ungraded light, with brighter and darker areas; real, untidied background; slightly faded, unedited colors; subtle imperfections — it should look like an ordinary phone photo, not a messy one; ordinary phone-photo look — phone lens with natural perspective, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), light phone HDR without overdoing it, slightly soft image with no oversharpening, little fine detail, moderate contrast, mild JPEG compression like a photo posted on social media and auto white balance; realistic photo, no
+> Max, plain black case, if the phone shows]; a casual, in-the-moment photo with slightly tilted, off-center framing and parts cut off by the edges, a natural in-the-moment expression, a few stray hairs and lightly creased clothes; raw, real and not produced, like an ordinary photo posted on Instagram; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; realistic photo, no
 > retouching, no AI look.
 
 ### Exemplo preenchido (cena normal)
@@ -286,7 +290,7 @@ filtro-safe, sem transparência/lingerie).
 ```json
 {
   "reference_type": "mother_reference_image",
-  "visual_prompt": "A vertical smartphone [selfie/photo] of the same young adult woman as in the attached reference images (Vic), framed [ENQUADRAMENTO: ex. from the upper torso to the top of the head], photographed [ÂNGULO/PERSPECTIVA: ex. at close range, slightly high front-facing angle]. She has [EXPRESSÃO/OLHAR: ex. a calm expression looking at the camera]. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face. Her hair is worn [PENTEADO: ex. down / in a bun / windblown] (hair color, length and texture come from the reference images). She wears [ROUPA — filtro-safe, sem transparência/lingerie/peça íntima]. [MÃO/GESTO opcional: ex. one hand resting on the face; hand with exactly five fingers, correct anatomy]. No jewelry, no piercings, no tattoos. The background shows [AMBIENTE/CENÁRIO + [AQUI] se for o quarto padrão]. Lighting: [LUZ: fonte, direção, temperatura]. Casual smartphone qualities: close/informal framing, mild grain, warm-neutral color cast, slightly tilted; ordinary phone-photo look: phone lens with natural perspective, almost everything in focus (background at most slightly soft, no strong professional-camera blur, no bokeh), light phone HDR without overdoing it, slightly soft image with no oversharpening, little fine detail, moderate contrast, mild JPEG compression like a photo posted on social media and auto white balance; realistic photo, not a 3D render, no AI look.",
+  "visual_prompt": "A vertical smartphone [selfie/photo] of the same young adult woman as in the attached reference images (Vic), framed [ENQUADRAMENTO: ex. from the upper torso to the top of the head], photographed [ÂNGULO/PERSPECTIVA: ex. at close range, slightly high front-facing angle]. She has [EXPRESSÃO/OLHAR: ex. a calm expression looking at the camera]. Preserve the exact facial structure, natural asymmetry, skin tone, cheek volume, nose shape, lip shape and teeth alignment from the reference images, without beautification or retouching — do not restyle or slim the face. Her hair is worn [PENTEADO: ex. down / in a bun / windblown] (hair color, length and texture come from the reference images). She wears [ROUPA — filtro-safe, sem transparência/lingerie/peça íntima]. [MÃO/GESTO opcional: ex. one hand resting on the face; hand with exactly five fingers, correct anatomy]. No jewelry, no piercings, no tattoos. The background shows [AMBIENTE/CENÁRIO + [AQUI] se for o quarto padrão]. Lighting: [LUZ: fonte, direção, temperatura]. Casual smartphone qualities: close/informal framing, mild grain, warm-neutral color cast, slightly tilted; likely captured on a modern smartphone: sharp focus on the face, slight lens softness at the edges, a slightly softer, digitally compressed background, light phone processing, natural colors and auto white balance; realistic photo, not a 3D render, no AI look.",
   "negative_prompt": "changed identity, altered facial bone structure, different age or skin tone, hair recolored or restyled away from the reference; jewelry, earrings, septum or nose ring, rings, bracelets, necklaces; piercings; tattoos; sheer/see-through fabric, lingerie, visible undergarments, body-focused or sexualized framing; glamour or studio lighting, beauty retouching, porcelain skin, excessive symmetry, altered body proportions, artificial sharpness, CGI/3D/render texture, cartoon, brand logos, fantasy elements, extra fingers, deformed hands.",
   "camera_and_optics": {
     "format": "vertical smartphone [selfie/photo]",
