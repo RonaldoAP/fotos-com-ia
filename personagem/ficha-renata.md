@@ -3,14 +3,14 @@
 Personagem nova. Rosto vem de **3 imagens geradas por IA pelo dono** (confirmado — não é pessoa real),
 salvas em `personagem/referencias/renata/`. Seções em aberto marcadas com ⏳.
 
-## 1. Identidade ⏳
+## 1. Identidade ✅
 | Item | Resposta |
 |---|---|
 | Nome | Renata |
-| Idade aparente | ⏳ (as fotos mostram jovem adulta, ~20–23) |
-| Origem / onde mora | ⏳ |
-| Nicho | ⏳ (as fotos sugerem lifestyle elegante: restaurante, vinho, jantar) |
-| Personalidade | ⏳ |
+| Idade aparente | **22 anos** — adulta |
+| Origem / onde mora | **Gaúcha** |
+| Nicho | **Lifestyle elegante** (restaurantes, vinho, jantares, viagens, looks sofisticados) |
+| Personalidade | ⏳ (não definida — expressões calmas e seguras, como nas referências) |
 
 ## 2. Aparência ✅ (tirada das 3 referências)
 | Item | Resposta |
@@ -32,12 +32,11 @@ rosto (vem do personagem treinado) e o estilo.
 - **Imagem 2** = `ref2-vinho-branco.webp` (de frente, sorriso leve, luz de dia).
 - **Imagem 3** = `ref1-restaurante-tijolo.webp` (3/4, olhando pro lado, luz quente).
 
-## 3. Regras fixas ⏳
-- Joias: ⏳ — nas 3 fotos ela usa ouro (colares finos, anel, pulseira, relógio). **Liberar** joia
-  dourada delicada (diferente da Vic/Jessica) ou manter **sem joias**?
-- Sem tatuagem e sem piercing (padrão do projeto) — ⏳ confirmar.
-- Celular padrão: ⏳
-- Unhas: ⏳ (nas fotos, nude/francesinha).
+## 3. Regras fixas ✅
+- **Sem joias** (sem colar, brinco, anel, pulseira, relógio) e **sem tatuagem** — decidido pelo dono,
+  igual à Vic e à Jessica, mesmo as referências tendo ouro. Sem piercing (padrão do projeto).
+- Quando um print de referência tiver joia, ela sai (modo réplica, exceção 1).
+- Celular e unhas: sem padrão definido por enquanto (usar o do print ou unhas nude).
 
 ## 4. Limites de conteúdo
 Mesmas regras do projeto (`HANDOFF.md` §3): sempre adulta, nada sensual, sem lingerie/transparência,
