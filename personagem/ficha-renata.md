@@ -21,7 +21,7 @@ salvas em `personagem/referencias/renata/`. Seções em aberto marcadas com ⏳.
 | Sobrancelhas | Escuras, cheias e arrumadas |
 | Maquiagem padrão | Leve: pele com viço, rímel, blush pêssego/rosado, boca nude-rosada; à noite, batom vermelho |
 | Estilo visto | Elegante e casual: preto básico, tomara-que-caia, pied-de-poule, branco com fio dourado |
-| Biotipo | ⏳ (confirmar) |
+| Biotipo | **Magra, semi-atlética** — corpo esguio e levemente tonificado (descrever de forma neutra, sem destaque de corpo) |
 
 Diferença das outras: Vic loira ombré · Jessica morena de cabelo liso estilo fofo/gamer · Renata morena
 de cabelo liso, estilo **elegante/jantar** — cuidado pra não confundir com a Jessica: o que separa é o

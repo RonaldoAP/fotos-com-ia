@@ -16,7 +16,7 @@ A casual, natural smartphone reference photo, 3:4 vertical, of the 22-year-old w
 
 ## BLOCO BASE — corpo
 ```
-A casual, natural full-body smartphone reference photo, 3:4 vertical, of the young woman from Images 1, 2 and 3 (all three are the same person), using the images only for her identity, a 22-year-old adult with no jewelry and no tattoos. Her long, very straight dark brown hair is parted in the middle and falls over her shoulders. She stands at home in front of a plain light wall, lit by soft natural window light, wearing a plain black fitted T-shirt, light-wash straight jeans and white sneakers, in a neutral, relaxed pose with normal framing. Likely captured on a modern smartphone, with natural colors and normal phone sharpness, evoking a simple, honest reference photo. [ANGLE]
+A casual, natural full-body smartphone reference photo, 3:4 vertical, of the young woman from Images 1, 2 and 3 (all three are the same person), using the images only for her identity, a 22-year-old adult with a slim, lightly athletic build, no jewelry and no tattoos. Her long, very straight dark brown hair is parted in the middle and falls over her shoulders. She stands at home in front of a plain light wall, lit by soft natural window light, wearing a plain black fitted T-shirt, light-wash straight jeans and white sneakers, in a neutral, relaxed pose with normal framing. Likely captured on a modern smartphone, with natural colors and normal phone sharpness, evoking a simple, honest reference photo. [ANGLE]
 ```
 
 ## Ângulos — trocar `[ANGLE]`
